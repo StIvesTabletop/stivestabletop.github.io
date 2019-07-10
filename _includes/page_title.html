@@ -1,0 +1,6 @@
+<section id="title">
+	<h1>{{ page.title | default: site.title }}</h1>
+	{%- if page.title != null %}
+	<p><a href="{{ '/' | relative_url }}">{{ site.title }}</a></p>
+	{%- endif %}
+</section>
