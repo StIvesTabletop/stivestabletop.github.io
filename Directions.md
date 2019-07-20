@@ -4,20 +4,24 @@ title: How to Get There
 
 # Location
 
-<div>
+<div markdown="0">
+<span style="display:inline-block;">
 <iframe width="600" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.07511526346206666%2C52.32296994611562%2C-0.07188051939010622%2C52.32449291544868&amp;layer=mapnik&amp;marker=52.3237306176528%2C-0.07349789142608643" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.32373&amp;mlon=-0.07350#map=19/52.32373/-0.07350">View Larger Map</a></small>
+</span>
+
+<span style="display:inline-block;vertical-align:top;">
+<p>The Tony Burgess Room</p>
+
+<p>St Ives Corn Exchange<br/>
+The Pavement<br/>
+The Old Riverport<br/>
+St Ives<br/>
+Cambridgeshire<br/>
+PE27 5AD</p>
+
+<p><a href="http://www.thecornexchange.org.uk">Corn Exchange Website</a></p>
+</span>
 </div>
-
-The Tony Burgess Room
-
-St Ives Corn Exchange  
-The Pavement  
-The Old Riverport  
-St Ives  
-Cambridgeshire  
-PE27 5AD  
-
-[Corn Exchange Website](http://www.thecornexchange.org.uk)
 
 # Parking
 
