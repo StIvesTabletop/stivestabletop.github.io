@@ -1,11 +1,17 @@
 <section id="nav_top">
-    <span
-        {%- if page.url == "/" %} class="selected"{%- endif -%}
-    ><a href="/">Home</a></span>
-    <span
-        {%- if page.url == "/Directions.html" %} class="selected"{%- endif -%}
-    ><a href="/Directions.html">Directions</a></span>
-    <span
-        {%- if page.url == "/Contact.html" %} class="selected"{%- endif -%}
-    ><a href="/Contact.html">Contact Us</a></span>
+    {% if page.url == "/" -%}
+        <span class="selected">Home</span>
+    {%- else -%}
+        <span><a href="/">Home</a></span>
+    {%- endif %}
+    {% if page.url == "/Directions.html" -%}
+        <span class="selected">How to Get There</span>
+    {%- else -%}
+        <span><a href="/Directions.html">How to Get There</a></span>
+    {%- endif %}
+    {% if page.url == "/Contact.html" -%}
+        <span class="selected">Contact Us</span>
+    {%- else -%}
+        <span><a href="/Directions.html">Contact Us</a></span>
+    {%- endif %}
 </section>
