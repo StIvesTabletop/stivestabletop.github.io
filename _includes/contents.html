@@ -1,0 +1,34 @@
+
+{% assign toc = site.data.menu.toc %}
+
+<!-- TODO - traverse the once first to find the heading that is currently selected based on the page.url -->
+
+<!-- Create a HTML list of sub-items under each path -->
+<ul class="menu">
+{% for item in toc %}
+	<!-- First the menu heading -->
+	<li class="menu_head">
+
+	{% if item.url %}
+		<a href={{item.url}}>{{item.title}}</a>
+	{% else %}
+		<!-- TODO: remove the anchor -->
+		<a href="">{{item.title}} <span class="caret"></span></a>
+    	<!-- Next the list of menu items -->
+		<div>
+		<ul class="menu_sub">
+		{% for subitem in item.subfolderitems %}
+			<!-- Check for the selected item -->
+			{% if page.url == subitem.url %}
+				{% assign class = "menu_selected" %}
+			{% else %}
+				{% assign class = "menu_item" %}
+			{% endif %}
+			<li class = {{class}}><a href={{subitem.url}}>{{subitem.title}}</a></li>
+		{% endfor %}
+		</ul>
+		</div>
+	{% endif %}
+    </li>
+{% endfor %}
+</ul>
