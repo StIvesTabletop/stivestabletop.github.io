@@ -7,3 +7,9 @@ toc:
           url: /Directions.html
         - title: Contact Us
           url: /Contact.html
+    - title: Games
+      subfolderitems:
+        - title: Learnt in 5 minutes
+          url: /games/5min.html
+        - title: Co-operative
+          url: /games/Coop.html
