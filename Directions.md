@@ -1,5 +1,5 @@
 ---
-title: How to Get There
+title: How to Reach Us
 ---
 
 # Location
