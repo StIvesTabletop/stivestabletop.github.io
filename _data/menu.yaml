@@ -1,15 +1,15 @@
 toc:
   - title: Home
-    url: index.html
+    url: /
   - title: About Us
     subfolderitems:
       - title: Contact Us
-        url: Contact.html
+        url: /Contact.html
       - title: How to reach us
-        url: Directions.html
+        url: /Directions.html
   - title: Test
-    url: Nothere.html
+    url: /Nothere.html
   - title: Other Test
     subfolderitems:
       - title: McTest
-        url: None.html
+        url: /None.html

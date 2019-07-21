@@ -8,7 +8,7 @@ body {
     font-weight: normal;
     background: #252525;
     background-attachment: fixed !important;
-    background: linear-gradient(#2a2a29, #1c1c1c);
+    background-image: linear-gradient(#1c1c1c, #2a4a29);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -84,7 +84,6 @@ section#nav_top {
     text-align: center;
 
     span {
-        color: #d7cfbe;
         font-family: "OpenSansLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
         font-weight: normal;
         font-size: 18px;
@@ -94,26 +93,54 @@ section#nav_top {
 
 /*------------------------------------------------------------------------------------------------*/
 
-.menu_head {
-  	text-transform: capitalize;
+/* Navigation color settings */
+.menu {
+    background-image: linear-gradient(#2a4a29, #1c1c1c)
+}
+.menu_head_text {
+	color: #d7cfbe;
+}
+.menu_head_text > .caret {
+	border-top: 4px solid #d7cfbe;
 }
 
-.menu_selected {
-	text-transform: uppercase;
+.menu_head:hover {
+	background-color: #2a5a29;
+}
+.menu_head_text:hover {
+	color: white;
+}
+.menu_head_text:hover > .caret {
+  border-top-color: white;
 }
 
+.menu_head_selected {
+	background-color: #2a4a29;
+}
+
+.menu_sub {
+    background-color: #2a5a29;
+}
+.menu_item > a {
+	color: #d7cfbe;
+}
+.menu_item_selected > a {
+	color: yellow;
+	background-color: #2a7a29;
+}
+
+/* Main navigation bar settings */
 nav {
-    background-color: #fff;
     border: 1px solid #dedede;
     border-radius: 4px;
     box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.055);
-    color: #888;
     display: block;
     margin: 8px 22px 8px 22px;
     overflow: hidden;
     width: 90%;
 }
 
+/* Navigation menu headings settings */
 nav ul {
     margin: 0;
     padding: 0;
@@ -130,16 +157,14 @@ nav ul {
 		transition: all 0.2s;
 	}
 
-		nav > ul > li > a {
-			color: #aaa;
+		.menu_head_text {
 			display: block;
 			line-height: 56px;
 			padding: 0 24px;
 			text-decoration: none;
 		}
 
-		nav > ul > li > a > .caret {
-			border-top: 4px solid #aaa;
+		.menu_head_text > .caret {
 			border-right: 4px solid transparent;
 			border-left: 4px solid transparent;
 			content: "";
@@ -154,20 +179,8 @@ nav ul {
 			  transition: color 0.1s linear;
 		}
 
-	nav > ul > li:hover {
-	  background-color: rgb( 140, 44, 47 );
-	}
- 
-	nav > ul > li:hover > a {
-	  color: rgb( 255, 255, 255 );
-	}
- 
-	nav > ul > li:hover > a > .caret {
-	  border-top-color: rgb( 255, 255, 255 );
-	}
-
-nav > ul > li > div {
-    background-color: rgb( 40, 144, 47 );
+ /* Navigation sub-menu settings */
+.menu_sub {
     border-top: 0;
     border-radius: 0 0 4px 4px;
     box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.055);
@@ -191,7 +204,6 @@ nav > ul > li > div {
     }
  
         nav > ul > li > div ul > li > a {
-            color: #fff;
             display: block;
             padding: 12px 24px;
             text-decoration: none;

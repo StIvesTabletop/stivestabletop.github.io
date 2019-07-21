@@ -1,30 +1,48 @@
 
 {% assign toc = site.data.menu.toc %}
 
-<!-- TODO - traverse the once first to find the heading that is currently selected based on the page.url -->
+<!-- Traverse the contents first to find the menu heading title that
+     current page is under -->
+{% for item in toc %}
+	{% if item.url %}
+		{% if page.url == item.url %}
+			{% assign selected_title = item.title %}
+		{% endif %}
+	{% else %}
+		{% for subitem in item.subfolderitems %}
+			{% if page.url == subitem.url %}
+				{% assign selected_title = item.title %}
+			{% endif %}
+		{% endfor %}
+	{% endif %}
+{% endfor %}
+
 
 <!-- Create a HTML list of sub-items under each path -->
 <ul class="menu">
 {% for item in toc %}
 	<!-- First the menu heading -->
-	<li class="menu_head">
-
-	{% if item.url %}
-		<a href={{item.url}}>{{item.title}}</a>
+	{% if item.title == selected_title %}
+		{% assign class = "menu_head_selected" %}
 	{% else %}
-		<!-- TODO: remove the anchor -->
-		<a href="">{{item.title}} <span class="caret"></span></a>
+		{% assign class = "menu_head" %}
+	{% endif %}
+	<li class={{class}}>
+	{% if item.url %}
+		<a href={{item.url}}><span class="menu_head_text">{{item.title}}</span></a>
+	{% else %}
+		<span class="menu_head_text">{{item.title}} <span class="caret"></span></span>
     	<!-- Next the list of menu items -->
-		<div>
-		<ul class="menu_sub">
+		<div class="menu_sub">
+		<ul>
 		{% for subitem in item.subfolderitems %}
 			<!-- Check for the selected item -->
 			{% if page.url == subitem.url %}
-				{% assign class = "menu_selected" %}
+				{% assign class = "menu_item_selected" %}
 			{% else %}
 				{% assign class = "menu_item" %}
 			{% endif %}
-			<li class = {{class}}><a href={{subitem.url}}>{{subitem.title}}</a></li>
+			<li class={{class}}><a href={{subitem.url}}>{{subitem.title}}</a></li>
 		{% endfor %}
 		</ul>
 		</div>
