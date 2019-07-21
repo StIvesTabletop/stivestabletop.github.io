@@ -12,6 +12,6 @@ We aim to cover:
 
 # Next session
 
-*11th September 2019*
+*11th September 2019 @ 7:30pm until 11:00pm* 
 
 ![Poster](images/Poster.png "Starting 11th September"){:class="img_poster"}
