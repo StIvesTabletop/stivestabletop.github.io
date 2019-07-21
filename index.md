@@ -15,4 +15,3 @@ We aim to cover:
 *11th September 2019*
 
 ![Poster](images/Poster.png "Starting 11th September"){:class="img_poster"}
-
