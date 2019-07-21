@@ -1,3 +1,8 @@
 <section id="title">
-    <h1>{{ site.title }}</h1>
+    <h1>{{ page.title | default:site.title }}</h1>
+    <p>
+        {%- if page.title != null -%}
+            {{ site.title }}
+        {%- endif -%}
+    </p>
 </section>
