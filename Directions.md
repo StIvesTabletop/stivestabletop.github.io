@@ -5,8 +5,8 @@ title: How to Get There
 # Location
 
 <div markdown="0">
-<span style="display:inline-block;">
-<iframe width="600" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.07511526346206666%2C52.32296994611562%2C-0.07188051939010622%2C52.32449291544868&amp;layer=mapnik&amp;marker=52.3237306176528%2C-0.07349789142608643" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.32373&amp;mlon=-0.07350#map=19/52.32373/-0.07350">View Larger Map</a></small>
+<span>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1219.2909300954484!2d-0.0740015!3d52.3235896!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4877de60afa0ab2b%3A0xed70a6a2f3b2c7d8!2sSt+Ives+Corn+Exchange!5e0!3m2!1sen!2suk!4v1563708889355!5m2!1sen!2suk" width="600" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
 </span>
 
 <span style="display:inline-block;vertical-align:top;">
@@ -26,24 +26,24 @@ PE27 5AD</p>
 # Parking
 
 <div markdown="0">
-<span style="display:inline-block;">
+<span>
 <h2>Just in front of the Corn Exchange</h2>
-<iframe width="350" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.07508844137191774%2C52.32273223357832%2C-0.07185369729995729%2C52.32425521109357&amp;layer=mapnik&amp;marker=52.323494548575226%2C-0.0734710693359375" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.32349&amp;mlon=-0.07347#map=19/52.32349/-0.07347">View Larger Map</a></small>
+<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d609.6463703244656!2d-0.07416857071831287!3d52.32352389873609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m3!3m2!1d52.323488399999995!2d-0.0734629!4m5!1s0x4877de60afa0ab2b%3A0xed70a6a2f3b2c7d8!2sSt+Ives+Corn+Exchange%2C+Market+Hill%2C+Saint+Ives+PE27+5AG!3m2!1d52.3236962!2d-0.07351669999999999!5e0!3m2!1sen!2suk!4v1563709022189!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </span>
 
-<span style="display:inline-block;">
+<span>
 <h2>Cattle Market Car Park (Waitrose)</h2>
-<iframe width="350" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.07124215364456178%2C52.32235516969285%2C-0.06800740957260133%2C52.323878160186695&amp;layer=mapnik&amp;marker=52.32311667149258%2C-0.06962478160858154" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.32312&amp;mlon=-0.06962#map=19/52.32312/-0.06962">View Larger Map</a></small>
+<iframe src="https://www.google.com/maps/embed?zoom=21&pb=!1m28!1m12!1m3!1d1219.302143714796!2d-0.07252478021812328!3d52.323182679870115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x4877dfe0e2872b41%3A0x4084e184444b0bd!2sCattle+market+car+park!3m2!1d52.323820999999995!2d-0.0696272!4m5!1s0x4877de60afa0ab2b%3A0xed70a6a2f3b2c7d8!2sSt+Ives+Corn+Exchange%2C+Market+Hill%2C+Saint+Ives+PE27+5AG!3m2!1d52.3236962!2d-0.07351669999999999!5e0!3m2!1sen!2suk!4v1563709071629!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </span>
 
-<span style="display:inline-block;">
+<span>
 <h2>Park and Ride</h2>
-<iframe width="350" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.06910979747772218%2C52.32206991053145%2C-0.06587505340576173%2C52.32359291084395&amp;layer=mapnik&amp;marker=52.322830597541746%2C-0.06749242544174194" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.32283&amp;mlon=-0.06749#map=19/52.32283/-0.06749">View Larger Map</a></small>
+<iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d2050.6765867619424!2d-0.0706159355090827!3d52.32182367493172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m3!3m2!1d52.3216906!2d-0.0648759!4m5!1s0x4877de60afa0ab2b%3A0xed70a6a2f3b2c7d8!2sSt+Ives+Corn+Exchange%2C+Market+Hill%2C+Saint+Ives+PE27+5AG!3m2!1d52.3236962!2d-0.07351669999999999!5e0!3m2!1sen!2suk!4v1563709838106!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </span>
 
-<span style="display:inline-block;">
+<span>
 <h2>Globe Car Park</h2>
-<iframe width="350" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-0.07699549198150636%2C52.32517487395908%2C-0.07376074790954591%2C52.32669776739642&amp;layer=mapnik&amp;marker=52.325937146871624%2C-0.07537811994552612" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=52.32594&amp;mlon=-0.07538#map=19/52.32594/-0.07538">View Larger Map</a></small>
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1219.2554429187885!2d-0.07625654159502883!3d52.32487734494443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x4877de6702a6372b%3A0x87ce30a05d49dfdb!2sGlobe+Place+Car+Park!3m2!1d52.3261076!2d-0.0755256!4m5!1s0x4877de60afa0ab2b%3A0xed70a6a2f3b2c7d8!2sSt+Ives+Corn+Exchange%2C+Market+Hill%2C+Saint+Ives+PE27+5AG!3m2!1d52.3236962!2d-0.07351669999999999!5e0!3m2!1sen!2suk!4v1563709885731!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </span>
 </div>
 
