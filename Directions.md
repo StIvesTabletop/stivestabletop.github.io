@@ -27,7 +27,12 @@ PE27 5AD</p>
 
 ## Buses
 
-Stagecoach services A, B and D stop close to the Corn Exchange at St Ives Station Road (first map - in the direction of Cambridge)/St Ives Bus Station (second map - in the direction of Huntingdon/Peterborough) and St Ives Park & Ride (see Parking - both directions). The timetable can be found [here](https://www.thebusway.info/routes-times.shtml).
+Stagecoach services A, B and D stop close to the Corn Exchange at St Ives Station Road
+
+* first map - in the direction of Cambridge/St Ives Bus Station;
+* second map - in the direction of Huntingdon/Peterborough and St Ives Park & Ride (see Parking - both directions).
+
+The timetable can be found [here](https://www.thebusway.info/routes-times.shtml).
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1449.9905996164002!2d-0.07152066810716746!3d52.32355449963793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8cc68a961b0be65c!2sThe+Busway+Station+Road!5e0!3m2!1sen!2suk!4v1563722912218!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
