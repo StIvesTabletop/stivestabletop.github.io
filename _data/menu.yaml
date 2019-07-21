@@ -1,15 +1,9 @@
 toc:
-  - title: Home
-    url: /
-  - title: About Us
-    subfolderitems:
-      - title: Contact Us
-        url: /Contact.html
-      - title: How to reach us
-        url: /Directions.html
-  - title: Test
-    url: /Nothere.html
-  - title: Other Test
-    subfolderitems:
-      - title: McTest
-        url: /None.html
+    - title: Home
+      url: /
+    - title: About Us
+      subfolderitems:
+        - title: How to Reach Us
+          url: /Directions.html
+        - title: Contact Us
+          url: /Contact.html
