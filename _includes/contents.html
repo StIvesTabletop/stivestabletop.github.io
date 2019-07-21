@@ -1,52 +1,51 @@
+{%- assign toc = site.data.menu.toc -%}
 
-{% assign toc = site.data.menu.toc %}
+{%- comment -%}<!-- Traverse the contents first to find the menu heading title that current page is under -->{%- endcomment -%}
 
-<!-- Traverse the contents first to find the menu heading title that
-     current page is under -->
-{% for item in toc %}
-	{% if item.url %}
-		{% if page.url == item.url %}
-			{% assign selected_title = item.title %}
-		{% endif %}
-	{% else %}
-		{% for subitem in item.subfolderitems %}
-			{% if page.url == subitem.url %}
-				{% assign selected_title = item.title %}
-			{% endif %}
-		{% endfor %}
-	{% endif %}
-{% endfor %}
+{%- for item in toc %}
+    {% if item.url %}
+        {% if page.url == item.url %}
+            {% assign selected_title = item.title %}
+        {% endif %}
+    {% else %}
+        {% for subitem in item.subfolderitems %}
+            {% if page.url == subitem.url %}
+                {% assign selected_title = item.title %}
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endfor -%}
 
+{%- comment -%}<!-- Create a HTML list of sub-items under each path -->{%- endcomment -%}
 
-<!-- Create a HTML list of sub-items under each path -->
 <ul class="menu">
-{% for item in toc %}
-	<!-- First the menu heading -->
-	{% if item.title == selected_title %}
-		{% assign class = "menu_head_selected" %}
-	{% else %}
-		{% assign class = "menu_head" %}
-	{% endif %}
-	<li class={{class}}>
-	{% if item.url %}
-		<a href={{item.url}}><span class="menu_head_text">{{item.title}}</span></a>
-	{% else %}
-		<span class="menu_head_text">{{item.title}} <span class="caret"></span></span>
-    	<!-- Next the list of menu items -->
-		<div class="menu_sub">
-		<ul>
-		{% for subitem in item.subfolderitems %}
-			<!-- Check for the selected item -->
-			{% if page.url == subitem.url %}
-				{% assign class = "menu_item_selected" %}
-			{% else %}
-				{% assign class = "menu_item" %}
-			{% endif %}
-			<li class={{class}}><a href={{subitem.url}}>{{subitem.title}}</a></li>
-		{% endfor %}
-		</ul>
-		</div>
-	{% endif %}
+{%- for item in toc %}
+    {%- comment -%}<!-- First the menu heading -->{%- endcomment -%}
+    {%- if item.title == selected_title %}
+        {% assign class = "menu_head_selected" %}
+    {% else %}
+        {% assign class = "menu_head" %}
+    {% endif %}
+    <li class="{{class}}">
+    {%- if item.url %}
+        <a href="{{item.url}}"><span class="menu_head_text">{{item.title}}</span></a>
+    {%- else %}
+        <span class="menu_head_text">{{item.title}} <span class="caret"></span></span>
+        {%- comment -%}<!-- Next the list of menu items -->{%- endcomment %}
+        <div class="menu_sub">
+        <ul>
+        {%- for subitem in item.subfolderitems %}
+            {%- comment -%}<!-- Check for the selected item -->{%- endcomment %}
+            {%- if page.url == subitem.url %}
+                {% assign class = "menu_item_selected" %}
+            {%- else %}
+                {% assign class = "menu_item" %}
+            {%- endif %}
+            <li class="{{class}}"><a href={{subitem.url}}>{{subitem.title}}</a></li>
+        {%- endfor %}
+        </ul>
+        </div>
+    {%- endif %}
     </li>
-{% endfor %}
+{%- endfor %}
 </ul>
