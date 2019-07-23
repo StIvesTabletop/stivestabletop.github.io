@@ -2,6 +2,8 @@
 title: Games you can learn in 5 minutes
 ---
 
+## **_Please note:_ These are just a sample of the games we have - to give you a taste!**
+
 # Braggart
 
 * 2-6 players
@@ -23,10 +25,10 @@ You are telling tall tales of your adventuring exploits in the tavern. Combine c
 * domino tile mechanic with tile drafting
 * [King Domino BGG link](https://boardgamegeek.com/boardgame/204583/kingdomino)
 
-Build a kingdom out of domino tiles that feature 6 terrain types. Players use a simple drafting mechanic to select the domino tile they will place in the next round. Score points at the end of the game based on consecutive terrain types and tile placement to create a 5x5 grid with your castle in the centre
+Build a kingdom out of domino tiles that feature 6 terrain types. Players use a simple drafting mechanic to select the domino tile they will place in the next round. Score points at the end of the game based on consecutive terrain types and tile placement to create a 5x5 grid with your castle ideally in the centre
 
-![king domino game contents](/images/kingdomino_01.jpg "king domino game contents"){:class="img_game"}
-![king domino one kingdom near end game](/images/kingdomino_05.jpg "king domino one kingdom near end game"){:class="img_game"}
+![King Domino game contents](/images/kingdomino_01.jpg "King Domino game contents"){:class="img_game"}
+![King Domino one kingdom near end game](/images/kingdomino_05.jpg "King Domino one kingdom near end game"){:class="img_game"}
 
 # Cleopatra and the Society of Architects
 
@@ -37,10 +39,10 @@ Build a kingdom out of domino tiles that feature 6 terrain types. Players use a 
 
 A beautiful game that even uses the game box to construct a 3-D palace for Cleopatra. Combine card types to build different parts of the palace from a card based marketplace mechanic. But use too many dodgy components and you accumulate corruption points, the most corrupt player gets thrown to the crocodiles then the remaining players score to determine the best architect. 
 
-![cleopatra game contents](/images/cleopatra_01.jpg "cleopatra game contents"){:class="img_game"}
-![cleopatra palace close up mid game](/images/cleopatra_02.jpg "cleopatra palace close up mid game"){:class="img_game"}
-![cleopatra marketplace](/images/cleopatra_05.jpg "cleopatra marketplace"){:class="img_game"}
-![cleopatra the quarry of compomnents still to build](/images/cleopatra_04.jpg "cleopatra the quarry of compomnents still to build"){:class="img_game"}
+![Cleopatra game contents](/images/cleopatra_01.jpg "Cleopatra game contents"){:class="img_game"}
+![Cleopatra palace close up mid game](/images/cleopatra_02.jpg "Cleopatra palace close up mid game"){:class="img_game"}
+![Cleopatra marketplace](/images/cleopatra_05.jpg "Cleopatra marketplace"){:class="img_game"}
+![Cleopatra the quarry of compomnents still to build](/images/cleopatra_04.jpg "Cleopatra the quarry of compomnents still to build"){:class="img_game"}
 
 # Fluxx
 
@@ -51,18 +53,18 @@ A beautiful game that even uses the game box to construct a 3-D palace for Cleop
 
 A simple fast paced games where the rules and end goal change almost every turn. Many themes are available from space or pirates to nataure and family. You start by taking a card and playing a card and building some keeper cards on the table. A certain combination of keepers wins the game but the other gamers will be changing the goals so they have the right combination not you. Can be won in a couple of rounds or go round for many turns as players thwart each other, no game is the same.
 
-![eco fluxx example 3 player game](/images/ecofluxx_01.jpg "eco fluxx example 3 player game"){:class="img_game"}
-![eco fluxx 2 hand close up](/images/ecofluxx_03.jpg "eco fluxx 2 hand close up"){:class="img_game"}
+![Eco Fluxx example 3 player game](/images/ecofluxx_01.jpg "Eco Fluxx example 3 player game"){:class="img_game"}
+![Eco Fluxx 2 hand close up](/images/ecofluxx_03.jpg "Eco Fluxx 2 hand close up"){:class="img_game"}
 
 # Seven Dragons
 
 * 2-5 players
 * 30 min play time
 * card game
-* [7 dragons BGG link](https://boardgamegeek.com/boardgame/98085/seven-dragons)
+* [7 Dragons BGG link](https://boardgamegeek.com/boardgame/98085/seven-dragons)
 
 Place domino like cards on the table to build a string of 7 adjacent dragons the same colour as your secret goal. However there are also cards to change the layout or swap goals between players.
 
-![7 dragons nearing end game](/images/7dragons_02.jpg "7 dragons nearing end game"){:class="img_game"}
-![7 dragons placed cards closeup](/images/7dragons_04.jpg "7 dragons placed cards closeup"){:class="img_game"}
-![7 dragons colours close up](/images/7dragons_06.jpg "7 dragons colours close up"){:class="img_game"}
+![7 Dragons nearing end game](/images/7dragons_02.jpg "7 Dragons nearing end game"){:class="img_game"}
+![7 Dragons placed cards closeup](/images/7dragons_04.jpg "7 Dragons placed cards closeup"){:class="img_game"}
+![7 Dragons colours close up](/images/7dragons_06.jpg "7 Dragons colours close up"){:class="img_game"}

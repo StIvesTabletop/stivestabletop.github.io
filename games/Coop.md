@@ -1,6 +1,8 @@
 ---
-title: Co-operative (Co op) Games
+title: Co-operative (Co-op) Games
 ---
+
+## **_Please note:_ These are just a sample of the games we have - to give you a taste!**
 
 # Pandemic
 
@@ -10,7 +12,7 @@ title: Co-operative (Co op) Games
 * board game with card deck mechanic
 * [Pandemic BGG link](https://boardgamegeek.com/boardgame/30549/pandemic)
 
-One of the original cooperative board games; you work as a team of Centre for Disease Control (CDC) operatives trying to counter multiple worldwide disease outbreaks. Each player has a different skill and takes their turn then the game has a turn to spread the diseases or cause an epidemic. The aim is to discover a cure to all the diseases before they get out of control.
+One of the original co-operative board games; you work as a team of Centre for Disease Control (CDC) operatives trying to counter multiple worldwide disease outbreaks. Each player has a different skill and takes their turn then the game has a turn to spread the diseases or cause an epidemic. The aim is to discover a cure to all the diseases before they get out of control.
 
 # Hanabi
 
@@ -18,12 +20,12 @@ One of the original cooperative board games; you work as a team of Centre for Di
 * 2-5 players
 * 30 min play time
 * card game
-* [hanabi BGG link](https://boardgamegeek.com/boardgame/98778/hanabi)
+* [Hanabi BGG link](https://boardgamegeek.com/boardgame/98778/hanabi)
 
 Your team are hosting a firework festival, you need to release the fireworks in the correct sequence; the only problem is you can't see your cards but your team mates can and need to give you clues so you release your fireworks at the right time. Simple to learn but tricky to create the perfect display.
 
-![hanabi game contents](/images/hanabi_01.jpg "hanabi game contents"){:class="img_game"}
-![hanabi display partway through game](/images/hanabi_03.jpg "hanabi display partway through game"){:class="img_game"}
+![Hanabi game contents](/images/hanabi_01.jpg "Hanabi game contents"){:class="img_game"}
+![Hanabi display partway through game](/images/hanabi_03.jpg "Hanabi display partway through game"){:class="img_game"}
 
 # Flash Point: Fire Rescue
 
