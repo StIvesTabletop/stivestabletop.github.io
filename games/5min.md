@@ -1,5 +1,6 @@
 ---
 title: Games you can learn in 5 minutes
+layout: with_toc
 ---
 
 ## **_Please note:_ These are just a sample of the games we have - to give you a taste!**
@@ -13,10 +14,10 @@ title: Games you can learn in 5 minutes
 
 You are telling tall tales of your adventuring exploits in the tavern. Combine cards to tell a story and accuse others of lying about their adventures. A simple but funny game that makes a good start to a games session while everyone arrives.
 
-![braggart a full four card story](/images/braggart_05.jpg "braggart a full four card story"){:class="img_game"}
-![braggart story changed by lie accusation](/images/braggart_06.jpg "braggart story changed by lie accusation"){:class="img_game"}
-![braggart example hand 1](/images/braggart_03.jpg "braggart example hand 1"){:class="img_game"}
-![braggart example hand 2](/images/braggart_04.jpg "braggart example hand 2"){:class="img_game"}
+![Braggart a full four card story](/images/braggart_05.jpg "Braggart a full four card story"){:class="img_game"}
+![Braggart story changed by lie accusation](/images/braggart_06.jpg "Braggart story changed by lie accusation"){:class="img_game"}
+![Braggart example hand 1](/images/braggart_03.jpg "Braggart example hand 1"){:class="img_game"}
+![Braggart example hand 2](/images/braggart_04.jpg "Braggart example hand 2"){:class="img_game"}
 
 # King Domino
 
