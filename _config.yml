@@ -4,6 +4,6 @@ titles_from_headings:
 defaults:
     -
         scope:
-            path: "games"
+            path: "boardgames"
         values:
-            layout: games
+            layout: boardgames

@@ -7,13 +7,13 @@ toc:
           url: /Directions.html
         - title: Contact Us
           url: /Contact.html
-    - title: Games
+    - title: Board Games
       subfolderitems:
         - title: Learnt in 5 minutes
-          url: /games/5min.html
+          url: /boardgames/5min.html
         - title: Short
-          url: /games/Short.html
+          url: /boardgames/Short.html
         - title: Co-operative
-          url: /games/Coop.html
+          url: /boardgames/Coop.html
         - title: DnD themed
-          url: /games/DnD.html
+          url: /boardgames/DnD.html

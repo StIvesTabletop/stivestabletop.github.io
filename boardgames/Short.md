@@ -1,5 +1,5 @@
 ---
-title: Quick (Filler) Games
+title: Quick (Filler) Board Games
 ---
 
 # Magic Maze
