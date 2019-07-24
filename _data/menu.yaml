@@ -1,6 +1,16 @@
 toc:
     - title: Home
       url: /
+    - title: Board Games
+      subfolderitems:
+        - title: Learnt in 5 minutes
+          url: /boardgames/5min.html
+        - title: Short
+          url: /boardgames/Short.html
+        - title: Co-operative
+          url: /boardgames/Coop.html
+        - title: DnD themed
+          url: /boardgames/DnD.html
     - title: About Us
       subfolderitems:
         - title: How to Reach Us
