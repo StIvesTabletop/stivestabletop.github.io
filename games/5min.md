@@ -2,8 +2,6 @@
 title: Games you can learn in 5 minutes
 ---
 
-## **_Please note:_ These are just a sample of the games we have - to give you a taste!**
-
 # Braggart
 
 * 2-6 players

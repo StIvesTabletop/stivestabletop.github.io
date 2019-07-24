@@ -2,8 +2,6 @@
 title: Dungeons and Dragons themed Games
 ---
 
-## **_Please note:_ These are just a sample of the games we have - to give you a taste!**
-
 # Rock Paper Wizard
 
 * 5 minute rules
