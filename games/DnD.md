@@ -1,6 +1,5 @@
 ---
 title: Dungeons and Dragons themed Games
-layout: with_toc
 ---
 
 ## **_Please note:_ These are just a sample of the games we have - to give you a taste!**

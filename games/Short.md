@@ -1,13 +1,12 @@
 ---
 title: Quick (filler) Games
-layout: with_toc
 ---
 
 ## **_Please note:_ These are just a sample of the games we have - to give you a taste!**
 
 # Magic Maze
 
-* 5 minute rules 
+* 5 minute rules
 * co-op
 * 1-8 players
 * 15 min play time

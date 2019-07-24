@@ -1,6 +1,5 @@
 ---
 title: Games you can learn in 5 minutes
-layout: with_toc
 ---
 
 ## **_Please note:_ These are just a sample of the games we have - to give you a taste!**
@@ -38,7 +37,7 @@ Build a kingdom out of domino tiles that feature 6 terrain types. Players use a 
 * board game with card deck mechanic
 * [Cleopatra BGG link](https://boardgamegeek.com/boardgame/22141/cleopatra-and-society-architects)
 
-A beautiful game that even uses the game box to construct a 3-D palace for Cleopatra. Combine card types to build different parts of the palace from a card based marketplace mechanic. But use too many dodgy components and you accumulate corruption points, the most corrupt player gets thrown to the crocodiles then the remaining players score to determine the best architect. 
+A beautiful game that even uses the game box to construct a 3-D palace for Cleopatra. Combine card types to build different parts of the palace from a card based marketplace mechanic. But use too many dodgy components and you accumulate corruption points, the most corrupt player gets thrown to the crocodiles then the remaining players score to determine the best architect.
 
 ![Cleopatra game contents](/images/cleopatra_01.jpg "Cleopatra game contents"){:class="img_game"}
 ![Cleopatra palace close up mid game](/images/cleopatra_02.jpg "Cleopatra palace close up mid game"){:class="img_game"}
