@@ -7,3 +7,4 @@ defaults:
             path: "boardgames"
         values:
             layout: boardgames
+sessionstart: "7:30pm"
