@@ -1,5 +1,5 @@
 ---
-title: Dungeons and Dragons themed Games
+title: Dungeons and Dragons Themed Games
 ---
 
 # Rock Paper Wizard

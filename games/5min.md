@@ -1,5 +1,5 @@
 ---
-title: Games you can learn in 5 minutes
+title: Games You Can Learn in 5 Minutes
 ---
 
 # Braggart
