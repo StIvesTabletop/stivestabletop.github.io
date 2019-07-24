@@ -1,4 +1,10 @@
 title: "St. Ives Tabletop"
 titles_from_headings:
     enabled: false
+defaults:
+    -
+        scope:
+            path: "boardgames"
+        values:
+            layout: boardgames
 sessionstart: "7:30pm"
