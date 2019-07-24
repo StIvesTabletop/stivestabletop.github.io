@@ -1,12 +1,6 @@
 toc:
     - title: Home
       url: /
-    - title: About Us
-      subfolderitems:
-        - title: How to Reach Us
-          url: /Directions.html
-        - title: Contact Us
-          url: /Contact.html
     - title: Board Games
       subfolderitems:
         - title: Learnt in 5 minutes
@@ -17,3 +11,9 @@ toc:
           url: /boardgames/Coop.html
         - title: DnD themed
           url: /boardgames/DnD.html
+    - title: About Us
+      subfolderitems:
+        - title: How to Reach Us
+          url: /Directions.html
+        - title: Contact Us
+          url: /Contact.html
