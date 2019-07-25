@@ -30,7 +30,8 @@
     {%- if item.url %}
         <a href="{{item.url}}"><span class="menu_head_text">{{item.title}}</span></a>
     {%- else %}
-        <span class="menu_head_text">{{item.title}} <span class="caret"></span></span>
+        {%- comment -%}<!-- Need onClick for iPhones -->{%- endcomment -%}
+        <span onClick=”return true” class="menu_head_text">{{item.title}} <span class="caret"></span></span>
         {%- comment -%}<!-- Next the list of menu items -->{%- endcomment %}
         <div class="menu_sub">
         <ul>
