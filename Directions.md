@@ -66,7 +66,7 @@ Other local bus services serve St Ives Bus Station.
 </span>
 
 <span>
-<h2>Globe Car Park</h2>
+<h2>Globe Place Car Park</h2>
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1219.2554429187885!2d-0.07625654159502883!3d52.32487734494443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x4877de6702a6372b%3A0x87ce30a05d49dfdb!2sGlobe+Place+Car+Park!3m2!1d52.3261076!2d-0.0755256!4m5!1s0x4877de60afa0ab2b%3A0xed70a6a2f3b2c7d8!2sSt+Ives+Corn+Exchange%2C+Market+Hill%2C+Saint+Ives+PE27+5AG!3m2!1d52.3236962!2d-0.07351669999999999!5e0!3m2!1sen!2suk!4v1563709885731!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </span>
 </div>
