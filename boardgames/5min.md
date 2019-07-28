@@ -16,6 +16,8 @@ You are telling tall tales of your adventuring exploits in the tavern. Combine c
 ![Braggart example hand 1](/images/braggart_03.jpg "Braggart example hand 1"){:class="img_game"}
 ![Braggart example hand 2](/images/braggart_04.jpg "Braggart example hand 2"){:class="img_game"}
 
+{% include back_to_top.html %}
+
 # King Domino
 
 * 2-4 players
@@ -27,6 +29,8 @@ Build a kingdom out of domino tiles that feature 6 terrain types. Players use a 
 
 ![King Domino game contents](/images/kingdomino_01.jpg "King Domino game contents"){:class="img_game"}
 ![King Domino one kingdom near end game](/images/kingdomino_05.jpg "King Domino one kingdom near end game"){:class="img_game"}
+
+{% include back_to_top.html %}
 
 # Cleopatra and the Society of Architects
 
@@ -42,6 +46,8 @@ A beautiful game that even uses the game box to construct a 3-D palace for Cleop
 ![Cleopatra marketplace](/images/cleopatra_05.jpg "Cleopatra marketplace"){:class="img_game"}
 ![Cleopatra the quarry of compomnents still to build](/images/cleopatra_04.jpg "Cleopatra the quarry of compomnents still to build"){:class="img_game"}
 
+{% include back_to_top.html %}
+
 # Fluxx
 
 * 2-6 players
@@ -53,6 +59,8 @@ A simple fast paced games where the rules and end goal change almost every turn.
 
 ![Eco Fluxx example 3 player game](/images/ecofluxx_01.jpg "Eco Fluxx example 3 player game"){:class="img_game"}
 ![Eco Fluxx 2 hand close up](/images/ecofluxx_03.jpg "Eco Fluxx 2 hand close up"){:class="img_game"}
+
+{% include back_to_top.html %}
 
 # Seven Dragons
 
@@ -66,3 +74,5 @@ Place domino like cards on the table to build a string of 7 adjacent dragons the
 ![7 Dragons nearing end game](/images/7dragons_02.jpg "7 Dragons nearing end game"){:class="img_game"}
 ![7 Dragons placed cards closeup](/images/7dragons_04.jpg "7 Dragons placed cards closeup"){:class="img_game"}
 ![7 Dragons colours close up](/images/7dragons_06.jpg "7 Dragons colours close up"){:class="img_game"}
+
+{% include back_to_top.html %}
