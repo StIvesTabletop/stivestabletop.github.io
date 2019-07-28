@@ -16,6 +16,8 @@ A short game where adventurers fight to divide the loot using a shared spellbook
 ![Rock Paper Wizard player board zoom](/images/rockpaperwizard_02.jpg "Rock Paper Wizard player board zoom"){:class="img_game"}
 ![Rock Paper Wizard spellbook](/images/rockpaperwizard_03.jpg "Rock Paper Wizard spellbook"){:class="img_game"}
 
+{% include back_to_top.html %}
+
 # Castle Ravenloft
 
 * 1-5 players
@@ -30,3 +32,5 @@ A light introduction to D&D. The game comes with dungeon tiles, figurines, pre-d
 ![Ravenloft example wizard and powers](/images/ravenloft_05.jpg "Ravenloft example wizard and powers"){:class="img_game"}
 ![Ravenloft example paladin and powers](/images/ravenloft_06.jpg "Ravenloft example paladin and powers"){:class="img_game"}
 ![Ravenloft session 1](/images/ravenloft_session_01.jpg "Ravenloft session 1"){:class="img_game"}
+
+{% include back_to_top.html %}

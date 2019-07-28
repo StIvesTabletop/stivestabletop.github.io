@@ -13,6 +13,8 @@ title: Quick (Filler) Board Games
 
 Your team of adventurers needs to explore and locate 4 shops in the magic shopping mall, rob them (equipment for your next adventure) and escape. The catch; players can't talk and each player only controls a subset of the adventurer actions. A cooperative heist game with a difference.
 
+{% include back_to_top.html %}
+
 # Ninja Camp
 
 * 2-4 players
@@ -26,6 +28,8 @@ Animal martial artists compete in ninja training to determine the best pupil. Th
 ![Ninja camp grid setup part way through a game](/images/ninjacamp_06.jpg "Ninja camp grid setup part way through a game"){:class="img_game"}
 ![Ninja camp close up of cards and ninja meeples](/images/ninjacamp_04.jpg "Ninja camp close up of cards and ninja meeples"){:class="img_game"}
 
+{% include back_to_top.html %}
+
 # Incan Gold
 
 * 3-8 players
@@ -34,3 +38,5 @@ Animal martial artists compete in ninja training to determine the best pupil. Th
 * [Incan Gold BGG link](https://boardgamegeek.com/boardgame/15512/diamant)
 
 A push your luck game, the further you venture into the temple the more treasure you can acquire but also more chance of being caught in a trap and getting nothing.
+
+{% include back_to_top.html %}
