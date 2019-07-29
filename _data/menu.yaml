@@ -1,6 +1,8 @@
 toc:
     - title: Home
       url: /
+    - title: Calendar
+      url: /Calendar.html
     - title: Board Games
       subfolderitems:
         - title: Learnt in 5 minutes
