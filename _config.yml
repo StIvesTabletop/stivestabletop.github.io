@@ -8,3 +8,5 @@ defaults:
         values:
             layout: boardgames
 sessionstart: "7:30pm"
+plugins:
+    - jekyll-sitemap
