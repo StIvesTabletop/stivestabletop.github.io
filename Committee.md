@@ -19,17 +19,6 @@ Most things by Martin Wallace plus:
     - Takenoko
     - Gùgōng
 
-# Kathy J.
-
-![Kathy J.](/images/committee/KathyJ.jpg){:class="img_committee"}
-
-Favourite board games:  
-Generally co-operative games (especially Pandemic) but I can’t resist:
-- Ticket to Ride
-- Tikal
-- Magical Athlete
-- Braggart
-
 # Jeremy J.
 
 ![Jeremy J.](/images/committee/JeremyJ.jpg){:class="img_committee"}
@@ -46,6 +35,17 @@ New favourites:
 
 Favourite role playing games:
 - Dungeons & Dragons
+
+# Kathy J.
+
+![Kathy J.](/images/committee/KathyJ.jpg){:class="img_committee"}
+
+Favourite board games:  
+Generally co-operative games (especially Pandemic) but I can’t resist:
+- Ticket to Ride
+- Tikal
+- Magical Athlete
+- Braggart
 
 # Ross D.
 
