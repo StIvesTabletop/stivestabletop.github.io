@@ -6,72 +6,27 @@ title: Committee
 
 ![Catherine D.](/images/committee/CatherineD.jpg){:class="img_committee"}
 
-Favourite board games:  
-Most things by Martin Wallace plus:
-- Co-operative
-    - Mysterium
-    - Sub Terra
-    - Spirit Island
-- Competitive
-    - Caverna
-    - Tokaido
-    - Wingspan
-    - Takenoko
-    - Gùgōng
+Catherine’s all time favourite board game is [Caverna](https://boardgamegeek.com/boardgame/102794/caverna-cave-farmers).  She also has a soft spot for board games by [Martin Wallace](https://boardgamegeek.com/boardgamedesigner/6/martin-wallace), such as [Via Nebula](https://boardgamegeek.com/boardgame/191231/nebula) and [P.I.](https://boardgamegeek.com/boardgame/129050/pi).  She’s always on the look out for games with beautiful artwork and/or nature themes, including some of her other favourites - [Tokaido](https://boardgamegeek.com/boardgame/123540/tokaido), [Wingspan](https://boardgamegeek.com/boardgame/266192/wingspan), [Gùgōng](https://boardgamegeek.com/boardgame/250458/gugng), and [Takenoko](https://boardgamegeek.com/boardgame/70919/takenoko).  In terms of co-operative games, she likes to play [Mysterium](https://boardgamegeek.com/boardgame/181304/mysterium), [Sub Terra](https://boardgamegeek.com/boardgame/204472/sub-terra), and [Spirit Island](https://boardgamegeek.com/boardgame/162886/spirit-island).
 
 # Jeremy J.
 
 ![Jeremy J.](/images/committee/JeremyJ.jpg){:class="img_committee"}
 
-Favourite board games of all time:
-- Pandemic
-- 7 Wonders
-- Race for the Galaxy
-- O Zoo le Mio
-
-New favourites:
-- Planet
-- Evolution: Climate
-
-Favourite role playing games:
-- Dungeons & Dragons
+Favourite of all time: [Pandemic](https://boardgamegeek.com/boardgame/30549/pandemic), [7 Wonders](https://boardgamegeek.com/boardgame/68448/7-wonders), [Race for the Galaxy](https://boardgamegeek.com/boardgame/28143/race-galaxy), [O Zoo le Mio](https://boardgamegeek.com/boardgame/4218/o-zoo-le-mio), and [Dungeons & Dragons](https://www.rpggeek.com/rpgfamily/192/dungeons-dragons).  New favourites are: [Planet](https://boardgamegeek.com/boardgame/252929/planet), [Evolution: Climate](https://boardgamegeek.com/boardgame/182134/evolution-climate)
 
 # Kathy J.
 
 ![Kathy J.](/images/committee/KathyJ.jpg){:class="img_committee"}
 
-Favourite board games:  
-Generally co-operative games (especially Pandemic) but I can’t resist:
-- Ticket to Ride
-- Tikal
-- Magical Athlete
-- Braggart
+Generally co-op games, especially [Pandemic](https://boardgamegeek.com/boardgame/30549/pandemic).  But she can’t resist [Ticket to Ride](https://boardgamegeek.com/boardgame/14996/ticket-ride-europe), [Tikal](https://boardgamegeek.com/boardgame/54/tikal) and [Magical Athlete](https://boardgamegeek.com/boardgame/24565/magical-athlete), [Braggart](https://boardgamegeek.com/boardgame/72420/braggart).  Kathy has been our main reviewer on the website, so you have a fair idea from what she’s been reviewing!
 
 # Ross D.
 
 ![Ross D.](/images/committee/RossD.jpg){:class="img_committee"}
 
-Favourite board games:
-- Co-operative:
-    - X-Com
-    - Aeon's End
-    - Sentinels of the Multiverse
-    - Mysterium
-    - Spirit Island
-- Competitive:
-    - Caverna
-    - Dungeon Petz
-    - Isle of Skye
-    - Dominion
+Ross started his geekvangelism with [Arkham Horror](https://boardgamegeek.com/boardgame/15987/arkham-horror) and [Dominion](https://boardgamegeek.com/boardgame/36218/dominion) (which are still some of his favourites).  He loves co-operative games and now he loves [XCOM](https://boardgamegeek.com/boardgame/163602/xcom-board-game), [Spirit Island](https://boardgamegeek.com/boardgame/162886/spirit-island), [Aeon’s End](https://boardgamegeek.com/boardgame/191189/aeons-end), and [Sentinels of the Multiverse](https://boardgamegeek.com/boardgame/102652/sentinels-multiverse).  When he remembers that he should play some competitive games, he plays [Caverna](https://boardgamegeek.com/boardgame/102794/caverna-cave-farmers), [Dungeon Petz](https://boardgamegeek.com/boardgame/97207/dungeon-petz) (he loves the artwork on this one), and [Isle of Skye](https://boardgamegeek.com/boardgame/176494/isle-skye-chieftain-king).
 
-Role playing games experience:
-- Dungeons & Dragons (4th ed.)
-- Shadowrun (5th ed.)
-- Fate (Core and Accelerated)
-- Currently learning:
-    - Blades in the Dark
-    - Scum and Villainy
-    - Sentinels Comics RPG
+He absolutely loves playing RPGs, the reason he’s helping with the club is to give other people a chance to start.  He has a varied background and plays everything from [Dungeons & Dragons (4th ed.)](https://www.rpggeek.com/rpg/190/dungeons-dragons-4th-edition), [Shadowrun (5th ed.)](https://www.rpggeek.com/rpg/21069/shadowrun-5th-edition), and [Fate](https://www.rpggeek.com/rpgsystem/26506/fate-core).  He’s also currently learning to run others for more variety to teach at the club, including [Blades in the Dark](https://www.rpggeek.com/rpg/26952/blades-dark), [Scum and Villainy](https://www.rpggeek.com/rpg/48736/scum-and-villainy), Sentinels Comics RPG, and [Carbon 2185](https://www.rpggeek.com/rpg/56987/carbon-2185).
 
 # Simon W.
 
