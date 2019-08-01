@@ -5,7 +5,7 @@ toc:
       url: /Calendar.html
     - title: Board Games
       subfolderitems:
-        - title: Learnt in 5 minutes
+        - title: Learnt in 5 Minutes
           url: /boardgames/5min.html
         - title: Short
           url: /boardgames/Short.html
@@ -13,7 +13,7 @@ toc:
           url: /boardgames/Coop.html
         - title: Classic
           url: /boardgames/Classic.html
-        - title: DnD themed
+        - title: D&D Themed
           url: /boardgames/DnD.html
     - title: About Us
       subfolderitems:
