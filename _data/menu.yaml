@@ -11,11 +11,15 @@ toc:
           url: /boardgames/Short.html
         - title: Co-operative
           url: /boardgames/Coop.html
+        - title: Classic
+          url: /boardgames/Classic.html
         - title: DnD themed
           url: /boardgames/DnD.html
     - title: About Us
       subfolderitems:
         - title: How to Reach Us
           url: /Directions.html
+        - title: Committee
+          url: /Committee.html
         - title: Contact Us
           url: /Contact.html
