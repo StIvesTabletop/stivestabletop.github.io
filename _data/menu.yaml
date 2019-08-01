@@ -6,15 +6,15 @@ toc:
     - title: Board Games
       subfolderitems:
         - title: Learnt in 5 Minutes
-          url: /boardgames/5min.html
+          url: /BoardGames/5min.html
         - title: Short
-          url: /boardgames/Short.html
+          url: /BoardGames/Short.html
         - title: Co-operative
-          url: /boardgames/Co-op.html
+          url: /BoardGames/Co-op.html
         - title: Classic
-          url: /boardgames/Classic.html
+          url: /BoardGames/Classic.html
         - title: D&D Themed
-          url: /boardgames/DnD.html
+          url: /BoardGames/DnD.html
     - title: About Us
       subfolderitems:
         - title: How to Reach Us
