@@ -12,13 +12,23 @@ Catherine’s all time favourite board game is [Caverna](https://boardgamegeek.c
 
 ![Jeremy J.](/images/committee/JeremyJ.jpg){:class="img_committee"}
 
-Favourite of all time: [Pandemic](https://boardgamegeek.com/boardgame/30549/pandemic), [7 Wonders](https://boardgamegeek.com/boardgame/68448/7-wonders), [Race for the Galaxy](https://boardgamegeek.com/boardgame/28143/race-galaxy), [O Zoo le Mio](https://boardgamegeek.com/boardgame/4218/o-zoo-le-mio), and [Dungeons & Dragons](https://www.rpggeek.com/rpgfamily/192/dungeons-dragons).  New favourites are: [Planet](https://boardgamegeek.com/boardgame/252929/planet), [Evolution: Climate](https://boardgamegeek.com/boardgame/182134/evolution-climate)
+Favourites of all time include: [Pandemic](https://boardgamegeek.com/boardgame/30549/pandemic),
+[7 Wonders](https://boardgamegeek.com/boardgame/68448/7-wonders),
+[Race for the Galaxy](https://boardgamegeek.com/boardgame/28143/race-galaxy),
+[O Zoo le Mio](https://boardgamegeek.com/boardgame/4218/o-zoo-le-mio) and
+[Dungeons & Dragons](https://www.rpggeek.com/rpgfamily/192/dungeons-dragons).
+Some of his new favourites are about the environment: [Planet](https://boardgamegeek.com/boardgame/252929/planet),
+[Evolution: Climate](https://boardgamegeek.com/boardgame/182134/evolution-climate).
 
 # Kathy J.
 
 ![Kathy J.](/images/committee/KathyJ.jpg){:class="img_committee"}
 
-Generally co-op games, especially [Pandemic](https://boardgamegeek.com/boardgame/30549/pandemic).  But she can’t resist [Ticket to Ride](https://boardgamegeek.com/boardgame/14996/ticket-ride-europe), [Tikal](https://boardgamegeek.com/boardgame/54/tikal) and [Magical Athlete](https://boardgamegeek.com/boardgame/24565/magical-athlete), [Braggart](https://boardgamegeek.com/boardgame/72420/braggart).  Kathy has been our main reviewer on the website, so you have a fair idea from what she’s been reviewing!
+Kathy generally prefers co-op games, especially [Pandemic](https://boardgamegeek.com/boardgame/30549/pandemic).
+But she can’t resist [Ticket to Ride](https://boardgamegeek.com/boardgame/14996/ticket-ride-europe),
+[Tikal](https://boardgamegeek.com/boardgame/54/tikal), [Magical Athlete](https://boardgamegeek.com/boardgame/24565/magical-athlete) or 
+[Braggart](https://boardgamegeek.com/boardgame/72420/braggart).
+Kathy has been our main reviewer on the website, so you have a fair idea from what she’s been reviewing!
 
 # Ross D.
 
