@@ -11,7 +11,7 @@ Your typical high fantasy setting where the players are epic adventurers (or on 
 
 # Fate (Core/Accelerated)
 
-A generic role-playing game system that can be adapted for anything.  It inherently has no setting, and there are even rules to completely co-operatively build the world.  The flexibility that it allows means that many settings have been created that utilise the Fate rules and can be picked up for play.  The main goal as players in Fate based systems it to make the other players be awesome.
+A generic role-playing game system that can be adapted for anything.  It inherently has no setting, and there are even rules to completely co-operatively build the world.  The flexibility that it allows means that many settings have been created that utilise the Fate rules and can be picked up for play.  The main goal as players in Fate based systems is to make the other players be awesome.
 
 {% include back_to_top.html %}
 
