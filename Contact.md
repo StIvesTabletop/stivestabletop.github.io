@@ -19,3 +19,7 @@ It also helps us to plan longer Role Playing Games that may extend over multiple
 # Twitter
 
 <a href="https://twitter.com/StIvesTabletop?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @StIvesTabletop</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+# Facebook
+
+[StIvesTabletop](//www.facebook.com/StIvesTabletop)
