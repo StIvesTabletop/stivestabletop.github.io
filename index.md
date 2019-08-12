@@ -16,4 +16,4 @@ We aim to cover:
 
 See the [calendar](/Calendar.html) for the following sessions.
 
-![Poster](/images/Poster.png "Starting 11th September"){:class="img_poster"}
+![Poster](/images/2019_09_11_Poster.png "Next Session: 11th September"){:class="img_poster"}
