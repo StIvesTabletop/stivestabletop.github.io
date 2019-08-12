@@ -22,4 +22,4 @@ It also helps us to plan longer Role Playing Games that may extend over multiple
 
 # Facebook
 
-[StIvesTabletop](//www.facebook.com/StIvesTabletop)
+Find our page: [St Ives Tabletop](//www.facebook.com/StIvesTabletop)
