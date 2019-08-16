@@ -34,7 +34,8 @@ It is year 1261 since the founding of the Galactic Hegemonic Alliance.  The play
 
 This RPG is based on the Forged in the Dark system (as with Blades in the Dark above) and the stories can be played from a space opera (e.g. Star Wars), to a space western (e.g. Firefly/Cowboy Bebop).
 
-Offical Website: [Scum & Villainy](https://www.evilhat.com/home/scum-and-villainy/)
+Offical Website: [Scum & Villainy](https://offguardgames.com/scum-and-villainy/)  
+On Evil Hat Website: [Evil Hat](https://www.evilhat.com/home/scum-and-villainy/)
 
 {% include back_to_top.html %}
 
