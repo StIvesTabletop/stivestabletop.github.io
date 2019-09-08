@@ -4,24 +4,24 @@ title: Social Media Policy
 
 # 1. Introduction
 
-| 1.1   | The St. Ives Tabletop group (henceforth referred to as the “Group”) is managed by a committee (henceforth referred to as the “Committee”).                                                                                                   |
-| 1.2   | The Group is supported by several digital tools and social media profiles:                                                                                                                                                                   |
-| 1.2.1 | Website (https://www.stivestabletop.uk/)                                                                                                                                                                                                     |
-| 1.2.2 | Email (stivestabletop@gmail.com)                                                                                                                                                                                                             |
-| 1.2.3 | Twitter (@StIvesTabletop)                                                                                                                                                                                                                    |
-| 1.2.4 | Facebook group (https://www.facebook.com/StIvesTabletop)                                                                                                                                                                                     |
-| 1.2.5 | Discord (Server name: St. Ives Tabletop)                                                                                                                                                                                                     |
-| 1.3   | The Committee are responsible for managing these and hold administrative rights to the associated accounts.  People who attend sessions (henceforth referred to as “Players”) are not required to participate or join any of these services. |
+| 1.1 |       | The St. Ives Tabletop group (henceforth referred to as the “Group”) is managed by a committee (henceforth referred to as the “Committee”).                                                                                                   |
+| 1.2 |       | The Group is supported by several digital tools and social media profiles:                                                                                                                                                                   |
+|     | 1.2.1 | Website (https://www.stivestabletop.uk/)                                                                                                                                                                                                     |
+|     | 1.2.2 | Email (stivestabletop@gmail.com)                                                                                                                                                                                                             |
+|     | 1.2.3 | Twitter (@StIvesTabletop)                                                                                                                                                                                                                    |
+|     | 1.2.4 | Facebook group (https://www.facebook.com/StIvesTabletop)                                                                                                                                                                                     |
+|     | 1.2.5 | Discord (Server name: St. Ives Tabletop)                                                                                                                                                                                                     |
+| 1.3 |       | The Committee are responsible for managing these and hold administrative rights to the associated accounts.  People who attend sessions (henceforth referred to as “Players”) are not required to participate or join any of these services. |
 
 # 2. Conduct and Behaviour
 
-| 2.1   | Exactly as for the physical meetings, the Group will be a safe environment, and Players are asked to take note of the types of behaviour that would be found unacceptable and will not be tolerated.  This includes, but is not limited to: |
-| 2.1.1 | Use of bad language, verbal abuse, and/or swearing at other Players.                                                                                                                                                                        |
-| 2.1.2 | Any threat of physical violence.                                                                                                                                                                                                            |
-| 2.1.3 | Racial abuse, sexual harassment, and/or intolerance due to gender, race, religion, and/or sexual orientation                                                                                                                                |
-| 2.1.4 | Disorderly behaviour due to the influence of alcohol and drugs.                                                                                                                                                                             |
-| 2.1.5 | Posting illegal material and/or links to illegal material.                                                                                                                                                                                  |
-| 2.1.6 | Posting explicit material.                                                                                                                                                                                                                  |
+| 2.1 |       | Exactly as for the physical meetings, the Group will be a safe environment, and Players are asked to take note of the types of behaviour that would be found unacceptable and will not be tolerated.  This includes, but is not limited to: |
+|     | 2.1.1 | Use of bad language, verbal abuse, and/or swearing at other Players.                                                                                                                                                                        |
+|     | 2.1.2 | Any threat of physical violence.                                                                                                                                                                                                            |
+|     | 2.1.3 | Racial abuse, sexual harassment, and/or intolerance due to gender, race, religion, and/or sexual orientation                                                                                                                                |
+|     | 2.1.4 | Disorderly behaviour due to the influence of alcohol and drugs.                                                                                                                                                                             |
+|     | 2.1.5 | Posting illegal material and/or links to illegal material.                                                                                                                                                                                  |
+|     | 2.1.6 | Posting explicit material.                                                                                                                                                                                                                  |
 
 # 3. Reporting Incidents
 

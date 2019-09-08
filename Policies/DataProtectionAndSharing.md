@@ -10,14 +10,14 @@ title: Data Protection and Sharing Policy
 
 # 2. Personal Data at Sessions
 
-| 2.1   | Individuals attending a session do not need to provide any personal information to the Committee.           |
-| 2.2   | Individual attendance will be optionally recorded, which may include:                                       |
-| 2.2.1 | First name and initial                                                                                      |
-| 2.2.2 | Email address                                                                                               |
-| 2.2.3 | Discord username                                                                                            |
-| 2.3   | Aggregate numbers will be recorded (to help the Committee manage the Group and assess the financial risks). |
-| 2.4   | We will seek consent to capture images at sessions that may include individuals and their guardians/carers. |
-| 2.5   | There is no membership of the Group as such, with no member card, nor member database.                      |
+| 2.1 |       | Individuals attending a session do not need to provide any personal information to the Committee.           |
+| 2.2 |       | Individual attendance will be optionally recorded, which may include:                                       |
+|     | 2.2.1 | First name and initial                                                                                      |
+|     | 2.2.2 | Email address                                                                                               |
+|     | 2.2.3 | Discord username                                                                                            |
+| 2.3 |       | Aggregate numbers will be recorded (to help the Committee manage the Group and assess the financial risks). |
+| 2.4 |       | We will seek consent to capture images at sessions that may include individuals and their guardians/carers. |
+| 2.5 |       | There is no membership of the Group as such, with no member card, nor member database.                      |
 
 # 3. Personal Data Online
 

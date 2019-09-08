@@ -15,12 +15,12 @@ title: Fees and Finance Policy
 
 # 3. Session Fee
 
-| 3.1   | The current session fee for all attendees (including Committee members, activity volunteers, and event volunteers) will be listed on the website. |
-| 3.1.1 | Carers or support workers are exempt from the session fee (maximum two per individual).                                                           |
-| 3.2   | Payment is currently only via cash.                                                                                                               |
-| 3.3   | There is no option to pay in advance for future sessions.  Each session is paid for upon joining an activity or event.                            |
-| 3.4   | The fee covers the whole session.  There is no reduced rate for partial attendance, nor a refund for leaving early.                               |
-| 3.5   | Promotional vouchers may be issued by the Committee for special occasions or events.                                                              |
+| 3.1 |       | The current session fee for all attendees (including Committee members, activity volunteers, and event volunteers) will be listed on the website. |
+|     | 3.1.1 | Carers or support workers are exempt from the session fee (maximum two per individual).                                                           |
+| 3.2 |       | Payment is currently only via cash.                                                                                                               |
+| 3.3 |       | There is no option to pay in advance for future sessions.  Each session is paid for upon joining an activity or event.                            |
+| 3.4 |       | The fee covers the whole session.  There is no reduced rate for partial attendance, nor a refund for leaving early.                               |
+| 3.5 |       | Promotional vouchers may be issued by the Committee for special occasions or events.                                                              |
 
 # 4. Changes to Session Fee
 
@@ -36,20 +36,20 @@ title: Fees and Finance Policy
 
 # 6. Financial Reserve (Managed by the Committee)
 
-| 6.1   | The Committee are responsible for the financial risks associated with managing the Group.  A financial reserve reduces the liabilities of the Committee.  These risks include, but are not limited to: |
-| 6.1.1 | The cost to book venue dates in advance with the associated financial risk that the session fees from those session does not cover the booking cost.                                                   |
-| 6.1.2 | Liability for any damage to the venue.                                                                                                                                                                 |
-| 6.2   | The Committee will operate a financial reserve, funded by surplus session fees.  The reserve will have the following limits:                                                                           |
-| 6.2.1 | Upper limit equal to three months (or 90 days) of venue hire costs.                                                                                                                                    |
-| 6.2.2 | Lower limit equal to one month (or 30 days) of venue hire costs.                                                                                                                                       |
-| 6.3   | If the reserve deviates from the range defined above the Committee will take action.  Possible actions include, but are not limited to:                                                                |
-| 6.3.1 | Purchase additional assets for the Group (reduce reserve).                                                                                                                                             |
-| 6.3.2 | Sell assets owed by the Group (increase reserve).                                                                                                                                                      |
-| 6.3.3 | Increase session fee (increase reserve).                                                                                                                                                               |
-| 6.3.4 | Reduce session fee (reduce reserve).                                                                                                                                                                   |
-| 6.3.5 | Revise session fee structure.  Potentially introduce reduced session fees for specific groups.                                                                                                         |
-| 6.3.6 | Issue promotional vouchers (reduce reserve).                                                                                                                                                           |
-| 6.3.7 | No action if the Committee have plans for an activity, event, or expansion of the Group that would incur additional financial risk to the Group.                                                       |
+| 6.1 |       | The Committee are responsible for the financial risks associated with managing the Group.  A financial reserve reduces the liabilities of the Committee.  These risks include, but are not limited to: |
+|     | 6.1.1 | The cost to book venue dates in advance with the associated financial risk that the session fees from those session does not cover the booking cost.                                                   |
+|     | 6.1.2 | Liability for any damage to the venue.                                                                                                                                                                 |
+| 6.2 |       | The Committee will operate a financial reserve, funded by surplus session fees.  The reserve will have the following limits:                                                                           |
+|     | 6.2.1 | Upper limit equal to three months (or 90 days) of venue hire costs.                                                                                                                                    |
+|     | 6.2.2 | Lower limit equal to one month (or 30 days) of venue hire costs.                                                                                                                                       |
+| 6.3 |       | If the reserve deviates from the range defined above the Committee will take action.  Possible actions include, but are not limited to:                                                                |
+|     | 6.3.1 | Purchase additional assets for the Group (reduce reserve).                                                                                                                                             |
+|     | 6.3.2 | Sell assets owed by the Group (increase reserve).                                                                                                                                                      |
+|     | 6.3.3 | Increase session fee (increase reserve).                                                                                                                                                               |
+|     | 6.3.4 | Reduce session fee (reduce reserve).                                                                                                                                                                   |
+|     | 6.3.5 | Revise session fee structure.  Potentially introduce reduced session fees for specific groups.                                                                                                         |
+|     | 6.3.6 | Issue promotional vouchers (reduce reserve).                                                                                                                                                           |
+|     | 6.3.7 | No action if the Committee have plans for an activity, event, or expansion of the Group that would incur additional financial risk to the Group.                                                       |
 
 # 7. Accountability
 
