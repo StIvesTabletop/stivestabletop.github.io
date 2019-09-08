@@ -17,6 +17,24 @@ toc:
           url: /BoardGames/DnD.html
     - title: RPGs
       url: /RPGs.html
+    - title: Policies
+      subfolderitems:
+        - title: Committee
+          url: /Policies/Committee.html
+        - title: Conduct and Behaviour
+          url: /Policies/ConductAndBehaviour.html
+        - title: Data Protection and Sharing
+          url: /Policies/DataProtectionAndSharing.html
+        - title: Family and Children
+          url: /Policies/FamilyAndChildren.html
+        - title: Fees and Finance
+          url: /Policies/FeesAndFinance.html
+        - title: Newcomers
+          url: /Policies/Newcomers.html
+        - title: Role Playing Games
+          url: /Policies/RPGs.html
+        - title: Social Media
+          url: /Policies/SocialMedia.html
     - title: About Us
       subfolderitems:
         - title: How to Reach Us
