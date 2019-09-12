@@ -12,8 +12,8 @@ We aim to cover:
 
 # Next session
 
-*11th September 2019 @ 7:30pm until 11:00pm*
+*25th September 2019 @ 7:30pm until 11:00pm*
 
 See the [calendar](/Calendar.html) for the following sessions.
 
-![Poster](/images/2019_09_11_Poster.png "Next Session: 11th September"){:class="img_poster"}
+![Poster](/images/2019_09_25_Poster.png "Next Session: 25th September"){:class="img_poster"}
