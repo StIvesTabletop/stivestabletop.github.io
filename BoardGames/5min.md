@@ -19,6 +19,20 @@ A simple but funny game that makes a good start to a games session while everyon
 
 {% include back_to_top.html %}
 
+# Cottage Garden
+
+* 1-4 players
+* 45 min play time
+* "tetris" style pieces
+* [Cottage Garden BGG link](https://boardgamegeek.com/boardgame/204027/cottage-garden)
+
+Build English country gardens with "tetris" style flower tiles and helpful cats.
+Strategically select your tiles (polyominos) from a randomised grid of many different sized and shaped tiles decorated with a variety of flower types and garden furniture.
+Gain points from the number of cloches and flower pots you can include in your garden designs and use a cats as an emergency 1 space filler tile.
+Competitive gardening!
+
+{% include back_to_top.html %}
+
 # Kingdomino
 
 * 2-4 players
@@ -70,22 +84,6 @@ as players thwart each other, no game is the same.
 
 {% include back_to_top.html %}
 
-# Seven Dragons
-
-* 2-5 players
-* 30 min play time
-* card game
-* [7 Dragons BGG link](https://boardgamegeek.com/boardgame/98085/seven-dragons)
-
-Place domino like cards on the table to build a string of 7 adjacent dragons the same colour as your secret goal.
-However there are also cards to change the layout or swap goals between players.
-
-![7 Dragons nearing end game](/images/boardgames/5min/7dragons_02.jpg "7 Dragons nearing end game"){:class="img_game"}
-![7 Dragons placed cards closeup](/images/boardgames/5min/7dragons_04.jpg "7 Dragons placed cards closeup"){:class="img_game"}
-![7 Dragons colours close up](/images/boardgames/5min/7dragons_06.jpg "7 Dragons colours close up"){:class="img_game"}
-
-{% include back_to_top.html %}
-
 # Planet
 
 * 2-4 players
@@ -101,16 +99,18 @@ At the end score points dependent on animal types attracted and a secret terrain
 
 {% include back_to_top.html %}
 
-# Cottage Garden
+# Seven Dragons
 
-* 1-4 players
-* 45 min play time
-* "tetris" style pieces
-* [Cottage Garden BGG link](https://boardgamegeek.com/boardgame/204027/cottage-garden)
+* 2-5 players
+* 30 min play time
+* card game
+* [7 Dragons BGG link](https://boardgamegeek.com/boardgame/98085/seven-dragons)
 
-Build English country gardens with "tetris" style flower tiles and helpful cats.
-Strategically select your tiles (polyominos) from a randomised grid of many different sized and shaped tiles decorated with a variety of flower types and garden furniture.
-Gain points from the number of cloches and flower pots you can include in your garden designs and use a cats as an emergency 1 space filler tile.
-Competitive gardening!
+Place domino like cards on the table to build a string of 7 adjacent dragons the same colour as your secret goal.
+However there are also cards to change the layout or swap goals between players.
+
+![7 Dragons nearing end game](/images/boardgames/5min/7dragons_02.jpg "7 Dragons nearing end game"){:class="img_game"}
+![7 Dragons placed cards closeup](/images/boardgames/5min/7dragons_04.jpg "7 Dragons placed cards closeup"){:class="img_game"}
+![7 Dragons colours close up](/images/boardgames/5min/7dragons_06.jpg "7 Dragons colours close up"){:class="img_game"}
 
 {% include back_to_top.html %}
