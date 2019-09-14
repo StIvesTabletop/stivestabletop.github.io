@@ -2,7 +2,7 @@
 title: Classic or Highly rated Games
 ---
 
-# Carcassone
+# Carcassonne
 
 * 5 minute rules
 * 2-5 players
