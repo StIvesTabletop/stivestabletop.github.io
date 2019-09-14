@@ -17,7 +17,7 @@ A simple game to learn but a lot of strategy in the placement of meeples to scor
 
 {% include back_to_top.html %}
 
-# Kanagawa
+# Kanagawa{% include new_entry.html %}
 
 * 2-4 players
 * 45 min play time
@@ -66,7 +66,7 @@ towns border. You need to balance your resources based on your key incomes and t
 
 {% include back_to_top.html %}
 
-# Takenoko
+# Takenoko{% include new_entry.html %}
 
 * 2-4 players
 * 45 min play time
@@ -78,7 +78,7 @@ A tile placement and garden management game with the aim to met different secret
 
 {% include back_to_top.html %}
 
-# Tikal
+# Tikal{% include new_entry.html %}
 
 * 2-4 players
 * 90 min play time
@@ -95,7 +95,7 @@ A tactical game of cut-throat archeology.
 
 {% include back_to_top.html %}
 
-# Tokaido
+# Tokaido{% include new_entry.html %}
 
 * 2-5 players
 * 45 min play time
