@@ -97,6 +97,11 @@ Each round you try to attract animals to your planet by making it the most favou
 You can see which animals (randomly selected each game) are available in future rounds and can try to plan ahead but it is quite fiendish trying to keep track of all the areas and interactions around a 3D shape.
 At the end score points dependent on animal types attracted and a secret terrain related mission.
 
+![Planet box and contents](/images/boardgames/5min/planet_04.jpg "Planet box and contents"){:class="img_game"}
+![Planet game set up](/images/boardgames/5min/planet_01.jpg "Planet game set up"){:class="img_game"}
+![Planet mid-game close up](/images/boardgames/5min/planet_03.jpg "Planet mid-game close up"){:class="img_game"}
+![Planet finish for 1 player](/images/boardgames/5min/planet_02.jpg "Planet finish for 1 player"){:class="img_game"}
+
 {% include back_to_top.html %}
 
 # Seven Dragons
