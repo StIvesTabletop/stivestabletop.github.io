@@ -33,9 +33,9 @@ If you are interested in knowing more about the games played please follow the l
 * Total session attendance : 13
 * Games played: [Carcassonne][Carc], [Ticket to Ride Europe][TtRE], [Forbidden Island][FI], [Cleopatra][CatSoA], [Planet][Plan] and [Scum and Villainy][SaV] RPG.
 
-[SaV]: /RPGs.html
-[Carc]: /BoardGames/Classic.html
-[TtRE]: /BoardGames/Classic.html
-[FI]: /BoardGames/Co-op.html
-[CatSoA]: /BoardGames/5min.html
-[Plan]: /BoardGames/5min.html
+[SaV]: /RPGs.html#scum--villainy
+[Carc]: /BoardGames/Classic.html#carcassonne
+[TtRE]: /BoardGames/Classic.html#ticket-to-ride
+[FI]: /BoardGames/Co-op.html#forbidden-island
+[CatSoA]: /BoardGames/5min.html#cleopatra-and-the-society-of-architects
+[Plan]: /BoardGames/5min.html#planet
