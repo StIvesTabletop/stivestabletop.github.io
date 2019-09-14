@@ -2,8 +2,31 @@
 title: First Session
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+It was the first session of the St Ives table top gaming club on the of 11th September and we weren't sure what to expect.
+So it was great to be joined by some new keen gamers and after a little deliberation we worked out how to split up based on peoples games preferences and had 3 tables running.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Ross D was Gamesmaster for a [Scum and Villainy][SaV] space themed role playing game which saw 2 bounty hunters navigate a series of scrapes and chases but eventually successfully catch their targets.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Catherine D hosted a competitive board games table with a 4 player game of [Carcassonne][Carc], a worker placement game based around the many walled medieval towns of southern France.
+This was quickly followed by [Ticket to Ride Europe][TtRE] a race to grab the necessary and often hotly contested train routes around Europe required to complete the ticket criteria for additional victory points.
+
+Kathy J hosted a cooperative game of 5 player [Forbidden Island][FI] with some excellent team artefact acquisition then a race to the helicopter against the rapidly rising waters but the team eventually sank beneath the waves with their ill gotten gains.
+Then the table went competitive with a game of [Cleopatra and the Society of Architects][CatSoA], no one had played before but quickly picked up the marketplace and building mechanic.
+However a couple of players were caught out when the game victory conditions were met earlier than expected and they had a full pyramid of corruption from their use of dodgy building building materials.
+It sounded like this game might get another play in a future session now some of the subtleties of the gameplay are clearer.
+
+Then we reformed the tables with those who could stay on for a quick final game and gave [Planet][Plan] an outing.
+This is a simple game adding magnetic terrain tiles to a planet core with the aim to attract different animals which have different terrain preferences.
+At the end of the night thinking about tile placement around a 3D dodecahedron was getting tricky but everyone enjoyed the novel game format and animal theme.
+
+If you are interested in knowing more about the games played please follow the links to the review pages. Otherwise we look forward to the next session on the 25th and hope to get another diverse set of games running, let us know if you have any games suggestions then we can make sure we bring them along.
+
+* Total session attendance : 13
+* Games played: [Carcassonne][Carc], [Ticket to Ride Europe][TtRE], [Forbidden Island][FI], [Cleopatra][CatSoA], [Planet][Plan] and [Scum and Villainy][SaV] RPG.
+
+[SaV]: /RPGs.html
+[Carc]: /BoardGames/Classic.html
+[TtRE]: /BoardGames/Classic.html
+[FI]: /BoardGames/Co-op.html
+[CatSoA]: /BoardGames/5min.html
+[Plan]: /BoardGames/5min.html
