@@ -19,7 +19,7 @@ A simple but funny game that makes a good start to a games session while everyon
 
 {% include back_to_top.html %}
 
-# Cottage Garden
+# Cottage Garden{% include new_entry.html %}
 
 * 1-4 players
 * 45 min play time
@@ -30,22 +30,6 @@ Build English country gardens with "tetris" style flower tiles and helpful cats.
 Strategically select your tiles (polyominos) from a randomised grid of many different sized and shaped tiles decorated with a variety of flower types and garden furniture.
 Gain points from the number of cloches and flower pots you can include in your garden designs and use a cats as an emergency 1 space filler tile.
 Competitive gardening!
-
-{% include back_to_top.html %}
-
-# Kingdomino
-
-* 2-4 players
-* 20 min play time
-* domino tile mechanic with tile drafting
-* [Kingdomino BGG link](https://boardgamegeek.com/boardgame/204583/kingdomino)
-
-Build a kingdom out of domino tiles that feature 6 terrain types. Players use a simple drafting mechanic to select the domino tile they will place
-in the next round. Score points at the end of the game based on consecutive terrain types and tile placement to create a 5x5 grid with your castle
-ideally in the centre.
-
-![Kingdomino game contents](/images/boardgames/5min/kingdomino_01.jpg "Kingdomino game contents"){:class="img_game"}
-![Kingdomino one kingdom near end game](/images/boardgames/5min/kingdomino_05.jpg "Kingdomino one kingdom near end game"){:class="img_game"}
 
 {% include back_to_top.html %}
 
@@ -84,7 +68,23 @@ as players thwart each other, no game is the same.
 
 {% include back_to_top.html %}
 
-# Planet
+# Kingdomino
+
+* 2-4 players
+* 20 min play time
+* domino tile mechanic with tile drafting
+* [Kingdomino BGG link](https://boardgamegeek.com/boardgame/204583/kingdomino)
+
+Build a kingdom out of domino tiles that feature 6 terrain types. Players use a simple drafting mechanic to select the domino tile they will place
+in the next round. Score points at the end of the game based on consecutive terrain types and tile placement to create a 5x5 grid with your castle
+ideally in the centre.
+
+![Kingdomino game contents](/images/boardgames/5min/kingdomino_01.jpg "Kingdomino game contents"){:class="img_game"}
+![Kingdomino one kingdom near end game](/images/boardgames/5min/kingdomino_05.jpg "Kingdomino one kingdom near end game"){:class="img_game"}
+
+{% include back_to_top.html %}
+
+# Planet{% include new_entry.html %}
 
 * 2-4 players
 * 30 min play time
