@@ -19,20 +19,6 @@ A simple but funny game that makes a good start to a games session while everyon
 
 {% include back_to_top.html %}
 
-# Cottage Garden{% include new_entry.html %}
-
-* 1-4 players
-* 45 min play time
-* "tetris" style pieces
-* [Cottage Garden BGG link](https://boardgamegeek.com/boardgame/204027/cottage-garden)
-
-Build English country gardens with "tetris" style flower tiles and helpful cats.
-Strategically select your tiles (polyominos) from a randomised grid of many different sized and shaped tiles decorated with a variety of flower types and garden furniture.
-Gain points from the number of cloches and flower pots you can include in your garden designs and use a cats as an emergency 1 space filler tile.
-Competitive gardening!
-
-{% include back_to_top.html %}
-
 # Cleopatra and the Society of Architects
 
 * 3-5 players
@@ -48,6 +34,20 @@ the crocodiles then the remaining players score to determine the best architect.
 ![Cleopatra palace close up mid game](/images/boardgames/5min/cleopatra_02.jpg "Cleopatra palace close up mid game"){:class="img_game"}
 ![Cleopatra marketplace](/images/boardgames/5min/cleopatra_05.jpg "Cleopatra marketplace"){:class="img_game"}
 ![Cleopatra the quarry of compomnents still to build](/images/boardgames/5min/cleopatra_04.jpg "Cleopatra the quarry of compomnents still to build"){:class="img_game"}
+
+{% include back_to_top.html %}
+
+# Cottage Garden{% include new_entry.html %}
+
+* 1-4 players
+* 45 min play time
+* "tetris" style pieces
+* [Cottage Garden BGG link](https://boardgamegeek.com/boardgame/204027/cottage-garden)
+
+Build English country gardens with "tetris" style flower tiles and helpful cats.
+Strategically select your tiles (polyominos) from a randomised grid of many different sized and shaped tiles decorated with a variety of flower types and garden furniture.
+Gain points from the number of cloches and flower pots you can include in your garden designs and use a cats as an emergency 1 space filler tile.
+Competitive gardening!
 
 {% include back_to_top.html %}
 
