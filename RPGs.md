@@ -34,7 +34,7 @@ Official Website: [Dungeons & Dragons](https://dnd.wizards.com)
 
 Fate is a generic role-playing game system that can be adapted for anything.  It inherently has no setting, and there are even rules to completely co-operatively build the world.  This flexibility means that many settings have been created that utilise the Fate rules and can be picked up for play.  The main goal as players in Fate based systems is to make the other players be awesome.
 
-Official Website: [Fate](http://www.faterpg.com/)
+Official Website: [Fate](http://www.faterpg.com/)  
 SRD: [Fate SRD](https://fate-srd.com/)
 
 {% include back_to_top.html %}
@@ -48,7 +48,7 @@ It is year 1261 since the founding of the Galactic Hegemonic Alliance.  The play
 
 This RPG is based on the Forged in the Dark system (as with Blades in the Dark above) and the stories can be played from a space opera (e.g. Star Wars), to a space western (e.g. Firefly/Cowboy Bebop).
 
-Offical Website: [Scum & Villainy](https://offguardgames.com/scum-and-villainy/)
+Offical Website: [Scum & Villainy](https://offguardgames.com/scum-and-villainy/)  
 On Evil Hat Website: [Evil Hat](https://www.evilhat.com/home/scum-and-villainy/)
 
 {% include back_to_top.html %}
@@ -64,8 +64,8 @@ This is a dystopian, alternate, near-future setting that includes aspects of bot
 
 At the moment, Ross D. already runs a Shadowrun 5th ed. campaign.
 
-Websites:
-[Shadowrun Tabletop](https://www.shadowruntabletop.com)
+Websites:  
+[Shadowrun Tabletop](https://www.shadowruntabletop.com)  
 [Shadowrun Sixth World](https://www.shadowrunsixthworld.com/)
 
 {% include back_to_top.html %}
