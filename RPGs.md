@@ -55,14 +55,14 @@ On Evil Hat Website: [Evil Hat](https://www.evilhat.com/home/scum-and-villainy/)
 
 # Shadowrun
 
-* Techno fantasy
+* Cyberpunk fantasy
 * Adventure driven
 
 The Sixth World is here.  After the magicless period of the Fifth World, magic flooded back into the world, and elves, dwarves, orcs, trolls, and all manner of other metatypes reappeared in the world.  In this alternate, near-future world, megacorporations have gained huge amounts of power and effectively run large parts of the world.  Technology has advanced at a higher rate and life is a hard working utopia for most people.  However, where there’s light, there are the shadows.  The player characters are Shadowrunners.  Existing in  grey areas of the law, they are deniable assets for the corporations as they fight against each other for dominance, or they are actively fighting to take back some of that power from the corporations.
 
 This is a dystopian, alternate, near-future setting that includes aspects of both cyberpunk, as well as typical fantasy (albeit in a near-future setting).  Magic is inexplicably linked to life, or individuals can be cybernetically or biologically enhanced with cyberware, bioware, or geneware.
 
-At the moment, Ross D. already runs a Shadowrun 5th ed. campaign.
+At the moment, Ross D. already runs a Shadowrun 5th ed. campaign outside of the club.
 
 Websites:  
 [Shadowrun Tabletop](https://www.shadowruntabletop.com)  
