@@ -76,6 +76,17 @@ td {
 
 /*------------------------------------------------------------------------------------------------*/
 
+ul.postlist {
+    font: 20px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    list-style-image: url('/assets/cookie-session.png');
+}
+
+span.postexcerpt {
+    font: 14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/*------------------------------------------------------------------------------------------------*/
+
 .img_committee {
     border: 1px solid #dedede;
     border-radius: 4px;
