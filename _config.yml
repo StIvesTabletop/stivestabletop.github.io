@@ -7,4 +7,9 @@ defaults:
             path: "BoardGames"
         values:
             layout: boardgames
+    -
+        scope:
+            path: "_posts"
+        values:
+            layout: post
 sessionstart: "7:30pm"
