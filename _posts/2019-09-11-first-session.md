@@ -32,7 +32,7 @@ If you are interested in knowing more about the games played then please follow 
 Otherwise, we look forward to the next session on the 25th and hope to get another diverse set of games running.
 Let us know if you have any games suggestions and then we can make sure to bring them along.
 
-* Total Session Attendance : 13
+* Total Session Attendance: 13
 * Board Games: [Carcassonne][Carc], [Cleopatra][CatSoA], [Forbidden Island][FI], [Planet][Plan], and [Ticket to Ride: Europe][TtRE]
 * RPGs: [Scum and Villainy][SaV]
 
