@@ -5,8 +5,8 @@ toc:
       url: /Calendar.html
     - title: Board Games
       subfolderitems:
-        - title: Learnt in 5 Mins
-          url: /BoardGames/5min.html
+        - title: By style
+          url: /BoardGames/Style.html
         - title: Classic
           url: /BoardGames/Classic.html
         - title: Co-operative
@@ -15,14 +15,12 @@ toc:
           url: /BoardGames/Explore.html
         - title: Fantasy
           url: /BoardGames/Fantasy.html
+        - title: Far Eastern
+          url: /BoardGames/FarEastern.html
         - title: Historical
           url: /BoardGames/Historical.html
         - title: Nature
           url: /BoardGames/Nature.html
-        - title: Oriental
-          url: /BoardGames/Oriental.html
-        - title: Short
-          url: /BoardGames/Short.html
     - title: RPGs
       url: /RPGs.html
     - title: Blog

@@ -18,7 +18,18 @@ Competitive gardening!
 
 # Fluxx
 
-[Change the rules to get to here...]({{ site.data.BoardGameLinks.Fluxx }})
+* 2-6 players
+* 5-30 min play time
+* card game
+* [Fluxx BGG link](https://boardgamegeek.com/boardgame/258/fluxx)
+
+A simple fast paced games where the rules and end goal change almost every turn. Many themes are available from space or pirates to nataure and family.
+You start by taking a card and playing a card and building some keeper cards on the table. A certain combination of keepers wins the game but the
+other gamers will be changing the goals so they have the right combination not you. Can be won in a couple of rounds or go round for many turns
+as players thwart each other, no game is the same.
+
+![Eco Fluxx example 3 player game](/images/boardgames/5min/ecofluxx_01.jpg "Eco Fluxx example 3 player game"){:class="img_game"}
+![Eco Fluxx 2 hand close up](/images/boardgames/5min/ecofluxx_03.jpg "Eco Fluxx 2 hand close up"){:class="img_game"}
 
 {% include back_to_top.html %}
 
