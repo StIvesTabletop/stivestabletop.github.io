@@ -12,6 +12,5 @@ defaults:
             path: "_posts"
         values:
             layout: post
-sessionstart: "7:30pm"
 plugins:
     - jekyll-sitemap
