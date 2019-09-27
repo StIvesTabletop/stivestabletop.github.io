@@ -12,6 +12,3 @@ defaults:
             path: "_posts"
         values:
             layout: post
-NextSessionDate: 2019-10-09
-SessionStart: "19:30"
-SessionEnd: "23:00"
