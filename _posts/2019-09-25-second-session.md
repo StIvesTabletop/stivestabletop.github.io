@@ -19,7 +19,7 @@ Alex taught Dice Hospital to 2 new players, which resulted in a very tight finis
 All 3 games conveniently finished within 5 minutes of each other and, after a tea break (all the hot beverage drinking gamers seem to prefer tea, though coffee, squash and biscuits are available) and a table reshuffle, the remaining 8 players split into 2 new 4-player tables.
 
 Catherine D. led a game of [Kanagawa][Kana], a Japanese themed painting game where you develop a panorama over a series of rounds.
-Alex led another new game, Quadopolis, a city building game with architects competing over the civic structures they can use to develop their city.
+Alex led another new game, Quadropolis, a city building game with architects competing over the civic structures they can use to develop their city.
 
 ![Kanagawa](/images/posts/2019_09_25/Kanagawa.jpg "Middle of painting in Kanagawa"){:class="img_post"}
 ![Quadropolis](/images/posts/2019_09_25/Quadropolis.jpg "Quadrolopolis city building"){:class="img_post"}
