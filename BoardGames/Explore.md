@@ -2,6 +2,22 @@
 title: Exploring and Adventure Board Games
 ---
 
+# Forbidden Island
+
+* 2-4 players
+* 30 min play time
+* board game with card deck mechanic
+* [Forbidden Island BGG link](https://boardgamegeek.com/boardgame/65244/forbidden-island)
+
+It is a race aganst the rising floodwaters for your team of treasure hunters to acquire the four artefacts and make it back to the helicopter.
+After each turn a card deck controls the rising flood in a similar way to Pandemic so you can determine which areas of the isaland are the most
+likely to submerge first.
+
+![Forbidden Island game start](/images/boardgames/co-op/forbiddenisland_01.jpg "Forbidden Island game start"){:class="img_game"}
+![Forbidden Island waters have risen](/images/boardgames/co-op/forbiddenisland_03.jpg "Forbidden Island waters have risen"){:class="img_game"}
+
+{% include back_to_top.html %}
+
 # Incan Gold
 
 * 3-8 players

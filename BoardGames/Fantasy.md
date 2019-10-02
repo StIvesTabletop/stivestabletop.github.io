@@ -14,8 +14,8 @@ A simple but funny game that makes a good start to a games session while everyon
 
 ![Braggart a full four card story](/images/boardgames/5min/braggart_05.jpg "Braggart a full four card story"){:class="img_game"}
 ![Braggart story changed by lie accusation](/images/boardgames/5min/braggart_06.jpg "Braggart story changed by lie accusation"){:class="img_game"}
-![Braggart example hand 1](/images/boardgames/5min/braggart_03.jpg "Braggart example hand 1"){:class="img_game"}
-![Braggart example hand 2](/images/boardgames/5min/braggart_04.jpg "Braggart example hand 2"){:class="img_game"}
+![Braggart example hand 1](/images/boardgames/5min/braggart_04.jpg "Braggart example hand 1"){:class="img_game"}
+![Braggart example hand 2](/images/boardgames/5min/braggart_03.jpg "Braggart example hand 2"){:class="img_game"}
 
 {% include back_to_top.html %}
 

@@ -1,5 +1,5 @@
 ---
-title: Classic or Highly Rated Board Games
+title: Development Board Games
 ---
 
 # Carcassonne
