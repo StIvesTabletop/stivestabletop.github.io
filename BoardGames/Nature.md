@@ -16,6 +16,21 @@ Competitive gardening!
 
 {% include back_to_top.html %}
 
+# Evolution Climate{% include new_entry.html %}
+
+* 2-6 players
+* 60 min play time
+* Card mechanic
+* [Evolution Climate BGG link](https://boardgamegeek.com/boardgame/182134/evolution-climate)
+
+Adapt your species and survive in a constantly changing environment.
+Each round you can choose how many species to nurture and develop, at the end of the round you need to be able to feed all your surviving creatures.
+Also the weather is changing and a creature adapted for a warm climate may suffer if a bout of global cooling occurs in the next round.
+Do you breed a pack of small burrowing plant eaters or focus on a few camouflaged carnivores, warm coats or cooling frills, hibernating or migratory?
+Each species can only have four traits so choose wisely and watch what other creatures are evolving next door so you dont become their dinner!
+
+{% include back_to_top.html %}
+
 # Fluxx
 
 * 2-6 players

@@ -42,3 +42,18 @@ the crocodiles then the remaining players score to determine the best architect.
 ![Cleopatra the quarry of compomnents still to build](/images/boardgames/5min/cleopatra_04.jpg "Cleopatra the quarry of compomnents still to build"){:class="img_game"}
 
 {% include back_to_top.html %}
+
+# Puerto Rico{% include new_entry.html %}
+
+* 3-5 players
+* 90 min play time
+* City building and trading
+* [Puerto Rico BGG link][https://boardgamegeek.com/boardgame/3076/puerto-rico]
+
+You play the governor of the thriving trading colony and Caribbean island of Puerto Rico.
+Each round you select one of 7 roles bringing a bonus for you to that role, for instance all players can construct during the builder phase if they have enough coins but the official builder receives a discount on building costs.
+It also means that not all roles are selected each turn, so your strategy can make use of which roles you think your competitors will choose.
+With limits on how many goods can be stored before they go off and limited space on the trading ships it is a careful balance of production, trading or construction of buildings with properties that assist your expanding trading empire.
+You score victory points through building and trading, fairly simple to learn after playing a couple of rounds but there is a lot of strategy and variety in the choice of roles and constructions to rake in those doubloons.
+
+{% include back_to_top.html %}

@@ -2,6 +2,23 @@
 title: Far Eastern Themed Board Games
 ---
 
+# Hanabi
+
+* 5 minute rules
+* 2-5 players
+* 30 min play time
+* card game
+* [Hanabi BGG link](https://boardgamegeek.com/boardgame/98778/hanabi)
+
+Your team are hosting a firework festival, you need to release the fireworks in the correct sequence; the only problem is you can't see your
+cards but your team mates can and need to give you clues so you release your fireworks at the right time. Simple to learn but tricky to create
+the perfect display.
+
+![Hanabi game contents](/images/boardgames/co-op/hanabi_01.jpg "Hanabi game contents"){:class="img_game"}
+![Hanabi display partway through game](/images/boardgames/co-op/hanabi_03.jpg "Hanabi display partway through game"){:class="img_game"}
+
+{% include back_to_top.html %}
+
 # Kanagawa{% include new_entry.html %}
 
 * 2-4 players
@@ -47,8 +64,8 @@ ultimately your ninja score.
 Cultivate multicoloured bamboo gardens, feed pandas.
 A tile placement and garden management game with the aim to met different secret objectives relating to tile type and position, bamboo heights or panda feeding.
 
-![Takenoko bamboo garden - early game](/images/boardgames/takenoko_01.jpg "Takenoko bamboo garden - early game"){:class="img_game"}
 ![Takenoko showing Panda, Mrs Panda and Gardener](/images/boardgames/takenoko_02.jpg "Takenoko showing Panda, Mrs Panda and Gardener"){:class="img_game"}
+![Takenoko bamboo garden - early game](/images/boardgames/takenoko_01.jpg "Takenoko bamboo garden - early game"){:class="img_game"}
 ![Bamboo growing late in Takenoko](/images/boardgames/takenoko_03.jpg "Bamboo growing late in Takenoko"){:class="img_game"}
 ![Takenoko winning player board](/images/boardgames/takenoko_04.jpg "Takenoko winning player board"){:class="img_game"}
 

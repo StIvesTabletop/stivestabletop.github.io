@@ -7,10 +7,8 @@ toc:
       subfolderitems:
         - title: By style
           url: /BoardGames/Style.html
-        - title: Classic
-          url: /BoardGames/Classic.html
-        - title: Co-operative
-          url: /BoardGames/Co-op.html
+        - title: Development
+          url: /BoardGames/Development.html
         - title: Exploration
           url: /BoardGames/Explore.html
         - title: Fantasy
@@ -21,6 +19,8 @@ toc:
           url: /BoardGames/Historical.html
         - title: Nature
           url: /BoardGames/Nature.html
+        - title: Professionals
+          url: /BoardGames/Professions.html
     - title: RPGs
       url: /RPGs.html
     - title: Blog

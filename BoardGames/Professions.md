@@ -1,6 +1,22 @@
 ---
-title: Co-operative (Co-op) Board Games
+title: Working Professionals in Board Games
 ---
+
+# Dice Hospital{% include new_entry.html %}
+
+* 1-4 players
+* 60 min play time
+* Dice and worker placement
+* [Dice Hospital BGG link](https://boardgamegeek.com/boardgame/218121/dice-hospital)
+
+You are running a hospital were the patients are dice and their health is indicated by the uppermost face value, 1 is near death but boost them to above 6 and you can discharge them for reputation points.
+Played over 8 rounds, each round 3 new dice patients arrive filling up your wards but you get to upgrade your hospital by adding a new ward or staff specialist.
+The strategy comes from the decisions over how best to build and use the hospital resources and which dice to heal and which need to be neglected.
+
+![Dice Hospital start](/images/boardgames/dicehospital_01.jpg "Dice Hospital start"){:class="img_game"}
+![Dice Hospital end game](/images/boardgames/dicehospital_03.jpg "Dice Hospital end game"){:class="img_game"}
+
+{% include back_to_top.html %}
 
 # Flash Point: Fire Rescue
 
@@ -15,39 +31,6 @@ After each firefighters turn the fire will spread using a dice mechanic to rando
 ![Flash Point game start](/images/boardgames/co-op/flashpoint_02.jpg "Flash Point game start"){:class="img_game"}
 ![Flash Point firefighters enter the building](/images/boardgames/co-op/flashpoint_03.jpg "Flash Point firefighters enter the building"){:class="img_game"}
 ![Flash Point raging inferno](/images/boardgames/co-op/flashpoint_04.jpg "Flash Point raging inferno"){:class="img_game"}
-
-{% include back_to_top.html %}
-
-# Forbidden Island
-
-* 2-4 players
-* 30 min play time
-* board game with card deck mechanic
-* [Forbidden Island BGG link](https://boardgamegeek.com/boardgame/65244/forbidden-island)
-
-It is a race aganst the rising floodwaters for your team of treasure hunters to acquire the four artefacts and make it back to the helicopter.
-After each turn a card deck controls the rising flood in a similar way to Pandemic so you can determine which areas of the isaland are the most
-likely to submerge first.
-
-![Forbidden Island game start](/images/boardgames/co-op/forbiddenisland_01.jpg "Forbidden Island game start"){:class="img_game"}
-![Forbidden Island waters have risen](/images/boardgames/co-op/forbiddenisland_03.jpg "Forbidden Island waters have risen"){:class="img_game"}
-
-{% include back_to_top.html %}
-
-# Hanabi
-
-* 5 minute rules
-* 2-5 players
-* 30 min play time
-* card game
-* [Hanabi BGG link](https://boardgamegeek.com/boardgame/98778/hanabi)
-
-Your team are hosting a firework festival, you need to release the fireworks in the correct sequence; the only problem is you can't see your
-cards but your team mates can and need to give you clues so you release your fireworks at the right time. Simple to learn but tricky to create
-the perfect display.
-
-![Hanabi game contents](/images/boardgames/co-op/hanabi_01.jpg "Hanabi game contents"){:class="img_game"}
-![Hanabi display partway through game](/images/boardgames/co-op/hanabi_03.jpg "Hanabi display partway through game"){:class="img_game"}
 
 {% include back_to_top.html %}
 
