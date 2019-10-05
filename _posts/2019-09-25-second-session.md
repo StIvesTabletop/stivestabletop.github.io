@@ -10,7 +10,7 @@ The RPG table was where John led a lively Cthulhu Dark one-shot session, with 4 
 
 Jeremy J. started a 3-player game of [Tikal][Tika], a game of exploration and archaeological plundering in the forests of Guatemala, which was close until the last scoring round.
 Simon W. led a 3-player game of [7 Wonders][7W], a card laying development game with an ancient history theme.
-Alex taught Dice Hospital to 2 new players, which resulted in a very tight finish with all 3 players on the same score through healing patients until you factored in the negative points for those in the mortuary!
+Alex taught [Dice Hospital][DH] to 2 new players, which resulted in a very tight finish with all 3 players on the same score through healing patients until you factored in the negative points for those in the mortuary!
 
 ![Tikal](/images/posts/2019_09_25/Tikal.jpg "Tikal middle of exploration"){:class="img_post"}
 ![7 Wonders](/images/posts/2019_09_25/7Wonders.jpg "7 Wonders - three built wonders"){:class="img_post"}
@@ -31,9 +31,10 @@ Thanks to players who brought their own games and were willing to teach them.
 Let us know if you have any suggestions for the next session on the 9th of October on Facebook, Discord or by email.
 
 * Total Session Attendance: 14
-* Board Games: [Tikal][Tika], [7 Wonders][7W], Dice Hospital, [Kanagawa][Kana], Quadropolis, [Kingdomino][King], [Seven Dragons][7D].
+* Board Games: [Tikal][Tika], [7 Wonders][7W], [Dice Hospital][DH], [Kanagawa][Kana], Quadropolis, [Kingdomino][King], [Seven Dragons][7D].
 * RPG: Cthulhu Dark - RPG of cosmic horror!
 
+[DH]: {{ site.data.BoardGameLinks.DiceHospital }}
 [Tika]: {{ site.data.BoardGameLinks.Tikal }}
 [7W]: {{ site.data.BoardGameLinks.SevenWonders }}
 [Kana]: {{ site.data.BoardGameLinks.Kanagawa }}
