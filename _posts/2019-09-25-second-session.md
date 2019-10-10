@@ -34,9 +34,9 @@ Let us know if you have any suggestions for the next session on the 9th of Octob
 * Board Games: [Tikal][Tika], [7 Wonders][7W], [Dice Hospital][DH], [Kanagawa][Kana], Quadropolis, [Kingdomino][King], [Seven Dragons][7D].
 * RPG: Cthulhu Dark - RPG of cosmic horror!
 
-[DH]: {{ site.data.BoardGameLinks.DiceHospital }}
-[Tika]: {{ site.data.BoardGameLinks.Tikal }}
-[7W]: {{ site.data.BoardGameLinks.SevenWonders }}
-[Kana]: {{ site.data.BoardGameLinks.Kanagawa }}
-[King]: {{ site.data.BoardGameLinks.Kingdomino }}
-[7D]: {{ site.data.BoardGameLinks.SevenDragons }}
+[DH]: {{ site.data.BoardGameLinks.DiceHospital.InternalLink }}
+[Tika]: {{ site.data.BoardGameLinks.Tikal.InternalLink }}
+[7W]: {{ site.data.BoardGameLinks.SevenWonders.InternalLink }}
+[Kana]: {{ site.data.BoardGameLinks.Kanagawa.InternalLink }}
+[King]: {{ site.data.BoardGameLinks.Kingdomino.InternalLink }}
+[7D]: {{ site.data.BoardGameLinks.SevenDragons.InternalLink }}

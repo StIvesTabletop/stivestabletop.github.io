@@ -1,21 +1,42 @@
-Braggart: "/BoardGames/Fantasy.html#braggart"
-Carcassonne: "/BoardGames/Development.html#carcassonne"
-CleopatraAndTheSocietyOfArchitects: "/BoardGames/Historical.html#cleopatra-and-the-society-of-architects"
-CottageGarden: "/BoardGames/Nature.html#cottage-garden"
-DiceHospital: "/BoardGames/Professions.html#dice-hospital"
-FlashPoint: "/BoardGames/Professions.html#flash-point-fire-rescue"
-Fluxx: "/BoardGames/Nature.html#fluxx"
-ForbiddenIsland: "/BoardGames/Explore.html#forbidden-island"
-Hanabi: "/BoardGames/FarEastern.html#hanabi"
-IncanGold: "/BoardGames/Explore.html#incan-gold"
-Kanagawa: "/BoardGames/FarEastern.html#kanagawa"
-Kingdomino: "/BoardGames/Fantasy.html#kingdomino"
-MagicMaze: "/BoardGames/Explore.html#magic-maze"
-NinjaCamp: "/BoardGames/FarEastern.html#ninja-camp"
-Pandemic: "/BoardGames/Professions.html#pandemic"
-Planet: "/BoardGames/Nature.html#planet"
-SettlersOfCatan: "/BoardGames/Development.html#settlers-of-catan"
-SevenDragons: "/BoardGames/Fantasy.html#seven-dragons"
-SevenWonders: "/BoardGames/Historical.html#7-wonders"
-TicketToRide: "/BoardGames/Development.html#ticket-to-ride"
-Tikal: "/BoardGames/Explore.html#tikal"
+Braggart:
+    InternalLink: "/BoardGames/Fantasy.html#braggart"
+Carcassonne:
+    InternalLink: "/BoardGames/Development.html#carcassonne"
+CleopatraAndTheSocietyOfArchitects:
+    InternalLink: "/BoardGames/Historical.html#cleopatra-and-the-society-of-architects"
+CottageGarden:
+    InternalLink: "/BoardGames/Nature.html#cottage-garden"
+DiceHospital:
+    InternalLink: "/BoardGames/Professions.html#dice-hospital"
+FlashPoint:
+    InternalLink: "/BoardGames/Professions.html#flash-point-fire-rescue"
+Fluxx:
+    InternalLink: "/BoardGames/Nature.html#fluxx"
+ForbiddenIsland:
+    InternalLink: "/BoardGames/Explore.html#forbidden-island"
+Hanabi:
+    InternalLink: "/BoardGames/FarEastern.html#hanabi"
+IncanGold:
+    InternalLink: "/BoardGames/Explore.html#incan-gold"
+Kanagawa:
+    InternalLink: "/BoardGames/FarEastern.html#kanagawa"
+Kingdomino:
+    InternalLink: "/BoardGames/Fantasy.html#kingdomino"
+MagicMaze:
+    InternalLink: "/BoardGames/Explore.html#magic-maze"
+NinjaCamp:
+    InternalLink: "/BoardGames/FarEastern.html#ninja-camp"
+Pandemic:
+    InternalLink: "/BoardGames/Professions.html#pandemic"
+Planet:
+    InternalLink: "/BoardGames/Nature.html#planet"
+SettlersOfCatan:
+    InternalLink: "/BoardGames/Development.html#settlers-of-catan"
+SevenDragons:
+    InternalLink: "/BoardGames/Fantasy.html#seven-dragons"
+SevenWonders:
+    InternalLink: "/BoardGames/Historical.html#7-wonders"
+TicketToRide:
+    InternalLink: "/BoardGames/Development.html#ticket-to-ride"
+Tikal:
+    InternalLink: "/BoardGames/Explore.html#tikal"
