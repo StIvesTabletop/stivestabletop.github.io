@@ -7,7 +7,7 @@ title: Historical Themed Board Games
 * 3-7 players
 * 30-45 minutes play time
 * Card drafting
-* [7 Wonders BGG link](https://boardgamegeek.com/boardgame/68448/7-wonders)
+* [7 Wonders BGG link]({{ site.data.BoardGameLinks.SevenWonders.BGGLink }})
 
 Develop one of the 7 Wonders of the ancient world over 3 Ages.
 You need to balance collecting building resources against the different methods of scoring victory points;

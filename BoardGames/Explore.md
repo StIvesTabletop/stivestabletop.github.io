@@ -7,7 +7,7 @@ title: Exploring and Adventure Board Games
 * 2-4 players
 * 30 min play time
 * board game with card deck mechanic
-* [Forbidden Island BGG link](https://boardgamegeek.com/boardgame/65244/forbidden-island)
+* [Forbidden Island BGG link]({{ site.data.BoardGameLinks.ForbiddenIsland.BGGLink }})
 
 It is a race aganst the rising floodwaters for your team of treasure hunters to acquire the four artefacts and make it back to the helicopter.
 After each turn a card deck controls the rising flood in a similar way to Pandemic so you can determine which areas of the isaland are the most
@@ -18,12 +18,12 @@ likely to submerge first.
 
 {% include back_to_top.html %}
 
-# Incan Gold
+# Diamant/Incan Gold
 
 * 3-8 players
 * 20 min play time
 * card game
-* [Incan Gold BGG link](https://boardgamegeek.com/boardgame/15512/diamant)
+* [Diamant/Incan Gold BGG link]({{ site.data.BoardGameLinks.Diamant.BGGLink }})
 
 A push your luck game, the further you venture into the temple the more treasure you can acquire but also more chance of being caught in a
 trap and getting nothing.
@@ -40,7 +40,7 @@ trap and getting nothing.
 * 1-8 players
 * 15 min play time
 * board game
-* [Magic Maze BGG link](https://boardgamegeek.com/boardgame/209778/magic-maze)
+* [Magic Maze BGG link]({{ site.data.BoardGameLinks.MagicMaze.BGGLink }})
 
 Your team of adventurers needs to explore and locate 4 shops in the magic shopping mall, rob them (equipment for your next adventure) and escape.
 The catch; players can't talk and each player only controls a subset of the adventurer actions. A cooperative heist game with a difference.
@@ -55,7 +55,7 @@ The catch; players can't talk and each player only controls a subset of the adve
 * 2-4 players
 * 90 min play time
 * board game
-* [Tikal BGG link](https://boardgamegeek.com/boardgame/54/tikal)
+* [Tikal BGG link]({{ site.data.BoardGameLinks.Tikal.BGGLink }})
 
 You command a team of archeologists plundering the forest temples of the ancient city of Tikal in Guatemala.
 Each turn you have 10 action points to spend on exploring, uncovering temples, digging up artefacts and deploying your team to protect your temples.

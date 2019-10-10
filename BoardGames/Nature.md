@@ -7,7 +7,7 @@ title: Nature Themed Board Games
 * 1-4 players
 * 45 min play time
 * "tetris" style pieces
-* [Cottage Garden BGG link](https://boardgamegeek.com/boardgame/204027/cottage-garden)
+* [Cottage Garden BGG link]({{ site.data.BoardGameLinks.CottageGarden.BGGLink }})
 
 Build English country gardens with "tetris" style flower tiles and helpful cats.
 Strategically select your tiles (polyominos) from a randomised grid of many different sized and shaped tiles decorated with a variety of flower types and garden furniture.
@@ -21,7 +21,7 @@ Competitive gardening!
 * 2-6 players
 * 60 min play time
 * Card mechanic
-* [Evolution Climate BGG link](https://boardgamegeek.com/boardgame/182134/evolution-climate)
+* [Evolution Climate BGG link]({{ site.data.BoardGameLinks.EvolutionClimate.BGGLink }})
 
 Adapt your species and survive in a constantly changing environment.
 Each round you can choose how many species to nurture and develop, at the end of the round you need to be able to feed all your surviving creatures.
@@ -36,7 +36,7 @@ Each species can only have four traits so choose wisely and watch what other cre
 * 2-6 players
 * 5-30 min play time
 * card game
-* [Fluxx BGG link](https://boardgamegeek.com/boardgame/258/fluxx)
+* [Fluxx BGG link]({{ site.data.BoardGameLinks.Fluxx.BGGLink }})
 
 A simple fast paced games where the rules and end goal change almost every turn. Many themes are available from space or pirates to nataure and family.
 You start by taking a card and playing a card and building some keeper cards on the table. A certain combination of keepers wins the game but the
@@ -53,7 +53,7 @@ as players thwart each other, no game is the same.
 * 2-4 players
 * 30 min play time
 * 3D magnetic pieces
-* [Planet BGG link](https://boardgamegeek.com/boardgame/252929/planet)
+* [Planet BGG link]({{ site.data.BoardGameLinks.Planet.BGGLink }})
 
 Each player receives a planet core which is a magnetic dodecahedron (12 faces) and on each round they choose and add a terrain tile.
 Terrain tiles are pentagons consisting of 5 triangles of various combinations of sea, mountain, ice, forest or desert.

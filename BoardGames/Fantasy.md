@@ -7,7 +7,7 @@ title: Fantasy Themed Board Games
 * 2-6 players
 * 30 min play time
 * card game
-* [Braggart BGG link](https://boardgamegeek.com/boardgame/72420/braggart)
+* [Braggart BGG link]({{ site.data.BoardGameLinks.Braggart.BGGLink }})
 
 You are telling tall tales of your adventuring exploits in the tavern. Combine cards to tell a story and accuse others of lying about their adventures.
 A simple but funny game that makes a good start to a games session while everyone arrives.
@@ -24,7 +24,7 @@ A simple but funny game that makes a good start to a games session while everyon
 * 1-5 players
 * 60+ min play time
 * board game with cards and figurines
-* [Castle Ravenloft BGG link](https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game)
+* [Castle Ravenloft BGG link]({{ site.data.BoardGameLinks.CastleRavenloft.BGGLink }})
 
 A light introduction to D&D. The game comes with dungeon tiles, figurines, pre-designed characters and scenarios. Simplified rules for exploration and combat let you get into the action quickly. There is a level of character customisation through initial power selections and some character progression as you gain experience. Plenty of player designed downloadable additional content available.
 
@@ -41,7 +41,7 @@ A light introduction to D&D. The game comes with dungeon tiles, figurines, pre-d
 * 2-4 players
 * 20 min play time
 * domino tile mechanic with tile drafting
-* [Kingdomino BGG link](https://boardgamegeek.com/boardgame/204583/kingdomino)
+* [Kingdomino BGG link]({{ site.data.BoardGameLinks.Kingdomino.BGGLink }})
 
 Build a kingdom out of domino tiles that feature 6 terrain types. Players use a simple drafting mechanic to select the domino tile they will place
 in the next round. Score points at the end of the game based on consecutive terrain types and tile placement to create a 5x5 grid with your castle
@@ -58,7 +58,7 @@ ideally in the centre.
 * 3-6 players
 * 30 min play time
 * card game
-* [Rock Paper Wizard BGG link](https://boardgamegeek.com/boardgame/207062/dungeons-dragons-rock-paper-wizard)
+* [Rock Paper Wizard BGG link]({{ site.data.BoardGameLinks.RockPaperWizard.BGGLink }})
 
 A short game where adventurers fight to divide the loot using a shared spellbook. Each round players choose a spell and simultaneously make the hand gesture for the spell towards its player target. Then resolve the ensuing chaos of success or spell reversals until the loot has been divided. A fun take on D&D whilst waiting for the main session to start.
 
@@ -73,7 +73,7 @@ A short game where adventurers fight to divide the loot using a shared spellbook
 * 2-5 players
 * 30 min play time
 * card game
-* [7 Dragons BGG link](https://boardgamegeek.com/boardgame/98085/seven-dragons)
+* [Seven Dragons BGG link]({{ site.data.BoardGameLinks.SevenDragons.BGGLink }})
 
 Place domino like cards on the table to build a string of 7 adjacent dragons the same colour as your secret goal.
 However there are also cards to change the layout or swap goals between players.

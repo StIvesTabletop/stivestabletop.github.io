@@ -10,7 +10,7 @@ This page organizes games into different playing styles and categories, and prov
 
 * Re-build the famous old walled towns of [Carcassonne]({{ site.data.BoardGameLinks.Carcassonne.InternalLink }}).
 * As one of the [Settlers of Catan]({{ site.data.BoardGameLinks.SettlersOfCatan.InternalLink }}) create the best settlement on the island.
-* Develop a great train network in Europe in [Ticket to Ride]({{ site.data.BoardGameLinks.TicketToRide.InternalLink }}).
+* Develop a great train network in Europe in [Ticket to Ride]({{ site.data.BoardGameLinks.TicketToRideEurope.InternalLink }}).
 
 # Co-operative (Co-op)
 
@@ -35,4 +35,4 @@ This page organizes games into different playing styles and categories, and prov
 
 * Steal a weapon and escape a [Magic Maze]({{ site.data.BoardGameLinks.MagicMaze.InternalLink }}) together.
 * Train at the [Ninja Camp]({{ site.data.BoardGameLinks.NinjaCamp.InternalLink }}) to become the best.
-* Explore a dangerous temple for [Incan Gold]({{ site.data.BoardGameLinks.IncanGold.InternalLink }}).
+* Explore a dangerous temple for [Incan Gold]({{ site.data.BoardGameLinks.Diamant.InternalLink }}).

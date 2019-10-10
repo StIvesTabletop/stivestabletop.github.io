@@ -1,42 +1,78 @@
 Braggart:
+    BGGLink: "https://boardgamegeek.com/boardgame/72420/braggart"
     InternalLink: "/BoardGames/Fantasy.html#braggart"
 Carcassonne:
+    BGGLink: "https://boardgamegeek.com/boardgame/822/carcassonne"
     InternalLink: "/BoardGames/Development.html#carcassonne"
+CastleRavenloft:
+    BGGLink: "https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game"
+    InternalLink: "/BoardGames/Fantasy.html#castle-ravenloft"
 CleopatraAndTheSocietyOfArchitects:
     InternalLink: "/BoardGames/Historical.html#cleopatra-and-the-society-of-architects"
 CottageGarden:
+    BGGLink: "https://boardgamegeek.com/boardgame/204027/cottage-garden"
     InternalLink: "/BoardGames/Nature.html#cottage-garden"
 DiceHospital:
+    BGGLink: "https://boardgamegeek.com/boardgame/218121/dice-hospital"
     InternalLink: "/BoardGames/Professions.html#dice-hospital"
+EvolutionClimate:
+    BGGLink: "https://boardgamegeek.com/boardgame/182134/evolution-climate"
+    InternalLink: "/BoardGames/Nature.html#evolution-climate"
 FlashPoint:
+    BGGLink: "https://boardgamegeek.com/boardgame/100901/flash-point-fire-rescue"
     InternalLink: "/BoardGames/Professions.html#flash-point-fire-rescue"
 Fluxx:
+    BGGLink: "https://boardgamegeek.com/boardgame/258/fluxx"
     InternalLink: "/BoardGames/Nature.html#fluxx"
 ForbiddenIsland:
+    BGGLink: "https://boardgamegeek.com/boardgame/65244/forbidden-island"
     InternalLink: "/BoardGames/Explore.html#forbidden-island"
 Hanabi:
+    BGGLink: "https://boardgamegeek.com/boardgame/98778/hanabi"
     InternalLink: "/BoardGames/FarEastern.html#hanabi"
-IncanGold:
-    InternalLink: "/BoardGames/Explore.html#incan-gold"
+Diamant:
+    BGGLink: "https://boardgamegeek.com/boardgame/15512/diamant"
+    InternalLink: "/BoardGames/Explore.html#diamantincan-gold"
 Kanagawa:
+    BGGLink: "https://boardgamegeek.com/boardgame/200147/kanagawa"
     InternalLink: "/BoardGames/FarEastern.html#kanagawa"
 Kingdomino:
+    BGGLink: "https://boardgamegeek.com/boardgame/204583/kingdomino"
     InternalLink: "/BoardGames/Fantasy.html#kingdomino"
 MagicMaze:
+    BGGLink: "https://boardgamegeek.com/boardgame/209778/magic-maze"
     InternalLink: "/BoardGames/Explore.html#magic-maze"
 NinjaCamp:
+    BGGLink: "https://boardgamegeek.com/boardgame/176565/ninja-camp"
     InternalLink: "/BoardGames/FarEastern.html#ninja-camp"
 Pandemic:
+    BGGLink: "https://boardgamegeek.com/boardgame/30549/pandemic"
     InternalLink: "/BoardGames/Professions.html#pandemic"
 Planet:
+    BGGLink: "https://boardgamegeek.com/boardgame/252929/planet"
     InternalLink: "/BoardGames/Nature.html#planet"
+RockPaperWizard:
+    BGGLink: "https://boardgamegeek.com/boardgame/207062/dungeons-dragons-rock-paper-wizard"
+    InternalLink: "/BoardGames/Fantasy.html#rock-paper-wizard"
 SettlersOfCatan:
+    BGGLink: "https://www.boardgamegeek.com/boardgame/13/catan"
     InternalLink: "/BoardGames/Development.html#settlers-of-catan"
 SevenDragons:
+    BGGLink: "https://boardgamegeek.com/boardgame/98085/seven-dragons"
     InternalLink: "/BoardGames/Fantasy.html#seven-dragons"
 SevenWonders:
+    BGGLink: "https://boardgamegeek.com/boardgame/68448/7-wonders"
+    ImageLink: "/images/boardgames/7wonders"
     InternalLink: "/BoardGames/Historical.html#7-wonders"
-TicketToRide:
+Takenoko:
+    BGGLink: "https://boardgamegeek.com/boardgame/70919/takenoko"
+    InternalLink: "/BoardGames/FarEastern.html#takenoko"
+TicketToRideEurope:
+    BGGLink: "https://boardgamegeek.com/boardgame/14996/ticket-ride-europe"
     InternalLink: "/BoardGames/Development.html#ticket-to-ride"
 Tikal:
+    BGGLink: "https://boardgamegeek.com/boardgame/54/tikal"
     InternalLink: "/BoardGames/Explore.html#tikal"
+Tokaido:
+    BGGLink: "https://boardgamegeek.com/boardgame/123540/tokaido"
+    InternalLink: "/BoardGames/FarEastern.html#tokaido"
