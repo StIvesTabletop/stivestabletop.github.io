@@ -48,7 +48,7 @@ the crocodiles then the remaining players score to determine the best architect.
 * 3-5 players
 * 90 min play time
 * City building and trading
-* [Puerto Rico BGG link][https://boardgamegeek.com/boardgame/3076/puerto-rico]
+* [Puerto Rico BGG link](https://boardgamegeek.com/boardgame/3076/puerto-rico)
 
 You play the governor of the thriving trading colony and Caribbean island of Puerto Rico.
 Each round you select one of 7 roles bringing a bonus for you to that role, for instance all players can construct during the builder phase if they have enough coins but the official builder receives a discount on building costs.
