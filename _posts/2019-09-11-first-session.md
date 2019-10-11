@@ -36,9 +36,9 @@ Let us know if you have any games suggestions and then we can make sure to bring
 * Board Games: [Carcassonne][Carc], [Cleopatra][CatSoA], [Forbidden Island][FI], [Planet][Plan], and [Ticket to Ride: Europe][TtRE]
 * RPGs: [Scum and Villainy][SaV]
 
-[SaV]: {{ site.data.RPGLinks.ScumAndVillainy }}
-[Carc]: {{ site.data.BoardGameLinks.Carcassonne }}
-[TtRE]: {{ site.data.BoardGameLinks.TicketToRide }}
-[FI]: {{ site.data.BoardGameLinks.ForbiddenIsland }}
-[CatSoA]: {{ site.data.BoardGameLinks.CleopatraAndTheSocietyOfArchitects }}
-[Plan]: {{ site.data.BoardGameLinks.Planet }}
+[SaV]: {{ site.data.RPGLinks.ScumAndVillainy.InternalLink }}
+[Carc]: {{ site.data.BoardGameLinks.Carcassonne.InternalLink }}
+[TtRE]: {{ site.data.BoardGameLinks.TicketToRide.InternalLink }}
+[FI]: {{ site.data.BoardGameLinks.ForbiddenIsland.InternalLink }}
+[CatSoA]: {{ site.data.BoardGameLinks.CleopatraAndTheSocietyOfArchitects.InternalLink }}
+[Plan]: {{ site.data.BoardGameLinks.Planet.InternalLink }}
