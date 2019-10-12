@@ -69,9 +69,13 @@ Planet:
     BGGLink: "https://boardgamegeek.com/boardgame/252929/planet"
     ImageLink: "/images/boardgames/planet"
     InternalLink: "/BoardGames/Nature.html#planet"
+PI:
+    BGGLink: "https://boardgamegeek.com/boardgame/129050/pi"
 PuertoRico:
     BGGLink: "https://boardgamegeek.com/boardgame/3076/puerto-rico"
     InternalLink: "/BoardGames/Historical.html#puerto-rico"
+Quadropolis:
+    BGGLink: "https://www.boardgamegeek.com/boardgame/176396/quadropolis"
 RockPaperWizard:
     BGGLink: "https://boardgamegeek.com/boardgame/207062/dungeons-dragons-rock-paper-wizard"
     ImageLink: "/images/boardgames/rockpaperwizard"

@@ -1,5 +1,5 @@
 ---
-title: First Session
+title: First Session - Architecture Great and Small
 ---
 
 It was the first session of the St. Ives Tabletop gaming club on the of 11th September and we weren’t sure what to expect.
@@ -38,7 +38,7 @@ Let us know if you have any games suggestions and then we can make sure to bring
 
 [SaV]: {{ site.data.RPGLinks.ScumAndVillainy.InternalLink }}
 [Carc]: {{ site.data.BoardGameLinks.Carcassonne.InternalLink }}
-[TtRE]: {{ site.data.BoardGameLinks.TicketToRide.InternalLink }}
+[TtRE]: {{ site.data.BoardGameLinks.TicketToRideEurope.InternalLink }}
 [FI]: {{ site.data.BoardGameLinks.ForbiddenIsland.InternalLink }}
 [CatSoA]: {{ site.data.BoardGameLinks.CleopatraAndTheSocietyOfArchitects.InternalLink }}
 [Plan]: {{ site.data.BoardGameLinks.Planet.InternalLink }}
