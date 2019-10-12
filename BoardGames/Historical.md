@@ -2,7 +2,7 @@
 title: Historical Themed Board Games
 ---
 
-# 7 Wonders{% include new_entry.html %}
+# 7 Wonders
 
 * 3-7 players
 * 30-45 minutes play time
@@ -58,5 +58,10 @@ Each round you select one of 7 roles bringing a bonus for you to that role, for 
 It also means that not all roles are selected each turn, so your strategy can make use of which roles you think your competitors will choose.
 With limits on how many goods can be stored before they go off and limited space on the trading ships it is a careful balance of production, trading or construction of buildings with properties that assist your expanding trading empire.
 You score victory points through building and trading, fairly simple to learn after playing a couple of rounds but there is a lot of strategy and variety in the choice of roles and constructions to rake in those doubloons.
+
+{% assign PuertoRicoImageLink = site.data.BoardGameLinks.PuertoRico.ImageLink -%}
+
+![Puerto Rico]({{ PuertoRicoImageLink }}_01.jpg "Puerto Rico 2-player game"){:class="img_game"}
+![Puerto Rico]({{ PuertoRicoImageLink }}_03.jpg "Puerto Rico close up of player board"){:class="img_game"}
 
 {% include back_to_top.html %}
