@@ -1,3 +1,5 @@
+AgeOfWar:
+    BGGLink: "https://www.boardgamegeek.com/boardgame/155695/age-war"
 Braggart:
     BGGLink: "https://boardgamegeek.com/boardgame/72420/braggart"
     ImageLink: "/images/boardgames/braggart"
@@ -25,6 +27,8 @@ DiceHospital:
     BGGLink: "https://boardgamegeek.com/boardgame/218121/dice-hospital"
     ImageLink: "/images/boardgames/dicehospital"
     InternalLink: "/BoardGames/Professions.html#dice-hospital"
+EclipseSecondDawnForTheGalaxy:
+    BGGLink: "https://boardgamegeek.com/boardgame/246900/eclipse-second-dawn-galaxy"
 EcoFluxx:
     ImageLink: "/images/boardgames/ecofluxx"
 EvolutionClimate:
@@ -41,6 +45,8 @@ ForbiddenIsland:
     BGGLink: "https://boardgamegeek.com/boardgame/65244/forbidden-island"
     ImageLink: "/images/boardgames/forbiddenisland"
     InternalLink: "/BoardGames/Explore.html#forbidden-island"
+GanzSchonClever:
+    BGGLink: "https://boardgamegeek.com/boardgame/244522/s-pretty-clever"
 Hanabi:
     BGGLink: "https://boardgamegeek.com/boardgame/98778/hanabi"
     ImageLink: "/images/boardgames/hanabi"
@@ -76,6 +82,8 @@ PuertoRico:
     InternalLink: "/BoardGames/Historical.html#puerto-rico"
 Quadropolis:
     BGGLink: "https://www.boardgamegeek.com/boardgame/176396/quadropolis"
+RobinsonCrusoe:
+    BGGLink: "https://boardgamegeek.com/boardgame/121921/robinson-crusoe-adventures-cursed-island"
 RockPaperWizard:
     BGGLink: "https://boardgamegeek.com/boardgame/207062/dungeons-dragons-rock-paper-wizard"
     ImageLink: "/images/boardgames/rockpaperwizard"
@@ -92,10 +100,14 @@ SevenWonders:
     BGGLink: "https://boardgamegeek.com/boardgame/68448/7-wonders"
     ImageLink: "/images/boardgames/7wonders"
     InternalLink: "/BoardGames/Historical.html#7-wonders"
+SpiritIsland:
+    BGGLink: "https://boardgamegeek.com/boardgame/162886/spirit-island"
 Takenoko:
     BGGLink: "https://boardgamegeek.com/boardgame/70919/takenoko"
     ImageLink: "/images/boardgames/takenoko"
     InternalLink: "/BoardGames/FarEastern.html#takenoko"
+TerraformingMars:
+    BGGLink: "https://boardgamegeek.com/boardgame/167791/terraforming-mars"
 TicketToRideEurope:
     BGGLink: "https://boardgamegeek.com/boardgame/14996/ticket-ride-europe"
     ImageLink: "/images/boardgames/tickettorideeurope"
@@ -107,3 +119,4 @@ Tikal:
 Tokaido:
     BGGLink: "https://boardgamegeek.com/boardgame/123540/tokaido"
     InternalLink: "/BoardGames/FarEastern.html#tokaido"
+
