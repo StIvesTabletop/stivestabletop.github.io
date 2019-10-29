@@ -14,6 +14,11 @@ Strategically select your tiles (polyominos) from a randomised grid of many diff
 Gain points from the number of cloches and flower pots you can include in your garden designs and use a cats as an emergency 1 space filler tile.
 Competitive gardening!
 
+{% assign CottageGardenImageLink = site.data.BoardGameLinks.CottageGarden.ImageLink -%}
+
+![Cottage Garden start game]({{ CottageGardenImageLink }}_01.jpg "Cottage Garden start game"){:class="img_game"}
+![Cottage Garden 'cat token' usage]({{ CottageGardenImageLink }}_02.jpg "Cottage Garden 'cat token' usage"){:class="img_game"}
+
 {% include back_to_top.html %}
 
 # Evolution: Climate{% include new_entry.html %}
@@ -28,6 +33,12 @@ Each round you can choose how many species to nurture and develop, at the end of
 Also the weather is changing and a creature adapted for a warm climate may suffer if a bout of global cooling occurs in the next round.
 Do you breed a pack of small burrowing plant eaters or focus on a few camouflaged carnivores, warm coats or cooling frills, hibernating or migratory?
 Each species can only have four traits so choose wisely and watch what other creatures are evolving next door so you don’t become their dinner!
+
+{% assign EvolutionClimateImageLink = site.data.BoardGameLinks.EvolutionClimate.ImageLink -%}
+
+![Evolution: Climate]({{ EvolutionClimateImageLink }}_01.jpg "Evolution: Climate 2-player game"){:class="img_game"}
+![Evolution: Climate]({{ EvolutionClimateImageLink }}_02.jpg "Evolution: Climate close-up of current player dino"){:class="img_game"}
+![Evolution: Climate]({{ EvolutionClimateImageLink }}_03.jpg "Evolution: Climate close-up of example evolution"){:class="img_game"}
 
 {% include back_to_top.html %}
 
@@ -51,7 +62,7 @@ Can be won in a couple of rounds or go round for many turns as players thwart ea
 
 {% include back_to_top.html %}
 
-# Planet{% include new_entry.html %}
+# Planet
 
 * 2-4 players
 * 30 min play time

@@ -56,7 +56,7 @@ A cooperative heist game with a difference.
 
 {% include back_to_top.html %}
 
-# Tikal{% include new_entry.html %}
+# Tikal
 
 * 2-4 players
 * 90 min play time
