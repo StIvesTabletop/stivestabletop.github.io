@@ -21,7 +21,7 @@ Simple to learn but tricky to create the perfect display.
 
 {% include back_to_top.html %}
 
-# Kanagawa{% include new_entry.html %}
+# Kanagawa
 
 * 2-4 players
 * 45 min play time
@@ -59,7 +59,7 @@ This leaves holes in the grid setup limiting future moves for you and your oppon
 
 {% include back_to_top.html %}
 
-# Takenoko{% include new_entry.html %}
+# Takenoko
 
 * 2-4 players
 * 45 min play time
@@ -89,5 +89,12 @@ A game about travelling the old East sea road between Tokyo and Kyoto.
 Beautiful graphics and a variety of ways of scoring points that need to be balanced.
 Dine at Japanese restaurants, visit temples and markets, meet other travellers, build panoramas or soak in the hot springs.
 A competitive holiday game!
+
+{% assign TokaidoImageLink = site.data.BoardGameLinks.Tokaido.ImageLink -%}
+
+![Tokaido starting journey]({{ TokaidoImageLink }}_02.jpg "Tokaido starting journey"){:class="img_game"}
+![Tokaido end game]({{ TokaidoImageLink }}_06.jpg "Tokaido end game"){:class="img_game"}
+![Tokaido one of the travellers]({{ TokaidoImageLink }}_07.jpg "Tokaido one of the travellers"){:class="img_game"}
+![Tokaido a second traveller]({{ TokaidoImageLink }}_09.jpg "Tokaido a second traveller"){:class="img_game"}
 
 {% include back_to_top.html %}

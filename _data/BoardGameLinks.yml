@@ -18,6 +18,7 @@ CleopatraAndTheSocietyOfArchitects:
     InternalLink: "/BoardGames/Historical.html#cleopatra-and-the-society-of-architects"
 CottageGarden:
     BGGLink: "https://boardgamegeek.com/boardgame/204027/cottage-garden"
+    ImageLink: "/images/boardgames/cottagegarden"
     InternalLink: "/BoardGames/Nature.html#cottage-garden"
 Diamant:
     BGGLink: "https://boardgamegeek.com/boardgame/15512/diamant"
@@ -33,6 +34,7 @@ EcoFluxx:
     ImageLink: "/images/boardgames/ecofluxx"
 EvolutionClimate:
     BGGLink: "https://boardgamegeek.com/boardgame/182134/evolution-climate"
+    ImageLink: "/images/boardgames/evolutionclimate"
     InternalLink: "/BoardGames/Nature.html#evolution-climate"
 FlashPoint:
     BGGLink: "https://boardgamegeek.com/boardgame/100901/flash-point-fire-rescue"
@@ -79,6 +81,7 @@ PI:
     BGGLink: "https://boardgamegeek.com/boardgame/129050/pi"
 PuertoRico:
     BGGLink: "https://boardgamegeek.com/boardgame/3076/puerto-rico"
+    ImageLink: "/images/boardgames/puertorico"
     InternalLink: "/BoardGames/Historical.html#puerto-rico"
 Quadropolis:
     BGGLink: "https://www.boardgamegeek.com/boardgame/176396/quadropolis"
@@ -118,5 +121,5 @@ Tikal:
     InternalLink: "/BoardGames/Explore.html#tikal"
 Tokaido:
     BGGLink: "https://boardgamegeek.com/boardgame/123540/tokaido"
+    ImageLink: "/images/boardgames/tokaido"
     InternalLink: "/BoardGames/FarEastern.html#tokaido"
-
