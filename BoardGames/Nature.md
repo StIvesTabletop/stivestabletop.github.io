@@ -83,3 +83,27 @@ At the end score points dependent on animal types attracted and a secret terrain
 ![Planet finish for 1 player]({{ PlanetImageLink }}_02.jpg "Planet finish for 1 player"){:class="img_game"}
 
 {% include back_to_top.html %}
+
+# Wingspan{% include new_entry.html %}
+
+* 1-5 players
+* 60 min play time
+* Card and dice mechanic, set collection
+* [Wingspan BGG link]({{ site.data.BoardGameLinks.Wingspan.BGGLink }})
+
+From a new wave of interesting educational board games, this one makes learning facts about birds fun.
+Ultimately the game is about attracting birds to your wildlife preserves and using them to gain victory points in a variety of ways.
+
+Each bird has a points value when played to a habitat, eggs and cached food or cards are worth victory points and there are end of round and end of game bonuses to help suggest which birds you might wish to attract.
+There are hundreds of bird cards and each bird has a power that can be activated and often combined with those of other birds to rake in those points.
+
+The game requires balancing food, egg production and bird cards to build the best ornithological reserve over four rounds.
+With beautiful artwork, well thought out components and fairly easy to learn rules it can be good to go birding with friends from the comfort of your living room.
+
+{% assign WingspanImageLink = site.data.BoardGameLinks.Wingspan.ImageLink -%}
+
+![Wingspan setup]({{ WingspanImageLink }}_01.jpg "Wingspan setup"){:class="img_game"}
+![Wingspan end game]({{ WingspanImageLink }}_02.jpg "Wingspan end game"){:class="img_game"}
+![Wingspan winning collection of birds]({{ WingspanImageLink }}_03.jpg "Wingspan winning collection of birds"){:class="img_game"}
+
+{% include back_to_top.html %}

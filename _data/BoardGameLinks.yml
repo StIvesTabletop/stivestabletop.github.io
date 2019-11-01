@@ -28,6 +28,10 @@ DiceHospital:
     BGGLink: "https://boardgamegeek.com/boardgame/218121/dice-hospital"
     ImageLink: "/images/boardgames/dicehospital"
     InternalLink: "/BoardGames/Professions.html#dice-hospital"
+Dominion:
+    BGGLink: "https://boardgamegeek.com/boardgame/36218/dominion"
+    ImageLink: "/images/boardgames/dominion"
+    InternalLink: "/BoardGames/Development.html#dominion"
 EclipseSecondDawnForTheGalaxy:
     BGGLink: "https://boardgamegeek.com/boardgame/246900/eclipse-second-dawn-galaxy"
 EcoFluxx:
@@ -123,3 +127,7 @@ Tokaido:
     BGGLink: "https://boardgamegeek.com/boardgame/123540/tokaido"
     ImageLink: "/images/boardgames/tokaido"
     InternalLink: "/BoardGames/FarEastern.html#tokaido"
+Wingspan:
+    BGGLink: "https://boardgamegeek.com/boardgame/266192/wingspan"
+    ImageLink: "/images/boardgames/wingspan"
+    InternalLink: "/BoardGames/Nature.html#wingspan"

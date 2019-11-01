@@ -19,6 +19,35 @@ A simple game to learn but a lot of strategy in the placement of meeples to scor
 
 {% include back_to_top.html %}
 
+# Dominion{% include new_entry.html %}
+
+* 2-4 players
+* 30 min play time
+* Card based deck building
+* [Dominion BGG link]({{ site.data.BoardGameLinks.Dominion.BGGLink }})
+
+One of the first and best deck building games, Dominion has a medieval theme and a huge selection of card combinations within the base deck and through a host of expansions leading to massive variety between games.
+
+Each player starts with the same deck of 10 cards; 7 copper and 3 estates.
+The aim is to acquire the most victory points before an end condition is reached, usually the supply running out of province cards, the maximum victory point card type.
+
+Each turn you draw 5 cards, play action cards following rules on each card and then spend any treasure cards from that hand to buy other cards.
+Discard all used cards and once your draw pile is exhausted shuffle the discards to become the new draw pile.
+This means your deck is constantly growing and cycling and the aim is to keep the deck balanced and maximise the chances of powerful card combinations drawing in the same turn so your available treasure grows and you can buy the big victory point cards.
+
+There are 10 different action cards available per game from a selection of 25 types in the base game.
+Action cards frequently let you chain multiple actions, draw extra cards, swap or rearrange cards, acquire treasure or attack other players.
+So you can try and build a "card engine" that lets you cycle through most of your deck in one turn to access all your treasure or you can try and streamline your deck and convert lower denomination treasures into higher ones so you draw more treasure from fewer cards.
+Very satisfying when your strategy pays off and frustrating when you are 1 coin short of that final province!
+
+{% assign DominionImageLink = site.data.BoardGameLinks.Dominion.ImageLink -%}
+
+![Dominion start layout]({{ DominionImageLink }}_01.jpg "Dominion start layout"){:class="img_game"}
+![Dominion end game]({{ DominionImageLink }}_03.jpg "Dominion end game"){:class="img_game"}
+![Dominion showing winning 'card engine']({{ DominionImageLink }}_04.jpg "Dominion showing winning 'card engine'"){:class="img_game"}
+
+{% include back_to_top.html %}
+
 # Settlers of Catan
 
 * 3-4 players
