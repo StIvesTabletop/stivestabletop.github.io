@@ -36,7 +36,7 @@ Discard all used cards and once your draw pile is exhausted shuffle the discards
 This means your deck is constantly growing and cycling and the aim is to keep the deck balanced and maximise the chances of powerful card combinations drawing in the same turn so your available treasure grows and you can buy the big victory point cards.
 
 There are 10 different action cards available per game from a selection of 25 types in the base game.
-Action cards frequently let you chain multiple actions, draw extra cards, swap or rearrange cards, acquire treasure or attack other players.
+Action cards frequently let you chain multiple actions, draw extra cards, swap or rearrange cards, acquire treasure, or attack other players.
 So you can try and build a "card engine" that lets you cycle through most of your deck in one turn to access all your treasure or you can try and streamline your deck and convert lower denomination treasures into higher ones so you draw more treasure from fewer cards.
 Very satisfying when your strategy pays off and frustrating when you are 1 coin short of that final province!
 
