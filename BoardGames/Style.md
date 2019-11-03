@@ -9,6 +9,7 @@ This page organizes games into different playing styles and categories, and prov
 # Classic and highly rated
 
 * Re-build the famous old walled towns of [Carcassonne]({{ site.data.BoardGameLinks.Carcassonne.InternalLink }}).
+* Medieval empire building using cards in [Dominion]({{ site.data.BoardGameLinks.Dominion.InternalLink }}).
 * As one of the [Settlers of Catan]({{ site.data.BoardGameLinks.SettlersOfCatan.InternalLink }}) create the best settlement on the island.
 * Develop a great train network in Europe in [Ticket to Ride]({{ site.data.BoardGameLinks.TicketToRideEurope.InternalLink }}).
 
