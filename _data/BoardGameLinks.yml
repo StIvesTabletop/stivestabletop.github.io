@@ -44,6 +44,8 @@ FlashPoint:
     BGGLink: "https://boardgamegeek.com/boardgame/100901/flash-point-fire-rescue"
     ImageLink: "/images/boardgames/flashpoint"
     InternalLink: "/BoardGames/Professions.html#flash-point-fire-rescue"
+FlashPointTragicEvents:
+    BGGLink: "https://boardgamegeek.com/boardgame/232247/flash-point-fire-rescue-tragic-events"
 Fluxx:
     BGGLink: "https://boardgamegeek.com/boardgame/258/fluxx"
     InternalLink: "/BoardGames/Nature.html#fluxx"
@@ -115,6 +117,8 @@ Takenoko:
     InternalLink: "/BoardGames/FarEastern.html#takenoko"
 TerraformingMars:
     BGGLink: "https://boardgamegeek.com/boardgame/167791/terraforming-mars"
+TheShipwreckArcana:
+    BGGLink: "https://boardgamegeek.com/boardgame/220517/shipwreck-arcana"
 TicketToRideEurope:
     BGGLink: "https://boardgamegeek.com/boardgame/14996/ticket-ride-europe"
     ImageLink: "/images/boardgames/tickettorideeurope"
