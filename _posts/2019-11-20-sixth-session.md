@@ -16,26 +16,44 @@ Finally the pyre was finished just as it reached night nine and the island wood 
 So all four were rescued and even achieved 53 points based on items built and health remaining.
 There is another crew of adventurers keen to try next session so we will see if they fare as well.
 
+![Robinson Crusoe](/images/posts/2019_11_20/RobinsonCrusoe01.jpg "Robinson Crusoe - survivors"){:class="img_post"}
+![Robinson Crusoe](/images/posts/2019_11_20/RobinsonCrusoe02.jpg "Robinson Crusoe - board close up"){:class="img_post"}
+
 The next table started as a 5 player game of [7 Wonders][7W], a card drafting game played over 3 ages with each player developing one of the Wonders and scoring points in a variety of ways based on military, science, guilds or commerce.
 Things went rather well for the 2 new players to Wonder building as they completed The Great Wall of China and The Lighthouse of Alexander with some "minor" escalation of armies!
-A returning player managed to just beat them building an empire and Stone Henge, whereas the 2 seasoned players struggled to get enough points building The Mausoleum at Halicarnassus and the special Wonder Manneken Pis.
+A returning player managed to just beat them building an empire and Stonehenge, whereas the 2 seasoned players struggled to get enough points building The Mausoleum at Halicarnassus and the special Wonder Manneken Pis.
+
+![7 Wonders](/images/posts/2019_11_20/SevenWonders02.jpg "7 Wonders - nearing the end of age 3"){:class="img_post"}
+![7 Wonders](/images/posts/2019_11_20/SevenWonders01.jpg "7 Wonders - Stonehenge winner"){:class="img_post"}
 
 While the final table tried a 2 player game of [Hanabi][H], this is a cooperative game to build a fireworks display of a series of coloured cards of increasing value.
 The twist being you can't see your own cards, instead you can only be given clues of either the colour or value of your hand.
 
-Tea break time and the two tables chose new games and readjusted members leading to a 4 player game of Azul (so popular two people had brought it along) and Burgle Bros.
+![Hanabi](/images/posts/2019_11_20/Hanabi01.jpg "Hanabi - showing the way you can't see the cards!"){:class="img_post"}
+![Hanabi](/images/posts/2019_11_20/Hanabi02.jpg "Hanabi - end fireworks display"){:class="img_post"}
+
+Tea break time and the two tables chose new games and readjusted members leading to a 4 player game of [Azul][Azul] (so popular two people had brought it along) and [Burgle Bros][BB].
 But there was no tea break for the Island adventurers as they were still struggling to create their bonfire!
 
 [Azul][Azul] is a game inspired by decorative Moorish tiles like in the Alhambra palace in Spain.
 In the game players draft coloured tiles and then score points by placing them on their player board, patterns and sets score points while wasted supplies lose points.
-Wasted supplies can occur as you have to take all of the tiles of the same colour even though you may not be able toplay them all.
+Wasted supplies can occur as you have to take all of the tiles of the same colour even though you may not be able to play them all.
 In the middle of the game it didn't go to plan for some of the players, and there were many penalty points accrued, but in a surprising turn of events the player who lost the most points (over 30) still managed enough combos to come a close second!
+
+![Azul](/images/posts/2019_11_20/Azul01.jpg "Azul - tile board being filled"){:class="img_post"}
+![Azul](/images/posts/2019_11_20/Azul02.jpg "Azul - boards and 'factories' of tiles to choose from"){:class="img_post"}
 
 [Burgle Bros][BB] is another cooperative game, the aim is to rob a 3 storey building with safes on each floor, stealthily crack all the safes and escape via a helicopter on the roof.
 
 Finally 2 short games to finish the session for those who could stay a bit later.
 [The Shipwreck Arcana][SA] had another outing with 4 people trying to give mathematical clues to guess the hidden fate numbers, and even though one of the clue cards got stuck with a fate so it couldn't fade, they managed to beat the doom clock.
+
+![The Shipwreck Arcana](/images/posts/2019_11_20/ShipwreckArcana01.jpg "The Shipwreck Arcana - showing the stuck clue card!"){:class="img_post"}
+
 Whilst a 3 person [Deep Sea Adventure][DSA] got underway, a dice based push your luck grab the treasure and get back to the submarine before the air runs out game.
+
+![Deep Sea Adventure](/images/posts/2019_11_20/DeepSeaAdventure01.jpg "Deep Sea Adventure - the path to treasure"){:class="img_post"}
+![Deep Sea Adventure](/images/posts/2019_11_20/DeepSeaAdventure02.jpg "Deep Sea Adventure - the divers"){:class="img_post"}
 
 As mentioned above [Robinson Crusoe][RC] is likely to get another outing on the 4th of December but [do let us know][Contact] if there are any other games you would really like to try or enjoyed playing at a previous session and want another play of.
 
