@@ -1,13 +1,13 @@
 AgeOfWar:
     BGGLink: "https://www.boardgamegeek.com/boardgame/155695/age-war"
 Azul:
-    BGGLink: https://boardgamegeek.com/boardgame/230802/azul
+    BGGLink: "https://boardgamegeek.com/boardgame/230802/azul"
 Braggart:
     BGGLink: "https://boardgamegeek.com/boardgame/72420/braggart"
     ImageLink: "/images/boardgames/braggart"
     InternalLink: "/BoardGames/Fantasy.html#braggart"
 BurgleBros:
-    BGGLink: https://boardgamegeek.com/boardgame/172081/burgle-bros
+    BGGLink: "https://boardgamegeek.com/boardgame/172081/burgle-bros"
 Carcassonne:
     BGGLink: "https://boardgamegeek.com/boardgame/822/carcassonne"
     ImageLink: "/images/boardgames/carcassonne"
@@ -25,7 +25,7 @@ CottageGarden:
     ImageLink: "/images/boardgames/cottagegarden"
     InternalLink: "/BoardGames/Nature.html#cottage-garden"
 DeepSeaAdventure:
-    BGGLink: https://boardgamegeek.com/boardgame/169654/deep-sea-adventure
+    BGGLink: "https://boardgamegeek.com/boardgame/169654/deep-sea-adventure"
 Diamant:
     BGGLink: "https://boardgamegeek.com/boardgame/15512/diamant"
     ImageLink: "/images/boardgames/diamant"
