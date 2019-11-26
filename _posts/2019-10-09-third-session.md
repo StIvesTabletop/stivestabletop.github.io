@@ -31,8 +31,12 @@ The 2 games of the evening were lively with various different strategies tested 
 Let us know if you have a favourite game you want to play or a game you have always wanted to try and we will try and oblige at the next session.
 
 * Total Session Attendance: 11
-* Board Games: [P.I.][PI], [Evolution: Climate][EC], [Braggart][Brag]
-* RPG: [Scum and Villainy][SaV] - Space based retcon storytelling
+* Board Games:
+	* [P.I.][PI]
+	* [Evolution: Climate][EC]
+	* [Braggart][Brag]
+* RPG:
+	* [Scum and Villainy][SaV] - Space based retcon storytelling
 
 [SaV]: {{ site.data.RPGLinks.ScumAndVillainy.InternalLink }}
 [EC]: {{ site.data.BoardGameLinks.EvolutionClimate.InternalLink }}

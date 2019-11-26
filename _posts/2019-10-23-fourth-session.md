@@ -41,8 +41,16 @@ If anyone would also like to try these games or has some counter suggestions let
 Feel free to bring your own games along, we enjoy trying some new games or just trying a favourite game with a different number or group of people to see how that changes the gameplay.
 
 * Total Session Attendance: 15
-* Board Games: [Age of War][AoW], [Cleopatra and the Society of Architects][CatSoA], [Cottage Garden][CG], [Ganz Schon Clever or Thats pretty clever][GSC], [Planet][Plan], [Puerto Rico][PR], [Tokaido][Tok]
-* RPG: [Fate][FateRPG] - [Story][RPG] driven role play
+* Board Games:
+	* [Age of War][AoW]
+	* [Cleopatra and the Society of Architects][CatSoA]
+	* [Cottage Garden][CG]
+	* [Ganz Schon Clever or That’s pretty clever][GSC]
+	* [Planet][Plan]
+	* [Puerto Rico][PR]
+	* [Tokaido][Tok]
+* RPG:
+	* [Fate][FateRPG] - [Story][RPG] driven role play
 
 [FateRPG]: {{ site.data.RPGLinks.Fate.InternalLink }}
 [RPG]: /Sessions/2019-10-23-bypass.html

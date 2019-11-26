@@ -33,8 +33,14 @@ Otherwise, we look forward to the next session on the 25th and hope to get anoth
 Let us know if you have any games suggestions and then we can make sure to bring them along.
 
 * Total Session Attendance: 13
-* Board Games: [Carcassonne][Carc], [Cleopatra][CatSoA], [Forbidden Island][FI], [Planet][Plan], and [Ticket to Ride: Europe][TtRE]
-* RPGs: [Scum and Villainy][SaV]
+* Board Games:
+	* [Carcassonne][Carc]
+	* [Cleopatra][CatSoA]
+	* [Forbidden Island][FI]
+	* [Planet][Plan]
+	* [Ticket to Ride: Europe][TtRE]
+* RPGs:
+	* [Scum and Villainy][SaV]
 
 [SaV]: {{ site.data.RPGLinks.ScumAndVillainy.InternalLink }}
 [Carc]: {{ site.data.BoardGameLinks.Carcassonne.InternalLink }}

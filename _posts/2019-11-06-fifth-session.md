@@ -48,7 +48,11 @@ Find out what to expect in this [funny musical youtube video][ohdear] – spoile
 We are also planning to have a RPG table running again and welcome your [suggestions][Contact] on that too!
 
 * Total Session Attendance: 11
-* Board Games: [Flash Point][FP], [Kingdomino][King], [The Shipwreck Arcana][SA], [Terraforming Mars][TM]
+* Board Games:
+	* [Flash Point][FP]
+	* [Kingdomino][King]
+	* [The Shipwreck Arcana][SA]
+	* [Terraforming Mars][TM]
 
 [King]: {{ site.data.BoardGameLinks.Kingdomino.InternalLink }}
 [SA]: {{ site.data.BoardGameLinks.TheShipwreckArcana.BGGLink }}
