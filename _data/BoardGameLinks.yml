@@ -2,6 +2,8 @@ AgeOfWar:
     BGGLink: "https://www.boardgamegeek.com/boardgame/155695/age-war"
 Azul:
     BGGLink: "https://boardgamegeek.com/boardgame/230802/azul"
+Barenpark:
+    BGGLink: "https://www.boardgamegeek.com/boardgame/219513/barenpark"
 Braggart:
     BGGLink: "https://boardgamegeek.com/boardgame/72420/braggart"
     ImageLink: "/images/boardgames/braggart"
@@ -59,12 +61,16 @@ ForbiddenIsland:
     BGGLink: "https://boardgamegeek.com/boardgame/65244/forbidden-island"
     ImageLink: "/images/boardgames/forbiddenisland"
     InternalLink: "/BoardGames/Explore.html#forbidden-island"
+ForSale:
+    BGGLink: "https://www.boardgamegeek.com/boardgame/172/sale"
 GanzSchonClever:
     BGGLink: "https://boardgamegeek.com/boardgame/244522/s-pretty-clever"
 Hanabi:
     BGGLink: "https://boardgamegeek.com/boardgame/98778/hanabi"
     ImageLink: "/images/boardgames/hanabi"
     InternalLink: "/BoardGames/FarEastern.html#hanabi"
+IsleOfSkye:
+    BGGLink: "https://www.boardgamegeek.com/boardgame/176494/isle-skye-chieftain-king"
 Kanagawa:
     BGGLink: "https://boardgamegeek.com/boardgame/200147/kanagawa"
     ImageLink: "/images/boardgames/kanagawa"
@@ -107,6 +113,8 @@ SettlersOfCatan:
     BGGLink: "https://www.boardgamegeek.com/boardgame/13/catan"
     ImageLink: "/images/boardgames/settlersofcatan"
     InternalLink: "/BoardGames/Development.html#settlers-of-catan"
+Senshi:
+    BGGLink: "https://www.boardgamegeek.com/boardgame/247143/senshi"
 SevenDragons:
     BGGLink: "https://boardgamegeek.com/boardgame/98085/seven-dragons"
     ImageLink: "/images/boardgames/sevendragons"
