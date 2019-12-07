@@ -31,8 +31,16 @@ Thanks to players who brought their own games and were willing to teach them.
 Let us know if you have any suggestions for the next session on the 9th of October on Facebook, Discord or by email.
 
 * Total Session Attendance: 14
-* Board Games: [Tikal][Tika], [7 Wonders][7W], [Dice Hospital][DH], [Kanagawa][Kana], [Quadropolis][Quad], [Kingdomino][King], [Seven Dragons][7D]
-* RPG: Cthulhu Dark - RPG of cosmic horror!
+* Board Games:
+	* [Tikal][Tika]
+	* [7 Wonders][7W]
+	* [Dice Hospital][DH]
+	* [Kanagawa][Kana]
+	* [Quadropolis][Quad]
+	* [Kingdomino][King]
+	* [Seven Dragons][7D]
+* RPG:
+	* Cthulhu Dark - RPG of cosmic horror!
 
 [DH]: {{ site.data.BoardGameLinks.DiceHospital.InternalLink }}
 [Tika]: {{ site.data.BoardGameLinks.Tikal.InternalLink }}

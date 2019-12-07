@@ -1,5 +1,5 @@
 ---
-title: Sixth session - Shipwrecks, Survival and Scuba diving
+title: Sixth Session - Shipwrecks, Survival and Scuba diving
 ---
 
 It was the sixth St. Ives Tabletop session, with 11 attendees in total and 2 new gamers.
