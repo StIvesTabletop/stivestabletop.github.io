@@ -19,7 +19,7 @@ The highest valued currency card available goes to the player with the highest v
 So the challenge is to guess which properties your competitors will also be selling that round.
 
 ![Senshi](/images/posts/2019_12_04/Senshi01.jpg "Senshi - warriors in training"){:class="img_post"}
-![For Sale](/images/posts/2019_12_04/ForSale01.jpg "For Sale - bidding for propoerties"){:class="img_post"}
+![For Sale](/images/posts/2019_12_04/ForSale01.jpg "For Sale - bidding for properties"){:class="img_post"}
 
 We had promised another session of [Robinson Crusoe: Adventures on the Cursed Island][RC] that co-operative board game of survival on the notoriously dangerous deserted island.
 Kathy J. led the same initial scenario as session six with help from returning adventurer Will B. and 2 new shipwreck victims to see if this party would fare better or worse...
