@@ -18,6 +18,8 @@ CastleRavenloft:
     BGGLink: "https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game"
     ImageLink: "/images/boardgames/castleravenloft"
     InternalLink: "/BoardGames/Fantasy.html#castle-ravenloft"
+Clank:
+    BGGLink: "https://boardgamegeek.com/boardgame/201808/clank-deck-building-adventure"
 CleopatraAndTheSocietyOfArchitects:
     BGGLink: "https://boardgamegeek.com/boardgame/22141/cleopatra-and-society-architects"
     ImageLink: "/images/boardgames/cleopatraandthesocietyofarchitects"
@@ -109,6 +111,8 @@ RockPaperWizard:
     BGGLink: "https://boardgamegeek.com/boardgame/207062/dungeons-dragons-rock-paper-wizard"
     ImageLink: "/images/boardgames/rockpaperwizard"
     InternalLink: "/BoardGames/Fantasy.html#rock-paper-wizard"
+RollThroughTheAges:
+    BGGLink: "https://www.boardgamegeek.com/boardgame/37380/roll-through-ages-bronze-age"
 SettlersOfCatan:
     BGGLink: "https://www.boardgamegeek.com/boardgame/13/catan"
     ImageLink: "/images/boardgames/settlersofcatan"
@@ -131,6 +135,8 @@ Takenoko:
     InternalLink: "/BoardGames/FarEastern.html#takenoko"
 TerraformingMars:
     BGGLink: "https://boardgamegeek.com/boardgame/167791/terraforming-mars"
+TheCity:
+    BGGLink: "https://boardgamegeek.com/boardgame/103649/city"
 TheShipwreckArcana:
     BGGLink: "https://boardgamegeek.com/boardgame/220517/shipwreck-arcana"
 TicketToRideEurope:
