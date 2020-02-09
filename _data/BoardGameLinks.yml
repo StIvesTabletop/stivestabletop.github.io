@@ -4,6 +4,8 @@ Azul:
     BGGLink: "https://boardgamegeek.com/boardgame/230802/azul"
 Barenpark:
     BGGLink: "https://www.boardgamegeek.com/boardgame/219513/barenpark"
+BetrayalAtHouseOnTheHill:
+    BGGLink: "https://boardgamegeek.com/boardgame/10547/betrayal-house-hill"
 Braggart:
     BGGLink: "https://boardgamegeek.com/boardgame/72420/braggart"
     ImageLink: "/images/boardgames/braggart"
@@ -119,6 +121,8 @@ SettlersOfCatan:
     InternalLink: "/BoardGames/Development.html#settlers-of-catan"
 Senshi:
     BGGLink: "https://www.boardgamegeek.com/boardgame/247143/senshi"
+SentinelsOfTheMultiverse:
+    BGGLink: "https://boardgamegeek.com/boardgame/102652/sentinels-multiverse"
 SevenDragons:
     BGGLink: "https://boardgamegeek.com/boardgame/98085/seven-dragons"
     ImageLink: "/images/boardgames/sevendragons"
@@ -127,6 +131,8 @@ SevenWonders:
     BGGLink: "https://boardgamegeek.com/boardgame/68448/7-wonders"
     ImageLink: "/images/boardgames/7wonders"
     InternalLink: "/BoardGames/Historical.html#7-wonders"
+SpeedCups:
+    BGGLink: "https://boardgamegeek.com/boardgame/146149/speed-cups"
 SpiritIsland:
     BGGLink: "https://boardgamegeek.com/boardgame/162886/spirit-island"
 Takenoko:
