@@ -1,29 +1,38 @@
 ---
-title: Ninth Session - Heroes, Horrors and Homage
+title: Ninth Session - Heroes, Horrors, and Homage
 ---
 
-A great session even though only 2 committee members could attend, with heroes smiting evil, haunted houses and wonderous civilizations.
+This was a great session, even though only 2 committee members could attend, with heroes smiting evil, haunted houses and wonderous civilizations.
+This is a very quick summary of what was played - we’ll be back with a full blog as usual for the next session.
 
-This is a very quick summary of what was played, a full blog will be written up next time.
+The session started with a quick game of 4-player [Speed Cups][SC] led by Simon W., where players race to recreate what is depicted on a card with a set of small, colourful cups they each have.
+The first player to do so gets the card and at the end of the game the player with the most cards wins.
+A fast and frantic game!
 
-It started with a quick game of 4-player [Speed Cups][SC], where players race to recreate what is depicted on a card with a set of small cups they each have, the first player to do so gets the card. A fast frantic game!
+Next we split into 3 tables.
+The first table of 5-players battled evil in [Sentinels of the Multiverse][S].
+Players each become a different super hero with a deck of special powers and co-operate to defeat a chosen super villain.
 
-Next it split into three tables. One table of 5-players battling evil in [Sentinels of the Multiverse][S]. Players become a super hero with a deck of special powers and the aim is to co-operate to defeat a chosen super villain.
+Another table of 3 played [Betrayal at House on the Hill][BHH].
+This starts as a game of exploration, laying down tiles and exploring the haunted house.
+Then one player finds out they are the betrayer with an ulterior motive against the rest of the group.
+The betrayer and the rest of the group then battle it out until one stands victorious.
 
-Another table of 3 attempted [Betrayal at House on the Hill][BHH], in which one player will secretly betray the others. It is a game of exploration laying down tiles and exploring the house until the betrayer has been identified and defeated or the others are lost.
+The last table of 5 played a game of [7 Wonders][7W], which is becoming a firm club favourite, led by Ross D.
+Each player has to build a civilization based on one of the ancient wonders of the world.
 
-The last table of five played a game of [7 Wonders][7W] which is becoming a firm club favourite. Each player has to build a civilization based on one of the ancient wonders of the world.
+We then rearranged the groups and had second plays of both [Sentinels][S] and [7 Wonders][7W].
+Meanwhile, 3 players started a [Blades in the Dark][BitD] RPG session, continuing where the story left off from the previous session.
+This looks to be becoming a multi-session campaign, as we build on the story and new players and characters join.
 
-During the evening another session of both [Sentinels][S] and [7 Wonders][7W] were played, whilst a three player [Blades in the Dark][BitD] RPG session was conducted.
-
-As usual for any game requests for future sessions - please [contact us on Discord, Facebook, or Twitter][Contact].
+As usual for any game requests for future sessions, please [contact us on Discord, Facebook, or Twitter][Contact].
 
 * Total Session Attendance: 13
 * Board Games:
-    * [Speed Cups][SC]
-    * [Sentinels of the Multiverse][S]
+    * [7 Wonders][7W]
     * [Betrayal at House on the Hill][BHH]
-    * [7 Wonders][7w]
+    * [Sentinels of the Multiverse][S]
+    * [Speed Cups][SC]
 * Role Playing:
     * [Blades in the Dark][BitD]
 
