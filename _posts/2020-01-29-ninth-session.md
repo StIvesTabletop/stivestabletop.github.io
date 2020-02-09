@@ -2,28 +2,34 @@
 title: Ninth Session - Heroes, Horrors, and Homage
 ---
 
-This was a great session, even though only 2 committee members could attend, with heroes smiting evil, haunted houses and wonderous civilizations.
+This was a great session, even though only two committee members could attend, with heroes smiting evil, haunted houses and wonderous civilizations.
 This is a very quick summary of what was played - we’ll be back with a full blog as usual for the next session.
 
-The session started with a quick game of 4-player [Speed Cups][SC] led by Simon W., where players race to recreate what is depicted on a card with a set of small, colourful cups they each have.
-The first player to do so gets the card and at the end of the game the player with the most cards wins.
-A fast and frantic game!
+The session started with a quick 4-player game of [Speed Cups][SC] led by Simon W., where players race to recreate what is depicted on a card with a set of small colourful cups.
+The first player to properly arrange their cups must ring the bell and they score a point (keep the card), at the end of the game the player with the most cards wins.
+It’s a great little game while we waited for people to arrive, fast and frantic, but speed-based dexterity games are not everyone’s cup of tea.
 
-Next we split into 3 tables.
-The first table of 5-players battled evil in [Sentinels of the Multiverse][S].
-Players each become a different super hero with a deck of special powers and co-operate to defeat a chosen super villain.
+![Speed Cups](/images/posts/2020_01_29/SpeedCups.jpg "Speed Cups - you can ring my bell"){:class="img_post"}
 
-Another table of 3 played [Betrayal at House on the Hill][BHH].
-This starts as a game of exploration, laying down tiles and exploring the haunted house.
+As more people arrived we re-grouped and split into three tables, with two games being played for the first time at the club.
+
+The first table of five battled evil in the superhero comic book inspired [Sentinels of the Multiverse][S].
+A co-operative card game where players each become a different superhero, with a unique deck of special powers, work together to defeat the super villain.
+
+The second table of three played [Betrayal at House on the Hill][BHH].
+This is a semi-co-operative style of game.
+It starts as a game of exploration, laying down tiles and exploring the haunted house.
 Then one player finds out they are the betrayer with an ulterior motive against the rest of the group.
-The betrayer and the rest of the group then battle it out until one stands victorious.
+The betrayer and the rest of the group then battle it out until one side stands victorious.
 
-The last table of 5 played a game of [7 Wonders][7W], which is becoming a firm club favourite, led by Ross D.
+The third table of five played a game of [7 Wonders][7W], which is becoming a firm club favourite, led by Ross D.
 Each player has to build a civilization based on one of the ancient wonders of the world.
+The simultaneous play means the game scales really well to higher player counts.
 
-We then rearranged the groups and had second plays of both [Sentinels][S] and [7 Wonders][7W].
-Meanwhile, 3 players started a [Blades in the Dark][BitD] RPG session, continuing where the story left off from the previous session.
-This looks to be becoming a multi-session campaign, as we build on the story and new players and characters join.
+With a well-timed tea (and biscuit) break to allow all three tables to finish, people were free to swap tables for second plays of both [Sentinels][S] and [7 Wonders][7W], having five players on each table.
+
+Meanwhile, the other three players switched to playing an RPG, continuing a [Blades in the Dark][BitD] story from the previous session.
+This looks to be becoming a multi-session campaign, as we will continue to build on the story and as new players/characters join in future sessions.
 
 As usual for any game requests for future sessions, please [contact us on Discord, Facebook, or Twitter][Contact].
 
