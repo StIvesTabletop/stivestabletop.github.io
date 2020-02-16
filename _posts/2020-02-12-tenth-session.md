@@ -1,19 +1,19 @@
 ---
-title: Tenth Session - Mars, Mordor and Menageries
+title: Tenth Session - Mars, Mordor, and Menageries
 ---
 
-Nine people turned out despite the cold for this session, including one new member, which included settling on Mars, battling evil to defeat Sauron and building the best zoo.
+Nine people turned out despite the cold for this session, including one new member, which included settling on Mars, battling evil to defeat Sauron, and building the best zoo.
 
-The session started again with a quick game of [Speed Cups][SC] the colourful cup stacking game.
-But we were no match for the hand eye coordination and manual dexterity of Simon and Digger.
+The session started again with a quick game of [Speed Cups][SC], the colourful cup stacking game.
+But we were no match for the hand eye coordination and manual dexterity of Simon W. and Digger.
 
 ![Speed Cups](/images/posts/2020_02_12/speedcups01.jpg "Speed Cups - bell ringing"){:class="img_post"}
-![Speed Cups](/images/posts/2020_02_12/speedcups02.jpg "Speed Cups - fast hands"){:class="img_post"}
+![Speed Cups](/images/posts/2020_02_12/speedcups03.gif "Speed Cups - fast hands"){:class="img_post"}
 
-After that a 5-person game of [Kingdomino][KD] with the [Age of Giants][KDAoG] expansion.
-Another popular quick game, building a kingdom with domino like tiles featuring 6 different terrains.
-The Giant expansion adds some new tiles with giants that prevent scoring from some of your crowns, and footprint tiles that let you move the giants into an opponents kingdom.
-Also some endgame special scoring bonus tiles, usually relating to getting terrain tiles in certain locations in your kingdom grid, which gives some variety and additional strategy to the game.
+After that we moved on to a 5-player game of [Kingdomino][KD] with the [Age of Giants][KDAoG] expansion.
+Another popular quick game, building a kingdom with domino like tiles featuring six different terrains.
+The Age of Giants expansion adds some new tiles with giants that stand on and prevent scoring from some of your crowns, and footprint tiles that let you move the giants into an opponents kingdom.
+There are also some endgame special scoring bonus tiles, usually relating to getting terrain tiles in certain locations in your kingdom grid, which gives some variety and additional strategy to the game.
 
 ![Kingdomino](/images/posts/2020_02_12/kingdomino02.jpg "King Domino - building the kingdoms"){:class="img_post"}
 
@@ -33,7 +33,7 @@ So that they didn’t shop us to the city guard we had to get a rival gang out o
 
 ![BitD](/images/posts/2020_02_12/bitd01.jpg "Blades in the Dark - talking with the rivals"){:class="img_post"}
 
-We managed to find these rivals in tower 4 and tried a social visit to talk them into moving!
+We managed to find these rivals in Tower Four and tried a social visit to talk them into moving!
 Unfortunately this nearly went wrong when Wyrm tried to impress them with a ghost that nearly turned vengeful.
 Eventually we sort of convinced them to move if we could get the Wraiths (a band of silent assassins) to allow them into the Nightmarket.
 Wyrm was not happy at the outcome as he wanted them to join our cult, in fact he thought they would make great sacrifices!
@@ -53,28 +53,29 @@ Flint nearly fell off climbing on top, but then shot at the following carriage t
 Unfortunately, it sort of back-fired as the gang driver was catapulted onto our carriage.
 A struggle ensued which was ended by the Wraiths turning up and dispatching the gang members.
 They thanked us for being bait - the bag was a decoy - and they even decided to let the rival gang of the Grey Cloaks move into Nightmarket!
-Wyrm and Flint managed to limp home worse for wear, but then discovered coins in the bag - so it wasn’t a complete fiasco after all....
+Wyrm and Flint managed to limp home worse for wear, but then discovered coins in the bag - so it wasn’t a complete fiasco after all...
 
 ![BitD](/images/posts/2020_02_12/bitd02.jpg "Blades in the Dark - planning the ambush"){:class="img_post"}
 
-Kathy J. led a cooperative 2-player game of [Lord of the Rings][LOTR] a tricky card based game that quite faithfully recreates the events of the book trilogy.
-In this session following Frodo and Sam from Bag End through Rivendell, Moria, Lothlorien, Helms Deep, Shelob’s lair, and finally Mordor.
-It can expand to 5 players utilising all 5 hobbits, yes - **five** - hobbits, you can play as ["Fatty" the hobbit that was cut out of the films](https://lotr.fandom.com/wiki/Fredegar_Bolger).
-The game was going very well and the 2 hobbits had barely strayed towards the darkness when all the events in the final location turned against them and Sauron claimed “The Ring is mine”.
+Kathy J. led a cooperative 2-player game of [Lord of the Rings][LOTR], a tricky card based game that quite faithfully recreates the events of the book trilogy, with Catherine D.
+In this session we followed Frodo and Sam from Bag End through Rivendell, Moria, Lothlorien, Helms Deep, Shelob’s lair, and finally Mordor.
+It can expand to five players utilising all five hobbits, yes - **five** - hobbits, you can play as ["Fatty" the hobbit that was cut out of the films](https://lotr.fandom.com/wiki/Fredegar_Bolger).
+The game was going very well and the two hobbits had barely strayed towards the darkness when all the events in the final location turned against them and Sauron claimed “The Ring is mine”.
 
 ![LOTR](/images/posts/2020_02_12/lotr02.jpg "Lord of the Rings - Helms Deep"){:class="img_post"}
 ![LOTR](/images/posts/2020_02_12/lotr01.jpg "Lord of the Rings - Sauron wins"){:class="img_post"}
 
-As the other 2 tables were still engrossed in their games, Kathy J. and Catherine D. switched to building zoos in [O Zoo le Mio][Zoo].
-A much simpler game with an auction mechanic letting you bid over 5 tiles per round, the tiles feature 2 animal enclosures, trees, and paths.
+As the other two tables were still engrossed in their games, Kathy J. and Catherine D. switched to building zoos in [O Zoo le Mio][Zoo].
+This is a much simpler game with an auction mechanic letting you bid over five tiles per round.
+Each tile features two animal enclosures, trees, and paths.
 A good selection of tiles added to your zoo will attract visitors if you have the best mammals, birds, reptiles, primates or sea creatures, and more tokens for the most trees or creation of circular paths.
-The game plays over 5 years or rounds and scoring occurs at the end of each year based on the number of tokens in your zoo with scores incrementing each year.
-We played 2 games with Villa Gorilla triumphing over Porky Park, and then Crocodome more narrowly beating Aqua Shark for the title of most beautiful/successful zoo.
+The game plays over five years or rounds and scoring occurs at the end of each year based on the number of tokens in your zoo with scores incrementing each year.
+We played two games with Villa Gorilla triumphing over Porky Park, and then Crocodome more narrowly beating Aqua Shark for the title of most beautiful/successful zoo.
 
 ![Zoo](/images/posts/2020_02_12/zoo01.jpg "O Zoo le Mio - Porky Park"){:class="img_post"}
 ![Zoo](/images/posts/2020_02_12/zoo02.jpg "O Zoo le Mio - Villa Gorilla"){:class="img_post"}
 
-We then finished off with a final 2 player game of [Kingdomino plus giants][KDAoG] where the kingdom with 3 large areas of lake, forest and fields beat the massive gold mine complex.
+We then finished off with a final 2-player game of [Kingdomino plus giants][KDAoG] where the kingdom with three large areas of lake, forest and fields beat the massive gold mine complex.
 
 As usual for any game requests for future sessions, please [contact us on Discord, Facebook, or Twitter][Contact].
 
