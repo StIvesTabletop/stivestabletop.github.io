@@ -51,7 +51,7 @@ Then the other tables finished and they were joined by 2 more for another [quick
 Graham quickly mastered the development aspect of the game bringing about the victory condition of first to 5 developments and also in causing pestilence (or negative points) to his opponents.
 
 ![Roll Ages](/images/posts/2020_01_15/RollAges01.jpg "Roll through the Ages - first game"){:class="img_post"}
-![Roll Ages](/images/posts/2020_01_15/RollAges02.jpg "BRoll through the Ages - second game"){:class="img_post"}
+![Roll Ages](/images/posts/2020_01_15/RollAges02.jpg "Roll through the Ages - second game"){:class="img_post"}
 
 The next session is 29th January and the committee will be a little depleted due to unavoidable non-gaming activities, so if you have suggestions of games learnt in the previous sessions to play again that need less teaching input then we will try and bring them along.
 [Contact us on Discord, Facebook, or Twitter][Contact].
