@@ -83,6 +83,10 @@ Kingdomino:
     BGGLink: "https://boardgamegeek.com/boardgame/204583/kingdomino"
     ImageLink: "/images/boardgames/kingdomino"
     InternalLink: "/BoardGames/Fantasy.html#kingdomino"
+KingdominoAgeOfGiants:
+    BGGLink: "https://boardgamegeek.com/boardgame/240909/kingdomino-age-giants"
+LordOfTheRings:
+    BGGLink: "https://boardgamegeek.com/boardgame/823/lord-rings"
 MagicMaze:
     BGGLink: "https://boardgamegeek.com/boardgame/209778/magic-maze"
     ImageLink: "/images/boardgames/magicmaze"
@@ -91,6 +95,8 @@ NinjaCamp:
     BGGLink: "https://boardgamegeek.com/boardgame/176565/ninja-camp"
     ImageLink: "/images/boardgames/ninjacamp"
     InternalLink: "/BoardGames/FarEastern.html#ninja-camp"
+OZooLeMio:
+    BGGLink: "https://boardgamegeek.com/boardgame/4218/o-zoo-le-mio"
 Pandemic:
     BGGLink: "https://boardgamegeek.com/boardgame/30549/pandemic"
     ImageLink: "/images/boardgames/pandemic"
