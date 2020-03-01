@@ -48,6 +48,8 @@ EclipseSecondDawnForTheGalaxy:
     BGGLink: "https://boardgamegeek.com/boardgame/246900/eclipse-second-dawn-galaxy"
 EcoFluxx:
     ImageLink: "/images/boardgames/ecofluxx"
+EminentDomain:
+    BGGLink: "https://boardgamegeek.com/boardgame/68425/eminent-domain"
 EvolutionClimate:
     BGGLink: "https://boardgamegeek.com/boardgame/182134/evolution-climate"
     ImageLink: "/images/boardgames/evolutionclimate"
@@ -87,6 +89,8 @@ KingdominoAgeOfGiants:
     BGGLink: "https://boardgamegeek.com/boardgame/240909/kingdomino-age-giants"
 LordOfTheRings:
     BGGLink: "https://boardgamegeek.com/boardgame/823/lord-rings"
+MagicalAthlete:
+    BGGLink: "https://boardgamegeek.com/boardgame/24565/magical-athlete"
 MagicMaze:
     BGGLink: "https://boardgamegeek.com/boardgame/209778/magic-maze"
     ImageLink: "/images/boardgames/magicmaze"
@@ -163,6 +167,8 @@ Tokaido:
     BGGLink: "https://boardgamegeek.com/boardgame/123540/tokaido"
     ImageLink: "/images/boardgames/tokaido"
     InternalLink: "/BoardGames/FarEastern.html#tokaido"
+UnlockHeroicAdventures:
+    BGGLink: "https://boardgamegeek.com/boardgame/266121/unlock-heroic-adventures"
 Wingspan:
     BGGLink: "https://boardgamegeek.com/boardgame/266192/wingspan"
     ImageLink: "/images/boardgames/wingspan"

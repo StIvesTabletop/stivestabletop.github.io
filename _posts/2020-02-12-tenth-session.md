@@ -25,36 +25,9 @@ Now that everyone had arrived we split into three tables; [Terraforming Mars][TM
 ![Terraforming Mars](/images/posts/2020_02_12/TM01.png "Terraforming Mars - final scores"){:class="img_post"}
 ![Terraforming Mars](/images/posts/2020_02_12/TM02.png "Terraforming Mars - a new world"){:class="img_post"}
 
-Meanwhile, Ross D. led two players, in the ongoing [Blades in the Dark][BitD] campaign.
-It continued this week with high priest/wizard Wyrm and hunter Flint.
-(Last time Smook and a new acolyte called Grog were on their own mis-adventure).
-It started with a note from the Grey Cloaks faction saying “We know what you did!” and asking to meet.
-So that they didn’t shop us to the city guard we had to get a rival gang out of Six Towers and quickly.
+Meanwhile, Ross D. led two players, in the ongoing [Blades in the Dark][BitD] campaign. This week Wyrm and Flint were on their own, and they were being blackmailed into doing a job for the Grey Cloaks. What started out as one job, quickly turned into 3, with different gangs wanting them to do something - ending with a manic carriage chase through the city streets - [read more here](/Sessions/2020-blades-campaign.html#session-12th-feb---found-out).
 
 ![BitD](/images/posts/2020_02_12/bitd01.jpg "Blades in the Dark - talking with the rivals"){:class="img_post"}
-
-We managed to find these rivals in Tower Four and tried a social visit to talk them into moving!
-Unfortunately this nearly went wrong when Wyrm tried to impress them with a ghost that nearly turned vengeful.
-Eventually we sort of convinced them to move if we could get the Wraiths (a band of silent assassins) to allow them into the Nightmarket.
-Wyrm was not happy at the outcome as he wanted them to join our cult, in fact he thought they would make great sacrifices!
-Flint came up with an ambush plan but needed to convince the rivals with a fake Wraith mask.
-Unfortunately the Wraiths found out and made us do a job for them!
-
-This was getting very messy!
-At this point Flint was trailing Wyrm who was carrying the package that the Wraiths wanted us to deliver and noticed an ambush was going to happen on poor Wyrm!
-This started a manic chase through the streets of Six Towers!
-Wyrm couldn’t run very well due to his bullet wound from last time, so after ducking down an alley, Flint pulled out his fine pistols and let rip, unfortunately killing one of the new gang following.
-This set off the usual tolling bell for the ghost crew!
-
-The new gang tried to cut us off but Wyrm successfully caused the street electrics to spark to slow them down (without any damage to us!).
-So we managed to struggle into a waiting cabbie (horse drawn) only to see the new gang taking over one behind.
-Wyrm tried to throw an electroplasm vial but that bounced off the chasing horse and blew up a bystander!
-Flint nearly fell off climbing on top, but then shot at the following carriage that made it overturn - movie style.
-Unfortunately, it sort of back-fired as the gang driver was catapulted onto our carriage.
-A struggle ensued which was ended by the Wraiths turning up and dispatching the gang members.
-They thanked us for being bait - the bag was a decoy - and they even decided to let the rival gang of the Grey Cloaks move into Nightmarket!
-Wyrm and Flint managed to limp home worse for wear, but then discovered coins in the bag - so it wasn’t a complete fiasco after all...
-
 ![BitD](/images/posts/2020_02_12/bitd02.jpg "Blades in the Dark - planning the ambush"){:class="img_post"}
 
 Kathy J. led a cooperative 2-player game of [Lord of the Rings][LOTR], a tricky card based game that quite faithfully recreates the events of the book trilogy, with Catherine D.
