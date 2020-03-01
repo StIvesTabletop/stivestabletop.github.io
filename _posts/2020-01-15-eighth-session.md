@@ -35,13 +35,7 @@ Alex led a game of cooperative [Spirit Island][SI] with 3 new players, a returni
 Ross D. started up a role playing session based on the [Blades in the Dark][BitD] rule set.
 It is set in the city of Doskvol after a cataclysm has altered the world causing the gates of death to be broken and vengeful ghosts and demons roam the lands.
 They are only kept at bay by electric towers fuelled by Leviathan blood!
-The players set the scene for the session by starting the cult of the Phantom Menace based on their past good experiences with ghosts.
-High priest Wyrm of the cult was granted a vision showing him a pyre and a ghost being let out, rather than destroyed by the bane fire used by the city enforcers.
-So Wyrm, Flint the Sharpshooter, and Smook the Lurker tried to lure a nobleman to a fake legal dispute, and it all started to go wrong at that point!
-The nobleman knew something was up and tried to storm out, Smook managed to pickpocket a firearm from one of the body guards, but Wyrm’s attunement to the ghosts energy failed spectacularly and instead of freezing the arm of the other bodyguard he numbed his own!
-What followed was a series of blunders - Flint got a flesh wound from a ricochet when Smook fired at the nobleman, and when Wyrm tried to attune again he managed to shoot himself by accidentally miscontrolling a bodyguards hand - but the team eventually managed to capture the noble before the guards arrived and stuck him on a bonfire to release the ghost!
-Next was an escape that involved high-tailing through the back streets, and nearly getting captured, as we made a complete ruckus trying to get through a family home to avoid the fire brigade.
-An interesting first outing in an unusual Victorian-esque era setting (albeit with ghosts and demons!).
+The session began with the formation of the cult of the Phantom Menace and revolved around 3 members - Wyrm, Smook and Flint - trying to perform a sacrifice to bring about a new ghost into the world. It involved deception, shoot outs, bonfires, and an escape through the streets of the city - [read more here](/Sessions/2020-blades-campaign.html#session-15th-jan---sacrifice).
 
 ![Blades RPG](/images/posts/2020_01_15/Blades01.jpg "Blades RPG - the players deep in difficulties"){:class="img_post"}
 ![Blades RPG](/images/posts/2020_01_15/Blades02.jpg "Blades RPG - the time tracking and scene situation"){:class="img_post"}

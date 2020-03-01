@@ -47,7 +47,7 @@ An interesting first outing in an unusual Victorian-esque era setting (albeit wi
 
 * Players: Smook, Grog
 
-A session involving a couple of members of the cult involving lots of Daves - Dave, Davey Jones and acolyte that turns into "Other Dave" in a later session. It also involved blowing things up - Grogs speciality - and then a hasty retreat down the sewers to escape.
+A session with just a couple of members of the cult involving lots of Daves - Dave, Davey Jones and an acolyte that turns into "Other Dave" in a later session. It also entailed blowing things up - Grogs speciality - and then a hasty retreat down the sewers to escape.
 
 [Back to session blog...](/2020/01/29/ninth-session.html)
 
@@ -90,20 +90,23 @@ Wyrm and Flint managed to limp home worse for wear, but then discovered coins in
 
 This session of Blades in the Dark saw 7 people jump into the campaign. It started with a weary and worn Master Wyrm and hunter Flint entering their cult squash court (long story) after their last adventure with the Wraiths to meet some new and old faces.
 
-Smelling of the sewers Smook and Grog had appeared after their adventure with Dave, Davey Jones and the Other Dave. They brought the remains of Dave (a ghost in an arm) and not many explanations. Other Dave came with them and got prompted from an acolyte as they showed great promise! A new member who had been an initiate of the Wraiths lurked in the corner - Wren - enigmatic for the moment.
+Smelling of the sewers Smook and Grog had appeared after their adventure with Dave, Davey Jones and the Other Dave. They brought the remains of Dave (a ghost in an arm) and not many explanations. Other Dave came with them and got prompted from an acolyte as he showed great promise! And another new member who had been an initiate of the Wraiths - Wren - lurked enigmatically in the corner enigmatic.
 
-Well there was no rest, as Dave was restless and needed to be bound to an urn but that needed a witch. So we headed down to the docks where crews get talismans and blessings for their journey. We found a witch who would only do it for us retrieving an artifact and it was on an empty ship. Unfortunately thats how it returned to port and no one liked going on it, but that didn't mean it wasn't guarded!
+Well there was no respite, as Dave's arm was restless and needed to be bound to an urn but that needed a witch. So we headed down to the docks where crews get talismans and blessings for their journey. We found a witch who would only do it after we had retrieved an artifact that was on an empty ship. Unfortunately thats how it had returned to port and no one liked going on it, but that didn't mean it wasn't guarded!
 
-We needed a distraction to get on the ship, Grog got told to make one, so he blew up the neighbouring ship that still had people on! Bits of burning mast had fallen on the ship so dressed as firemen we managed to bundle on to the ship. 
-Flint, Wren and Wyrm went to the Captains Cabin. When rifling through there for loot, Wren found and read the Ships log which told a strangle tale of the crew going missing and the Captain descending into madness - saying he stored a strange object collected from a Leviathan in the hold.
+We needed a distraction to get on to the ship, Grog got told to make one, so he blew up the neighbouring ship that still had people on! Bits of burning mast then fell on to the ghost ship, so dressed as firemen we managed to bundle on to the ship past the guards.
+Flint, Wren and Wyrm went to the Captains Cabin. When rifling through there for loot, Wren found and read the Ships log which told a strange tale of the crew going missing and the Captain descending into madness - saying he stored a strange object collected from a Leviathan in the hold.
 
 Smook, Other Dave and Grog went below decks and after finding some crates they couldn't lift or open they were going blow one open when the feeling of the hold closing in got them spooked. But when they tried to get out of the hold the stairs had shrunk and the hatch was only big enough for a finger!
-Wyrm and team came out of the to see Grog standing near the top of the stairs with his finger in the air! Flint tried to pull him out of the hold but it Grog was just stuck.
+Wyrm and team came out of the to see Grog standing near the top of the stairs with his finger in the air! Flint tried to pull him out of the hold but Grog was just stuck.
 
-Suddenly the ship folded in on its self and swallowed the whole team. We were all stuck in a ship that seemed to be shrinking and the flaming mast came with them.
-Wyrm and Smook attuned and found the ship made from ghosts all bound by some force, they found the captain and got him to 
+Suddenly the ship folded in on its self and swallowed the whole team. We were all stuck in a ship that seemed to be shrinking and the flaming mast came with us - it was huge, we seemed tiny and getting smaller. Something needed to be done, so Grog decided to make us an exit by blowing a hole in the prow of the ship, an inner door blew off its hinges straight towards us, but upon hitting Grog it was the size of an envelope!
 
-TO BE FINISHED
+We quickly scrambled towards the hole in the ship to give us breathing room from the sensation of shrinking, but we still needed to find the artifact. Wyrm and Smook attuned and found the ship surrounded by ghosts all bound by some force, they also found the ghost of Captain Quest and got him to tell us where the artifact was hidden. So Other Dave and Grog went back into the weirdness and found and only mildly blew up the chest containing the evil artifact. Pocketing some coins that happened to spill out of the chest, Other Dave and Grog brought back the golden pyramid. When they got half way, an "eye" etched into each side of the pyramid appeared and the device got too hot to handle. Grog dropped it and then tried to kick it across the deck, but a line appeared under the eye on one side which had clamped down on his shoe leather. Wren came in and threw hist cloak over the thing which seemed to calm it down. In fact, suddenly the hold wasn't shrinking anymore, and the gang could see escape back up the stairs.
+
+Unfortunately the ship was crawling with real firemen and guards, but Other Dave used his time in the force to bluster our way through, pretending we had found some sick crew members hidden on the ship that needed aid. We hadn't got very far before suspicions were raised, luckily Grog had a flashback to when he set up some timed explosive for a secondary diversion and just then it went off! We hustled further along the docks with Wyrm making more distractions - arcing the lights and plunging things into darkness. We made it back to the witch's place and handed over the goods, and we got back an urn with Dave's hand duly bound to it.
+
+The cult members are really warming up to each other and I can feel there are more outings to be had...
 
 [Back to session blog...](/2020/02/26/eleventh-session.html)
 

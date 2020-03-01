@@ -28,7 +28,7 @@ The simultaneous play means the game scales really well to higher player counts.
 
 With a well-timed tea (and biscuit) break to allow all three tables to finish, people were free to swap tables for second plays of both [Sentinels][S] and [7 Wonders][7W], having five players on each table.
 
-Meanwhile, the other three players switched to playing an RPG, continuing a [Blades in the Dark][BitD] story from the previous session.
+Meanwhile, the other three players switched to playing an RPG, continuing a [Blades in the Dark][BitD] story from the previous session, but this time involving Smook and Grog on their own adventure - [read more here](/Sessions/2020-blades-campaign.html#session-29th-jan---dave).
 This looks to be becoming a multi-session campaign, as we will continue to build on the story and as new players/characters join in future sessions.
 
 As usual for any game requests for future sessions, please [contact us on Discord, Facebook, or Twitter][Contact].
