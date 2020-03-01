@@ -90,7 +90,7 @@ Wyrm and Flint managed to limp home worse for wear, but then discovered coins in
 
 This session of Blades in the Dark saw 7 people jump into the campaign. It started with a weary and worn Master Wyrm and hunter Flint entering their cult squash court (long story) after their last adventure with the Wraiths to meet some new and old faces.
 
-Smelling of the sewers Smook and Grog had appeared after their adventure with Dave, Davey Jones and the Other Dave. They brought the remains of Dave (a ghost in an arm) and not many explanations. Other Dave came with them and got prompted from an acolyte as he showed great promise! And another new member who had been an initiate of the Wraiths - Wren - lurked enigmatically in the corner enigmatic.
+Smelling of the sewers Smook and Grog had appeared after their adventure with Dave, Davey Jones and the Other Dave. They brought the remains of Dave (a ghost in an arm) and not many explanations. Other Dave came with them and got promoted from an acolyte as he showed great promise! And another new member who had been an initiate of the Wraiths - Wren - lurked enigmatically in the corner being enigmatic.
 
 Well there was no respite, as Dave's arm was restless and needed to be bound to an urn but that needed a witch. So we headed down to the docks where crews get talismans and blessings for their journey. We found a witch who would only do it after we had retrieved an artifact that was on an empty ship. Unfortunately thats how it had returned to port and no one liked going on it, but that didn't mean it wasn't guarded!
 
