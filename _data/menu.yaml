@@ -22,7 +22,11 @@ toc:
         - title: Professionals
           url: /BoardGames/Professions.html
     - title: RPGs
-      url: /RPGs.html
+      subfolderitems:
+        - title: Types
+          url: /RPGs.html
+        - title: Sessions
+          url: /Sessions.html
     - title: Blog
       url: /Posts.html
     - title: Policies
