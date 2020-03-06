@@ -62,11 +62,11 @@ As usual for any game requests for future sessions, please [contact us on Discor
 * Role Playing:
     * [Blades in the Dark][BitD]
 
-[KD]: {{ site.data.BoardGameLinks.Kingdomino.InternalLink }}
-[KDAoG]: {{ site.data.BoardGameLinks.KingdominoAgeOfGiants.BGGLink }}
-[LOTR]: {{ site.data.BoardGameLinks.LordOfTheRings.BGGLink }}
-[Zoo]: {{ site.data.BoardGameLinks.OZooLeMio.BGGLink }}
-[SC]: {{ site.data.BoardGameLinks.SpeedCups.BGGLink }}
-[TM]:  {{ site.data.BoardGameLinks.TerraformingMars.BGGLink }}
-[BitD]: {{ site.data.RPGLinks.BladesInTheDark.InternalLink }}
+[KD]: {{ site.data.BoardGameLinks.Kingdomino.Link }}
+[KDAoG]: {{ site.data.BoardGameLinks.KingdominoAgeOfGiants.Link }}
+[LOTR]: {{ site.data.BoardGameLinks.LordOfTheRings.Link }}
+[Zoo]: {{ site.data.BoardGameLinks.OZooLeMio.Link }}
+[SC]: {{ site.data.BoardGameLinks.SpeedCups.Link }}
+[TM]:  {{ site.data.BoardGameLinks.TerraformingMars.Link }}
+[BitD]: {{ site.data.RPGLinks.BladesInTheDark.Link }}
 [Contact]: /Contact.html

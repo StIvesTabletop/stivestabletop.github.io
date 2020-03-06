@@ -42,9 +42,9 @@ As usual for any game requests for future sessions, please [contact us on Discor
 * Role Playing:
     * [Blades in the Dark][BitD]
 
-[SC]: {{ site.data.BoardGameLinks.SpeedCups.BGGLink }}
-[S]: {{ site.data.BoardGameLinks.SentinelsOfTheMultiverse.BGGLink }}
-[BHH]: {{ site.data.BoardGameLinks.BetrayalAtHouseOnTheHill.BGGLink }}
-[7W]: {{ site.data.BoardGameLinks.SevenWonders.InternalLink }}
-[BitD]: {{ site.data.RPGLinks.BladesInTheDark.InternalLink }}
+[SC]: {{ site.data.BoardGameLinks.SpeedCups.Link }}
+[S]: {{ site.data.BoardGameLinks.SentinelsOfTheMultiverse.Link }}
+[BHH]: {{ site.data.BoardGameLinks.BetrayalAtHouseOnTheHill.Link }}
+[7W]: {{ site.data.BoardGameLinks.SevenWonders.Link }}
+[BitD]: {{ site.data.RPGLinks.BladesInTheDark.Link }}
 [Contact]: /Contact.html

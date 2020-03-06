@@ -2,10 +2,10 @@
 title: Working Professionals in Board Games
 ---
 
-# Dice Hospital{% include new_entry.html %}
+# Dice Hospital
 
 * 1-4 players
-* 60 min play time
+* 60 minutes play time
 * Dice and worker placement
 * [Dice Hospital BGG link]({{ site.data.BoardGameLinks.DiceHospital.BGGLink }})
 
@@ -23,7 +23,7 @@ The strategy comes from the decisions over how best to build and use the hospita
 # Flash Point: Fire Rescue
 
 * 2-6 players
-* 60 min play time
+* 60 minutes play time
 * board game with dice mechanic
 * [Flash Point BGG link]({{ site.data.BoardGameLinks.FlashPoint.BGGLink }})
 
@@ -42,7 +42,7 @@ After each firefighters turn the fire will spread using a dice mechanic to rando
 
 * Highly rated game
 * 2-4 players
-* 60 min play time
+* 60 minutes play time
 * board game with card deck mechanic
 * [Pandemic BGG link]({{ site.data.BoardGameLinks.Pandemic.BGGLink }})
 

@@ -72,11 +72,11 @@ As mentioned above [Robinson Crusoe][RC] is likely to get another outing on the 
 	* [Seven Wonders][7W]
 	* [The Shipwreck Arcana][SA]
 
-[Azul]: {{ site.data.BoardGameLinks.Azul.BGGLink }}
-[BB]: {{ site.data.BoardGameLinks.BurgleBros.BGGLink }}
-[DSA]: {{ site.data.BoardGameLinks.DeepSeaAdventure.BGGLink }}
-[H]: {{ site.data.BoardGameLinks.Hanabi.InternalLink }}
-[RC]: {{ site.data.BoardGameLinks.RobinsonCrusoe.BGGLink }}
-[SA]: {{ site.data.BoardGameLinks.TheShipwreckArcana.BGGLink }}
-[7W]: {{ site.data.BoardGameLinks.SevenWonders.InternalLink }}
+[Azul]: {{ site.data.BoardGameLinks.Azul.Link }}
+[BB]: {{ site.data.BoardGameLinks.BurgleBros.Link }}
+[DSA]: {{ site.data.BoardGameLinks.DeepSeaAdventure.Link }}
+[H]: {{ site.data.BoardGameLinks.Hanabi.Link }}
+[RC]: {{ site.data.BoardGameLinks.RobinsonCrusoe.Link }}
+[SA]: {{ site.data.BoardGameLinks.TheShipwreckArcana.Link }}
+[7W]: {{ site.data.BoardGameLinks.SevenWonders.Link }}
 [Contact]: /Contact.html

@@ -60,9 +60,9 @@ The next session is 29th January and the committee will be a little depleted due
 * Role Playing:
     * [Blades in the Dark][BitD]
 
-[TC]: {{ site.data.BoardGameLinks.TheCity.BGGLink }}
-[C]: {{ site.data.BoardGameLinks.Clank.BGGLink }}
-[RttA]: {{ site.data.BoardGameLinks.RollThroughTheAges.BGGLink }}
-[SI]: {{ site.data.BoardGameLinks.SpiritIsland.BGGLink }}
-[BitD]: {{ site.data.RPGLinks.BladesInTheDark.InternalLink }}
+[TC]: {{ site.data.BoardGameLinks.TheCity.Link }}
+[C]: {{ site.data.BoardGameLinks.Clank.Link }}
+[RttA]: {{ site.data.BoardGameLinks.RollThroughTheAges.Link }}
+[SI]: {{ site.data.BoardGameLinks.SpiritIsland.Link }}
+[BitD]: {{ site.data.RPGLinks.BladesInTheDark.Link }}
 [Contact]: /Contact.html

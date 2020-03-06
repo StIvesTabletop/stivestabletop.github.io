@@ -70,11 +70,11 @@ As usual for any game requests for future sessions, please [contact us on Discor
     * [Blades in the Dark][BitD]
 
 
-[TC]: {{ site.data.BoardGameLinks.TheCity.BGGLink }}
-[W]: {{ site.data.BoardGameLinks.Wingspan.InternalLink }}
-[ED]: {{ site.data.BoardGameLinks.EminentDomain.BGGLink }}
-[MA]: {{ site.data.BoardGameLinks.MagicalAthlete.BGGLink }}
-[NC]: {{ site.data.BoardGameLinks.NinjaCamp.BGGLink }}
-[UHA]:  {{ site.data.BoardGameLinks.UnlockHeroicAdventures.BGGLink }}
-[BitD]: {{ site.data.RPGLinks.BladesInTheDark.InternalLink }}
+[TC]: {{ site.data.BoardGameLinks.TheCity.Link }}
+[W]: {{ site.data.BoardGameLinks.Wingspan.Link }}
+[ED]: {{ site.data.BoardGameLinks.EminentDomain.Link }}
+[MA]: {{ site.data.BoardGameLinks.MagicalAthlete.Link }}
+[NC]: {{ site.data.BoardGameLinks.NinjaCamp.Link }}
+[UHA]:  {{ site.data.BoardGameLinks.Unlock.Link }}
+[BitD]: {{ site.data.RPGLinks.BladesInTheDark.Link }}
 [Contact]: /Contact.html

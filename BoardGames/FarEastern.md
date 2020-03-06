@@ -6,7 +6,7 @@ title: Far Eastern Themed Board Games
 
 * 5 minute rules
 * 2-5 players
-* 30 min play time
+* 30 minutes play time
 * card game
 * [Hanabi BGG link]({{ site.data.BoardGameLinks.Hanabi.BGGLink }})
 
@@ -24,7 +24,7 @@ Simple to learn but tricky to create the perfect display.
 # Kanagawa
 
 * 2-4 players
-* 45 min play time
+* 45 minutes play time
 * board game
 * [Kanagawa BGG link]({{ site.data.BoardGameLinks.Kanagawa.BGGLink }})
 
@@ -43,7 +43,7 @@ With a novel bamboo mat or lesson board mechanic randomising the cards available
 # Ninja Camp
 
 * 2-4 players
-* 15 min play time
+* 15 minutes play time
 * card game
 * [Ninja Camp BGG link]({{ site.data.BoardGameLinks.NinjaCamp.BGGLink }})
 
@@ -62,7 +62,7 @@ This leaves holes in the grid setup limiting future moves for you and your oppon
 # Takenoko
 
 * 2-4 players
-* 45 min play time
+* 45 minutes play time
 * board game
 * [Takenoko BGG link]({{ site.data.BoardGameLinks.Takenoko.BGGLink }})
 
@@ -78,10 +78,10 @@ A tile placement and garden management game with the aim to met different secret
 
 {% include back_to_top.html %}
 
-# Tokaido{% include new_entry.html %}
+# Tokaido
 
 * 2-5 players
-* 45 min play time
+* 45 minutes play time
 * board game
 * [Tokaido BGG link]({{ site.data.BoardGameLinks.Tokaido.BGGLink }})
 

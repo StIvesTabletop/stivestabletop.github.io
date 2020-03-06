@@ -52,17 +52,17 @@ Feel free to bring your own games along, we enjoy trying some new games or just 
 * RPG:
 	* [Fate][FateRPG] - [Story][RPG] driven role play
 
-[FateRPG]: {{ site.data.RPGLinks.Fate.InternalLink }}
+[FateRPG]: {{ site.data.RPGLinks.Fate.Link }}
 [RPG]: /Sessions/2019-10-23-bypass.html
-[Plan]: {{ site.data.BoardGameLinks.Planet.InternalLink }}
-[CatSoA]: {{ site.data.BoardGameLinks.CleopatraAndTheSocietyOfArchitects.InternalLink }}
-[Tok]: {{ site.data.BoardGameLinks.Tokaido.InternalLink }}
-[CG]: {{ site.data.BoardGameLinks.CottageGarden.InternalLink }}
-[PR]: {{ site.data.BoardGameLinks.PuertoRico.InternalLink }}
-[AoW]: {{ site.data.BoardGameLinks.AgeOfWar.BGGLink }}
-[GSC]: {{ site.data.BoardGameLinks.GanzSchonClever.BGGLink }}
+[Plan]: {{ site.data.BoardGameLinks.Planet.Link }}
+[CatSoA]: {{ site.data.BoardGameLinks.CleopatraAndTheSocietyOfArchitects.Link }}
+[Tok]: {{ site.data.BoardGameLinks.Tokaido.Link }}
+[CG]: {{ site.data.BoardGameLinks.CottageGarden.Link }}
+[PR]: {{ site.data.BoardGameLinks.PuertoRico.Link }}
+[AoW]: {{ site.data.BoardGameLinks.AgeOfWar.Link }}
+[GSC]: {{ site.data.BoardGameLinks.GanzSchonClever.Link }}
 [Contact]: /Contact.html
-[TM]: {{ site.data.BoardGameLinks.TerraformingMars.BGGLink }}
-[RC]: {{ site.data.BoardGameLinks.RobinsonCrusoe.BGGLink }}
-[SI]: {{ site.data.BoardGameLinks.SpiritIsland.BGGLink }}
-[ESDftG]: {{ site.data.BoardGameLinks.EclipseSecondDawnForTheGalaxy.BGGLink }}
+[TM]: {{ site.data.BoardGameLinks.TerraformingMars.Link }}
+[RC]: {{ site.data.BoardGameLinks.RobinsonCrusoe.Link }}
+[SI]: {{ site.data.BoardGameLinks.SpiritIsland.Link }}
+[ESDftG]: {{ site.data.BoardGameLinks.EclipseSecondDawnForTheGalaxy.Link }}

@@ -142,4 +142,4 @@ The cult members are really warming up to each other and I can feel there are mo
 
 
 
-[BitDRPG]: {{ site.data.RPGLinks.BladesInTheDark.InternalLink }}
+[BitDRPG]: {{ site.data.RPGLinks.BladesInTheDark.Link }}
