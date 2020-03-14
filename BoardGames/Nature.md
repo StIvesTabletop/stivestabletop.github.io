@@ -2,10 +2,10 @@
 title: Nature Themed Board Games
 ---
 
-# Cottage Garden{% include new_entry.html %}
+# Cottage Garden
 
 * 1-4 players
-* 45 min play time
+* 45 minutes play time
 * "tetris" style pieces
 * [Cottage Garden BGG link]({{ site.data.BoardGameLinks.CottageGarden.BGGLink }})
 
@@ -21,10 +21,10 @@ Competitive gardening!
 
 {% include back_to_top.html %}
 
-# Evolution: Climate{% include new_entry.html %}
+# Evolution: Climate
 
 * 2-6 players
-* 60 min play time
+* 60 minutes play time
 * Card mechanic
 * [Evolution: Climate BGG link]({{ site.data.BoardGameLinks.EvolutionClimate.BGGLink }})
 
@@ -45,7 +45,7 @@ Each species can only have four traits so choose wisely and watch what other cre
 # Fluxx
 
 * 2-6 players
-* 5-30 min play time
+* 5-30 minutes play time
 * card game
 * [Fluxx BGG link]({{ site.data.BoardGameLinks.Fluxx.BGGLink }})
 
@@ -65,7 +65,7 @@ Can be won in a couple of rounds or go round for many turns as players thwart ea
 # Planet
 
 * 2-4 players
-* 30 min play time
+* 30 minutes play time
 * 3D magnetic pieces
 * [Planet BGG link]({{ site.data.BoardGameLinks.Planet.BGGLink }})
 
@@ -84,10 +84,10 @@ At the end score points dependent on animal types attracted and a secret terrain
 
 {% include back_to_top.html %}
 
-# Wingspan{% include new_entry.html %}
+# Wingspan
 
 * 1-5 players
-* 60 min play time
+* 60 minutes play time
 * Card and dice mechanic, set collection
 * [Wingspan BGG link]({{ site.data.BoardGameLinks.Wingspan.BGGLink }})
 

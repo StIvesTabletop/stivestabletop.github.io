@@ -54,11 +54,11 @@ We are also planning to have a RPG table running again and welcome your [suggest
 	* [The Shipwreck Arcana][SA]
 	* [Terraforming Mars][TM]
 
-[King]: {{ site.data.BoardGameLinks.Kingdomino.InternalLink }}
-[SA]: {{ site.data.BoardGameLinks.TheShipwreckArcana.BGGLink }}
-[FP]: {{ site.data.BoardGameLinks.FlashPoint.InternalLink }}
-[FPTE]: {{ site.data.BoardGameLinks.FlashPointTragicEvents.BGGLink }}
+[King]: {{ site.data.BoardGameLinks.Kingdomino.Link }}
+[SA]: {{ site.data.BoardGameLinks.TheShipwreckArcana.Link }}
+[FP]: {{ site.data.BoardGameLinks.FlashPoint.Link }}
+[FPTE]: {{ site.data.BoardGameLinks.FlashPointTragicEvents.Link }}
 [Contact]: /Contact.html
-[TM]: {{ site.data.BoardGameLinks.TerraformingMars.BGGLink }}
-[RC]: {{ site.data.BoardGameLinks.RobinsonCrusoe.BGGLink }}
+[TM]: {{ site.data.BoardGameLinks.TerraformingMars.Link }}
+[RC]: {{ site.data.BoardGameLinks.RobinsonCrusoe.Link }}
 [ohdear]: https://youtu.be/oHw4VhwCbRA

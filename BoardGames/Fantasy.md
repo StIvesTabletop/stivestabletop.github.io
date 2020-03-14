@@ -5,7 +5,7 @@ title: Fantasy Themed Board Games
 # Braggart
 
 * 2-6 players
-* 30 min play time
+* 30 minutes play time
 * card game
 * [Braggart BGG link]({{ site.data.BoardGameLinks.Braggart.BGGLink }})
 
@@ -25,7 +25,7 @@ A simple but funny game that makes a good start to a games session while everyon
 # Castle Ravenloft
 
 * 1-5 players
-* 60+ min play time
+* 60+ minutes play time
 * board game with cards and figurines
 * [Castle Ravenloft BGG link]({{ site.data.BoardGameLinks.CastleRavenloft.BGGLink }})
 
@@ -48,7 +48,7 @@ Plenty of player designed downloadable additional content available.
 # Kingdomino
 
 * 2-4 players
-* 20 min play time
+* 20 minutes play time
 * domino tile mechanic with tile drafting
 * [Kingdomino BGG link]({{ site.data.BoardGameLinks.Kingdomino.BGGLink }})
 
@@ -67,7 +67,7 @@ Score points at the end of the game based on consecutive terrain types and tile 
 
 * 5 minute rules
 * 3-6 players
-* 30 min play time
+* 30 minutes play time
 * card game
 * [Rock Paper Wizard BGG link]({{ site.data.BoardGameLinks.RockPaperWizard.BGGLink }})
 
@@ -87,7 +87,7 @@ A fun take on D&D whilst waiting for the main session to start.
 # Seven Dragons
 
 * 2-5 players
-* 30 min play time
+* 30 minutes play time
 * card game
 * [Seven Dragons BGG link]({{ site.data.BoardGameLinks.SevenDragons.BGGLink }})
 

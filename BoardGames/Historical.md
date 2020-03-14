@@ -30,7 +30,7 @@ However the challenge and re-playability comes from the selection of those cards
 # Cleopatra and the Society of Architects
 
 * 3-5 players
-* 60 min play time
+* 60 minutes play time
 * board game with card deck mechanic
 * [Cleopatra BGG link]({{ site.data.BoardGameLinks.CleopatraAndTheSocietyOfArchitects.BGGLink }})
 
@@ -46,10 +46,10 @@ Combine card types to build different parts of the palace from a card based mark
 
 {% include back_to_top.html %}
 
-# Puerto Rico{% include new_entry.html %}
+# Puerto Rico
 
 * 3-5 players
-* 90 min play time
+* 90 minutes play time
 * City building and trading
 * [Puerto Rico BGG link]({{ site.data.BoardGameLinks.PuertoRico.BGGLink }})
 

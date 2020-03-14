@@ -42,9 +42,9 @@ Let us know if you have any games suggestions and then we can make sure to bring
 * RPGs:
 	* [Scum and Villainy][SaV]
 
-[SaV]: {{ site.data.RPGLinks.ScumAndVillainy.InternalLink }}
-[Carc]: {{ site.data.BoardGameLinks.Carcassonne.InternalLink }}
-[TtRE]: {{ site.data.BoardGameLinks.TicketToRideEurope.InternalLink }}
-[FI]: {{ site.data.BoardGameLinks.ForbiddenIsland.InternalLink }}
-[CatSoA]: {{ site.data.BoardGameLinks.CleopatraAndTheSocietyOfArchitects.InternalLink }}
-[Plan]: {{ site.data.BoardGameLinks.Planet.InternalLink }}
+[SaV]: {{ site.data.RPGLinks.ScumAndVillainy.Link }}
+[Carc]: {{ site.data.BoardGameLinks.Carcassonne.Link }}
+[TtRE]: {{ site.data.BoardGameLinks.TicketToRideEurope.Link }}
+[FI]: {{ site.data.BoardGameLinks.ForbiddenIsland.Link }}
+[CatSoA]: {{ site.data.BoardGameLinks.CleopatraAndTheSocietyOfArchitects.Link }}
+[Plan]: {{ site.data.BoardGameLinks.Planet.Link }}

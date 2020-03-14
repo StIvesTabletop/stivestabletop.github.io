@@ -38,7 +38,7 @@ Let us know if you have a favourite game you want to play or a game you have alw
 * RPG:
 	* [Scum and Villainy][SaV] - Space based retcon storytelling
 
-[SaV]: {{ site.data.RPGLinks.ScumAndVillainy.InternalLink }}
-[EC]: {{ site.data.BoardGameLinks.EvolutionClimate.InternalLink }}
-[Brag]: {{ site.data.BoardGameLinks.Braggart.InternalLink }}
-[PI]: {{ site.data.BoardGameLinks.PI.BGGLink }}
+[SaV]: {{ site.data.RPGLinks.ScumAndVillainy.Link }}
+[EC]: {{ site.data.BoardGameLinks.EvolutionClimate.Link }}
+[Brag]: {{ site.data.BoardGameLinks.Braggart.Link }}
+[PI]: {{ site.data.BoardGameLinks.PI.Link }}

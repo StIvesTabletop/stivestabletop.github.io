@@ -6,7 +6,7 @@ title: Development Board Games
 
 * 5 minute rules
 * 2-5 players
-* 45 min play time
+* 45 minutes play time
 * tile placement game
 * [Carcassonne BGG link]({{ site.data.BoardGameLinks.Carcassonne.BGGLink }})
 
@@ -19,10 +19,30 @@ A simple game to learn but a lot of strategy in the placement of meeples to scor
 
 {% include back_to_top.html %}
 
-# Dominion{% include new_entry.html %}
+# Chocolate Factory{% include new_entry.html %}
+
+* 1-4 players
+* 90 minutes play time
+* board game - resource management
+* [Chocolate Factory BGG Link]({{ site.data.BoardGameLinks.ChocolateFactory.BGGLink }})
+
+A resource management game with a confectionary theme. There are a variety of ways to earn victory points as manager of a chocolate factory either selling to corner shops for one off cash payouts or providing candies to big department stores, with endgame points for the most stores you serviced and the most goods sold to each.
+First you have to make the chocolates which means converting beans to cocoa to chocolate bars or chunks to wrapped candies (nuts or caramel) and finally to luxury boxed chocs which obviously earn the most but need the most input. This means building new equipment in your factory and careful management of your coal.
+Each turn you gain one new factory part and one employee of the day who grants a special power and ability to sell to one of the 5 department stores, so choice of these new assets and then placement of these is vital to optimise your factory.
+Each day has 3 shifts with an interesting conveyor belt push mechanic to move the chocolate through the factory and upgrade it as required. You have 6 days to develop the factory and sell the most chocolates.
+The mechanics are a little tricky with 3 phases per day and multiple days to plan so a couple of plays are required to fully appreciate the game and become a master chocolatier.
+
+{% assign ChocolateFactoryImageLink = site.data.BoardGameLinks.ChocolateFactory.ImageLink -%}
+
+![Chocolate Factory]({{ ChocolateFactoryImageLink }}_01.jpg "Chocolate Factory - 2 factories"){:class="img_game"}
+![Chocolate Factory]({{ ChocolateFactoryImageLink }}_02.jpg "Chocolate Factory - close up"){:class="img_game"}
+
+{% include back_to_top.html %}
+
+# Dominion
 
 * 2-4 players
-* 30 min play time
+* 30 minutes play time
 * Card based deck building
 * [Dominion BGG link]({{ site.data.BoardGameLinks.Dominion.BGGLink }})
 
@@ -51,7 +71,7 @@ Very satisfying when your strategy pays off and frustrating when you are 1 coin 
 # Settlers of Catan
 
 * 3-4 players
-* 60 min play time
+* 60 minutes play time
 * board game
 * [Settlers of Catan BGG link]({{ site.data.BoardGameLinks.SettlersOfCatan.BGGLink }})
 
@@ -72,7 +92,7 @@ You need to balance your resources based on your key incomes and trade for what 
 
 * 5 minute rules
 * 2-5 players
-* 60 min play time
+* 60 minutes play time
 * board game
 * [Ticket to Ride Europe BGG link]({{ site.data.BoardGameLinks.TicketToRideEurope.BGGLink }})
 
@@ -84,5 +104,25 @@ Your score more for building longer routes or at game end by demonstrating that 
 
 ![Ticket to ride setup]({{ TicketToRideEuropeImageLink }}_01.jpg "Ticket to ride setup"){:class="img_game"}
 ![Ticket to ride zoom]({{ TicketToRideEuropeImageLink }}_03.jpg "Ticket to ride zoom"){:class="img_game"}
+
+{% include back_to_top.html %}
+
+# The City{% include new_entry.html %}
+
+* 2-5 players
+* 15 minutes play time
+* card drafting
+* [The City BGG link]({{ site.data.BoardGameLinks.TheCity.BGGLink }})
+
+A good filler game for the start of a session, quick to play and explain.
+Players draw 7 cards with city based structures like shops, housing, parks, schools, industry or monuments, discard down to 5 and then each round play a card into their city.
+To play a card you discard the number of cards indicated in the top left with more powerful cards requiring higher numbers of discards.
+Everyone secretly selects their card and plays at the same time, then everyone looks at the bottom of the cards in their entire city and counts up victory points and number of new cards they can draw.
+Thus over the rounds the number of new cards gained and victory points steadily increases.
+Maximum hand size of 12 cards, first to 50 or more points and many of the cards interact for additional points.
+
+{% assign TheCityImageLink = site.data.BoardGameLinks.TheCity.ImageLink -%}
+
+![The City]({{ TheCityImageLink }}_01.jpg "Example of The City"){:class="img_game"}
 
 {% include back_to_top.html %}
