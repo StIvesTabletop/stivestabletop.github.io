@@ -190,6 +190,10 @@ UnlockHeroicAdventures:
 Unlock:
     ImageLink: "/images/boardgames/unlock"
     Link: "/BoardGames/Explore.html#unlock"
+ViaNebula:
+    Link: "https://boardgamegeek.com/boardgame/191231/nebula"
+Villagers:
+    Link: "https://boardgamegeek.com/boardgame/241724/villagers"
 Wingspan:
     BGGLink: "https://boardgamegeek.com/boardgame/266192/wingspan"
     ImageLink: "/images/boardgames/wingspan"
