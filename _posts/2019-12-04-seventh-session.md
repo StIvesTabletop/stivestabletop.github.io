@@ -82,12 +82,12 @@ Happy Christmas!
     * [Seven Dragons][7D]
     * [Spirit Island][SI]
 
-[BP]: {{ site.data.BoardGameLinks.Barenpark.BGGLink }}
-[EC]: {{ site.data.BoardGameLinks.EvolutionClimate.InternalLink }}
-[FS]: {{ site.data.BoardGameLinks.ForSale.BGGLink }}
-[IoS]: {{ site.data.BoardGameLinks.IsleOfSkye.BGGLink }}
-[RC]: {{ site.data.BoardGameLinks.RobinsonCrusoe.BGGLink }}
-[S]: {{ site.data.BoardGameLinks.Senshi.BGGLink }}
-[7D]: {{ site.data.BoardGameLinks.SevenDragons.InternalLink }}
-[SI]: {{ site.data.BoardGameLinks.SpiritIsland.BGGLink }}
+[BP]: {{ site.data.BoardGameLinks.Barenpark.Link }}
+[EC]: {{ site.data.BoardGameLinks.EvolutionClimate.Link }}
+[FS]: {{ site.data.BoardGameLinks.ForSale.Link }}
+[IoS]: {{ site.data.BoardGameLinks.IsleOfSkye.Link }}
+[RC]: {{ site.data.BoardGameLinks.RobinsonCrusoe.Link }}
+[S]: {{ site.data.BoardGameLinks.Senshi.Link }}
+[7D]: {{ site.data.BoardGameLinks.SevenDragons.Link }}
+[SI]: {{ site.data.BoardGameLinks.SpiritIsland.Link }}
 [Contact]: /Contact.html

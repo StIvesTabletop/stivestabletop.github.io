@@ -42,10 +42,10 @@ Let us know if you have any suggestions for the next session on the 9th of Octob
 * RPG:
 	* Cthulhu Dark - RPG of cosmic horror!
 
-[DH]: {{ site.data.BoardGameLinks.DiceHospital.InternalLink }}
-[Tika]: {{ site.data.BoardGameLinks.Tikal.InternalLink }}
-[7W]: {{ site.data.BoardGameLinks.SevenWonders.InternalLink }}
-[Kana]: {{ site.data.BoardGameLinks.Kanagawa.InternalLink }}
-[King]: {{ site.data.BoardGameLinks.Kingdomino.InternalLink }}
-[7D]: {{ site.data.BoardGameLinks.SevenDragons.InternalLink }}
-[Quad]: {{ site.data.BoardGameLinks.Quadropolis.BGGLink }}
+[DH]: {{ site.data.BoardGameLinks.DiceHospital.Link }}
+[Tika]: {{ site.data.BoardGameLinks.Tikal.Link }}
+[7W]: {{ site.data.BoardGameLinks.SevenWonders.Link }}
+[Kana]: {{ site.data.BoardGameLinks.Kanagawa.Link }}
+[King]: {{ site.data.BoardGameLinks.Kingdomino.Link }}
+[7D]: {{ site.data.BoardGameLinks.SevenDragons.Link }}
+[Quad]: {{ site.data.BoardGameLinks.Quadropolis.Link }}

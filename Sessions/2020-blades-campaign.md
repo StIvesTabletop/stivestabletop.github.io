@@ -27,6 +27,7 @@ Main cult tenants:
 * Grog - “Likes to blow stuff up” (Cutter)
 * “Other Dave” - Bent ex-cop (Spider)
 * “Wren” - Secondment from the Wraiths (Leech)
+* Marco - Manipulator (Slide)
 
 # Session 15th Jan - Sacrifice!
 
@@ -139,7 +140,39 @@ The cult members are really warming up to each other and I can feel there are mo
 
 [Back to session blog...](/2020/02/26/eleventh-session.html)
 
+# Session 11th Mar - Possession!
 
+* Players: Flint, Marco
 
+This time saw Sean J. take a turn at leading the session.
+Wyrm had a job for Flint and Marco (the new acoloyte) - to investigate a possible ghost possession and “sort it out”.
+So with little more than that to go on, Flint and Marco made their way to the house in Barrowcleft.
 
-[BitDRPG]: {{ site.data.RPGLinks.BladesInTheDark.InternalLink }}
+On reaching the house, a desperate man led them into the basement to find a young child tied to a chair, he claimed she was possessed, and so with little knowledge of speaking to ghosts between them this started a bit of a trip round the city to find someone to help (as Wyrm wanted nothing to do with it).
+
+The first person we tried (a spiritualist masseuse!) couldn’t help and nearly went mad - but at least told them it wasn’t a ghost.
+Then we managed to locate a demonologist - Demon Dave - but he said he needed some items to contain the demon - ghost jars, a spirit doll, a holy scroll, and a demon bane charm.
+Marco and Flint managed to track down the first two by speaking to the witch from the ghost ship encounter, but the charm and scroll were a little more tricky.
+
+We followed a holy man in the Nightmarket, which we had been tipped off was a bit of a fraud, but might have some genuine scripture.
+Marco convinced him we were really interested in joining his following and we went with him.
+Just as we were going to jump him in an alleyway, his associates jumped us!
+A skirmish ensued where the holy man was knocked out, one of his dodgy band was wounded in the neck by a accidental knife throw from Flint, but Marco had grabbed the holy scripture.
+We just managed to get out of there before the city watch arrived.
+
+The charm proved a bit more elusive, but in the end we heard some rumours of a noble man living in Silkshore who had purchased an ancient demons bane artifact recently.
+On arriving at the house it looked deserted, but then a commotion upstairs saw Flint run out the front to incapacitate a Grey Cloak (that we had seen in the Nightmarket) after he jumped from the first floor.
+He was babbling about seeing someone in the house and clutching the bane, but Marco having checked upstairs found no-one.
+We wrapped the charm carefully up and went back to Demon Dave.
+
+Demon Dave was amazed at the demon bane, as it was a lost ancient artifact, but he said it would indeed help with the necessary ritual.
+We left Dave to it and waited upstairs, after some time we heard screaming and saw red light coming from the basement.
+So, Marco and Flint slowly ventured into the basement to find that the doll had turned into a large sarcophagus, the demon bane artifact was lying on the floor, the girl was still tied to the chair - though she looked better, but there was no sign of Demon Dave.
+
+After carefully pocketing the demon bane, and sorting out some payment from the father, we quickly scarpered our job done...!
+
+[Back to session blog...](/2020/03/11/twelfth-session.html)
+
+![Dice Tower](/images/rpg/DiceTower.jpg "Dice Tower"){:class="img_post"}
+
+[BitDRPG]: {{ site.data.RPGLinks.BladesInTheDark.Link }}
