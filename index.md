@@ -15,10 +15,10 @@ We aim to cover:
 # Next session
 
 In light of the government’s recent recommendations around COVID-19 (aka coronavirus), we have decided to have a hiatus for St Ives Tabletop until further notice.
-We are keen to restart the club as and when the advice changes and will keep you updated via our various communication channels.
+We are keen to restart the club as and when the advice changes and will keep you updated via our various [communication channels](/Contact.html).
 
-For those who would like to continue during this break to play either board games or role-playing games, we are hoping to organise some virtual sessions in place of the regular Wednesday fortnightly sessions (e.g. using Tabletop Simulator or various websites for board games, Roll20 for tabletop RPGs, with Discord as voice/video chat).
-If you are interested in joining, please join our [Discord](https://discord.gg/bScV82f) server and please let us know so we can organise.
+For those who would like to continue during this break to play either board games or role-playing games, we are hoping to organise some virtual sessions in place of the regular Wednesday fortnightly sessions (e.g. using [Tabletop Simulator](https://www.tabletopsimulator.com) or various websites for board games, [Roll20](https://roll20.net) for tabletop RPGs, with [Discord][Discord] as voice/video chat).
+If you are interested in joining, please join our [Discord][Discord] server and please let us know so we can organise.
 
 {% comment %}
 *{%- case d %}
@@ -41,3 +41,5 @@ See the [calendar](/Calendar.html) for the following sessions.
 	{%- else %}{{ d }}th
 {%- endcase %} {{ site.data.SessionInformation.NextSessionDate | date: "%B %Y" }}"){:class="img_poster"}
 {% endcomment %}
+
+[Discord]: https://discordapp.com/invite/aJHdTY
