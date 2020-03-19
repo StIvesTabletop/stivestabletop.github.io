@@ -18,7 +18,7 @@ In light of the government’s recent recommendations around COVID-19 (aka coron
 We are keen to restart the club as and when the advice changes and will keep you updated via our various communication channels.
 
 For those who would like to continue during this break to play either board games or role-playing games, we are hoping to organise some virtual sessions in place of the regular Wednesday fortnightly sessions (e.g. using Tabletop Simulator or various websites for board games, Roll20 for tabletop RPGs, with Discord as voice/video chat).
-If you are interested in joining, please join our [Discord](https://discordapp.com/invite/aJHdTY) server and please let us know so we can organise.
+If you are interested in joining, please join our [Discord](https://discord.gg/bScV82f) server and please let us know so we can organise.
 
 {% comment %}
 *{%- case d %}
