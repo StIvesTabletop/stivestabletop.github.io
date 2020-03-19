@@ -42,4 +42,4 @@ See the [calendar](/Calendar.html) for the following sessions.
 {%- endcase %} {{ site.data.SessionInformation.NextSessionDate | date: "%B %Y" }}"){:class="img_poster"}
 {% endcomment %}
 
-[Discord]: https://discordapp.com/invite/aJHdTY
+[Discord]: https://discord.gg/bScV82f
