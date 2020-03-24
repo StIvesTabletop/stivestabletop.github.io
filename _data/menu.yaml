@@ -5,8 +5,10 @@ toc:
       url: /Calendar.html
     - title: Board Games
       subfolderitems:
-        - title: By style
+        - title: By Style
           url: /BoardGames/Style.html
+        - title: By Designer
+          url: /BoardGames/Designer.html
         - title: Development
           url: /BoardGames/Development.html
         - title: Exploration
