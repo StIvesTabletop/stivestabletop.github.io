@@ -13,29 +13,49 @@ Here we list a few of these designers we play at the club.
 
 # Alan R. Moon
 
+[Alan R. Moon BGG Link]({{ site.data.DesignerLinks.AlanRMoon }})
+
 * [Incan Gold]({{ site.data.BoardGameLinks.Diamant.Link }})
 * [Ticket to Ride]({{ site.data.BoardGameLinks.TicketToRideEurope.Link }})
 
 # Antoine Bauza
 
+[Antoine Bauza BGG Link]({{ site.data.DesignerLinks.AntoineBauza }})
+
+* [7 Wonders]({{ site.data.BoardGameLinks.SevenWonders.Link }})
 * [Hanabi]({{ site.data.BoardGameLinks.Hanabi.Link }})
+
+# Bruno Cathala
+
+[Bruno Cathala BGG Link]({{ site.data.DesignerLinks.BrunoCathala }})
+
+* [Cleopatra And The Society Of Architects]({{ site.data.BoardGameLinks.CleopatraAndTheSocietyOfArchitects.Link }})
+* [Kanagawa]({{ site.data.BoardGameLinks.Kanagawa.Link }})
 * [Kingdomino]({{ site.data.BoardGameLinks.Kingdomino.Link }})
 
 # Martin Wallace
+
+[Martin Wallace BGG Link]({{ site.data.DesignerLinks.MartinWallace }})
 
 * [P.I.]({{ site.data.BoardGameLinks.PI.Link }})
 * [Via Nebula]({{ site.data.BoardGameLinks.ViaNebula.Link }})
 
 # Matt Leacock
 
+[Matt Leacock BGG Link]({{ site.data.DesignerLinks.MattLeacock }})
+
 * [Forbidden Island]({{ site.data.BoardGameLinks.ForbiddenIsland.Link }})
 * [Pandemic]({{ site.data.BoardGameLinks.Pandemic.Link }})
 
 # Reiner Knizia
 
+[Reiner Knizia BGG Link]({{ site.data.DesignerLinks.ReinerKnizia }})
+
 * More will follow at the club. Amazed we haven’t played any games by this designer yet (as of March 2020)
 
 # Uwe Rosenberg
+
+[Uwe Rosenberg BGG Link]({{ site.data.DesignerLinks.UweRosenberg }})
 
 * [Cottage Garden]({{ site.data.BoardGameLinks.CottageGarden.Link }})
 * More will follow at the club, almost certainly
