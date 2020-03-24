@@ -34,6 +34,10 @@ CleopatraAndTheSocietyOfArchitects:
     BGGLink: "https://boardgamegeek.com/boardgame/22141/cleopatra-and-society-architects"
     ImageLink: "/images/boardgames/cleopatraandthesocietyofarchitects"
     Link: "/BoardGames/Historical.html#cleopatra-and-the-society-of-architects"
+Colosseum:
+    BGGLink: "https://boardgamegeek.com/boardgame/27746/colosseum"
+    ImageLink: "/images/boardgames/colosseum"
+    Link: "/BoardGames/Historical.html#colosseum"
 CottageGarden:
     BGGLink: "https://boardgamegeek.com/boardgame/204027/cottage-garden"
     ImageLink: "/images/boardgames/cottagegarden"
@@ -76,7 +80,9 @@ ForbiddenIsland:
     ImageLink: "/images/boardgames/forbiddenisland"
     Link: "/BoardGames/Explore.html#forbidden-island"
 ForSale:
-    Link: "https://www.boardgamegeek.com/boardgame/172/sale"
+    BGGLink: "https://www.boardgamegeek.com/boardgame/172/sale"
+    ImageLink: "/images/boardgames/forsale"
+    Link: "/BoardGames/Development.html#for-sale"
 GanzSchonClever:
     Link: "https://boardgamegeek.com/boardgame/244522/s-pretty-clever"
 Hanabi:
@@ -139,7 +145,9 @@ RockPaperWizard:
     ImageLink: "/images/boardgames/rockpaperwizard"
     Link: "/BoardGames/Fantasy.html#rock-paper-wizard"
 RollThroughTheAges:
-    Link: "https://www.boardgamegeek.com/boardgame/37380/roll-through-ages-bronze-age"
+    BGGLink: "https://www.boardgamegeek.com/boardgame/37380/roll-through-ages-bronze-age"
+    ImageLink: "/images/boardgames/rollthroughtheages"
+    Link: "/BoardGames/Historical.html#roll-through-the-ages"
 SettlersOfCatan:
     BGGLink: "https://www.boardgamegeek.com/boardgame/13/catan"
     ImageLink: "/images/boardgames/settlersofcatan"

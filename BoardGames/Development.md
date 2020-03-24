@@ -68,6 +68,32 @@ Very satisfying when your strategy pays off and frustrating when you are 1 coin 
 
 {% include back_to_top.html %}
 
+# For Sale{% include new_entry.html %}
+
+* 3-6 players
+* 30 minutes play time
+* card based auction mechanic
+* [For Sale BGG link]({{ site.data.BoardGameLinks.ForSale.BGGLink }})
+
+This is a property game in 2 phases.
+First you draft your properties, then you try and sell them for a profit.
+There are 30 property cards numbered 1-30, with property 1 being a cardboard box in a grubby alley and 30 being a space station, with all kinds of interesting locations in between.
+Each auction round you reveal an equal number of properties as players and then they bid on them, as players pass they acquire the lowest valued property remaining in that round.
+
+Once all the properties are sold (so everyone has an equal number) then the selling phase starts.
+In a similar mechanic - an equal number of money cards are revealed as there are players and each player secretly chooses one of their properties to bid in the round.
+Highest value property snags the highest value money card and so on down the chain.
+Play continues until all properties are sold and you count up how much money you made.
+As the money values per round are randomised and range between £0 and £15,000 by the end of the game there can be some quite surprising sales with that cardboard box netting more than a nice riverboat or a camper van doing better than a luxury apartment.
+
+It is a quick and fun game with some nice card artwork, another good filler game or ice breaker with family or less seasoned gamers.
+
+{% assign ForSaleImageLink = site.data.BoardGameLinks.ForSale.ImageLink -%}
+
+![For Sale]({{ ForSaleImageLink }}_01.jpg "For Sale"){:class="img_game"}
+
+{% include back_to_top.html %}
+
 # Settlers of Catan
 
 * 3-4 players
