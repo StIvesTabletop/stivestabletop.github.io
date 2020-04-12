@@ -31,7 +31,7 @@ However the challenge and re-playability comes from the selection of those cards
 
 * 3-5 players
 * 60 minutes play time
-* board game with card deck mechanic
+* Board game with card deck mechanic
 * [Cleopatra BGG link]({{ site.data.BoardGameLinks.CleopatraAndTheSocietyOfArchitects.BGGLink }})
 
 A beautiful game that even uses the game box to construct a 3-D palace for Cleopatra.
@@ -54,9 +54,9 @@ Combine card types to build different parts of the palace from a card based mark
 * [Colosseum BGG link]({{ site.data.BoardGameLinks.Colosseum.BGGLink }})
 
 Produce some of the greatest Roman spectacles in your colosseum show, the bigger the show, having enough of the requisite performers and attracting the most nobles will amass the victory points and see you crowned master impresario.
-With lots of beautifully designed components and a variety of authentic shows to choose from this is an interesting historically themed game.
+With lots of beautifully designed components and a variety of authentic shows to choose from, this is an interesting historically themed game.
 
-During the game you develop and expand your colosseum, buy and trade performers, from gladiators and lions to musicians and comedians and finally put on the show.
+During the game you develop and expand your colosseum, buy and trade performers, from gladiators and lions to musicians and comedians, and finally put on the show.
 Points are scored over 5 rounds based on how big a show and how many of the necessary performers you acquired, if any were star performers, how many different shows you have performed and how many and which nobles attended the show.
 At the end of each show one performer or piece of equipment has a terrible accident, and the last place player can acquire a performer of their choice from the first place player to re-balance the game a little and then the show goes on.
 
@@ -95,8 +95,8 @@ You score victory points through building and trading, fairly simple to learn af
 * Dice rolling
 * [Roll through the Ages BGG link]({{ site.data.BoardGameLinks.RollThroughTheAges.BGGLink }})
 
-Rather like yahtzee, this is a dice rolling and locking game but with a civilisation development theme.
-Each turn you need to roll the dice, one per city starting with three. Then you can choose to build more cities, keep enough food to feed your population, or gather trade goods to gain developments and build monuments.
+Rather like Yahtzee, this is a dice rolling and locking game but with a civilisation development theme.
+Each turn you need to roll the dice, 1 per city starting with 3. Then you can choose to build more cities, keep enough food to feed your population, or gather trade goods to gain developments and build monuments.
 Some die combinations will hurt your opponents and some can hurt your cities but developments can counteract these.
 The game ends when all the monuments have been collectively built or one player has researched 5 developments.
 

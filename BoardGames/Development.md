@@ -7,7 +7,7 @@ title: Development Board Games
 * 5 minute rules
 * 2-5 players
 * 45 minutes play time
-* tile placement game
+* Tile placement game
 * [Carcassonne BGG link]({{ site.data.BoardGameLinks.Carcassonne.BGGLink }})
 
 A pick and place game with tiles featuring the walled towns, monasteries and farms of the Carcassonne region of France.
@@ -23,7 +23,7 @@ A simple game to learn but a lot of strategy in the placement of meeples to scor
 
 * 1-4 players
 * 90 minutes play time
-* board game - resource management
+* Board game - resource management
 * [Chocolate Factory BGG Link]({{ site.data.BoardGameLinks.ChocolateFactory.BGGLink }})
 
 A resource management game with a confectionary theme. There are a variety of ways to earn victory points as manager of a chocolate factory either selling to corner shops for one off cash payouts or providing candies to big department stores, with endgame points for the most stores you serviced and the most goods sold to each.
@@ -72,7 +72,7 @@ Very satisfying when your strategy pays off and frustrating when you are 1 coin 
 
 * 3-6 players
 * 30 minutes play time
-* card based auction mechanic
+* Card based auction mechanic
 * [For Sale BGG link]({{ site.data.BoardGameLinks.ForSale.BGGLink }})
 
 This is a property game in 2 phases.
@@ -81,10 +81,10 @@ There are 30 property cards numbered 1-30, with property 1 being a cardboard box
 Each auction round you reveal an equal number of properties as players and then they bid on them, as players pass they acquire the lowest valued property remaining in that round.
 
 Once all the properties are sold (so everyone has an equal number) then the selling phase starts.
-In a similar mechanic - an equal number of money cards are revealed as there are players and each player secretly chooses one of their properties to bid in the round.
+Following a similar mechanic, an equal number of money cards as there are players are revealed and each player secretly chooses one of their properties to bid in the round.
 Highest value property snags the highest value money card and so on down the chain.
 Play continues until all properties are sold and you count up how much money you made.
-As the money values per round are randomised and range between £0 and £15,000 by the end of the game there can be some quite surprising sales with that cardboard box netting more than a nice riverboat or a camper van doing better than a luxury apartment.
+As the money values per round are randomised and range between £0 and £15,000, by the end of the game there can be some quite surprising sales with that cardboard box netting more than a nice riverboat or a camper van doing better than a luxury apartment.
 
 It is a quick and fun game with some nice card artwork, another good filler game or ice breaker with family or less seasoned gamers.
 
@@ -98,7 +98,7 @@ It is a quick and fun game with some nice card artwork, another good filler game
 
 * 3-4 players
 * 60 minutes play time
-* board game
+* Board game
 * [Settlers of Catan BGG link]({{ site.data.BoardGameLinks.SettlersOfCatan.BGGLink }})
 
 An island is generated from hexagonal tiles so every game is different.
@@ -119,7 +119,7 @@ You need to balance your resources based on your key incomes and trade for what 
 * 5 minute rules
 * 2-5 players
 * 60 minutes play time
-* board game
+* Board game
 * [Ticket to Ride Europe BGG link]({{ site.data.BoardGameLinks.TicketToRideEurope.BGGLink }})
 
 Build a network of train routes across the map, numerous geographical versions are available, the Europe variant is shown in the images.
@@ -137,7 +137,7 @@ Your score more for building longer routes or at game end by demonstrating that 
 
 * 2-5 players
 * 15 minutes play time
-* card drafting
+* Card drafting
 * [The City BGG link]({{ site.data.BoardGameLinks.TheCity.BGGLink }})
 
 A good filler game for the start of a session, quick to play and explain.
