@@ -29,7 +29,9 @@ ChocolateFactory:
     ImageLink: "/images/boardgames/chocolatefactory"
     Link: "/BoardGames/Development.html#chocolate-factory"
 Clank:
-    Link: "https://boardgamegeek.com/boardgame/201808/clank-deck-building-adventure"
+    BGGLink: "https://boardgamegeek.com/boardgame/201808/clank-deck-building-adventure"
+    ImageLink: "/images/boardgames/clank"
+    Link: "/BoardGames/Fantasy.html#clank-a-deck-building-adventure"
 CleopatraAndTheSocietyOfArchitects:
     BGGLink: "https://boardgamegeek.com/boardgame/22141/cleopatra-and-society-architects"
     ImageLink: "/images/boardgames/cleopatraandthesocietyofarchitects"
@@ -102,9 +104,13 @@ Kingdomino:
 KingdominoAgeOfGiants:
     Link: "https://boardgamegeek.com/boardgame/240909/kingdomino-age-giants"
 LordOfTheRings:
-    Link: "https://boardgamegeek.com/boardgame/823/lord-rings"
+    BGGLink: "https://boardgamegeek.com/boardgame/823/lord-rings"
+    ImageLink: "/images/boardgames/lordoftherings"
+    Link: "/BoardGames/Fantasy.html#lord-of-the-rings"
 MagicalAthlete:
-    Link: "https://boardgamegeek.com/boardgame/24565/magical-athlete"
+    BGGLink: "https://boardgamegeek.com/boardgame/24565/magical-athlete"
+    ImageLink: "/images/boardgames/magicalathlete"
+    Link: "/BoardGames/Fantasy.html#magical-athlete"
 MagicMaze:
     BGGLink: "https://boardgamegeek.com/boardgame/209778/magic-maze"
     ImageLink: "/images/boardgames/magicmaze"
@@ -164,11 +170,16 @@ SevenWonders:
     BGGLink: "https://boardgamegeek.com/boardgame/68448/7-wonders"
     ImageLink: "/images/boardgames/7wonders"
     Link: "/BoardGames/Historical.html#7-wonders"
+SmallWorld:
+    BGGLink: "https://boardgamegeek.com/boardgame/40692/small-world"
+    ImageLink: "/images/boardgames/smallworld"
+    Link: "/BoardGames/Fantasy.html#small-world"
 SpeedCups:
     Link: "https://boardgamegeek.com/boardgame/146149/speed-cups"
 SpiritIsland:
     BGGLink: "https://boardgamegeek.com/boardgame/162886/spirit-island"
-    Link: "https://boardgamegeek.com/boardgame/162886/spirit-island"
+    ImageLink: "/images/boardgames/spiritisland"
+    Link: "/BoardGames/Fantasy.html#spirit-island"
 Takenoko:
     BGGLink: "https://boardgamegeek.com/boardgame/70919/takenoko"
     ImageLink: "/images/boardgames/takenoko"
@@ -180,7 +191,9 @@ TheCity:
     ImageLink: "/images/posts/2020_01_15/the_city"
     Link: "/BoardGames/Development.html#the-city"
 TheShipwreckArcana:
-    Link: "https://boardgamegeek.com/boardgame/220517/shipwreck-arcana"
+    BGGLink: "https://boardgamegeek.com/boardgame/220517/shipwreck-arcana"
+    ImageLink: "/images/boardgames/shipwreckarcana"
+    Link: "/BoardGames/Fantasy.html#the-shipwreck-arcana"
 TicketToRideEurope:
     BGGLink: "https://boardgamegeek.com/boardgame/14996/ticket-ride-europe"
     ImageLink: "/images/boardgames/tickettorideeurope"
