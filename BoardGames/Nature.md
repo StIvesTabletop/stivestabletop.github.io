@@ -62,6 +62,27 @@ Can be won in a couple of rounds or go round for many turns as players thwart ea
 
 {% include back_to_top.html %}
 
+# O Zoo le Mio{% include new_entry.html %}
+
+* 2-4 players
+* 45 minutes play time
+* Auction, set collection and tile placement
+* [O Zoo le Mio]({{ site.data.BoardGameLinks.OZooLeMio.BGGLink }})
+
+Another relatively simple game, build your zoo over 5 years (or rounds) and score points for the most types of animals, trees or circular paths.
+Each year 5 domino like tiles with 2 animal enclosures and some paths are set out and there is an auction phase to bid for each tile.
+If you win add the tile to your zoo.
+After each tile is added compare zoos to see who has the most of each type of animal; mammals, birds, reptiles, aquatic and primates, the highest gets 2 visitor meeples, the second gets one.
+You also check which zoo has the most trees to earn tree tokens in the same way and if you can create a circular path you gain a bench token.
+At the end of each year count up how many tokens are in your zoo and score, with successive years getting a multiplier so year 5 is worth 5x the number of tokens.
+It is a pretty game and the main challenge is in trying to select and then win the auction for the right tiles to attract the visitors to your latest attraction rather than the oppositions.
+
+{% assign OZooLeMioImageLink = site.data.BoardGameLinks.OZooLeMio.ImageLink -%}
+
+![O Zoo le Mio]({{ OZooLeMioImageLink }}_02.jpg "O Zoo le Mio"){:class="img_game"}
+
+{% include back_to_top.html %}
+
 # Planet
 
 * 2-4 players

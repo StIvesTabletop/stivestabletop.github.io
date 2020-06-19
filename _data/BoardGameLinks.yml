@@ -121,7 +121,8 @@ NinjaCamp:
     Link: "/BoardGames/FarEastern.html#ninja-camp"
 OZooLeMio:
     BGGLink: "https://boardgamegeek.com/boardgame/4218/o-zoo-le-mio"
-    Link: "https://boardgamegeek.com/boardgame/4218/o-zoo-le-mio"
+    ImageLink: "/images/boardgames/ozoolemio"
+    Link: "/BoardGames/Nature.html#o-zoo-le-mio"
 Pandemic:
     BGGLink: "https://boardgamegeek.com/boardgame/30549/pandemic"
     ImageLink: "/images/boardgames/pandemic"
