@@ -52,14 +52,15 @@ Here we list a few of these designers we play at the club.
 
 [Reiner Knizia BGG Link]({{ site.data.DesignerLinks.ReinerKnizia }})
 
-* More will follow at the club. Amazed we haven’t played any games by this designer yet (as of March 2020)
+* [Lord of the Rings]({{ site.data.BoardGameLinks.LordOfTheRings.Link }})
+* More will follow at the club.
 
 # Uwe Rosenberg
 
 [Uwe Rosenberg BGG Link]({{ site.data.DesignerLinks.UweRosenberg }})
 
 * [Cottage Garden]({{ site.data.BoardGameLinks.CottageGarden.Link }})
-* More will follow at the club, almost certainly
+* More will follow at the club, almost certainly.
 
 <!---
 # Vlaada Chvátil
