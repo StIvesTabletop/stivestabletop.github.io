@@ -114,9 +114,9 @@ Quite a challenging game and one for fans of the LOTR universe.
 * [Magical Athlete link]({{ site.data.BoardGameLinks.MagicalAthlete.BGGLink }})
 
 A very simple game so it is quick to teach and get playing and has a nice pace and variety that keeps everyone involved.
-The game has 25 different "athletes" or characters each with a special power that you take turns drafting to join your team.
+The game has 25 different "athletes" or characters, each with a special power, that you take turns drafting to join your team.
 You start with some seed money and the character choices are lined up on a drafting board - just 5 spaces with the character at one end costing 0 to recruit then increasing in cost across the board - make your choice and pay the cost.
-Then characters slide down to fill in the gap and a new one joins in position 5, continue until everyone has a full team.
+Then characters slide down to fill in the gap and a new one joins in position 5, continuing until everyone has a full team.
 
 The next phase is the races, where you flip the board over and everyone secretly chooses a character to run each race, with the victory points available per race for first and second place increasing as the game continues.
 Each race is literally just dice rolling apart from the special powers, which is where the fun starts as the powers and die rolls can interact in wildly unpredictable ways.
@@ -125,7 +125,7 @@ Some abilities are very powerful, some are very random, and some don't even occu
 The Merchant can switch places with another character instead of rolling, the Amazon can move five spaces every turn without a roll, the Centaur kicks other players backward as he overtakes, the Demonologist can roll and move another player that amount backwards and then himself forward one.
 Whilst the Thief simply steals a victory point and is useless in the actual race, similarly the Prophet secretly predicts which character will win and then automatically comes second if correct.
 Cupid is more random, he gets to move five spaces if a male and female character in the race share a space whilst the Priest can move the last placed player forward 2 spaces but gets to move himself forward 1 as a reward.
-As a final example the Philosopher can choose to negate everyone elses powers, an interesting combo in a race with the Druid whose power is to move forward one whenever a power is used.
+As a final example, the Philosopher can choose to negate everyone elses powers, an interesting combo in a race with the Druid whose power is to move forward one whenever a power is used.
 
 In general the races run quite balanced as people choose their weaker characters in the early races and more powerful ones later and as it is such a lean quick game to play you get caught up in the silly and often cascading powers.
 
@@ -185,7 +185,7 @@ Small World is a bit like Risk with your army advancing across the lands based o
 In Risk it generally just becomes a back and forth between players spreading themselves too thin as they try to wipe out the opposition and fail to get enough winning rolls.
 In Small World there is much less chance due to dice rolls, and more strategy in letting your army spread out and then decline and choosing another one to go on a rampage next.
 
-You start by choosing an army which consists of a fantasy race like elves, goblins, dryads, or ratmen and a special power like dragon master, barricading, merchant or flying from a randomised set of 6 pairs of traits drawn at the game start, then go invade.
+You start by choosing an army which consists of a fantasy race, like elves, goblins, dryads, or ratmen, and a special power, like dragon master, barricading, merchant or flying, from a randomised set of 6 pairs of traits drawn at the game start, then go invade.
 The board map has a number of different terrain types which may favour or hinder progress depending on your race or powers. Basically you invade by having more forces than the amount of obstacles that are in that land already; defenders, terrain or other items left by the opposition; and you leave that number of forces behind.
 The final attack of your turn can use a dice to provide that final chance to push the odds in your favour.
 Then you gain victory points based on the number of lands your army holds and any special race or power bonuses and then the opposition get their turn.
