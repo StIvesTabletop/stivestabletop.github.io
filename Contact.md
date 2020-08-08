@@ -10,11 +10,11 @@ You can suggest games for future sessions or just say `Hi`.
 
 It also helps us to plan longer Role Playing Games that may extend over multiple sessions.
 
-<iframe src="https://discordapp.com/widget?id=590532081428201473&theme=dark" width="350" height="400" allowtransparency="true" frameborder="0"></iframe>
+Join link: [https://discord.gg/bScV82f](https://discord.gg/bScV82f)
 
 # Email
 
-[stivestabletop@gmail.com](mailto:stivestabletop@gmail.com)  
+[stivestabletop@gmail.com](mailto:stivestabletop@gmail.com)
 
 # Twitter
 
