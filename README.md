@@ -1,3 +1,9 @@
 # St. Ives Tabletop
 
-Website that is intended for the St. Ives Tabletop Gaming group I intend to set up.
+St. Ives Tabletop’s websites.
+
+Live website: https://www.stivestabletop.uk
+Hosted at: https://github.com/StIvesTabletop/stivestabletop.github.io
+
+Test website: https://test.stivestabletop.uk
+Hosted at: https://github.com/StIvesTabletop-Test/stivestabletop-test.github.io
