@@ -15,10 +15,7 @@ We cover:
 # Next session
 
 In light of the recent easing of restrictions related to COVID-19 (aka coronavirus), we will be restarting in-person St Ives Tabletop sessions as of 25th August 2021, and continuing fortnightly on Wednesday evenings.
-
-The next session will be on 11th August 2021 and will be held virtually using [Board Game Arena](https://www.boardgamearena.com) with [Discord][Discord] for voice chat.
-If you are interested in joining for virtual games, please join our [Discord][Discord] server.
-After that fortnightly sessions will be in-person in the regular Wednesday evening slot, although we are also looking into options for offering virtual gaming sessions in the future.
+Join the [Discord][Discord] server if you have any questions!
 
 
 The next session will be:  
