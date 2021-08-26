@@ -45,7 +45,7 @@ Plenty of player designed downloadable additional content available.
 
 {% include back_to_top.html %}
 
-# Clank!: A Deck Building Adventure{% include new_entry.html %}
+# Clank!: A Deck Building Adventure
 
 * 2-4 players
 * 60 minutes play time
@@ -85,7 +85,7 @@ Score points at the end of the game based on consecutive terrain types and tile 
 
 {% include back_to_top.html %}
 
-# Lord of the Rings{% include new_entry.html %}
+# Lord of the Rings
 
 * 2-5 players
 * 60 minutes
@@ -105,7 +105,7 @@ Quite a challenging game and one for fans of the LOTR universe.
 
 {% include back_to_top.html %}
 
-# Magical Athlete{% include new_entry.html %}
+# Magical Athlete
 
 * 5 minute rules
 * 4-5 players
@@ -174,7 +174,7 @@ However there are also cards to change the layout or swap goals between players.
 
 {% include back_to_top.html %}
 
-# Small World{% include new_entry.html %}
+# Small World
 
 * 2-5 players
 * 60 minutes play time
@@ -202,7 +202,7 @@ Can the heroic humans overcome the pillaging giants or the alchemist skeltons pr
 
 {% include back_to_top.html %}
 
-# Spirit Island{% include new_entry.html %}
+# Spirit Island
 
 * 1-4 players
 * 120 minutes play time
@@ -220,7 +220,7 @@ Fortunately as the game progresses use of your magic scares the invaders and so 
 
 {% include back_to_top.html %}
 
-# The Shipwreck Arcana{% include new_entry.html %}
+# The Shipwreck Arcana
 
 * 2-5 players
 * 30 minutes play time

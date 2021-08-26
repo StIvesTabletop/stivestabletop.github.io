@@ -62,7 +62,7 @@ Can be won in a couple of rounds or go round for many turns as players thwart ea
 
 {% include back_to_top.html %}
 
-# O Zoo le Mio{% include new_entry.html %}
+# O Zoo le Mio
 
 * 2-4 players
 * 45 minutes play time
