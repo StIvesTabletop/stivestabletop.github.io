@@ -123,6 +123,10 @@ LordOfTheRings:
     BGGLink: "https://boardgamegeek.com/boardgame/823/lord-rings"
     ImageLink: "/images/boardgames/lordoftherings"
     Link: "/BoardGames/Fantasy.html#lord-of-the-rings"
+LostRuinsOfArnak:
+    BGGLink: "https://boardgamegeek.com/boardgame/312484/lost-ruins-arnak"
+    ImageLink: "/images/boardgames/lostruinsarnak"
+    Link: "/BoardGames/Explore.html#lost-ruins-of-arnak"
 LuckyNumbers:
     Link: "https://boardgamegeek.com/boardgame/118247/lucky-numbers"
 Luxor:
@@ -135,12 +139,20 @@ MagicMaze:
     BGGLink: "https://boardgamegeek.com/boardgame/209778/magic-maze"
     ImageLink: "/images/boardgames/magicmaze"
     Link: "/BoardGames/Explore.html#magic-maze"
+Neom:
+    BGGLink: "https://boardgamegeek.com/boardgame/246663/neom"
+    ImageLink: "/images/boardgames/neom"
+    Link: "/BoardGames/Development.html#neom"
 Niagara:
     Link: "https://boardgamegeek.com/boardgame/13308/niagara"
 NinjaCamp:
     BGGLink: "https://boardgamegeek.com/boardgame/176565/ninja-camp"
     ImageLink: "/images/boardgames/ninjacamp"
     Link: "/BoardGames/FarEastern.html#ninja-camp"
+Orleans:
+    BGGLink: "https://boardgamegeek.com/boardgame/164928/orleans"
+    ImageLink: "/images/boardgames/orleans"
+    Link: "/BoardGames/Development.html#orleans"
 OZooLeMio:
     BGGLink: "https://boardgamegeek.com/boardgame/4218/o-zoo-le-mio"
     ImageLink: "/images/boardgames/ozoolemio"
@@ -240,15 +252,24 @@ Tikal:
     ImageLink: "/images/boardgames/tikal"
     Link: "/BoardGames/Explore.html#tikal"
 Tobago:
-    Link: "https://boardgamegeek.com/boardgame/42215/tobago"
+    BGGLink: "https://boardgamegeek.com/boardgame/42215/tobago"
+    ImageLink: "/images/boardgames/tobago"
+    Link: "/BoardGames/Explore.html#tobago"
 Tokaido:
     BGGLink: "https://boardgamegeek.com/boardgame/123540/tokaido"
     ImageLink: "/images/boardgames/tokaido"
     Link: "/BoardGames/FarEastern.html#tokaido"
 TrekkingTheWorld:
-    Link: "https://boardgamegeek.com/boardgame/300442/trekking-world"
+    BGGLink: "https://boardgamegeek.com/boardgame/300442/trekking-world"
+    ImageLink: "/images/boardgames/trekkingworld"
+    Link: "/BoardGames/Explore.html#trekking-the-world"
 TurnTheTide:
     Link: "https://boardgamegeek.com/boardgame/1403/turn-tide"
+UnderwaterCities:
+    BGGLink: "https://boardgamegeek.com/boardgame/247763/underwater-cities"
+    ImageLink: "/images/boardgames/underwatercities"
+    Link: "/BoardGames/Development.html#underwater-cities"
+    ResourceLink: "https://www.boardgamegeek.com/filepage/202073/underwater-cities-resource-tracking-player-aid"
 UnlockHeroicAdventures:
     BGGLink: "https://boardgamegeek.com/boardgame/266121/unlock-heroic-adventures"
 Unlock:
