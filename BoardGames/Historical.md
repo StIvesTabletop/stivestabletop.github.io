@@ -46,7 +46,7 @@ Combine card types to build different parts of the palace from a card based mark
 
 {% include back_to_top.html %}
 
-# Colosseum{% include new_entry.html %}
+# Colosseum
 
 * 3-5 players
 * 90 minutes play time
@@ -88,7 +88,7 @@ You score victory points through building and trading, fairly simple to learn af
 
 {% include back_to_top.html %}
 
-# Roll through the Ages{% include new_entry.html %}
+# Roll through the Ages
 
 * 1-4 players
 * 30 minutes play time
