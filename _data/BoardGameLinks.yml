@@ -46,6 +46,8 @@ Colosseum:
     BGGLink: "https://boardgamegeek.com/boardgame/27746/colosseum"
     ImageLink: "/images/boardgames/colosseum"
     Link: "/BoardGames/Historical.html#colosseum"
+Concordia:
+    Link: "https://www.boardgamegeek.com/boardgame/124361/concordia"
 CottageGarden:
     BGGLink: "https://boardgamegeek.com/boardgame/204027/cottage-garden"
     ImageLink: "/images/boardgames/cottagegarden"
@@ -70,6 +72,8 @@ EclipseSecondDawnForTheGalaxy:
     Link: "https://boardgamegeek.com/boardgame/246900/eclipse-second-dawn-galaxy"
 EcoFluxx:
     ImageLink: "/images/boardgames/ecofluxx"
+Ecosystem:
+    Link: "https://www.boardgamegeek.com/boardgame/271519/ecosystem"
 EminentDomain:
     Link: "https://boardgamegeek.com/boardgame/68425/eminent-domain"
 EvolutionClimate:
@@ -149,6 +153,8 @@ NinjaCamp:
     BGGLink: "https://boardgamegeek.com/boardgame/176565/ninja-camp"
     ImageLink: "/images/boardgames/ninjacamp"
     Link: "/BoardGames/FarEastern.html#ninja-camp"
+NorthernPacific:
+    Link: "https://www.boardgamegeek.com/boardgame/138704/northern-pacific"
 Orleans:
     BGGLink: "https://boardgamegeek.com/boardgame/164928/orleans"
     ImageLink: "/images/boardgames/orleans"
@@ -195,6 +201,8 @@ RollThroughTheAges:
     BGGLink: "https://www.boardgamegeek.com/boardgame/37380/roll-through-ages-bronze-age"
     ImageLink: "/images/boardgames/rollthroughtheages"
     Link: "/BoardGames/Historical.html#roll-through-the-ages"
+SantaMonica:
+    Link: "https://www.boardgamegeek.com/boardgame/298065/santa-monica"
 SettlersOfCatan:
     BGGLink: "https://www.boardgamegeek.com/boardgame/13/catan"
     ImageLink: "/images/boardgames/settlersofcatan"
