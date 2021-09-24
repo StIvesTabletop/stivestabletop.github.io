@@ -5,7 +5,7 @@ title: Fifteenth session - Trading trains, lost civilisations and dystopian worl
 
 Another 3 table session with 11 attendees, all returners playing a varied selection of game themes and mechanisms.
 
-Early joiners tried quick(ish) game of [Gloom][G], where the aim is to make your family of misfits as miserable as possible then kill them off before your opponents play nice events on them, the winner is the player with the lowest total family score. A somewhat dark humoured game and with an interesting transparent card mechanism modifying the misery value of your family members. A light-weight story-telling ice-breaker as you pile on the improbable events like "Pursued by Poodles" or "Widowed at the Wedding" or conversely need to negate "Delighted by Ducklings" or "Blessed by the Bishop" before deciding the time is right to put that family member out of their misery - "was pushed down the stairs" or "ran out of air".
+Early joiners tried a quick(ish) game of [Gloom][G], where the aim is to make your family of misfits as miserable as possible then kill them off before your opponents play nice events on them, the winner is the player with the lowest total family score. A somewhat dark humoured game and with an interesting transparent card mechanism modifying the misery value of your family members. A light-weight story-telling ice-breaker as you pile on the improbable events like "Pursued by Poodles" or "Widowed at the Wedding" or conversely need to negate "Delighted by Ducklings" or "Blessed by the Bishop" before deciding the time is right to put that family member out of their misery - "was pushed down the stairs" or "ran out of air".
 
 ![Lost Ruins of Arnak](/images/posts/2021_09_22/LostRuinsArnak01.jpg "Lost Ruins of Arnak"){:class="img_post"}
 
@@ -13,7 +13,7 @@ Kathy J set up [Lost Ruins of Arnak][LRA] a very attractive exploration themed g
 
 ![Irish Gauage](/images/posts/2021_09_22/IrishGauge01.jpg "Irish Gauge"){:class="img_post"}
 
-Simon W was very keen to try out his shiny new copy of [Irish Gauge][IG] a train route and trading game with a backstabbing element. This started out quite amicably building train routes and having auctions to buy shares in the train companies, and then earning divendends on the routes. This was until the final couple of goes where the scarcity of cubes in the game - used for divendends and special interest points (cities) - meant that players managed to make certain train companies end up being worthless due to a lack of cubes for divendends! Even so, it was a close game with scores of 86, 89 and 90 pounds!
+Simon W was very keen to try out his shiny new copy of [Irish Gauge][IG] a train route and trading game with a backstabbing element, pitched to everyone as "choo choo stab stab". This started out quite amicably building train routes and having auctions to buy shares in the train companies, and then earning divendends on the routes. This was until the final couple of goes where the scarcity of cubes in the game - used for divendends and special interest points (cities) - meant that players managed to make certain train companies end up being worthless due to a lack of cubes for divendends! Even so, it was a close game with scores of 86, 89 and 90 pounds!
 
 ![Euphoria](/images/posts/2021_09_22/Euphoria01.jpg "Euphoria"){:class="img_post"}
 
