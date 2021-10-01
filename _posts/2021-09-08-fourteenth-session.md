@@ -1,5 +1,5 @@
 ---
-title: Fourteenth session - Clans and Cities
+title: Fourteenth Session - Clans and Cities
 ---
 
 Thirteen people turned out for the second session back post-pandemic, including 5 new members and 8 returners.
