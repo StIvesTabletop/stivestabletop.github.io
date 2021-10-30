@@ -32,6 +32,8 @@ ChocolateFactory:
     BGGLink: "https://boardgamegeek.com/boardgame/240567/chocolate-factory"
     ImageLink: "/images/boardgames/chocolatefactory"
     Link: "/BoardGames/Development.html#chocolate-factory"
+Citadels:
+    Link: "https://www.boardgamegeek.com/boardgame/478/citadels"
 Clank:
     BGGLink: "https://boardgamegeek.com/boardgame/201808/clank-deck-building-adventure"
     ImageLink: "/images/boardgames/clank"
@@ -185,6 +187,8 @@ PI:
     Link: "https://boardgamegeek.com/boardgame/129050/pi"
 PotionExplosion:
     Link: "https://boardgamegeek.com/boardgame/180974/potion-explosion"
+PowerGrid:
+    Link: "https://www.boardgamegeek.com/boardgame/2651/power-grid"
 PuertoRico:
     BGGLink: "https://boardgamegeek.com/boardgame/3076/puerto-rico"
     ImageLink: "/images/boardgames/puertorico"
@@ -197,6 +201,8 @@ RelicRunners:
     BGGLink: "https://boardgamegeek.com/boardgame/144270/relic-runners"
     ImageLink: "/images/boardgames/relicrunners"
     Link: "/BoardGames/Explore.html#relic-runners"
+ResArcana:
+    Link: "https://www.boardgamegeek.com/boardgame/262712/res-arcana"
 RobinsonCrusoe:
     BGGLink: "https://boardgamegeek.com/boardgame/121921/robinson-crusoe-adventures-cursed-island"
     ImageLink: "/images/posts/2019_11_20/RobinsonCrusoe"
@@ -297,6 +303,8 @@ ViaNebula:
     Link: "https://boardgamegeek.com/boardgame/191231/nebula"
 Villagers:
     Link: "https://boardgamegeek.com/boardgame/241724/villagers"
+Viticulture:
+    Link: "https://www.boardgamegeek.com/boardgame/128621/viticulture"
 WelcomeTo:
     Link: "https://boardgamegeek.com/boardgame/233867/welcome"
 Wingspan:
