@@ -34,6 +34,8 @@ ChocolateFactory:
     Link: "/BoardGames/Development.html#chocolate-factory"
 Citadels:
     Link: "https://www.boardgamegeek.com/boardgame/478/citadels"
+CladesPrehistoric:
+    Link: "https://www.boardgamegeek.com/boardgame/250439/clades-prehistoric"
 Clank:
     BGGLink: "https://boardgamegeek.com/boardgame/201808/clank-deck-building-adventure"
     ImageLink: "/images/boardgames/clank"
@@ -157,6 +159,8 @@ Neom:
     BGGLink: "https://boardgamegeek.com/boardgame/246663/neom"
     ImageLink: "/images/boardgames/neom"
     Link: "/BoardGames/Development.html#neom"
+NeuroshimaHex:
+    Link: "https://www.boardgamegeek.com/boardgame/21241/neuroshima-hex-30"
 Niagara:
     Link: "https://boardgamegeek.com/boardgame/13308/niagara"
 NinjaCamp:
@@ -255,6 +259,8 @@ Takenoko:
     Link: "/BoardGames/FarEastern.html#takenoko"
 TerraformingMars:
     Link: "https://boardgamegeek.com/boardgame/167791/terraforming-mars"
+Timeline:
+    Link: "https://www.boardgamegeek.com/boardgame/128664/timeline"
 TrekTwelve:
     Link: "https://boardgamegeek.com/boardgame/303672/trek-12"
 TheCity:
