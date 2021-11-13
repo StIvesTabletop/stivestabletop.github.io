@@ -26,7 +26,7 @@ It was a nice lightweight general knowledge game to get the session started.
 ![Neuroshima Hex](/images/posts/2021_11_03/NeuroshimaHex01.jpg "Neuroshima Hex"){:class="img_post"}
 
 [Neuroshima Hex!][NH] had been pitched on [Discord][Contact] earlier in the week and a 3-player game got underway.
-This is a strategy grid based war game where up to 4 players control a post-apocalytic army trying to destroy all the enemy headquarters.
+This is a strategy grid based war game where up to 4 players control a post-apocalyptic army trying to destroy all the enemy headquarters.
 
 ![Terraforming Mars](/images/posts/2021_11_03/TerraformingMars01.jpg "Terraforming Mars"){:class="img_post"}
 
@@ -36,7 +36,7 @@ This proved to be the longest game of the night with the players competing to be
 
 ![Irish Gauge](/images/posts/2021_11_03/IrishGauge01.jpg "Irish Gauge"){:class="img_post"}
 
-The final 5 players selected [Irish Gauge][IG] after strong suggestions and box waving by Simon W. pitching for "Choo Choo Stab Stab" last seen in [session 15][15].
+The final 5 players selected [Irish Gauge][IG] after strong suggestions and box waving by Simon W. pitching for "Choo Choo, Stab Stab" last seen in [session 15][15].
 After the improbable draw of 3 pink cubes (by Jeremy J.) early in the game certain cities and routes were unlikely to pay many more dividends and fairly undiluted control of the purple company proved the critical factor for victory.
 Scores were still close 91-71 from top to bottom.
 
@@ -44,7 +44,7 @@ Scores were still close 91-71 from top to bottom.
 ![Res Arcana](/images/posts/2021_11_03/ResArcana02.jpg "Res Arcana"){:class="img_post"}
 
 After Irish Gauge, the table then tried 5-player [Res Arcana][RA] back from the previous week ([session 17][17]).
-This session a blue, black and gold generation strategy just pipped some strong contenders with a black spawning engine, a red and gold scheme, or an all essence game plan.
+This session a blue, black, and gold generation strategy just pipped some strong contenders with a black spawning engine, a red and gold scheme, or an all essence game plan.
 
 This was a fun session with 3 tables active through the night.
 [Do let us know][Contact] if you have some suggestions of games to play next session on the 17th November.
