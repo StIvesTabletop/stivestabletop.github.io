@@ -24,12 +24,12 @@ After this the short games selected this session were [Seven Dragons][7D] (see [
 
 ![Irish Gauge](/images/posts/2021_11_03/IrishGauge01.jpg "Irish Gauge"){:class="img_post"}
 
-The final 5 person table selected [Irish Gauge][IG] after strong suggestions and box waving by Simon W. pitching for "Choo Choo Stab Stab" last seen in [session 15][15]. After some improbable dice draws early in the game certain cities and routes were unlikely to pay many more dividends and fairly undiluted control of the purple company prooved the critical factor for victory.
+The final 5 person table selected [Irish Gauge][IG] after strong suggestions and box waving by Simon W. pitching for "Choo Choo Stab Stab" last seen in [session 15][15]. After the improbable draw of three pink cubes (by Jeremy J.) early in the game certain cities and routes were unlikely to pay many more dividends and fairly undiluted control of the purple company proved the critical factor for victory. Although scores were still close 91-71 from top to bottom.
 
 ![Res Arcana](/images/posts/2021_11_03/ResArcana01.jpg "Res Arcana"){:class="img_post"}
 ![Res Arcana](/images/posts/2021_11_03/ResArcana02.jpg "Res Arcana"){:class="img_post"}
 
-The table then tried 5 player [Res Arcana][RA] back from the previous week ([session 17][17]). This session a blue, black and gold generation strategy just pipped some strong contenders with a black spawning engine, a red and gold scheme or an all essence game plan.
+After Irish Gauge, the table then tried 5 player [Res Arcana][RA] back from the previous week ([session 17][17]). This session a blue, black and gold generation strategy just pipped some strong contenders with a black spawning engine, a red and gold scheme or an all essence game plan.
 
 A fun session with 3 tables active through the night. [Do let us know][Contact] if you have some suggestions of games to play next session on the 17th November. 
 
