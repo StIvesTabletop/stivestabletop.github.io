@@ -68,6 +68,8 @@ DiceHospital:
     BGGLink: "https://boardgamegeek.com/boardgame/218121/dice-hospital"
     ImageLink: "/images/boardgames/dicehospital"
     Link: "/BoardGames/Professions.html#dice-hospital"
+DieMacher:
+    Link: "https://www.boardgamegeek.com/boardgame/1/die-macher"
 Dominion:
     BGGLink: "https://boardgamegeek.com/boardgame/36218/dominion"
     ImageLink: "/images/boardgames/dominion"
@@ -117,6 +119,8 @@ Hanabi:
     BGGLink: "https://boardgamegeek.com/boardgame/98778/hanabi"
     ImageLink: "/images/boardgames/hanabi"
     Link: "/BoardGames/FarEastern.html#hanabi"
+IberianGauge:
+    Link: "https://www.boardgamegeek.com/boardgame/228372/iberian-gauge"
 IrishGauge:
     Link: "https://www.boardgamegeek.com/boardgame/161882/irish-gauge"
 IsleOfSkye:
