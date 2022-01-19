@@ -193,6 +193,8 @@ Pandemic:
     Link: "/BoardGames/Professions.html#pandemic"
 ParisConnection:
     Link: "https://boardgamegeek.com/boardgame/75358/paris-connection"
+PaxPamir:
+    Link: "https://boardgamegeek.com/boardgame/256960/pax-pamir-second-edition"
 Planet:
     BGGLink: "https://boardgamegeek.com/boardgame/252929/planet"
     ImageLink: "/images/boardgames/planet"
@@ -325,6 +327,8 @@ Viticulture:
     Link: "https://www.boardgamegeek.com/boardgame/128621/viticulture"
 WelcomeTo:
     Link: "https://boardgamegeek.com/boardgame/233867/welcome"
+WelcomeToTheMoon:
+    Link: "https://boardgamegeek.com/boardgame/339789/welcome-moon"
 Wingspan:
     BGGLink: "https://boardgamegeek.com/boardgame/266192/wingspan"
     ImageLink: "/images/boardgames/wingspan"
