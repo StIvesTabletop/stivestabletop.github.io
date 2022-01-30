@@ -20,6 +20,8 @@ Braggart:
     Link: "/BoardGames/Fantasy.html#braggart"
 BurgleBros:
     Link: "https://boardgamegeek.com/boardgame/172081/burgle-bros"
+CaptainSonar:
+    Link: "https://boardgamegeek.com/boardgame/171131/captain-sonar"
 Carcassonne:
     BGGLink: "https://boardgamegeek.com/boardgame/822/carcassonne"
     ImageLink: "/images/boardgames/carcassonne"
@@ -28,6 +30,8 @@ CastleRavenloft:
     BGGLink: "https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game"
     ImageLink: "/images/boardgames/castleravenloft"
     Link: "/BoardGames/Fantasy.html#castle-ravenloft"
+China:
+    Link: "https://boardgamegeek.com/boardgame/18100/china"
 ChocolateFactory:
     BGGLink: "https://boardgamegeek.com/boardgame/240567/chocolate-factory"
     ImageLink: "/images/boardgames/chocolatefactory"
@@ -58,6 +62,8 @@ CottageGarden:
     BGGLink: "https://boardgamegeek.com/boardgame/204027/cottage-garden"
     ImageLink: "/images/boardgames/cottagegarden"
     Link: "/BoardGames/Nature.html#cottage-garden"
+Coup:
+    Link: "https://boardgamegeek.com/boardgame/131357/coup"
 DeepSeaAdventure:
     Link: "https://boardgamegeek.com/boardgame/169654/deep-sea-adventure"
 Diamant:
@@ -151,6 +157,8 @@ LostRuinsOfArnak:
     BGGLink: "https://boardgamegeek.com/boardgame/312484/lost-ruins-arnak"
     ImageLink: "/images/boardgames/lostruinsarnak"
     Link: "/BoardGames/Explore.html#lost-ruins-of-arnak"
+LoveLetter:
+    Link: "https://boardgamegeek.com/boardgame/129622/love-letter"
 LuckyNumbers:
     Link: "https://boardgamegeek.com/boardgame/118247/lucky-numbers"
 Luxor:
