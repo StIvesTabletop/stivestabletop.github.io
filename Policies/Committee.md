@@ -34,4 +34,4 @@ title: Committee Policy
 
 | 5.1 | The Committee will advertise for new members to accommodate growing demand (the Group expanding) or to replace members stepping down. |
 | 5.2 | Applications will be submitted to the Committee to determine their suitability and acceptance of the responsibilities of the role.    |
-| 5.3 | In the event of multiple candidates, a ballot or equivalent will be called at a session.                                              |
+| 5.3 | In the event of multiple candidates, the Committee will determine the best method for appointing relevant appointments.               |
