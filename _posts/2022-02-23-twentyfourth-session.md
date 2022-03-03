@@ -28,16 +28,16 @@ This left the remaining 8 deciding how to split up when Simon W. arrived with mo
 [Concordia][CC] was back from [Sessions 13][13] and [17][17], this time a 4-player game on the Italia map.
 There is a unique anguish in Concordia when someone builds a house in the same city or province as you, you know that means no one is going to help you harvest goods (play a Prefect) there ever again, and in this game Sicily became home to 2 then 3 players and no one wanted to help anyone else that much.
 Jyo K. managed a solid win after having a should I/shouldn’t I end the game monologue - Simon W. was desperately trying to control his excitmenet at having another turn, but sadly the game was ended and Jyo K. won.
-The opacity of the scoring right until the last points are counted is what makes Concordia a joy to play, you a freed from the microscopic point tally and left to feel your way at a higher level.
+The opacity of the scoring right until the last points are counted is what makes Concordia a joy to play, you are freed from the microscopic point tally and left to feel your way at a higher level.
 
 When [Concordia][CC] finished we lost 1 player, and having little time left after Concordia the table switched to [The King is Dead][TKD].
-An Englishwoman, a Scotswoman, and a Welshwoman walk into a bar… and as a backstabbing in-it-for-yourself noble you don’t car.
+An Englishwoman, a Scotswoman, and a Welshwoman walk into a bar… and as a backstabbing in-it-for-yourself noble you don’t care.
 [The King is Dead][TKD] is a abstract area control game currently dressed up as a game of politics and influence in King Arthur’s court, although it has previously been set Siam (now Thailand) as King of Siam.
-This is one of those games that is simple to explain each part, but new players struggle to see how it all fits together or even work out that to do.
+This is one of those games that is simple to explain each part, but new players struggle to see how it all fits together or even work out what to do on their turn.
 There are two ways the game can end, each with different scoring and a different tie-breaker.
 The very unique and surprising thing, you only have 8 actions for the entire game.
-There are 8 regions that are won by the English, Scottish or Welsh, but as a player you decide which faction to throw your support behind and hope they win; or you sell the land out and trigger an invasion by the French and win by leading a glorious defence (against and invasion you probably triggered).
-[The King is Dead][TKD] is a game that is hard to explain, but certainly worth playing (a few times); it’s not for everyone, but I dispute any board gamer not been in awe of the design.
+There are 8 regions that are won by the English, Scottish or Welsh, but as a player you decide which faction to throw your support behind and hope they win; or you sell the land out and trigger an invasion by the French and win by leading a glorious defence (against an invasion you probably triggered).
+[The King is Dead][TKD] is a game that is hard to explain, but certainly worth playing (a few times); it’s not for everyone, but I dispute any board gamer not to be in awe of the design.
 
 ![The King is Dead](/images/posts/2022_02_23/TheKingIsDead01.jpg "The King is Dead"){:class="img_post"}
 
