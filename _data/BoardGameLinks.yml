@@ -92,6 +92,8 @@ EcoFluxx:
     ImageLink: "/images/boardgames/ecofluxx"
 Ecosystem:
     Link: "https://www.boardgamegeek.com/boardgame/271519/ecosystem"
+ElDorado:
+    Link: "https://boardgamegeek.com/boardgame/217372/quest-el-dorado"
 EminentDomain:
     Link: "https://boardgamegeek.com/boardgame/68425/eminent-domain"
 EntropyWorldsCollide:
@@ -123,6 +125,8 @@ ForSale:
     BGGLink: "https://www.boardgamegeek.com/boardgame/172/sale"
     ImageLink: "/images/boardgames/forsale"
     Link: "/BoardGames/Development.html#for-sale"
+GaiaProject:
+    Link: "https://boardgamegeek.com/boardgame/220308/gaia-project"
 GanzSchonClever:
     Link: "https://boardgamegeek.com/boardgame/244522/s-pretty-clever"
 Gloom:
@@ -285,6 +289,8 @@ Takenoko:
     Link: "/BoardGames/FarEastern.html#takenoko"
 TerraformingMars:
     Link: "https://boardgamegeek.com/boardgame/167791/terraforming-mars"
+TerraMystica:
+    Link: "https://boardgamegeek.com/boardgame/120677/terra-mystica"
 Timeline:
     Link: "https://www.boardgamegeek.com/boardgame/128664/timeline"
 TrekTwelve:
