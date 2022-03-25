@@ -2,10 +2,16 @@
 #       Move this to .BGGLink when an internal entry is created and make .Link point to internal.
 #       ALWAYS use .Link in blogs, and use .BGGLink in board game write ups.
 
+AeonsEnd:
+    Link: "https://boardgamegeek.com/boardgame/191189/aeons-end"
 AgeOfWar:
     Link: "https://www.boardgamegeek.com/boardgame/155695/age-war"
 Alhambra:
     Link: "https://boardgamegeek.com/boardgame/6249/alhambra"
+Antiquity:
+    Link: "https://boardgamegeek.com/boardgame/13122/antiquity"
+ArkhamHorror:
+    Link: "https://boardgamegeek.com/boardgame/15987/arkham-horror"
 Azul:
     Link: "https://boardgamegeek.com/boardgame/230802/azul"
 Bandido:
@@ -18,6 +24,8 @@ Braggart:
     BGGLink: "https://boardgamegeek.com/boardgame/72420/braggart"
     ImageLink: "/images/boardgames/braggart"
     Link: "/BoardGames/Fantasy.html#braggart"
+BrassBirmingham:
+    Link: "https://boardgamegeek.com/boardgame/224517/brass-birmingham"
 BurgleBros:
     Link: "https://boardgamegeek.com/boardgame/172081/burgle-bros"
 CaptainSonar:
@@ -30,6 +38,10 @@ CastleRavenloft:
     BGGLink: "https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game"
     ImageLink: "/images/boardgames/castleravenloft"
     Link: "/BoardGames/Fantasy.html#castle-ravenloft"
+Caverna:
+    Link: "https://boardgamegeek.com/boardgame/102794/caverna-cave-farmers"
+Caylus:
+    Link: "https://boardgamegeek.com/boardgame/18602/caylus"
 China:
     Link: "https://boardgamegeek.com/boardgame/18100/china"
 ChocolateFactory:
@@ -66,6 +78,8 @@ CottageGarden:
     Link: "/BoardGames/Nature.html#cottage-garden"
 Coup:
     Link: "https://boardgamegeek.com/boardgame/131357/coup"
+DeceptionMurderInHongKong:
+    Link: "https://boardgamegeek.com/boardgame/156129/deception-murder-hong-kong"
 DeepSeaAdventure:
     Link: "https://boardgamegeek.com/boardgame/169654/deep-sea-adventure"
 Diamant:
@@ -92,8 +106,12 @@ EcoFluxx:
     ImageLink: "/images/boardgames/ecofluxx"
 Ecosystem:
     Link: "https://www.boardgamegeek.com/boardgame/271519/ecosystem"
+Edo:
+    Link: "https://boardgamegeek.com/boardgame/113636/edo"
 ElDorado:
     Link: "https://boardgamegeek.com/boardgame/217372/quest-el-dorado"
+EldritchHorror:
+    Link: "https://boardgamegeek.com/boardgame/146021/eldritch-horror"
 EminentDomain:
     Link: "https://boardgamegeek.com/boardgame/68425/eminent-domain"
 EntropyWorldsCollide:
@@ -108,6 +126,8 @@ EvolutionClimate:
     Link: "/BoardGames/Nature.html#evolution-climate"
 FlaminPyramids:
     Link: "https://boardgamegeek.com/boardgame/236639/flaming-pyramids"
+FlammeRouge:
+    Link: "https://boardgamegeek.com/boardgame/199478/flamme-rouge"
 FlashPoint:
     BGGLink: "https://boardgamegeek.com/boardgame/100901/flash-point-fire-rescue"
     ImageLink: "/images/boardgames/flashpoint"
@@ -127,16 +147,24 @@ ForSale:
     Link: "/BoardGames/Development.html#for-sale"
 GaiaProject:
     Link: "https://boardgamegeek.com/boardgame/220308/gaia-project"
+GameOfThrones_SecondEdition:
+    Link: "https://boardgamegeek.com/boardgame/103343/game-thrones-board-game-second-edition"
 GanzSchonClever:
     Link: "https://boardgamegeek.com/boardgame/244522/s-pretty-clever"
 Gloom:
     Link: "https://www.boardgamegeek.com/boardgame/12692/gloom"
+Graenaland:
+    Link: "https://boardgamegeek.com/boardgame/24843/graenaland"
+Gugong:
+    Link: "https://boardgamegeek.com/boardgame/250458/gugng"
 HappyCity:
     Link: "https://boardgamegeek.com/boardgame/319793/happy-city"
 Hanabi:
     BGGLink: "https://boardgamegeek.com/boardgame/98778/hanabi"
     ImageLink: "/images/boardgames/hanabi"
     Link: "/BoardGames/FarEastern.html#hanabi"
+Hossa:
+    Link: "https://boardgamegeek.com/boardgame/2734/hossa"
 IberianGauge:
     Link: "https://www.boardgamegeek.com/boardgame/228372/iberian-gauge"
 IceCool:
@@ -149,6 +177,8 @@ Kanagawa:
     BGGLink: "https://boardgamegeek.com/boardgame/200147/kanagawa"
     ImageLink: "/images/boardgames/kanagawa"
     Link: "/BoardGames/FarEastern.html#kanagawa"
+Keyflower:
+    Link: "https://boardgamegeek.com/boardgame/122515/keyflower"
 KingdomBuilder:
     Link: "https://boardgamegeek.com/boardgame/107529/kingdom-builder"
 Kingdomino:
@@ -157,6 +187,8 @@ Kingdomino:
     Link: "/BoardGames/Fantasy.html#kingdomino"
 KingdominoAgeOfGiants:
     Link: "https://boardgamegeek.com/boardgame/240909/kingdomino-age-giants"
+KingOfTokyo:
+    Link: "https://boardgamegeek.com/boardgame/70323/king-tokyo"
 Libertalia:
     Link: "https://boardgamegeek.com/boardgame/125618/libertalia"
 LordOfTheRings:
@@ -183,6 +215,8 @@ MagicMaze:
     Link: "/BoardGames/Explore.html#magic-maze"
 Museum:
     Link: "https://www.boardgamegeek.com/boardgame/204505/museum"
+Mysterium:
+    Link: "https://boardgamegeek.com/boardgame/181304/mysterium"
 Neom:
     BGGLink: "https://boardgamegeek.com/boardgame/246663/neom"
     ImageLink: "/images/boardgames/neom"
@@ -197,6 +231,8 @@ NinjaCamp:
     Link: "/BoardGames/FarEastern.html#ninja-camp"
 NorthernPacific:
     Link: "https://www.boardgamegeek.com/boardgame/138704/northern-pacific"
+OneNightUltimateWerewolf:
+    Link: "https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf"
 Orleans:
     BGGLink: "https://boardgamegeek.com/boardgame/164928/orleans"
     ImageLink: "/images/boardgames/orleans"
@@ -213,12 +249,12 @@ ParisConnection:
     Link: "https://boardgamegeek.com/boardgame/75358/paris-connection"
 PaxPamir:
     Link: "https://boardgamegeek.com/boardgame/256960/pax-pamir-second-edition"
+PI:
+    Link: "https://boardgamegeek.com/boardgame/129050/pi"
 Planet:
     BGGLink: "https://boardgamegeek.com/boardgame/252929/planet"
     ImageLink: "/images/boardgames/planet"
     Link: "/BoardGames/Nature.html#planet"
-PI:
-    Link: "https://boardgamegeek.com/boardgame/129050/pi"
 PotionExplosion:
     Link: "https://boardgamegeek.com/boardgame/180974/potion-explosion"
 PowerGrid:
@@ -229,6 +265,8 @@ PuertoRico:
     Link: "/BoardGames/Historical.html#puerto-rico"
 Quadropolis:
     Link: "https://www.boardgamegeek.com/boardgame/176396/quadropolis"
+RaceForTheGalaxy:
+    Link: "https://boardgamegeek.com/boardgame/28143/race-galaxy"
 RailroadInk:
     Link: "https://boardgamegeek.com/boardgamefamily/57676/game-railroad-ink"
 RelicRunners:
@@ -237,6 +275,8 @@ RelicRunners:
     Link: "/BoardGames/Explore.html#relic-runners"
 ResArcana:
     Link: "https://www.boardgamegeek.com/boardgame/262712/res-arcana"
+RoadsAndBoats:
+    Link: "https://boardgamegeek.com/boardgame/875/roads-boats"
 RobinsonCrusoe:
     BGGLink: "https://boardgamegeek.com/boardgame/121921/robinson-crusoe-adventures-cursed-island"
     ImageLink: "/images/posts/2019_11_20/RobinsonCrusoe"
@@ -251,6 +291,8 @@ RollThroughTheAges:
     Link: "/BoardGames/Historical.html#roll-through-the-ages"
 SantaMonica:
     Link: "https://www.boardgamegeek.com/boardgame/298065/santa-monica"
+SecretHitler:
+    Link: "https://boardgamegeek.com/boardgame/188834/secret-hitler"
 SettlersOfCatan:
     BGGLink: "https://www.boardgamegeek.com/boardgame/13/catan"
     ImageLink: "/images/boardgames/settlersofcatan"
@@ -273,6 +315,8 @@ SmallWorld:
     BGGLink: "https://boardgamegeek.com/boardgame/40692/small-world"
     ImageLink: "/images/boardgames/smallworld"
     Link: "/BoardGames/Fantasy.html#small-world"
+SpaceEmpires4X:
+    Link: "https://boardgamegeek.com/boardgame/84419/space-empires-4x"
 SpeedCups:
     Link: "https://boardgamegeek.com/boardgame/146149/speed-cups"
 SpiritIsland:
@@ -281,20 +325,22 @@ SpiritIsland:
     Link: "/BoardGames/Fantasy.html#spirit-island"
 StoneAge:
     Link: "https://boardgamegeek.com/boardgame/34635/stone-age"
+SubTerra:
+    Link: "https://boardgamegeek.com/boardgame/204472/sub-terra"
 SushiGo:
     Link: "https://boardgamegeek.com/boardgame/133473/sushi-go"
 Takenoko:
     BGGLink: "https://boardgamegeek.com/boardgame/70919/takenoko"
     ImageLink: "/images/boardgames/takenoko"
     Link: "/BoardGames/FarEastern.html#takenoko"
+Telestrations:
+    Link: "https://boardgamegeek.com/boardgame/46213/telestrations"
 TerraformingMars:
     Link: "https://boardgamegeek.com/boardgame/167791/terraforming-mars"
 TerraMystica:
     Link: "https://boardgamegeek.com/boardgame/120677/terra-mystica"
 Timeline:
     Link: "https://www.boardgamegeek.com/boardgame/128664/timeline"
-TrekTwelve:
-    Link: "https://boardgamegeek.com/boardgame/303672/trek-12"
 TheCity:
     BGGLink: "https://boardgamegeek.com/boardgame/103649/city"
     ImageLink: "/images/posts/2020_01_15/the_city"
@@ -331,6 +377,8 @@ TrekkingTheWorld:
     BGGLink: "https://boardgamegeek.com/boardgame/300442/trekking-world"
     ImageLink: "/images/boardgames/trekkingworld"
     Link: "/BoardGames/Explore.html#trekking-the-world"
+TrekTwelve:
+    Link: "https://boardgamegeek.com/boardgame/303672/trek-12-himalaya"
 TurnTheTide:
     Link: "https://boardgamegeek.com/boardgame/1403/turn-tide"
 UnderwaterCities:
@@ -361,6 +409,7 @@ Wingspan:
     Link: "/BoardGames/Nature.html#wingspan"
 Xanadu:
     Link: "https://boardgamegeek.com/boardgame/132817/xanadu"
+XCOM:
+    Link: "https://boardgamegeek.com/boardgame/163602/xcom-board-game"
 ZeusOnTheLoose:
     Link: "https://www.boardgamegeek.com/boardgame/22864/zeus-loose"
-    
