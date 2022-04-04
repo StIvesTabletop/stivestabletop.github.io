@@ -13,7 +13,7 @@ Both games have been out at the club before but not for a while ([Sessions 3][3]
 [Braggart][Brag] is a card based story telling game.
 Two cards (a deed and a foe) are required as a minimum to tell a story, but it can be embellished with a scene and a result.
 All cards have a value based on how impressive a tale they make.
-Other players can then challenge this story, and swap cards to make it rather less impressive, for instance the fight was not with "mysterious creatures from beneath the desert sands" but rather with "a tribe of peaceful fairies".
+Other players can then challenge this story, and swap cards to make it rather less impressive, for instance the fight was not with “mysterious creatures from beneath the desert sands” but rather with “a tribe of peaceful fairies”.
 The best scoring story each round keeps all the cards, and hence their points, while everyone else keeps one card.
 It is very simple to explain and possible to have others join in part-way through.
 Everyone agreed it was more fun telling or changing the silly stories than scoring the points.
