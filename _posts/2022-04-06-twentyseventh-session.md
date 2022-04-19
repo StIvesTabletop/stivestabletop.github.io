@@ -24,7 +24,7 @@ There was one early fatality when a couple of players had become separated from 
 
 ![GreatZimbabwe](/images/posts/2022_04_06/GreatZimbabwe01.jpg "GreatZimbabwe"){:class="img_post"}
 
-The final 4 gamer table played [The Great Zimbabwe][TGZ] a logistics and economics game set in the Great Zimbabwe World Heritage site, the ultimate aim is to build monuments to your chosen god. There are a lot of options and factors to balance to decide the overall winner and cute gold and silver cow tokens as currency.
+A new milestone for the club, the first game by the niche (even within gaming) publisher Splotter. Four sat down to play [The Great Zimbabwe][TGZ] a logistics and economics game set in the Great Zimbabwe World Heritage site, the ultimate aim is to build monuments to your chosen god. There are a lot of options and factors to balance to decide the overall winner and cute gold and silver cow tokens as currency. There's a very interesting bid for turn order, where the bids are distributed among the players - so you can go first, but you give cows to your opponents. Although the most fascinating idea in TGZ is how you win, you need to reach a required number of victory points - but this can be different for each player; you gain benefits/advantages and these increase the total you need to reach. Its the cow game you need to play, except the other cow game you also must play that is entirely different ([6 Nimmit][SixNimmit]).
 
 ![GreatZimbabwe](/images/posts/2022_04_06/GreatZimbabwe02.jpg "GreatZimbabwe"){:class="img_post"}
 
@@ -53,5 +53,7 @@ Next session is 20th April. [Do let us know about games you would like to play][
 [7D]: {{ site.data.BoardGameLinks.SevenDragons.Link }}
 [TGZ]: {{ site.data.BoardGameLinks.TheGreatZimbabwe.Link }}
 [Zom]: {{ site.data.BoardGameLinks.Zombicide.Link }}
+[SixNimmit]: {{ site.data.BoardGameLinks.SixNimmit.Link }}
+
 
 [Contact]: /Contact.html
