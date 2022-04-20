@@ -18,7 +18,7 @@ The pack is setup to include cards of various colour sets depending on how many 
 You score depending on how many cards in 3 colour sets you have collected.
 If you collect any additional colours these count negatively at the end.
 There is 1 row setup per player, and each round you pick up a card from the deck and play it onto a row to a limit of 3 cards per row, or pick up cards from a row, which closes it.
-Do you pick up before too many cards are played of colours you aren't collecting, or stay in and hope to pick up wildcards or more of the colours you are collecting?
+Do you pick up before too many cards are played of colours you aren’t collecting, or stay in and hope to pick up wildcards or more of the colours you are collecting?
 
 [Seven Dragons][7D] is another card game, this time playing them to a tableau trying to make a chain of 7 dragon pictures in your secret goal colour, or using special cards to move cards around the table or change goals with other players.
 It is a simple concept and pretty quick to play, so we managed 3 rounds before it was time for the long games to start.
