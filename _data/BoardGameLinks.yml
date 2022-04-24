@@ -12,6 +12,8 @@ Antiquity:
     Link: "https://boardgamegeek.com/boardgame/13122/antiquity"
 ArkhamHorror:
     Link: "https://boardgamegeek.com/boardgame/15987/arkham-horror"
+ArkNova:
+    Link: "https://boardgamegeek.com/boardgame/342942/ark-nova"
 Azul:
     Link: "https://boardgamegeek.com/boardgame/230802/azul"
 Bandido:
@@ -34,6 +36,8 @@ Carcassonne:
     BGGLink: "https://boardgamegeek.com/boardgame/822/carcassonne"
     ImageLink: "/images/boardgames/carcassonne"
     Link: "/BoardGames/Development.html#carcassonne"
+CatanSeafarers:
+    Link: "https://boardgamegeek.com/boardgame/325/catan-seafarers"
 CastleRavenloft:
     BGGLink: "https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game"
     ImageLink: "/images/boardgames/castleravenloft"
@@ -215,6 +219,8 @@ MagicMaze:
     BGGLink: "https://boardgamegeek.com/boardgame/209778/magic-maze"
     ImageLink: "/images/boardgames/magicmaze"
     Link: "/BoardGames/Explore.html#magic-maze"
+MiniRails:
+    Link: "https://boardgamegeek.com/boardgame/225818/mini-rails"
 Museum:
     Link: "https://www.boardgamegeek.com/boardgame/204505/museum"
 Mysterium:
@@ -295,6 +301,8 @@ RollThroughTheAges:
     BGGLink: "https://www.boardgamegeek.com/boardgame/37380/roll-through-ages-bronze-age"
     ImageLink: "/images/boardgames/rollthroughtheages"
     Link: "/BoardGames/Historical.html#roll-through-the-ages"
+Sagrada:
+    Link: "https://boardgamegeek.com/boardgame/199561/sagrada"
 SantaMonica:
     Link: "https://www.boardgamegeek.com/boardgame/298065/santa-monica"
 SecretHitler:
