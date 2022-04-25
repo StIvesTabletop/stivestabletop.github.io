@@ -12,7 +12,7 @@ Kathy J. was keen to demonstrate [Ark Nova][AN], a zoo building and conservation
 
 ![ArkNova](/images/posts/2022_04_20/ArkNova02.jpg "Ark Nova"){:class="img_post"}
 
-The second table chose [Catan: Seafarers][CS], which is a slightly extended version of the original [Settlers of Catan][C] game with boats. The 4 players start by claiming 2 settlements each across the hexagonal land tiles, each tile is linked to a number 2 to 12, all the possible totals when rolling 2 dice. Each round you roll 2 dice and which ever players have settlements linked to those tiles generate the income, 5 types based on terrain; sheep, wood, brick, stone and corn. Certain combinations of resources allow you to extend or upgrade your settlements and generate victory points. In Seafarers there are also shipping lanes and the winner is first to 14 victory points.
+The second table chose [Catan: Seafarers][CS], which is a slightly extended version of the original [Settlers of Catan][C] game with boats. The 4 players start by claiming 2 settlements each across the hexagonal land tiles, each tile is linked to a number 2 to 12, all the possible totals when rolling 2 dice. Each round you roll 2 dice and which ever players have settlements linked to those tiles generate the income, 5 types based on terrain; sheep, wood, brick, stone and corn. Certain combinations of resources allow you to extend or upgrade your settlements and generate victory points. In Seafarers there are also shipping lanes and the winner is first to 14 victory points. It was a tight game with some substantial swings in fortune and some healthy trading, Settlers at its best.
 
 ![Seafarers](/images/posts/2022_04_20/Seafarers01.jpg "Seafarers"){:class="img_post"}
 
@@ -24,7 +24,7 @@ The final table had decision paralysis over the sheer number of interesting game
 
 ![Everdell](/images/posts/2022_04_20/Everdell01.jpg "Everdell"){:class="img_post"}
 
-The later staying players on tables 2 and 3 joined up for one of Simon's train games, this time [Mini Rails][MR], more rail building and company stock trading mechanics to finish the night.
+The later staying players on tables 2 and 3 joined up for one of Simon's train games, this time [Mini Rails][MR], more rail building and company stock trading mechanics to finish the night. It's a very streamlined game, you only have 12 actions across 6 rounds - and yet from the mid-game on each decision seems impossible.
 
 Next session is 4th May. Please do keep bringing in your games, there have been some very interesting selections narrowly missing a chance on the tables since we can only play a few games per session. We do enjoy learning new games and like to get a mix of new games and some favourites out on the tables with lots of different themes and game play styles.
 
