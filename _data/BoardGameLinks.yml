@@ -98,6 +98,8 @@ Diamant:
     BGGLink: "https://boardgamegeek.com/boardgame/15512/diamant"
     ImageLink: "/images/boardgames/diamant"
     Link: "/BoardGames/Explore.html#diamantincan-gold"
+DiceForge:
+    Link: "https://boardgamegeek.com/boardgame/194594/dice-forge"
 DiceHospital:
     BGGLink: "https://boardgamegeek.com/boardgame/218121/dice-hospital"
     ImageLink: "/images/boardgames/dicehospital"
@@ -299,6 +301,8 @@ RelicRunners:
     Link: "/BoardGames/Explore.html#relic-runners"
 ResArcana:
     Link: "https://www.boardgamegeek.com/boardgame/262712/res-arcana"
+RideTheRails:
+    Link: "https://boardgamegeek.com/boardgame/297486/ride-rails"
 RoadsAndBoats:
     Link: "https://boardgamegeek.com/boardgame/875/roads-boats"
 RobinsonCrusoe:
@@ -313,6 +317,8 @@ RollThroughTheAges:
     BGGLink: "https://www.boardgamegeek.com/boardgame/37380/roll-through-ages-bronze-age"
     ImageLink: "/images/boardgames/rollthroughtheages"
     Link: "/BoardGames/Historical.html#roll-through-the-ages"
+Root:
+    Link: "https://boardgamegeek.com/boardgame/237182/root"
 Sagrada:
     Link: "https://boardgamegeek.com/boardgame/199561/sagrada"
 SantaMonica:
