@@ -20,9 +20,7 @@ Sophie had missed out on [Root][R] at the [previous session][32] and was keen to
 
 ![Terra Mystica](/images/posts/2022_06_29/TerraMystica01.jpg "Terra Mystica"){:class="img_post"}
 
-Meanwhile other players had been eyeing up [Terra Mystica][TMy] from the selection on offer and so Simon W. taught this complex terraforming and strategy game. Many of the games mechanics have been reimplemented in [Gaia Project][GP] which has been played in [session 25][25]. With 4 beginners it took a while to explain all the rules and get going making this the latest running game of the night.
-
-					**^^ !! Any details? - Simon !! ^^**
+Meanwhile other players had been eyeing up [Terra Mystica][TMy] from the selection on offer and so Simon W. taught this complex terraforming and strategy game. Many of the games mechanics have been reimplemented in [Gaia Project][GP] which has been played in [session 25][25]. With 4 beginners it took a while to explain all the rules and get going making this the latest running game of the night. It's a delicate balance of making points during the six rounds, setting up your economy to generate workers and coins in order to buy/expand/upgrade, and keeping an eye on end of game scoring. Despite a slow start (with the necessary teaching), the rounds became faster as people got a handle on how to play. How each faction interacts, how the make points, and how the map develops with five players is part of the fun. Simon W. was a bad teacher and took the win, but everyone had good scores and explored the game. Is GP better than TM, the teacher says no... but that's a matter of opinion.
 
 ![Meadow](/images/posts/2022_06_29/Meadow01.jpg "Meadow"){:class="img_post"}
 
