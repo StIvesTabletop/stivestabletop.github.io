@@ -14,9 +14,7 @@ Soon after there were enough attendees to start a 4 player game of [Sagrada][Sag
 
 ![Root](/images/posts/2022_06_29/Root01.jpg "Root"){:class="img_post"}
 
-Sophie had missed out on [Root][R] at the [previous session][32] and was keen to play which suited 3 of the players from that last game. Some of whom switched to try new factions while some tried to master the one they had played before in this asymmetric forest conquering game. 
-
-					**^^ !! What happened? - Iker !! ^^**
+Sophie had missed out on [Root][R] at the [previous session][32] and was keen to play, which suited 3 of the players from that last game. Some of whom switched to try new factions while some tried to master the one they had played before in this asymmetric forest conquering game. It was noticeable that the players got the hang of the game from the previous occasion, and there was a lot of strategising a negotiation at play. This time, we saw the Eyrie dynasty play a dominance card early in the game, and thus change its victory condition to an area control target that the player was well positioned for. This move forced both Cats and Alliance players to switch into a defensive play-style in order to secure the map corners sought after by the dynasty. This was of benefit to the vagabond, who carried out a few targeted attacks to weaken the other player's positions and once again could hit the 30 victory point mark by completing quests. It was a very tight win however!
 
 ![Terra Mystica](/images/posts/2022_06_29/TerraMystica01.jpg "Terra Mystica"){:class="img_post"}
 
