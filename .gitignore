@@ -2,3 +2,4 @@ CNAME
 Gemfile.lock
 _site
 .DS_Store
+.vscode

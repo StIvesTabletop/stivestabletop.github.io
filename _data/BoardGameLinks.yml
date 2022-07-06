@@ -229,6 +229,8 @@ MagicMaze:
     BGGLink: "https://boardgamegeek.com/boardgame/209778/magic-maze"
     ImageLink: "/images/boardgames/magicmaze"
     Link: "/BoardGames/Explore.html#magic-maze"
+Meadow:
+    Link: "https://boardgamegeek.com/boardgame/314491/meadow"
 MiniRails:
     Link: "https://boardgamegeek.com/boardgame/225818/mini-rails"
 Museum:
@@ -343,6 +345,8 @@ SevenWonders:
     Link: "/BoardGames/Historical.html#7-wonders"
 SixNimmit:
     Link: "https://boardgamegeek.com/boardgame/432/6-nimmt"
+Skull:
+    Link: "https://boardgamegeek.com/boardgame/92415/skull"
 SmallWorld:
     BGGLink: "https://boardgamegeek.com/boardgame/40692/small-world"
     ImageLink: "/images/boardgames/smallworld"
@@ -379,6 +383,8 @@ Timeline:
     Link: "https://www.boardgamegeek.com/boardgame/128664/timeline"
 TinyEpicDungeons:
     Link: "https://boardgamegeek.com/boardgame/331787/tiny-epic-dungeons"
+TinyTowns:
+    Link: "https://boardgamegeek.com/boardgame/265736/tiny-towns"
 TheCity:
     BGGLink: "https://boardgamegeek.com/boardgame/103649/city"
     ImageLink: "/images/posts/2020_01_15/the_city"
@@ -413,6 +419,8 @@ Tokaido:
     BGGLink: "https://boardgamegeek.com/boardgame/123540/tokaido"
     ImageLink: "/images/boardgames/tokaido"
     Link: "/BoardGames/FarEastern.html#tokaido"
+TombTrader:
+    Link: "https://boardgamegeek.com/boardgame/214879/tomb-trader"
 TrekkingTheWorld:
     BGGLink: "https://boardgamegeek.com/boardgame/300442/trekking-world"
     ImageLink: "/images/boardgames/trekkingworld"
