@@ -12,7 +12,7 @@ Will B. had been prepared with another pre-session [Discord][Contact] game reque
 
 ![Root](/images/posts/2022_07_27/Root01.jpg "Root"){:class="img_post"}
 
-Sophie proposed a game of [Root][R] which has been popular in recent weeks, back for a 3rd play and again no trouble filling seats in this asymmetric conquest game. Despite everyone's best efforts the vagabond faction were the winners again.
+Sophie proposed a game of [Root][R] which has been popular in recent weeks, back for a 3rd play and again no trouble filling seats in this asymmetric conquest game. We had another tight game that saw the Allience establish control over the centre of the board and the Eyrie dynasty conquer the southern clearings. The vagabond repeteadly engaged in trade with the Alliance, reaching ally status, and drawing its armies into fight against the Marquese's units. Despite everyone's best efforts the vagabond won again.
 
 ![Inis](/images/posts/2022_07_27/Inis01.jpg "Inis"){:class="img_post"}
 
