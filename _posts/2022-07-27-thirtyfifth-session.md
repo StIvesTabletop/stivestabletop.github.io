@@ -11,7 +11,7 @@ You split into 2 teams, and in this session we had 3 per team.
 There is a 5 x 5 grid of words on the table.
 Teams nominate a spymaster or clue giver, who can see a map of the grid indicating which words they need their teams to guess, and also where the assassin card is located - guess the assassin and it is automatic game over.
 Then the spymaster needs to provide a clue that can indicate as many of their teams words as possible, and ideally none of the oppositions!
-The first team to find all of their words (or have them found by the opposition) and not importantly not find the assassin wins.
+The first team to find all of their words (or have them found by the opposition) and importantly not find the assassin wins.
 This game, teams were obviously not quite on the same wavelength as their respective spymasters for some of the clues, but the blue team prevailed in a nice gentle warm up for the evening.
 
 ![Lost Ruins of Arnak](/images/posts/2022_07_27/LostRuinsArnak01.jpg "Lost Ruins of Arnak"){:class="img_post"}
@@ -24,13 +24,13 @@ The result was a win for Jyo K. with Iain D. close behind.
 ![Root](/images/posts/2022_07_27/Root01.jpg "Root"){:class="img_post"}
 
 Sophie F.W. proposed a game of [Root][R], which has been popular in recent weeks, back for a third play and again no trouble filling seats in this asymmetric conquest game.
-We had another tight game that saw the Allience establish control over the centre of the board, and the Eyrie dynasty conquer the southern clearings.
+We had another tight game that saw the Alliance establish control over the centre of the board, and the Eyrie dynasty conquer the southern clearings.
 The Vagabond repeatedly engaged in trade with the Alliance, reaching ally status, and drawing its armies into fight against the Marquese's units.
 Despite everyone's best efforts, the Vagabond won again.
 
 ![Inis](/images/posts/2022_07_27/Inis01.jpg "Inis"){:class="img_post"}
 
-Diarmuid K. had brought along [Inis][I] and set up a 4-player game, which was so popular once it was left out the table for a second play.
+Diarmuid K. had brought along [Inis][I] and set up a 4-player game. This was so popular it was left out the table for a second play.
 This is a game of Celtic history with players vying to become King of the island of Inis.
 There are 3 victory conditions; leadership, land or religion.
 It is a card drafting, hand management and bluffing game, with action cards and epic tale cards to inspire your clan.
@@ -55,6 +55,8 @@ Catherine D. showcased some of her more zen and beautifully illustrated games, f
 Namiji, which is based on fishing off the coast of Japan, was back out for a third time.
 Cottage Garden is a Tetris-like game of filling flowerbeds with flowers, pots, cloches, and cats in a sort of competitive gardening, not seen since [session 4][4].
 This is the first in a series of nature themed polyomino tile games from designer Uwe Rosenberg, and the other titles Indian Summer and Spring Meadow are also available to request and try.
+
+![Cottage Garden](/images/posts/2022_07_27/CottageGarden01.jpg "Cottage Garden"){:class="img_post"}
 
 Finally, the remnants of 2 tables joined up for a 6-player game of [Ecosystem][E], back out for a ninth session of a pass and play mechanic placing habitat and animal cards into a tableau.
 Each card type has different victory conditions based on the number of the type placed, position, or proximity to other card types, with variety of types placed rewarded with a diversity bonus.
