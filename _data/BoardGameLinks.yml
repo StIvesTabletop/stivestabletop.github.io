@@ -2,6 +2,8 @@
 #       Move this to .BGGLink when an internal entry is created and make .Link point to internal.
 #       ALWAYS use .Link in blogs, and use .BGGLink in board game write ups.
 
+AboveBelow:
+    Link: "https://boardgamegeek.com/boardgame/172818/above-and-below"
 AeonsEnd:
     Link: "https://boardgamegeek.com/boardgame/191189/aeons-end"
 AgeOfWar:
@@ -50,6 +52,8 @@ CastleRavenloft:
     BGGLink: "https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game"
     ImageLink: "/images/boardgames/castleravenloft"
     Link: "/BoardGames/Fantasy.html#castle-ravenloft"
+CatLady:
+    Link: "https://boardgamegeek.com/boardgame/228504/cat-lady"
 Caverna:
     Link: "https://boardgamegeek.com/boardgame/102794/caverna-cave-farmers"
 Caylus:
@@ -195,6 +199,8 @@ IrishGauge:
     Link: "https://www.boardgamegeek.com/boardgame/161882/irish-gauge"
 IsleOfSkye:
     Link: "https://www.boardgamegeek.com/boardgame/176494/isle-skye-chieftain-king"
+JustOne:
+    Link: "https://boardgamegeek.com/boardgame/254640/just-one"    
 Kanagawa:
     BGGLink: "https://boardgamegeek.com/boardgame/200147/kanagawa"
     ImageLink: "/images/boardgames/kanagawa"
@@ -275,10 +281,14 @@ OZooLeMio:
     BGGLink: "https://boardgamegeek.com/boardgame/4218/o-zoo-le-mio"
     ImageLink: "/images/boardgames/ozoolemio"
     Link: "/BoardGames/Nature.html#o-zoo-le-mio"
+PackStack:
+    Link: "https://boardgamegeek.com/boardgame/37120/pack-stack"        
 Pandemic:
     BGGLink: "https://boardgamegeek.com/boardgame/30549/pandemic"
     ImageLink: "/images/boardgames/pandemic"
     Link: "/BoardGames/Professions.html#pandemic"
+PandemicIberia:
+    Link: "https://boardgamegeek.com/boardgame/198928/pandemic-iberia"    
 ParisConnection:
     Link: "https://boardgamegeek.com/boardgame/75358/paris-connection"
 PaxPamir:
