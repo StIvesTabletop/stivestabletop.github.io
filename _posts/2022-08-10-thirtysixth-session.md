@@ -38,7 +38,7 @@ Finally, despite going into turmoil earlier in the game, it was the disciplined 
 The fourth table decided to play a few shorter games (Brass, Root, and Above & Below continuing to the end of the night).
 Four players fumbled in the darkness looking for the [Cryptid][C], in a competitive deduction game.
 Each player has a unique clue and when all the clues are combined they define a unique location on the map.
-Through careful deduction, keen questions, and a bit of luck a light blub moment occurs.
+Through careful deduction, keen questions, and a bit of luck a light bulb moment occurs.
 The first game was confusing and cut short by an excellent educated guess, and so the table started a second game; this time just confusing.
 There were many moments when a player definitely knew the answer… only to discover it was wrong.
 One great part of Cryptid is that an incorrect guess does not eliminate a player.
