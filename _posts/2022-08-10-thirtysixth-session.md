@@ -6,7 +6,7 @@ The stars aligned... and most of the committee were busy.
 Thankfully, several people stepped in to teach or run games.
 We had 16 gamers attending, including 1 new face, and playing 8 games (6 new to the club) over 4 tables.
 
-![CatLady](/images/posts/2022_08_10/CatLady01.jpg "CatLady"){:class="img_post"}
+![Cat Lady](/images/posts/2022_08_10/CatLady01.jpg "Cat Lady"){:class="img_post"}
 
 As usual there were some starter games for the early joiners, with 2 new games for the club: [Cat Lady][CL] and [Just One][JO].
 
