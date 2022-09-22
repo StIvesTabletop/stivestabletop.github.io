@@ -191,6 +191,8 @@ Hanabi:
     BGGLink: "https://boardgamegeek.com/boardgame/98778/hanabi"
     ImageLink: "/images/boardgames/hanabi"
     Link: "/BoardGames/FarEastern.html#hanabi"
+HighSociety:
+    Link: "https://boardgamegeek.com/boardgame/220/high-society"
 Hossa:
     Link: "https://boardgamegeek.com/boardgame/2734/hossa"
 IberianGauge:
@@ -277,6 +279,8 @@ NinjaCamp:
     BGGLink: "https://boardgamegeek.com/boardgame/176565/ninja-camp"
     ImageLink: "/images/boardgames/ninjacamp"
     Link: "/BoardGames/FarEastern.html#ninja-camp"
+Noah:
+    Link: "https://boardgamegeek.com/boardgame/116858/noah"
 NorthernPacific:
     Link: "https://www.boardgamegeek.com/boardgame/138704/northern-pacific"
 OneNightUltimateWerewolf:
@@ -433,6 +437,8 @@ TheShipwreckArcana:
     Link: "/BoardGames/Fantasy.html#the-shipwreck-arcana"
 ThreeOfACrime:
     Link: "https://boardgamegeek.com/boardgame/7641/three-crime"
+ThreeSisters:
+    Link: "https://boardgamegeek.com/boardgame/291845/three-sisters"
 TicketToRideEurope:
     BGGLink: "https://boardgamegeek.com/boardgame/14996/ticket-ride-europe"
     ImageLink: "/images/boardgames/tickettorideeurope"
