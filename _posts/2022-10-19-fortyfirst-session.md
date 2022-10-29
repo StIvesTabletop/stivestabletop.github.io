@@ -16,7 +16,7 @@ This was another session with two pre-booked long games and another long one cho
 ![Game Of Thrones](/images/posts/2022_10_19/GameOfThrones01.jpg "Game Of Thrones"){:class="img_post"}
 ![Game Of Thrones](/images/posts/2022_10_19/GameOfThrones02.jpg "Game Of Thrones"){:class="img_post"}
 
-[A Game of Thrones - The Board Game 2nd Edition][GoT] with a full 6 players was the other pre-booked game. In the end the players agreed to stop after 7 rounds rather than the full 10 or area control goal. It is a game of diplomacy or warfare to spread your influence over Westeros. The Stark faction won (like in the TV show - spoilers) but it sounded like a lot of the anticipated back stabbing and treachery ensued.
+[A Game of Thrones - The Board Game 2nd Edition][GoT] with a full 6 players was the other pre-booked game. This is a classic Fantasy Flight game, linked to a well known IP (at the time, in 2012, it was only the books - there's an expansion that covers later books, still not the TV show). At it's core, there is a strong [Diplomacy][Diplomacy] vibe; you can attack directly or support, but you can lend your support to any adjacent player (insert much negotitation). The full game is 10 rounds or an instant win condition, but everyone agreed to stop after 7 rounds so we had a satisfying conclusion (the full game is long, especially once the table talk and informal alliances develop). It is a game of diplomacy or warfare to spread your influence over Westeros. The Stark faction won (like in the TV show - spoilers; doubt we'll ever know who 'wins' in the books) but a lot of the anticipated back stabbing and treachery ensued.
 
 ![Concordia](/images/posts/2022_10_19/Concordia01.jpg "Concordia"){:class="img_post"}
 
@@ -51,6 +51,7 @@ Next session is 2nd November. If there are any games you want to play then do le
 [HS]: {{ site.data.BoardGameLinks.HighSociety.Link }}
 [NC]: {{ site.data.BoardGameLinks.NinjaCamp.Link }}
 [RA]: {{ site.data.BoardGameLinks.ResArcana.Link }}
+[Diplomacy]: {{ site.data.BoardGameLinks.Diplomacy.Link }}
 
 [11]: /2020/02/26/eleventh-session.html
 [13]: /2021/08/25/thirteenth-session.html
