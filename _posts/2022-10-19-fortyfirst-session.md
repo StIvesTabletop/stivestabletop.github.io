@@ -16,11 +16,11 @@ This was another session with two pre-booked long games and another long one cho
 ![Game Of Thrones](/images/posts/2022_10_19/GameOfThrones01.jpg "Game Of Thrones"){:class="img_post"}
 ![Game Of Thrones](/images/posts/2022_10_19/GameOfThrones02.jpg "Game Of Thrones"){:class="img_post"}
 
-[A Game of Thrones - The Board Game 2nd Edition][GoT] with a full 6 players was the other pre-booked game. This is a classic Fantasy Flight game, linked to a well known IP (at the time, in 2012, it was only the books - there's an expansion that covers later books, still not the TV show). At it's core, there is a strong [Diplomacy][Diplomacy] vibe; you can attack directly or support, but you can lend your support to any adjacent player (insert much negotitation). The full game is 10 rounds or an instant win condition, but everyone agreed to stop after 7 rounds so we had a satisfying conclusion (the full game is long, especially once the table talk and informal alliances develop). It is a game of diplomacy or warfare to spread your influence over Westeros. The Stark faction won (like in the TV show - spoilers; doubt we'll ever know who 'wins' in the books) but a lot of the anticipated back stabbing and treachery ensued.
+[A Game of Thrones - The Board Game 2nd Edition][GoT] with a full 6 players was the other pre-booked game. This is a classic Fantasy Flight game, linked to a well known IP (at the time, in 2012, it was only the books - there's an expansion that covers later books, still not the TV show). At it's core, there is a strong [Diplomacy][Diplomacy] vibe; you can attack directly or support, but you can lend your support to any adjacent player (insert much negotiation). The full game is 10 rounds or an instant win condition, but everyone agreed to stop after 7 rounds so we had a satisfying conclusion (the full game is long, especially once the table talk and informal alliances develop). It is a game of diplomacy or warfare to spread your influence over Westeros. The Stark faction won (like in the TV show - spoilers; doubt we'll ever know who 'wins' in the books) but a lot of the anticipated back stabbing and treachery ensued.
 
 ![Concordia](/images/posts/2022_10_19/Concordia01.jpg "Concordia"){:class="img_post"}
 
-[Concordia][CC] was chosen for its 4th play at club, it was first played in the first session back after lockdown [session 13][13]. It is a card driven civilisation game based around trade and hidden goals so it wasnt until the last of the scoring categories was counted that the gamers could tell how successful they had been and it turned out it was quite a close game.
+[Concordia][CC] was chosen for its 4th play at club, it was first played in the first session back after lockdown [session 13][13]. It is a card driven civilisation game based around trade and collected goals so it wasn't until the last of the scoring categories was counted that the gamers could tell how successful they had been and it turned out it was quite a close game.
 
 ![Res Arcana](/images/posts/2022_10_19/ResArcana01.jpg "Res Arcana"){:class="img_post"}
 
@@ -28,7 +28,7 @@ The final table chose the card based engine building magic themed [Res Arcana][R
 
 A couple of quick games of [Big Dig][BD] finished the night while 2 people waited for the remaining long games to finish.
 
-Next session is 2nd November. If there are any games you want to play then do let us know on [Discord or Facebook][Contact] and we will try and bring them along and matchmake some fellow gamers. Otherwise commitee and regular gamers bring plenty of games to choose from every session, we have tried 142 so far. 
+Next session is 2nd November. If there are any games you want to play then do let us know on [Discord or Facebook][Contact] and we will try and bring them along and matchmake some fellow gamers. Otherwise committee and regular gamers bring plenty of games to choose from every session, we have tried 142 so far. 
 
 ???? Advert for charity night 30th November ????
 
