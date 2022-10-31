@@ -30,7 +30,7 @@ A couple of quick games of [Big Dig][BD] finished the night while 2 people waite
 
 Next session is 2nd November. If there are any games you want to play then do let us know on [Discord or Facebook][Contact] and we will try and bring them along and matchmake some fellow gamers. Otherwise committee and regular gamers bring plenty of games to choose from every session, we have tried 142 so far. 
 
-???? Advert for charity night 30th November ????
+On November 30th we will be hosting another [charity session][20]! There will a bake sale (please bring a few cakes to raise money) and a raffle to win a board game from a choice of 3. At the next session everyone can have a say on the choice charity to support. There will be no entrance fee for the charity session, but you may donate to the charity instead if you wish.
 
 * Total Session Attendance: 17
 * Board Games:
@@ -57,6 +57,7 @@ Next session is 2nd November. If there are any games you want to play then do le
 [13]: /2021/08/25/thirteenth-session.html
 [17]: /2021/10/20/seventeenth-session.html
 [18]: /2021/11/03/eighteenth-session.html
+[20]: /2021/12/01/twentieth-session.html
 [39]: /2022/09/21/thirtyninth-session.html
 [40]: /2022/10/05/fortieth-session.html
 
