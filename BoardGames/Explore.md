@@ -237,6 +237,7 @@ A simple game and quick to teach, with nice but accessible graphics (plus a fun 
 * co-op
 * card and app based game
 * [Unlock (Heroic Adventures version) BGG link]({{ site.data.BoardGameLinks.UnlockHeroicAdventures.BGGLink }})
+* [Unlock (Epic Adventures version) BGG link]({{ site.data.BoardGameLinks.UnlockEpicAdventures.BGGLink }})
 
 Unlock! is a co-operative card game inspired by escape rooms that uses a simple system which allows you to search scenes, combine objects, and solve riddles.
 Each Unlock! box contains 3 games with a variety of themes and an increasing difficulty level and there are now a number of versions to buy and some to print and play.
