@@ -10,6 +10,8 @@ AgeOfWar:
     Link: "https://www.boardgamegeek.com/boardgame/155695/age-war"
 Alhambra:
     Link: "https://boardgamegeek.com/boardgame/6249/alhambra"
+AmericanRails:
+    Link: "https://boardgamegeek.com/boardgame/41749/american-rails"
 Antiquity:
     Link: "https://boardgamegeek.com/boardgame/13122/antiquity"
 Arboretum:
@@ -480,6 +482,8 @@ UnderwaterCities:
     ResourceLink: "https://www.boardgamegeek.com/filepage/202073/underwater-cities-resource-tracking-player-aid"
 UnlockHeroicAdventures:
     BGGLink: "https://boardgamegeek.com/boardgame/266121/unlock-heroic-adventures"
+UnlockEpicAdventures:
+    BGGLink: "https://boardgamegeek.com/boardgame/294612/unlock-epic-adventures"
 Unlock:
     ImageLink: "/images/boardgames/unlock"
     Link: "/BoardGames/Explore.html#unlock"
