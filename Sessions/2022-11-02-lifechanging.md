@@ -22,7 +22,7 @@ One day, everybody was helping bring in the harvest, when something interesting 
 
 I managed to convince Vald and Albrecht to venture into the forest with me (even though they wanted to just finish the harvest).
 Unfortunately, a tree accosted me tripping me over in the process.
-Luckily, a fight was going on around the coach so no one paid any attention to the sound of peasant falling in the woods.
+Luckily, a fight was going on around the coach so no one paid any attention to the sound of a peasant falling in the woods.
 
 After quite a loud debate on what to do next, with various combatants dying in front of us and 2 women being carried off into the forest, we finally decided to help the nobles in the carriage.
 Together, I armed with a dagger (using the hilt to concuss), Albrecht with his fists (a well versed village brawler), and Vald with a large rock (he took the liking to) descended on a bandit archer.

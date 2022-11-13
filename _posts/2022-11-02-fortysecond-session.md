@@ -44,9 +44,9 @@ This is a tricky cooperative game balancing keeping the waves of zombies under c
 [American Rails][AM] is another of Simon W.'s stock and trading based train games, similar to [Irish Gauge][IG] or [Mini Rails][MR] that have been out in previous sessions.
 This game is based in the southeastern states of America and introduces a few rule variants to the genre with city dilution and variable set-up and turn order.
 
-We are holiday a Charity Night on Wednesday 30th November in 2 sessions time.
+We are holding a Charity Night on Wednesday 30th November in 2 sessions time.
 This session attendees were asked to vote for which charity would be supported, the committee suggested 2 local charities; [East Anglian Children's Hospice (EACH)][EACH] which we supported last year or the [St Ives Food Bank][SFB].
-Both charities got equal votes and so the committee has spoken and the money raised on the night will be equally split between both charities.
+Both charities got equal votes and so the club has spoken and the money raised on the night will be equally split between both charities.
 On the 30th the usual on the door (room hire) fee will be waived and we will be accepting donations, running a bake sale (please bring baked goodies!) and hosting a raffle.
 We hope you will be able to join us and support these worthy charities.
 
