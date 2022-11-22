@@ -8,6 +8,8 @@ AeonsEnd:
     Link: "https://boardgamegeek.com/boardgame/191189/aeons-end"
 AgeOfWar:
     Link: "https://www.boardgamegeek.com/boardgame/155695/age-war"
+Agricola:
+    Link: "https://boardgamegeek.com/boardgame/200680/agricola-revised-edition"
 Alhambra:
     Link: "https://boardgamegeek.com/boardgame/6249/alhambra"
 AmericanRails:
@@ -82,6 +84,8 @@ CleopatraAndTheSocietyOfArchitects:
     BGGLink: "https://boardgamegeek.com/boardgame/22141/cleopatra-and-society-architects"
     ImageLink: "/images/boardgames/cleopatraandthesocietyofarchitects"
     Link: "/BoardGames/Historical.html#cleopatra-and-the-society-of-architects"
+CloudAge:
+    Link: "https://boardgamegeek.com/boardgame/316858/cloudage"
 Codenames:
     Link: "https://boardgamegeek.com/boardgame/178900/codenames"
 Coloretto:
@@ -311,6 +315,8 @@ PaxPamir:
     Link: "https://boardgamegeek.com/boardgame/256960/pax-pamir-second-edition"
 PI:
     Link: "https://boardgamegeek.com/boardgame/129050/pi"
+Pictures:
+    Link: "https://boardgamegeek.com/boardgame/284108/pictures"
 Planet:
     BGGLink: "https://boardgamegeek.com/boardgame/252929/planet"
     ImageLink: "/images/boardgames/planet"
