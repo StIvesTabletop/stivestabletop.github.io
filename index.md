@@ -14,7 +14,7 @@ We cover:
 
 # Next session
 
-In light of the recent easing of restrictions related to COVID-19 (aka coronavirus), we have restarted in-person St Ives Tabletop sessions as of 25th August 2021, and continuing fortnightly on Wednesday evenings.
+We hold fortnightly sessions on Wednesday evenings.
 Join the [Discord][Discord] server if you have any questions!
 
 
