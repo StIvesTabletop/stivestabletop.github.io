@@ -43,9 +43,9 @@ As always bring games, suggest some games you want to try in advance, or just co
 * Total Session Attendance: 9
 * Board Games:
 
-	 * [Age of Steam][AoS]
-	 * [Brass: Birmingham][BrB]
-	 * [Subastral][SA]
+	* [Age of Steam][AoS]
+	* [Brass: Birmingham][BrB]
+	* [Subastral][SA]
 
 [AoS]: {{ site.data.BoardGameLinks.AgeOfSteam.Link }}
 [BrB]: {{ site.data.BoardGameLinks.BrassBirmingham.Link }}
