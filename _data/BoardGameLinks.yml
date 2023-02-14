@@ -74,6 +74,8 @@ ChocolateFactory:
     BGGLink: "https://boardgamegeek.com/boardgame/240567/chocolate-factory"
     ImageLink: "/images/boardgames/chocolatefactory"
     Link: "/BoardGames/Development.html#chocolate-factory"
+CincoLinko:
+    Link: "https://boardgamegeek.com/boardgame/208808/cinco-linko"
 Citadels:
     Link: "https://www.boardgamegeek.com/boardgame/478/citadels"
 CladesPrehistoric:
@@ -335,6 +337,8 @@ Planet:
     BGGLink: "https://boardgamegeek.com/boardgame/252929/planet"
     ImageLink: "/images/boardgames/planet"
     Link: "/BoardGames/Nature.html#planet"
+PointSalad:
+    Link: "https://boardgamegeek.com/boardgame/274960/point-salad"
 PotionExplosion:
     Link: "https://boardgamegeek.com/boardgame/180974/potion-explosion"
 PowerGrid:
@@ -469,6 +473,8 @@ TheShipwreckArcana:
     BGGLink: "https://boardgamegeek.com/boardgame/220517/shipwreck-arcana"
     ImageLink: "/images/boardgames/shipwreckarcana"
     Link: "/BoardGames/Fantasy.html#the-shipwreck-arcana"
+TheVoyagesOfMarcoPolo:
+    Link: "https://boardgamegeek.com/boardgame/171623/voyages-marco-polo"
 ThreeOfACrime:
     Link: "https://boardgamegeek.com/boardgame/7641/three-crime"
 ThreeSisters:
