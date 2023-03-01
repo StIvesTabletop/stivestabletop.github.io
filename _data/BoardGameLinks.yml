@@ -54,12 +54,14 @@ Carcassonne:
     BGGLink: "https://boardgamegeek.com/boardgame/822/carcassonne"
     ImageLink: "/images/boardgames/carcassonne"
     Link: "/BoardGames/Development.html#carcassonne"
-CatanSeafarers:
-    Link: "https://boardgamegeek.com/boardgame/325/catan-seafarers"
+Cartographers:
+    Link: "https://boardgamegeek.com/boardgame/263918/cartographers"
 CastleRavenloft:
     BGGLink: "https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game"
     ImageLink: "/images/boardgames/castleravenloft"
     Link: "/BoardGames/Fantasy.html#castle-ravenloft"
+CatanSeafarers:
+    Link: "https://boardgamegeek.com/boardgame/325/catan-seafarers"
 CatLady:
     Link: "https://boardgamegeek.com/boardgame/228504/cat-lady"
 Caverna:
@@ -84,6 +86,8 @@ Clank:
     BGGLink: "https://boardgamegeek.com/boardgame/201808/clank-deck-building-adventure"
     ImageLink: "/images/boardgames/clank"
     Link: "/BoardGames/Fantasy.html#clank-a-deck-building-adventure"
+ClankTheMummysCurse:
+    Link: "https://boardgamegeek.com/boardgame/245377/clank-mummys-curse"
 ClansOfCaledonia:
     Link: "https://boardgamegeek.com/boardgame/216132/clans-caledonia"
 CleopatraAndTheSocietyOfArchitects:
@@ -154,6 +158,8 @@ EminentDomain:
     Link: "https://boardgamegeek.com/boardgame/68425/eminent-domain"
 Endangered:
     Link: "https://boardgamegeek.com/boardgame/220133/endangered"
+Endeavor:
+    Link: "https://boardgamegeek.com/boardgame/33160/endeavor"
 EntropyWorldsCollide:
     Link: "https://www.boardgamegeek.com/boardgame/223151/entropy-worlds-collide"
 EscapeTheCurseOfTheTemple:
@@ -295,6 +301,8 @@ Nicaea:
     Link: "https://boardgamegeek.com/boardgame/348065/nicaea"
 Niagara:
     Link: "https://boardgamegeek.com/boardgame/13308/niagara"
+NightClan:
+    Link: "https://boardgamegeek.com/boardgame/168549/night-clan"
 NinjaCamp:
     BGGLink: "https://boardgamegeek.com/boardgame/176565/ninja-camp"
     ImageLink: "/images/boardgames/ninjacamp"
@@ -509,6 +517,8 @@ Taluva:
     Link: "https://boardgamegeek.com/boardgame/24508/taluva"
 TurnTheTide:
     Link: "https://boardgamegeek.com/boardgame/1403/turn-tide"
+Ukiyo:
+    Link: "https://boardgamegeek.com/boardgame/316085/ukiyo"
 UnderwaterCities:
     BGGLink: "https://boardgamegeek.com/boardgame/247763/underwater-cities"
     ImageLink: "/images/boardgames/underwatercities"
