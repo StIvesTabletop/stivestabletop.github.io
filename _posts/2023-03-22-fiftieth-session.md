@@ -63,13 +63,11 @@ Do [contact us][Contact] if you have a particular game you want to try or play m
 
 * Total Session Attendance: 17
 * Board Games:
-
 	* [Concept][Con]
 	* [Concordia][CC]
 	* [Dice Hospital][DH]
 	* [Ecosystem: Coral Reef][ECR]
 	* [Endeavor][Edv]
-
 * RPG:
 	* [Dungeons and Dragons 5th Edition][DND5]
 
