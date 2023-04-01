@@ -104,6 +104,8 @@ Colosseum:
     BGGLink: "https://boardgamegeek.com/boardgame/27746/colosseum"
     ImageLink: "/images/boardgames/colosseum"
     Link: "/BoardGames/Historical.html#colosseum"
+Concept:
+    Link: "https://boardgamegeek.com/boardgame/147151/concept"
 Concordia:
     Link: "https://www.boardgamegeek.com/boardgame/124361/concordia"
 Container:
@@ -150,6 +152,8 @@ EcoFluxx:
     ImageLink: "/images/boardgames/ecofluxx"
 Ecosystem:
     Link: "https://www.boardgamegeek.com/boardgame/271519/ecosystem"
+EcosystemCoralReef:
+    Link: "https://boardgamegeek.com/boardgame/359406/ecosystem-coral-reef"
 Edo:
     Link: "https://boardgamegeek.com/boardgame/113636/edo"
 ElDorado:
