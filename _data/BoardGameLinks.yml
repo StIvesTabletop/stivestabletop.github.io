@@ -86,6 +86,10 @@ Clank:
     BGGLink: "https://boardgamegeek.com/boardgame/201808/clank-deck-building-adventure"
     ImageLink: "/images/boardgames/clank"
     Link: "/BoardGames/Fantasy.html#clank-a-deck-building-adventure"
+ClankAdventuringParty:
+    Link: "https://boardgamegeek.com/boardgame/308918/clank-adventuring-party"
+ClankExpeditionsTempleOfTheApeLords:
+    Link: "https://boardgamegeek.com/boardgame/282426/clank-expeditions-temple-ape-lords"
 ClankTheMummysCurse:
     Link: "https://boardgamegeek.com/boardgame/245377/clank-mummys-curse"
 ClansOfCaledonia:
@@ -148,6 +152,8 @@ DuneImperium:
     Link: "https://boardgamegeek.com/boardgame/316554/dune-imperium"
 DungeonPetz:
     Link: "https://boardgamegeek.com/boardgame/97207/dungeon-petz"
+EastIndiaCompanies:
+    Link: "https://boardgamegeek.com/boardgame/354132/east-india-companies"
 EclipseSecondDawnForTheGalaxy:
     Link: "https://boardgamegeek.com/boardgame/246900/eclipse-second-dawn-galaxy"
 EcoFluxx:
