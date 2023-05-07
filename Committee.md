@@ -11,15 +11,6 @@ She also has a soft spot for board games by [Martin Wallace](https://boardgamege
 She’s always on the look out for games with beautiful artwork and/or nature themes, including some of her other favourites - [Tokaido]({{ site.data.BoardGameLinks.Tokaido.Link }}), [Wingspan]({{ site.data.BoardGameLinks.Wingspan.Link }}), [Gùgōng]({{ site.data.BoardGameLinks.Gugong.Link }}), and [Takenoko]({{ site.data.BoardGameLinks.Takenoko.Link }}).
 In terms of co-operative games, she likes to play [Mysterium]({{ site.data.BoardGameLinks.Mysterium.Link }}), [Sub Terra]({{ site.data.BoardGameLinks.SubTerra.Link }}), and [Spirit Island]({{ site.data.BoardGameLinks.SpiritIsland.Link }}).
 
-# Iker P.
-
-![Iker P.](/images/committee/IkerP.jpg){:class="img_committee"}
-
-Iker's favourite games include [Citadels]({{ site.data.BoardGameLinks.Citadels.Link }}), [A Game of Thrones]({{ site.data.BoardGameLinks.GameOfThrones_SecondEdition.Link }}) and [Carcassonne]({{ site.data.BoardGameLinks.Carcassonne.Link }}).
-He is always eager for a friendly deception and deduction game, such as [Secret Hitler]({{ site.data.BoardGameLinks.SecretHitler.Link }}), [Werewolf]({{ site.data.BoardGameLinks.OneNightUltimateWerewolf.Link }}), or [Murder in Hong Kong]({{ site.data.BoardGameLinks.DeceptionMurderInHongKong.Link }}).
-
-Can't miss the chance to play a rogue in [Dungeons and Dragons](https://rpggeek.com/rpg/17181/dungeons-dragons-5th-edition), and owns some (really outdated) Pokémon cards.
-
 # Jeremy J.
 
 ![Jeremy J.](/images/committee/JeremyJ.jpg){:class="img_committee"}
