@@ -80,6 +80,8 @@ CincoLinko:
     Link: "https://boardgamegeek.com/boardgame/208808/cinco-linko"
 Citadels:
     Link: "https://www.boardgamegeek.com/boardgame/478/citadels"
+CivilizationNewDawn:
+    Link: "https://boardgamegeek.com/boardgame/233247/civilization-new-dawn"
 CladesPrehistoric:
     Link: "https://www.boardgamegeek.com/boardgame/250439/clades-prehistoric"
 Clank:
@@ -469,16 +471,6 @@ TerraformingMars:
     Link: "https://boardgamegeek.com/boardgame/167791/terraforming-mars"
 TerraMystica:
     Link: "https://boardgamegeek.com/boardgame/120677/terra-mystica"
-TicketToRide:
-    Link: "https://boardgamegeek.com/boardgame/9209/ticket-ride"
-TicketToRideSwitzerland:
-    Link: "https://boardgamegeek.com/boardgame/30746/ticket-ride-switzerland"
-Timeline:
-    Link: "https://www.boardgamegeek.com/boardgame/128664/timeline"
-TinyEpicDungeons:
-    Link: "https://boardgamegeek.com/boardgame/331787/tiny-epic-dungeons"
-TinyTowns:
-    Link: "https://boardgamegeek.com/boardgame/265736/tiny-towns"
 TheCity:
     BGGLink: "https://boardgamegeek.com/boardgame/103649/city"
     ImageLink: "/images/posts/2020_01_15/the_city"
@@ -501,16 +493,26 @@ ThreeOfACrime:
     Link: "https://boardgamegeek.com/boardgame/7641/three-crime"
 ThreeSisters:
     Link: "https://boardgamegeek.com/boardgame/291845/three-sisters"
+TicketToRide:
+    Link: "https://boardgamegeek.com/boardgame/9209/ticket-ride"
 TicketToRideEurope:
     BGGLink: "https://boardgamegeek.com/boardgame/14996/ticket-ride-europe"
     ImageLink: "/images/boardgames/tickettorideeurope"
     Link: "/BoardGames/Development.html#ticket-to-ride"
+TicketToRideSwitzerland:
+    Link: "https://boardgamegeek.com/boardgame/30746/ticket-ride-switzerland"
 Tikal:
     BGGLink: "https://boardgamegeek.com/boardgame/54/tikal"
     ImageLink: "/images/boardgames/tikal"
     Link: "/BoardGames/Explore.html#tikal"
+Timeline:
+    Link: "https://www.boardgamegeek.com/boardgame/128664/timeline"
 TinnersTrail:
     Link: "https://www.boardgamegeek.com/boardgame/35570/tinners-trail"
+TinyEpicDungeons:
+    Link: "https://boardgamegeek.com/boardgame/331787/tiny-epic-dungeons"
+TinyTowns:
+    Link: "https://boardgamegeek.com/boardgame/265736/tiny-towns"
 Tobago:
     BGGLink: "https://boardgamegeek.com/boardgame/42215/tobago"
     ImageLink: "/images/boardgames/tobago"
