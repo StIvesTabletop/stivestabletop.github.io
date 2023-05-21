@@ -37,16 +37,6 @@ Kathy generally prefers co-op games, especially [Pandemic]({{ site.data.BoardGam
 But she can’t resist [Ticket to Ride]({{ site.data.BoardGameLinks.TicketToRideEurope.Link }}), [Tikal]({{ site.data.BoardGameLinks.Tikal.Link }}), [Magical Athlete]({{ site.data.BoardGameLinks.MagicalAthlete.Link }}), or [Braggart]({{ site.data.BoardGameLinks.Braggart.Link }}).
 Kathy has been our main reviewer on the website, so you have a fair idea from what she’s been reviewing!
 
-# Ross D.
-
-![Ross D.](/images/committee/RossD.jpg){:class="img_committee"}
-
-Ross started his geekvangelism with [Arkham Horror]({{ site.data.BoardGameLinks.ArkhamHorror.Link }}) and [Dominion]({{ site.data.BoardGameLinks.Dominion.Link }}) (which are still some of his favourites).
-He loves co-operative games and now he loves [XCOM]({{ site.data.BoardGameLinks.XCOM.Link }}), [Spirit Island]({{ site.data.BoardGameLinks.SpiritIsland.Link }}), [Aeon’s End]({{ site.data.BoardGameLinks.AeonsEnd.Link }}), and [Sentinels of the Multiverse]({{ site.data.BoardGameLinks.SentinelsOfTheMultiverse.Link }}).
-When he remembers that he should play some competitive games, he plays [Caverna]({{ site.data.BoardGameLinks.Caverna.Link }}), [Dungeon Petz]({{ site.data.BoardGameLinks.DungeonPetz.Link }}) (he loves the artwork on this one), and [Isle of Skye]({{ site.data.BoardGameLinks.IsleOfSkye.Link }}).
-
-He absolutely loves playing RPGs, the reason he’s helping with the club is to give other people a chance to start.  He has a varied background and plays everything from [Dungeons & Dragons (4th ed.)](https://www.rpggeek.com/rpg/190/dungeons-dragons-4th-edition), [Shadowrun (5th ed.)](https://www.rpggeek.com/rpg/21069/shadowrun-5th-edition), [13th Age](https://rpggeek.com/rpg/17925/13th-age), [Fate](https://www.rpggeek.com/rpgsystem/26506/fate-core), [Blades in the Dark](https://www.rpggeek.com/rpg/26952/blades-dark), and [Scum and Villainy](https://www.rpggeek.com/rpg/48736/scum-and-villainy).
-
 # Simon W.
 
 ![Simon W.](/images/committee/SimonW.jpg){:class="img_committee"}
