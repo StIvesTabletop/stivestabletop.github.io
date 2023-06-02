@@ -36,12 +36,14 @@ BeastsOfBalance:
     Link: "https://boardgamegeek.com/boardgame/185709/beasts-balance"
 BetrayalAtHouseOnTheHill:
     Link: "https://boardgamegeek.com/boardgame/10547/betrayal-house-hill"
+BigDig:
+    Link: "https://boardgamegeek.com/boardgame/262273/big-dig"
+Blokus:
+    Link: "https://boardgamegeek.com/boardgame/2453/blokus"
 Braggart:
     BGGLink: "https://boardgamegeek.com/boardgame/72420/braggart"
     ImageLink: "/images/boardgames/braggart"
     Link: "/BoardGames/Fantasy.html#braggart"
-BigDig:
-    Link: "https://boardgamegeek.com/boardgame/262273/big-dig"
 BrassBirmingham:
     Link: "https://boardgamegeek.com/boardgame/224517/brass-birmingham"
 BrassLancashire:
@@ -190,6 +192,8 @@ EvolutionClimate:
     Link: "/BoardGames/Nature.html#evolution-climate"
 FantasticFactories:
     Link: "https://boardgamegeek.com/boardgame/216600/fantastic-factories"
+Firefly:
+    Link: "https://boardgamegeek.com/boardgame/138161/firefly-game"
 FlaminPyramids:
     Link: "https://boardgamegeek.com/boardgame/236639/flaming-pyramids"
 FlammeRouge:

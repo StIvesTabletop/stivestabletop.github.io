@@ -49,3 +49,17 @@ For the main part he’ll typically suggest [Concordia]({{ site.data.BoardGameLi
 If you want a bigger game then out come the Splotter/GMT/heavy economy games like [Antiquity]({{ site.data.BoardGameLinks.Antiquity.Link }}), [Eldritch Horror]({{ site.data.BoardGameLinks.EldritchHorror.Link }}), [Container]({{ site.data.BoardGameLinks.Container.Link }}), [Graenaland]({{ site.data.BoardGameLinks.Graenaland.Link }}), [Roads & Boats]({{ site.data.BoardGameLinks.RoadsAndBoats.Link }}), [Space Empires 4X]({{ site.data.BoardGameLinks.SpaceEmpires4X.Link }}), or some [18xx](https://boardgamegeek.com/wiki/page/18xx).
 
 He was a serious [GURPs](https://www.rpggeek.com/rpgfamily/333/gurps) and [Ars Magica](https://www.rpggeek.com/rpgfamily/1029/ars-magica) fan in the past, with a soft spot for the Classic and Cinematic [Unisystem](https://rpggeek.com/rpgsystem/627/unisystem) (i.e. Buffy RPG). However he's now more in love with [Fate](https://www.rpggeek.com/rpgsystem/26506/fate-core) and [Lasers & Feelings](https://rpggeek.com/rpg/23290/lasers-feelings) (and the many derivatives, especially Books & Bikes).
+
+# Steve L.
+
+![Steve L.](/images/committee/SteveL.jpg){:class="img_committee"}
+
+Steve’s lifelong gaming passion has a military focus, including both historical miniatures and hex and counter wargames ([Avalon Hill](https://boardgamegeek.com/boardgamepublisher/4871/avalon-hill), [SPI](https://boardgamegeek.com/boardgamepublisher/120/spi-simulations-publications-inc) and [Victory Games](https://boardgamegeek.com/boardgamepublisher/123/victory-games-i), for those old enough to remember them).
+He believes that if the rulebook isn’t at least 50 pages long, the designer and developers didn’t try hard enough! Surprisingly, all attempts to convince the family to join in the fun ended in total failure. With distance limiting the opportunities to get together with his usual wargame opponents, Steve was forced to diversify for his gaming fix.
+
+To his delight, the family proved much more receptive to Euro style games and his collection has been growing ever since.  Steve prefers games with a strong theme (historical and SF in particular) and probably likes pick-up and deliver mechanisms more than most.
+
+He tends to avoid games that involve placing random shapes ([Blokus]({{ site.data.BoardGameLinks.Blokus.Link }}): uuurgghh!) although the more regular [Azul]({{ site.data.BoardGameLinks.Azul.Link }}) and [Carcassonne]({{ site.data.BoardGameLinks.Carcassonne.Link }}) tiles are tolerated. [Firefly]({{ site.data.BoardGameLinks.Firefly.Link }}) is Steve’s all- time top game, with current favourites including [Terraforming Mars]({{ site.data.BoardGameLinks.TerraformingMars.Link }}), [Brass: Birmingham]({{ site.data.BoardGameLinks.BrassBirmingham.Link }}), [East India Companies]({{ site.data.BoardGameLinks.EastIndiaCompanies.Link }}) and [Pan Am]({{ site.data.BoardGameLinks.PanAm.Link }}).
+
+He believes that enjoying the game is much more important than winning, which is probably just as well given his success rate on recent club nights.
+
