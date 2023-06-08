@@ -11,6 +11,12 @@ She also has a soft spot for board games by [Martin Wallace](https://boardgamege
 She’s always on the look out for games with beautiful artwork and/or nature themes, including some of her other favourites - [Tokaido]({{ site.data.BoardGameLinks.Tokaido.Link }}), [Wingspan]({{ site.data.BoardGameLinks.Wingspan.Link }}), [Gùgōng]({{ site.data.BoardGameLinks.Gugong.Link }}), and [Takenoko]({{ site.data.BoardGameLinks.Takenoko.Link }}).
 In terms of co-operative games, she likes to play [Mysterium]({{ site.data.BoardGameLinks.Mysterium.Link }}), [Sub Terra]({{ site.data.BoardGameLinks.SubTerra.Link }}), and [Spirit Island]({{ site.data.BoardGameLinks.SpiritIsland.Link }}).
 
+# Graham W.
+
+![Graham W.](/images/committee/GrahamW.jpg){:class="img_committee"}
+
+Graham likes a variety of games, including [“The Really Nasty Horse Racing Game”]({{ site.data.BoardGameLinks.TheReallyNastyHorseRacingGame.Link }}) (what does that say about him??) and [Carcassonne]({{ site.data.BoardGameLinks.Carcassonne.Link }}). He’s also learnt quite a few new games at the club. He is partial to strategy games, and cooperative games (but admits he doesn’t play enough of them!)
+
 # Jeremy J.
 
 ![Jeremy J.](/images/committee/JeremyJ.jpg){:class="img_committee"}
