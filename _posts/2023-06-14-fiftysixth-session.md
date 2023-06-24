@@ -7,9 +7,12 @@ The 11 players chose games set in a wide variety of locations this week. From th
 This week we started with some fast paced greek god inspired number fun, a simple game [Zeus on the Loose][Z]. Take turns playing down one card, either a number or a special god card onto the pile in the centre, aka Mount Olympus. Add your card value on to the current total, if the total ends in a 0, or the god card says so, steal the little Zeus figurine. If you make the total 100 or higher then the player in possession of Zeus wins the round. The god cards change control of Zeus, add, subtract, invert or reset the total so you have to be cunning to end the game in control of Zeus. The game plays over lots of short rounds with the aim to win four times and collect all the letters of Zeus. In our game three of the four players were on three wins each before one player clinched that final round.
 
 ![Terraforming Mars](/images/posts/2023_06_14/TerraformingMars01.jpg "Terraforming Mars"){:class="img_post"}
+
+Then one table setup [Terraforming Mars][TM] back for its sixth play at the club. A slow start to making the red planet liveable saw oxygen and temperature still at their starting levels as late as generation 6, with the new and experienced players all concentrating on building engines and fiddling with microbes. Strategies diverged after that, with one corporation deciding it was time to plant something, another starting a game long process of blitzing the surface with asteroids, while the other two continued to count microbes. End game saw the engine builders make a late charge for terraform rating, but Interplanetary Cinematics (pushing for unlikely B Corp status) had by then covered enough of the planet with greenery to just pip the asteroid fancier for the win. Please see the [session 5][5] blog for more explanation of this popular game.
+
 ![Ecosystem: CoralReef](/images/posts/2023_06_14/CoralReef01.jpg "Ecosystem: CoralReef"){:class="img_post"}
 
-Then one table setup [Terraforming Mars][TM] back for its sixth play at the club, see the [session 5][5] blog for an explanation of this popular game. While the others moved onto another shorter game [Ecosystem: Coral Reef][ECR], a third play for this variant though the original [Ecosystem][E] has been out at 16 sessions now.
+Whilst the Terraforming was being started the others moved onto another shorter game [Ecosystem: Coral Reef][ECR], a third play for this variant though the original [Ecosystem][E] has been out at 16 sessions now.
 
 ![Renature](/images/posts/2023_06_14/Renature01.jpg "Renature"){:class="img_post"}
 
@@ -45,8 +48,8 @@ The next session is 28th June, join us for more games, biscuits and air con at t
 [Z]: {{ site.data.BoardGameLinks.ZeusOnTheLoose.Link }}
 [E]: {{ site.data.BoardGameLinks.Ecosystem.Link }}
 
-[5]: /2019/11/06/fifth-session-session.html
-[34]: /2022/07/13/thirtyfourth-session-session.html
-[45]: /2023/01/11/fortyfifth-session-session.html
+[5]: /2019/11/06/fifth-session.html
+[34]: /2022/07/13/thirtyfourth-session.html
+[45]: /2023/01/11/fortyfifth-session.html
 
 [Contact]: /Contact.html
