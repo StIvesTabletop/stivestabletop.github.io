@@ -150,6 +150,8 @@ DieMacher:
     Link: "https://www.boardgamegeek.com/boardgame/1/die-macher"
 Diplomacy:
     Link: "https://boardgamegeek.com/boardgame/483/diplomacy"
+Distilled:
+    Link: "https://boardgamegeek.com/boardgame/295895/distilled"
 Dominion:
     BGGLink: "https://boardgamegeek.com/boardgame/36218/dominion"
     ImageLink: "/images/boardgames/dominion"
@@ -160,6 +162,8 @@ DuneImperium:
     Link: "https://boardgamegeek.com/boardgame/316554/dune-imperium"
 DungeonPetz:
     Link: "https://boardgamegeek.com/boardgame/97207/dungeon-petz"
+Earth:
+    Link: "https://boardgamegeek.com/boardgame/350184/earth"
 EastIndiaCompanies:
     Link: "https://boardgamegeek.com/boardgame/354132/east-india-companies"
 EclipseSecondDawnForTheGalaxy:
@@ -489,6 +493,8 @@ Telestrations:
     Link: "https://boardgamegeek.com/boardgame/46213/telestrations"
 TerraformingMars:
     Link: "https://boardgamegeek.com/boardgame/167791/terraforming-mars"
+TerraformingMarsAresExpedition:
+    Link: "https://boardgamegeek.com/boardgame/328871/terraforming-mars-ares-expedition"
 TerraMystica:
     Link: "https://boardgamegeek.com/boardgame/120677/terra-mystica"
 TheCity:
