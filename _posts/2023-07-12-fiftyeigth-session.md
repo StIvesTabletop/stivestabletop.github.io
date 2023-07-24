@@ -22,7 +22,11 @@ better pre game shuffling may be needed next time!
 ![Earth](/images/posts/2023_07_12/Earth01.jpg "Earth"){:class="img_post"}
 ![Earth](/images/posts/2023_07_12/Earth02.jpg "Earth"){:class="img_post"}
 ![Distilled](/images/posts/2023_07_12/Distilled01.jpg "Distilled"){:class="img_post"}
+
+
 ![Concordia](/images/posts/2023_07_12/Concordia01.jpg "Concordia"){:class="img_post"}
+
+Simon W. brought [Concordia][C] back to the club, it never left our hearts and minds (being a favourite of several members of the committee). [Concordia][C] may be a plain looking euro-style game, but the game play is clean and sharp - it gets to the core of collecting resources, expanding (merchant houses) across the map, and buying scoring cards; there's nothing extra or overwrought in the design. Three of us danced around the Italia map, the wine was flowing freely and much cloth was sold. The end game sooner than two players expected, thanks to some excellent racing towards the finish, and that hurt those players scores enough to seal the win. Within the game there are not many paths to victory, there is some specialisation in specific scoring cards (i.e. gods) but the mechanics for to achieve them are all the same; that is what makes Concordia such a solid and enjoyable game (as well as being so easy to teach). This is the seventh time we've played Concordia at the club, and I expect to see it come out again soon.
 
 The next session is 26th July, please come and join us for more games. [Contact us via discord, twitter or email][Contact] for more information or to suggest games you want to play or are going to bring.
 
