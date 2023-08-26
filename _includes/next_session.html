@@ -1,0 +1,53 @@
+{%- comment %}
+    Works out the next session date this year from todays date using the SessionInformation.yml
+
+    SessionInformation.FirstSessionsDate should be set to the FIRST session of the year.
+    SessionInformation.LastSessionDate should be set to the LAST session of the year.
+
+    Returns:
+        nextdate = number of seconds representing next session date (0 means failed to find one)
+        next_session_date = human readable date (or TBD if not found)
+        next_session_info = human readable date and session times
+
+    Notes:
+        * it works by looking for the next session after (or same) as todays date
+        * it assumes only 26 sessions possible in a year and stops looking after that
+            or when it reaches past the last session
+        * dates are handled in seconds and should be midnight of the day
+        * today needs to remove the time, convert to seconds and then to an integer
+    {%- endcomment %}
+{%- assign fortnight = 14 | times: 86400 %}
+{%- assign today = "now"| date: "%Y-%m-%-d" | date: "%s" | plus: 0 %}
+{%- assign nextdate = "0" %}
+{%- assign last = site.data.SessionInformation.LastSessionDate | date: "%s" | plus: 0 %}
+{%- for sessnum in (0..26) %}
+    {%- assign interval = fortnight | times: sessnum %}
+    {%- assign next = site.data.SessionInformation.FirstSessionDate | date: "%s" | plus: interval %}
+    {%- if next > last %}
+        {%- break %}
+    {%- endif %}
+    {%- if next >= today %}
+        {%- assign nextdate = next %}
+        {%- break %}
+    {%- endif %}
+{%- endfor %}
+{%- if nextdate != "0" %}
+    {%- assign d = nextdate | date: "%-d" | strip %}
+    {%- capture next_session_date %}
+        {%- case d %}
+            {%- when "1" or "21" or "31" %}{{ d }}st
+            {%- when "2" or "22" %}{{ d }}nd
+            {%- when "3" or "23" %}{{ d }}rd
+        {%- else %}
+            {{ d }}th
+        {%- endcase %} {{ nextdate | date: "%B %Y" }}
+    {%- endcapture%}
+    {%- assign next_session_date = next_session_date | strip %}
+    {%- capture next_session_info %} 
+        {{ next_session_date }} @ {{ site.data.SessionInformation.SessionStart | date: "%l:%M%P" }} until {{ site.data.SessionInformation.SessionEnd | date: "%l:%M%P"}}
+    {%- endcapture %}
+    {%- assign next_session_info = next_session_info | strip %}
+{%- else %}
+    {%- assign next_session_date = "TBD" %}
+    {%- assign next_session_info = "To be decided - please contact us for info..."%}
+{%- endif %}
