@@ -28,7 +28,7 @@ Another four gamers had the adventuring bug and tried the co-op game [Tiny Epic 
 The final table of four chose [East India Companies][EIC] a complex ship and trading based game last played in [session 52][52]. Played over five eras this was the last game of the night to finish. 
 ? Steve to add some text ?
 
-The next session is 20th September where there will be another big selection of different games available on the night or let us know what you would like to try in advance and we will try and bring them along. You can contact us via discord, twitter or email for more information.
+The next session is 20th September where there will be another big selection of different games available on the night or [let us know][Contact] what you would like to try in advance and we will try and bring them along. You can [contact us via discord, twitter or email][Contact] for more information.
 
 * Total Session Attendance: 12
 * Board Games:
