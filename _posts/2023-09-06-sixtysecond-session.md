@@ -26,7 +26,17 @@ Another four gamers had the adventuring bug and tried the co-op game [Tiny Epic 
 ![East India Companies](/images/posts/2023_09_06/EastIndiaCompanies01.jpg "East India Companies"){:class="img_post"}
 
 The final table of four chose [East India Companies][EIC] a complex ship and trading based game last played in [session 52][52]. Played over five eras this was the last game of the night to finish. 
-? Steve to add some text ?
+And what a tight finish it was. With two-time winner Iker P. not in attendance, Steve L. sensed an
+opportunity as he introduced two new players to the delights of trying to trade profitably in tea,
+coffee, spices and silk with a bit of market manipulation and share trading thrown in. Ably assisted
+with the rules by Jyo K., he clearly did too good a job of teaching the game though, as new players
+Dave B. and Rich W. soon picked up the strategies needed to create a successful import business
+while also steadily building their share portfolios. Unfortunately the teacher abandoned the golden
+rule of not selling shares to fund working capital, thinking he had found an exception. Only he
+hadn’t. As the clock ticked round to 11.30 and final wealth was totted up, there were only a couple
+of gold coins separating three of the players with the first timers sharing the spoils. Sadly the curse
+of being the one who teaches struck again with a vengeance and a veil should be drawn over the 60
+coin gap to fourth place.
 
 The next session is 20th September where there will be another big selection of different games available on the night or [let us know][Contact] what you would like to try in advance and we will try and bring them along. You can [contact us via discord, twitter or email][Contact] for more information.
 
