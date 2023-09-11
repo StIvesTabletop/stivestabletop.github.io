@@ -33,7 +33,7 @@ with the rules by Jyo K., he clearly did too good a job of teaching the game tho
 Dave B. and Rich W. soon picked up the strategies needed to create a successful import business
 while also steadily building their share portfolios. Unfortunately the teacher abandoned the golden
 rule of not selling shares to fund working capital, thinking he had found an exception. Only he
-hadn’t. As the clock ticked round to 11.30 and final wealth was totted up, there were only a couple
+hadn’t. As the clock ticked round to closing time and the final wealth was totted up, there were only a couple
 of gold coins separating three of the players with the first timers sharing the spoils. Sadly the curse
 of being the one who teaches struck again with a vengeance and a veil should be drawn over the 60
 coin gap to fourth place.
