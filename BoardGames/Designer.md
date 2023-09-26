@@ -52,8 +52,9 @@ Here we list a few of these designers we play at the club.
 
 [Reiner Knizia BGG Link]({{ site.data.DesignerLinks.ReinerKnizia }})
 
+* [High Society]({{ site.data.BoardGameLinks.HighSociety.Link }})
 * [Lord of the Rings]({{ site.data.BoardGameLinks.LordOfTheRings.Link }})
-* More will follow at the club.
+* [Ra]({{ site.data.BoardGameLinks.Ra.Link }})
 
 # Uwe Rosenberg
 
