@@ -34,7 +34,43 @@ After picking up their fallen comrade, even though they were tired and wanted a 
 
 ![Colosseum](/images/posts/2023_10_04/Colosseum01.jpg "Colosseum"){:class="img_post"}
 
-[Colosseum][Colos] was another easy pitch, now on its fifth play at club allowing five members to pretend to be Roman empresarios hosting multiple spectacles at their arenas. This has a mainly auction driven mechanic to acquire the performers and items required for your shows but a fairly relaxed friendly vibe and opportunity to add some colourful descriptions of the different shows.
+[Colosseum][Colos] was another easy pitch, now on its fifth play at club allowing up to five members to pretend to be Roman empresarios hosting multiple spectacles at their arenas. 
+In the event there were only four takers, with Stephanvs L teaching to new players Davidvs B and
+Reginaldvs A and Colosseum veteran Olivarivs W providing periodic rules corrections when needed.
+
+The aim of the game is to attract the maximum number of plebeian bottoms to your uncomfortable
+stone seating and the very first decision players take is an important one, where to focus their initial
+investment. This usually comes down to a choice between two of the four possible options: expand
+the arena (needed for the bigger productions in mid-late game) or go for season tickets (giving
+guaranteed +5 attendance and coin each round). Sensibly, three players chose the second option
+while Stephanvs decided to go for growth in the hope of attracting the Emperor to the show (+7
+that round if it works and a probable +3 each round going forward). The priests said the entrails
+looked favourable, but the chicken must have been off as an unhelpful VI on the movement die left
+the teacher some way behind the pack with Olivarivs taking an early lead.
+
+Initial productions are modest affairs, but as reputations grow, players gain the coin needed to
+invest in bigger budget spectacles to rival the chariot race in Ben Hur, if (and it’s a big if) they have
+the space to stage them. Unfortunately Davidvs found himself one gladiator short of a spectacle
+with an arena too small for his ambitious plans, forcing him to restage the already low-rent Tribute
+to Munus but this time with an incomplete cast, one gladiator having been sacrificed in the end of
+round clear up last turn. He said the plebs loved it but spectacular it wasn’t.
+
+By mid-game play had settled down with corrections for early infrastructure mistakes, competition for
+assets (everything from gladiators and chariots to comedians and flowerpots) and scripts hotting up.
+The sequence of phases in a turn forces players to plan ahead, bidding at auction and then trading
+for assets to be used in productions they hope to acquire next turn. All well and good provided
+someone else isn’t after the same script and gets there first. Davidvs found to his cost that turn
+order canis femina est, leaving him with nothing better than another re-run and scuppering his
+chances once and for all. Methodical play by Reginaldvs kept him in the hunt, with his Retiarius vs.
+Secutor being particularly well received, while Olivarivs and Stephanvs jostled for the lead.
+Budget constraints had also seen Stephanvs restage an earlier production, but somehow the
+second showing of Circus Maximus turned out better than the first thanks to some fortuitous last-
+minute asset trading.
+
+Going into the final round, Olivarivs staked all on Mare Spielbergus, a naval battle spectacular
+involving gladiators and galleys, and looked to have done enough for the win. However, Stephanvs
+had kept one Emperor’s medal for pluviae dies and the extra +3 attendance was just enough to see
+him scrape over the line for what was his first (and quite possibly last) win as teacher.
 
 ![Santiago](/images/posts/2023_10_04/Santiago01.jpg "Santiago"){:class="img_post"}
 
@@ -44,7 +80,7 @@ Highest bidder in the auction chooses tiles first while lowest (or first to pass
 
 ![Santiago](/images/posts/2023_10_04/Santiago02.jpg "Santiago"){:class="img_post"}
 
-Kathy J looked like she was doing well in the penultimate rounds managing to set up a contiguous run of nine irrigated chilli fields, so everyone teamed up to ensure her new tile got no water in the final round. In the end there were about 15 points difference between first and last place and generally it was the four or five size crop fields with lots of farmers that were the big point earners that made the difference.
+Kathy J looked like she was doing well in the penultimate rounds managing to set up a contiguous run of nine irrigated chilli fields, so everyone teamed up to ensure her new tile got no water in the final round. In the end there were about 15 points difference between first and last place and generally it was the four or five size crop fields with lots of farmers that were the big point earners that made the difference and so a win for Graham W.
 
 The next session is 18th October, there will be a diverse range of games on offer as always. If you want to suggest any games in advance you can [contact us via discord, twitter or email][Contact] for more information.
 
