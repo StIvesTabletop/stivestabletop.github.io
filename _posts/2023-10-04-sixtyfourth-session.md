@@ -1,5 +1,5 @@
 ---
-title: Sixty Third session - Auctions and Inventions
+title: Sixty Fourth session - Auctions and Inventions
 ---
 
 A slightly smaller turnout this session which led to three tables of longer games with quite different themes and mechanics on the go.
