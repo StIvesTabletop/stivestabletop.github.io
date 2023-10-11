@@ -60,7 +60,7 @@ assets (everything from gladiators and chariots to comedians and flowerpots) and
 The sequence of phases in a turn forces players to plan ahead, bidding at auction and then trading
 for assets to be used in productions they hope to acquire next turn. All well and good provided
 someone else isn’t after the same script and gets there first. Davidvs found to his cost that turn
-order vitalis est, leaving him with nothing better than another re-run and scuppering his
+order dolor verum est, leaving him with nothing better than another re-run and scuppering his
 chances once and for all. Methodical play by Reginaldvs kept him in the hunt, with his Retiarius vs.
 Secutor being particularly well received, while Olivarivs and Stephanvs jostled for the lead.
 Budget constraints had also seen Stephanvs restage an earlier production, but somehow the
