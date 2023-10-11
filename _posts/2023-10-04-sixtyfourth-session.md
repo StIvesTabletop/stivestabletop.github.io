@@ -84,7 +84,7 @@ Kathy J looked like she was doing well in the penultimate rounds managing to set
 
 The next session is 18th October, there will be a diverse range of games on offer as always. If you want to suggest any games in advance you can [contact us via discord, twitter or email][Contact] for more information.
 
-* Total Session Attendance: 13
+* Total Session Attendance: 12
 * Board Games:
 
 	 * [Big Dig][BD]
