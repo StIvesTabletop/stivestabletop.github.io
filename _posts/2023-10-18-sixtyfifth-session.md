@@ -67,7 +67,7 @@ The last tables settled on [Museum][M] and [Gulf, Mobile & Ohio][GMO]. Museum is
 
 ![Gulf, Mobile & Ohio](/images/posts/2023_10_18/GulfMobileOhio01.jpg "Gulf, Mobile & Ohio"){:class="img_post"}
 
-Gulf, Mobile & Ohio is nominally a train game but really an auction game, the mechanics are nicely explained in the [session 54][54] blog.
+Gulf, Mobile & Ohio is nominally a train game but really an auction game, the mechanics are nicely explained in the [session 54][54] blog. The game was very close: Graham W. played a tactical game, limiting Simon W's income. Simon spent his money very well, and they ended up joint winners.
 
 [Scout][Sc] was the final game of choice for those wanting a last gaming fix before home time. This is a quick card game based on the circus and scouting for artists to improve their shows. Ultimately the mechanics are about playing down consecutive runs of numbered cards in sets in ascending or descending order for points.
 
