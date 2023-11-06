@@ -9,7 +9,7 @@ Getting the session started were some of our usual filler games [Ecosystem][E] (
 ![Isle of Cats](/images/posts/2023_11_01/IsleOfCats01.jpg "Isle of Cats"){:class="img_post"}
 ![Isle of Cats](/images/posts/2023_11_01/IsleOfCats02.jpg "Isle of Cats"){:class="img_post"}
 
-[Isle of Cats][IoC] was the one of the new games, it has been on the selection table a few times and this time made it out to be played. Four players started filling their ships with cat tiles in a tetris like game. The backstory or theme of the game is that you are citizens of Squalls End on a rescue mission to The Isle of Cats and must rescue as many cats as possible before the evil Lord Vesh arrives. Each cat is represented by a unique polyomino tile and belongs to a family (colour), you must find a way to make them all fit on your boat while keeping families together. You can also find treasures and study ancient lessons which give end game goals and additional scoring options.
+[Isle of Cats][IoC] was the one of the new games, it has been on the selection table a few times and this time made it out to be played. Four players started filling their ships with cat tiles in a tetris like game. The backstory or theme of the game is that you are citizens of Squalls End on a rescue mission to The Isle of Cats and must rescue as many cats as possible before the evil Lord Vesh arrives. Each cat is represented by a unique (polyomino) tile and belongs to a family (colour), you must find a way to make them all fit on your boat while keeping families together. You can also find treasures and study ancient lessons which give end game goals and additional scoring options.
 
 ![Flash Point](/images/posts/2023_11_01/FlashPoint01.jpg "Flash Point"){:class="img_post"}
 
