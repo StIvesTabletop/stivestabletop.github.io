@@ -4,7 +4,7 @@ title: Sixty Eighth session - Classical Charity
 
 It was our third annual charity night raising money for two local charities, East Anglia’s Children’s Hospices (EACH) and St Ives Food Bank with donations, a bake sale and a raffle. So it was lovely to have a bumper attendance of 25 gamers and a table full of varied tasty donated snacks to keep us going through the session.
 
-The raffle was so popular this year we randomly selected two winners, James T. and Graham W. who chose [Azul: Stained Glass of Sintra][AzulS] and [Continental Divide][CD] as their prizes. Overall we made £335 to be shared between our chosen charities. 
+The raffle was so popular this year we randomly selected two winners, James T. and Graham W. who chose [Azul: Stained Glass of Sintra][AzulS] and [Continental Divide][CD] as their prizes. Overall we made £334.97 to be shared between our chosen charities. 
 
 As we had such a big attendance we mostly played some of our games with higher player counts so we had five tables on the go with the longer games. Like last year's charity night many of these games had a classical civilizations theme; Roman, Egyptian and Greek.
 
