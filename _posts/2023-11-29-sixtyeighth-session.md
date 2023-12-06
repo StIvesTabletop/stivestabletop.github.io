@@ -17,7 +17,11 @@ Pre session Discord chat had suggested that [Concordia][CC] would be a popular c
 
 ![Colosseum](/images/posts/2023_11_29/Colosseum01.jpg "Colosseum"){:class="img_post"}
 
-[Colosseum][Colos] was another easy decision with a few people keen to give this game another try having had a go in previous sessions. They were soon vying to get senators and even the emperor visiting their spectacles. The game is essentially about collecting specific items to put in their shows but requires trading these items between players and tough decisions on how much money to spend in the auctions. Despite the ruthless trading the game can be quite fun when people provide a little commentary about their shows or the reason for the terrible accident that has to befall one item in every show.
+[Colosseum][Colos] was another easy decision with a few people keen to give this game another try having had a go in previous sessions ([64][64] was the last one). With Hannah S., Natasha M. and Tom M. choosing to go straight into this as their main game, Oliver W. and Steve L. seized the remaining two spots and the opportunity to continue their ongoing battle for Colosseum supremacy. For the crucial first round investment decision, three players took the safe season ticket option (+5 spectators a round), Natasha chose to expand her arena (pretty much essential from turn 3 onwards) and Tom opted for the Emperor’s lodge, greatly increasing his chances of attracting VIPs to the show. 
+
+Early rounds were low scoring with the lead changing hands several times. Dodgy strategy from all concerned saw Hannah and Natasha alternating between making generous trades between them and then stabbing each other in the back, and the Emperor taking up almost permanent residence in Tom’s amphitheatre as the others somehow neglected to move him out when they had the chance. Round 3 saw a game highlight with Natasha claiming some sought after assets on her opening bid of 8 despite Steve’s higher bid of 9, with Tom having to point out that Steve was just resorting to German to decline raising the stakes. 
+
+As the game entered its final round, Hannah and Steve were separated by a single point but Steve was in the fortunate position of having all the assets needed for his magnum opus, thanks in no small part to Oliver’s generosity in trading away assets he knew would help the others. With Steve also benefiting from a run of stabby and watery themed productions and no real competition from the others for those assets, this provided decisive, but the plaudits for the most sporting player definitely went to Oliver W.
 
 ![Zombicide](/images/posts/2023_11_29/Zombicide01.jpg "Zombicide"){:class="img_post"}
 ![Zombicide](/images/posts/2023_11_29/Zombicide02.jpg "Zombicide"){:class="img_post"}
@@ -56,6 +60,7 @@ Thanks to everyone joining us for our Charity night and helping us raise a new r
 
 
 [45]: /2023/01/11/fortyfifth-session.html
+[64]: /2023/10/04/sixtyfourth-session.html
 
 [CatSoA]: {{site.data.BoardGameLinks.CleopatraAndTheSocietyOfArchitects.Link}}
 [CC]: {{site.data.BoardGameLinks.Concordia.Link}}
