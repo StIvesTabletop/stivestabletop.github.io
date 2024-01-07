@@ -16,10 +16,6 @@ Join link: [https://discord.gg/bScV82f](https://discord.gg/bScV82f)
 
 [stivestabletop@gmail.com](mailto:stivestabletop@gmail.com)
 
-# Twitter
-
-<a href="https://twitter.com/StIvesTabletop?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @StIvesTabletop</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 # Facebook
 
 Find our page: [St Ives Tabletop](//www.facebook.com/StIvesTabletop)
