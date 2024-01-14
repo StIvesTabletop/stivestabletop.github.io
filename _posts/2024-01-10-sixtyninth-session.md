@@ -4,7 +4,7 @@ title: Sixty Ninth session - New Year, New Games
 
 There was a good first session of the year turnout of 19 gamers on a cold night in St Ives. We played a mix of four returning favourites and four new games to the club tables.
 
-Only one starter game this session, our constant favourite as it is easy to explain and allows up to six players, [Ecosystem][E] getting its nineteenth club play.
+Two starter games this session, the first is our constant favourite as it is easy to explain and allows up to six players, [Ecosystem][E] getting its nineteenth club play. The other is [Northern Pacific][NP] which was also played at the end of the session, see below for the game details.
 
 Otherwise people just wanted to get stuck into longer games. The first two tables quickly chose their games, [El Grande][EG] had been pitched on [Discord][Contact] in advance, while [Concordia][CC] is a another club favourite and Jyo K was keen to place better than in the game she joined in the last session before the Christmas break.
 
