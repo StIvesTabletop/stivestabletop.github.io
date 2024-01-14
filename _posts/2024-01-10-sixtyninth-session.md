@@ -18,7 +18,7 @@ Ask Jyo for a couple of sentences
 
 ![El Grande](/images/posts/2024_01_10/ElGrande02.jpg "El Grande"){:class="img_post"}
 
-A turn then consists of selecting one of five action cards which allow variations to the rules that round and additional scoring opportunities. Normally, you may only place your caballeros into regions adjacent to the one containing the king as the main rule in El Grande is that nothing may move into or out of the king's region. But one of the five action cards available every round allows you to move the king to a new region, whilst the other four action cards vary from round to round. Then you score according to majority control and a region based score chart. Graham went into a quick lead, but a lack of Caballeros and targeting by the lead player meant that he dropped from first to last in the final round!
+A turn then consists of selecting one of five action cards which allow variations to the rules that round and additional scoring opportunities. Normally, you may only place your caballeros into regions adjacent to the one containing the king as the main rule in El Grande is that nothing may move into or out of the king's region. But one of the five action cards available every round allows you to move the king to a new region, whilst the other four action cards vary from round to round. Then you score according to majority control and a region based score chart. Graham went into a quick lead, but a lack of Caballeros and the targeting of him as the lead player meant that he dropped from first to last in the final round!
 
 ![Flamecraft](/images/posts/2024_01_10/Flamecraft01.jpg "Flamecraft"){:class="img_post"}
 
