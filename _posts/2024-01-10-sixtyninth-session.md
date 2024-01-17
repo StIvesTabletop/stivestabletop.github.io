@@ -10,7 +10,7 @@ Otherwise people just wanted to get stuck into longer games. The first two table
 
 ![Concordia](/images/posts/2024_01_10/Concordia01.jpg "Concordia"){:class="img_post"}
 
-Ask Jyo for a couple of sentences
+Concordia is a game about expansion and economic development. A 5 player game meant that the map got busy quite quickly, with different strategies adopted by the 4 players who had previously played the game. Jyo K decided to try a new approach suggested to her by fellow Committee member Steve L - using the tribune card on her first turn. This allowed her to put an extra colonist on the map and therefore extend her movement reach to build on a cloth city in the subsequent turn. This was the beginning of a cloth empire which ended up winning Jyo K the game with a personal best score of 150+ points.
 
 ![El Grande](/images/posts/2024_01_10/ElGrande01.jpg "El Grande"){:class="img_post"}
 
