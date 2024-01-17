@@ -10,7 +10,7 @@ Otherwise people just wanted to get stuck into longer games. The first two table
 
 ![Concordia](/images/posts/2024_01_10/Concordia01.jpg "Concordia"){:class="img_post"}
 
-Concordia is a game about expansion and economic development. A 5 player game meant that the map got busy quite quickly, with different strategies adopted by the 4 players who had previously played the game. Jyo K decided to try a new approach suggested to her by fellow Committee member Steve L - using the tribune card on her first turn. This allowed her to put an extra colonist on the map and therefore extend her movement reach to build on a cloth city in the subsequent turn. This was the beginning of a cloth empire which ended up winning Jyo K the game with a personal best score of 150+ points.
+[Concordia][CC] is a game about expansion and economic development. A 5 player game meant that the map got busy quite quickly, with different strategies adopted by the 4 players who had previously played the game. Jyo K. decided to try a new approach suggested to her by fellow Committee member Steve L. - using the tribune card on her first turn. This allowed her to put an extra colonist on the map and therefore extend her movement reach to build on a cloth city in the subsequent turn. This was the beginning of a cloth empire which ended up winning Jyo the game with a personal best score of 150+ points.
 
 ![El Grande](/images/posts/2024_01_10/ElGrande01.jpg "El Grande"){:class="img_post"}
 
@@ -18,7 +18,7 @@ Concordia is a game about expansion and economic development. A 5 player game me
 
 ![El Grande](/images/posts/2024_01_10/ElGrande02.jpg "El Grande"){:class="img_post"}
 
-A turn then consists of selecting one of five action cards which allow variations to the rules that round and additional scoring opportunities. Normally, you may only place your caballeros into regions adjacent to the one containing the king as the main rule in El Grande is that nothing may move into or out of the king's region. But one of the five action cards available every round allows you to move the king to a new region, whilst the other four action cards vary from round to round. Then you score according to majority control and a region based score chart. Graham went into a quick lead, but a lack of Caballeros and the targeting of him as the lead player meant that he dropped from first to last in the final round!
+A turn then consists of selecting one of five action cards which allow variations to the rules that round and additional scoring opportunities. Normally, you may only place your caballeros into regions adjacent to the one containing the king as the main rule in El Grande is that nothing may move into or out of the king's region. But one of the five action cards available every round allows you to move the king to a new region, whilst the other four action cards vary from round to round. Then you score according to majority control and a region based score chart. Graham W. went into a quick lead, but a lack of Caballeros and the targeting of him as the lead player meant that he dropped from first to last in the final round!
 
 ![Flamecraft](/images/posts/2024_01_10/Flamecraft01.jpg "Flamecraft"){:class="img_post"}
 
@@ -26,7 +26,7 @@ The third table chose [Flamecraft][FC] a pretty game about Dragons working in a 
 
 ![Flamecraft](/images/posts/2024_01_10/Flamecraft02.jpg "Flamecraft"){:class="img_post"}
 
-The game starts with a limited number of shops, but more appear as the shops fill up with dragons. Fancy dragons are either end game scoring or they can be turned in during a players turn once the criteria is met to gain reputation. The game ends when either the enchantment or dragon piles run out. It was a fun game where everybody was learning the rules (as it was new to Rich who brought it), its simple, but has enough strategy and ways to earn reputation to give you several options on what to do next.
+The game starts with a limited number of shops, but more appear as the shops fill up with dragons. Fancy dragons are either end game scoring or they can be turned in during a players turn once the criteria is met to gain reputation. The game ends when either the enchantment or dragon piles run out. It was a fun game where everybody was learning the rules (as it was new to Rich W. who brought it), its simple, but has enough strategy and ways to earn reputation to give you several options on what to do next.
 
 ![Mission: Red Planet](/images/posts/2024_01_10/MissionRedPlanet01.jpg "Mission: Red Planet"){:class="img_post"}
 
