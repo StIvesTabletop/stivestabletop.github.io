@@ -2,15 +2,6 @@
 title: Committee
 ---
 
-# Catherine D.
-
-![Catherine D.](/images/committee/CatherineD.jpg){:class="img_committee"}
-
-Catherine’s all time favourite board game is [Caverna]({{ site.data.BoardGameLinks.Caverna.Link }}).
-She also has a soft spot for board games by [Martin Wallace](https://boardgamegeek.com/boardgamedesigner/6/martin-wallace), such as [Via Nebula]({{ site.data.BoardGameLinks.ViaNebula.Link }}) and [P.I.]({{ site.data.BoardGameLinks.PI.Link }}).
-She’s always on the look out for games with beautiful artwork and/or nature themes, including some of her other favourites - [Tokaido]({{ site.data.BoardGameLinks.Tokaido.Link }}), [Wingspan]({{ site.data.BoardGameLinks.Wingspan.Link }}), [Gùgōng]({{ site.data.BoardGameLinks.Gugong.Link }}), and [Takenoko]({{ site.data.BoardGameLinks.Takenoko.Link }}).
-In terms of co-operative games, she likes to play [Mysterium]({{ site.data.BoardGameLinks.Mysterium.Link }}), [Sub Terra]({{ site.data.BoardGameLinks.SubTerra.Link }}), and [Spirit Island]({{ site.data.BoardGameLinks.SpiritIsland.Link }}).
-
 # Graham W.
 
 ![Graham W.](/images/committee/GrahamW.jpg){:class="img_committee"}
