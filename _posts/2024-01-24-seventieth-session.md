@@ -52,9 +52,7 @@ This session of [Ticket to Ride][TtR] was a heated game to become rail baron of 
 
 ![Venture](/images/posts/2024_01_24/Venture01.jpg "Venture"){:class="img_post"}
 
-Venture is a very old game with many reprints over the years and Simon W. mentioned that every reprint has an error in the rules even though the game is rather simple. Each player is buying up commodity companies - Oil, Automobiles, Real Estate and 3 others - in a set collecting game.
-Each commodity has a certain number of letters A to F associated with it, the more it has the more
-expensive, the aim is to collect sets of the different companies but they must have a letter in common.
+Venture is a very old game from the legendary Sid Sackson (designer of Acquire) with many reprints over the years and Simon W. mentioned that somehow nearly every reprint has managed to include an error in the rules (even though the game is rather simple). At its heart, Venture is a set collection game with in-game and end-of-game scoring based on buying up commodity company cards (Oil, Automobiles, Real Estate and 3 others) that have a certain number of letters A to F associated with it, the more it has the more expensive, the aim is to collect sets of the different companies but they must have a letter in common.
 
 To buy the companies from the market of 6 on the table you use Venture cards that come in different denominations that pay for your actions on your turn - either buying companies, re-ordering your sets or taking over another players company from the top of one of their sets (you do need a special Venture card to do this). You then draw up 2 new Venture cards, and when a profit card is drawn everyone's sets are scored - you need at least 3 in a set to get 1 point, and all 6 companies in a set scores 10 points. The game ends when the stack of Company cards run out and a last profit round is scored.
 
