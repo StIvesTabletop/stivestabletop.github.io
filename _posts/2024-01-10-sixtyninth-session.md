@@ -40,7 +40,7 @@ Then as the night was still reasonably young some short end of night games were 
 
 ![Forbiden Island](/images/posts/2024_01_10/ForbidenIsland01.jpg "Forbiden Island"){:class="img_post"}
 
-[Forbidden Island][FI] was on its third club play, this one was actually out on on very first club night [session 1][1] back in 2019! It is a collaborative acquire the four treasures and escaped the island before it sinks under the waves game. The team playing successfully managed the task and escape the island before it sank beneath the waves.
+[Forbidden Island][FI] was on its third club play, this one was actually out on on very first club night [session 1][1] back in 2019! It is a collaborative acquire the four treasures and escape the island before it sinks under the waves game. The team playing successfully managed the task and escaped the island before it sank beneath the waves.
 
 [Northern Pacific][NP] has now been played at five sessions, it was our only train based game of the night, regulars will be aware committee member Simon W. does his best to get a train related game played every session. This one is quick and simple, each turn players either add a cube to a track or invest in a city. If you can encourage the growing route to go through a city you have invested in then you get more cubes. The catch is the train line can never go backwards, it grows from east to west coast and once you have signalled your investment other players will be diverting the railroad away from your cities. Played over three rounds, restarting once you hit the west coast, whoever has the most cubes at the end wins.
 
@@ -49,7 +49,7 @@ Then as the night was still reasonably young some short end of night games were 
 It was a good start to the new year and we look forward to more returning gamers and more games in the next session on 24th January 2024. As always come along and try the varied selection of games brought on the night. Or ask in advance on [Discord][Contact] to get some interest in a game and ensure someone brings it along. For long games it really does help if we can get an early start and new players have been able watch a how to play video first.
 
 
-* Total Session Attendance: 25
+* Total Session Attendance: 19
 * Board Games:
 
 	 * [Concordia][CC]
@@ -63,7 +63,7 @@ It was a good start to the new year and we look forward to more returning gamers
 	
 
 
-[1]: /2010/09/11/first-session.html
+[1]: /2019/09/11/first-session.html
 
 [CC]: {{site.data.BoardGameLinks.Concordia.Link}}
 [E]: {{site.data.BoardGameLinks.Ecosystem.Link}}
