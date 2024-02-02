@@ -12,7 +12,7 @@ Due to the current popularity of story telling games in recent sessions this tim
 
 Other short games played this session were [Big Dig][BD] and [Zeus on the Loose][Z] for some rapid shape placing or number related fun, both becoming go to filler games at club with nine and five sessions each now.
 
-<a id="jaws-session1"></a>
+<a id="jaws-scenario1"></a>
 ![Gloomhaven: Jaws of the Lion](/images/posts/2023_10_04/GloomhavenJaws02.jpg "Gloomhaven: Jaws of the Lion"){:class="img_post"}
 
 As we had been suggesting [Gloomhaven: Jaws of the Lion][GJL] as an alternative to a full RPG it was easy to fill seats and get a full four player campaign started. Jeremy J introduced 3 others - James T, James T and Diego to the game which is a more straight-forward version than the original [Gloomhaven][G] that needs no Game Moderator and uses a scenario book for the maps and rules.

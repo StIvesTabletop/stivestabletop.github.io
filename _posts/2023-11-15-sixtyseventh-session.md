@@ -14,7 +14,7 @@ Starter games included club favourites [Ecosystem][E], [Braggart][Brag], but als
  
 Then we split up into six tables for the longer games.
 
-<a id="jaws-session4"></a>
+<a id="jaws-scenario4"></a>
 [Gloomhaven: Jaws of the Lion][GJL] was back for the next part of the campaign. We had a break from Jaws last session, but James, James, Diego and Jeremy were ready for the next segment in our adventure to discover what or who was behind the strange goings on in Gloomhaven.
 
 <details><summary>Adventuring spoilers...</summary>

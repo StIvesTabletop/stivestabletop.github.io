@@ -14,7 +14,7 @@ There was also some action with [Queendomino][QD] the sequel to [Kingdomino][Kin
 
 Longer games then spread out over the tables.
 
-<a id="jaws-session2"></a>
+<a id="jaws-scenario2"></a>
 The [Gloomhaven: Jaws of the Lion][GJL] adventures continued, following on from [session 64][64] where the gamers learnt the basics of the Gloomhaven game, this session saw the Jaws of the Lion delving into the mystery of Vermling Raiders on the road and following the trail to their hideout. 
 
 ![Gloomhaven: Jaws of the Lion](/images/posts/2023_10_18/Jaws01.jpg "Gloomhaven: Jaws of the Lion"){:class="img_post"}
@@ -35,7 +35,7 @@ Searching the cave revealed a note indicating that someone called Roland had hir
 
 After scenario two a shop becomes available for players to get items that help once or more during a scenario, such as armour, weapons and potions. The third scenario introduces:  experience for successfully completing a scenario or using various abilities of your character during the play through; difficult terrain which can be avoided by jumping; and long rests which allow a character to forfeit a turn to get some healing, reset items and choose a card to lose from the discard pile instead of a random one in a short rest.
 
-<a id="jaws-session3"></a>
+<a id="jaws-scenario3"></a>
 ![Gloomhaven: Jaws of the Lion](/images/posts/2023_10_18/Jaws02.jpg "Gloomhaven: Jaws of the Lion"){:class="img_post"}
 
 <details><summary>Adventuring spoilers...</summary>
