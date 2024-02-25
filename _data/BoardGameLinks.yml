@@ -6,6 +6,8 @@ AboveBelow:
     Link: "https://boardgamegeek.com/boardgame/172818/above-and-below"
 AeonsEnd:
     Link: "https://boardgamegeek.com/boardgame/191189/aeons-end"
+AgeOfIndustry:
+    Link: "https://boardgamegeek.com/boardgame/65901/age-industry"
 AgeOfSteam:
     Link: "https://boardgamegeek.com/boardgame/4098/age-steam"
 AgeOfWar:
@@ -86,6 +88,8 @@ Caylus:
     Link: "https://boardgamegeek.com/boardgame/18602/caylus"
 CenturyGolemEdition:
     Link: "https://boardgamegeek.com/boardgame/232832/century-golem-edition"
+CenturySpiceRoad:
+    Link: "https://boardgamegeek.com/boardgame/209685/century-spice-road"
 China:
     Link: "https://boardgamegeek.com/boardgame/18100/china"
 ChocolateFactory:
@@ -255,6 +259,8 @@ GameOfThrones_SecondEdition:
     Link: "https://boardgamegeek.com/boardgame/103343/game-thrones-board-game-second-edition"
 GanzSchonClever:
     Link: "https://boardgamegeek.com/boardgame/244522/s-pretty-clever"
+Ginkgopolis:
+    Link: "https://boardgamegeek.com/boardgame/128271/ginkgopolis"
 Gloom:
     Link: "https://www.boardgamegeek.com/boardgame/12692/gloom"
 Gloomhaven:
@@ -640,6 +646,8 @@ UnderwaterCities:
     ImageLink: "/images/boardgames/underwatercities"
     Link: "/BoardGames/Development.html#underwater-cities"
     ResourceLink: "https://www.boardgamegeek.com/filepage/202073/underwater-cities-resource-tracking-player-aid"
+Unfair:
+    Link: "https://boardgamegeek.com/boardgame/179172/unfair"
 UnlockHeroicAdventures:
     BGGLink: "https://boardgamegeek.com/boardgame/266121/unlock-heroic-adventures"
 UnlockEpicAdventures:
@@ -659,6 +667,8 @@ Villagers:
     Link: "https://boardgamegeek.com/boardgame/241724/villagers"
 Viticulture:
     Link: "https://www.boardgamegeek.com/boardgame/128621/viticulture"
+WanderingTowers:
+    Link: "https://boardgamegeek.com/boardgame/355483/wandering-towers"
 WelcomeBackToTheDungeon:
     Link: "https://boardgamegeek.com/boardgame/195043/welcome-back-dungeon"
 WelcomeTo:
