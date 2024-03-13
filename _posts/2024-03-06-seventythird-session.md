@@ -21,7 +21,10 @@ There was a four player game of [Dune: Imperium][DI] providing some space and sp
 ![Hegemony](/images/posts/2024_03_06/Hegemony01.jpg "Hegemony"){:class="img_post"}
 
 [Hegemony][Hg] had been pre-arranged and Jyo K. was teaching two new players who had diligently watched a how to play video before the session, so the complex game had a chance of completing within the available session time. This was the second outing of Hegemony at club, last played in [session 61][61].
-Add some text from Jyo
+
+Hegemony is a political and economic board game with asymmetric classes. The first time this game was played at the club, the group of four only managed to finish two out of five rounds. But this time around, play was speedy, with the two new players having done their homework very well. 
+
+A solid effort by Iain D. and the working class led to the creation of three successful trade unions by the end of the game, along with voting to make public healthcare and education free. Steph H. did a great job commandeering the middle class with a good balance of ensuring prosperity of the population and profitable companies, and it felt like the middle class was very clearly going to claim victory at one stage.  However, the capitalists, led by Jyo K. made significant gains in the last round by using some totally legal but creative accounting, buying private islands and selling luxury goods, and beat the middle class by a single point. Everyone was surprised that the game was actually completed and it will be back in action at future sessions.
 
 ![Solar Sphere](/images/posts/2024_03_06/SolarSphere01.jpg "Solar Sphere"){:class="img_post"}
 
