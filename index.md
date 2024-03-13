@@ -7,18 +7,18 @@ title: Welcome
 St Ives Tabletop is a fortnightly tabletop gaming group for the area around St. Ives, Cambridgeshire.
 
 We cover:
-* Tabletop role-playing games (RPGs), of which we have a good amount of experience running; and
 * Board games, of which we have hundreds between us!
+* Tabletop role-playing games (RPGs)
 
 
-# Next session
+# When and where do we meet?
 
-We hold fortnightly sessions on Wednesday evenings.
-Join the [Discord][Discord] server if you have any questions!
+We hold fortnightly sessions on Wednesday evenings at the [St. Ives Corn Exchange](/Directions.html).
+
+Please [contact us][Contact] or join the [Discord][Discord] server if you have any questions!
 
 ## Next session
 
-The next session will be:  
 {% include next_session.html %}
 {{ next_session_info }}
 {:class="highlight"} 
