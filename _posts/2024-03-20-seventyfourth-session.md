@@ -27,8 +27,7 @@ In the end Steph was the run away winner as she managed to build the Evertree, n
 
 ![Container](/images/posts/2024_03_20/Container01.jpg "Container"){:class="img_post"}
 
-[Container][Cont] had been advertised in advance and is always popular with our more hardcore economic strategy gamers. Now on its fifth club play it was also first out on the tables in [session 23][23].
-Simon or Jyo to add text.
+[Container][Cont] had been advertised in advance and is always popular with our more hardcore economic strategy gamers. Now on its fifth club play, first coming to the the table in [session 23][23] this rather dull sounding game manages to bring the theories of supply--demand, closed-economies, and velocity of money to life; that and a healthy dose of driving auctions to hinder your opponents. This game was four players and it started with a familiar ticking down of the money available in the game, there were some early auctions that didn't kickstart the "wealth machine" (the foreign market that buys the containers). It takes a while to find your way in this game, which is simple to teach but hard to see how decisions impact the game later on - first time players had several "oh" moments as we played. Many loans were taken, some players running very close to zero money (which is dangerous in this game) surviving on loans that drain money from the game. We played the "full game" with 20 containers per colour and managed to finish in a reasonable time. Jyo K. took the win with an island full of containers, but the win came down to two or three containers which is a satisfying end. 
 
 ![Ginkgopolis](/images/posts/2024_03_20/Ginkgopolis01.jpg "Ginkgopolis"){:class="img_post"}
 
