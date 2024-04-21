@@ -36,8 +36,8 @@ In the final phase the forest spirit Onibi attacks adding fires in relation to t
 ![Mini Express](/images/posts/2024_04_17/MiniExpress01.jpg "Mini Express"){:class="img_post"}
 ![Mini Express](/images/posts/2024_04_17/MiniExpress02.jpg "Mini Express"){:class="img_post"}
 
-[Mini Express][ME]
-Simon to write
+Despite the Everdell expansion including a train it would be hard to call it a "train game", luckily the late comers table decided to bring a proper "train game" in [Mini Express][ME]. Similar in style to [Mini Rails][MR] (seen in sessions [28][28], [34][34], and [56][56]), players only have two possible actions: buy share or build track. Whereas [Mini Rails][MR] is cut down to the most simple and abstract version of this (relying on the turn order mechanic to add difficult decisions), [Mini Express][ME]' actions are more complicated -- still simple in one sense, but slightly less clear how they interact. There's still no money (which makes this unlike most train games), but influence which is gain by building track and used to buy shares. The "clever" bit of this game is that shares are worth different victory points for different players (depending on your infuence), so even if you have the same share portfolio as another player you will (likely) score differently. A game that becomes clearer after your first play.
+
 
 ![Subastral](/images/posts/2024_04_17/Subastral01.jpg "Subastral"){:class="img_post"}
 
@@ -73,6 +73,10 @@ The next session is the 1st of May. Please join us and see what range of old and
 [TtRP]: {{site.data.BoardGameLinks.TicketToRideParis.Link}}
 [Cv]: {{site.data.BoardGameLinks.Canvas.Link}}
 [ME]: {{site.data.BoardGameLinks.MiniExpress.Link}}
+[MR]: {{site.data.BoardGameLinks.MiniRails.Link}}
 
+[28]: /2022/04/20/twentyeighth-session.html
+[34]: /2022/07/13/thirtyfourth-session.html
+[56]: /2023/06/14/fiftysixth-session.html
 
 [Contact]: /Contact.html
