@@ -18,10 +18,13 @@ x gamers brought quite a variety of new games to try at this session. There was 
 [Canvas][Cv] was the first art themed game with a deck of transparent cards with art elements and icons on them. You layer the cards to generate paintings consisting of three elements to make a unique painting with the different colour icons at the bottom accumulating or covering each other up depending on the order you layer the cards. There are some randomly selected preset scoring cards so you know what types or combinations of icons will score the most in the painting competition. Everyone can generate three paintings and then the scores are calculated.
 
 ![Art Society](/images/posts/2024_04_17/ArtSociety01.jpg "Art Society"){:class="img_post"}
-![Art Society](/images/posts/2024_04_17/ArtSociety02.jpg "Art Society"){:class="img_post"}
 
-[Art Society][AS]
-Steve to write up
+Rich W. brought his shiny new game, [Art Society][AS], to the club for its first ever outing and soon enticed Steve L. to play. On closer inspection, the reason for the shininess became clear; it was so new that it was still in its shrink-wrap. Set up was interesting, consisting of punching out five counter sheets while Rich swiftly read the rules.  Fortunately, the game scales well for a higher player count and Jason joined in to share the load. By the time Jeremy J. sidled in to be the fourth player, there were piles of loose counters in the middle of the table, but not much else to do. Great timing Jeremy!
+Art Society is a tile placement game where players compete to buy works of art to fill their own player board, earning VPs for artistic placement and avoiding faux pas. Fortunately for Steve (who finds irregular shapes particularly challenging to place) the works of art are either square or rectangular, albeit ranging from the very small (size 3) to the huge (size 9). Landscape, portrait, still life and impressionist styles all feature and much of the beautiful artwork will look familiar, albeit with a twist (think La Giaconda in a funny hat as an example). There are also four different styles of frame and, while players lose points for committing faux pas, (two impressionist paintings next to each other? Zut alors!) adjacent artwork with the same frame style is helpful as it earns the player a small objet d’arte which can be used to fill in annoying gaps on their wall. Players take turns to be the auctioneer, choosing player count +1 paintings to bid on in each auction round, employing their own set of single use bid paddles numbered from 1-20. The twist is that the extra painting not bought by the players goes to a museum, where it increases the end game VP value of the relevant art style (still life, impressionist etc).
+ 
+ ![Art Society](/images/posts/2024_04_17/ArtSociety02.jpg "Art Society"){:class="img_post"}
+
+Jeremy was the first to complete his board by the simple expedient of buying the largest paintings on offer, although the end result looked more like wallpaper than an art gallery.  Meanwhile the others still had around 20% vacant space to fill and would have liked the game to go on for another two rounds or so. When the collections were scored, Rich lost out with the only faux pas of the evening, but the others were all within one point of each other.  Jeremy’s wallpaper approach just failed to secure the win (proving once and for all that it’s what you do with your art that counts, not how big it is), which narrowly went to Steve.  However, this owed something to a helpful late game assist from Jeremy, who alerted Steve to a nuance in the scoring which he had not picked up on.
 
 ![Living Forest](/images/posts/2024_04_17/LivingForest01.jpg "Living Forest"){:class="img_post"}
 
@@ -36,8 +39,7 @@ In the final phase the forest spirit Onibi attacks adding fires in relation to t
 ![Mini Express](/images/posts/2024_04_17/MiniExpress01.jpg "Mini Express"){:class="img_post"}
 ![Mini Express](/images/posts/2024_04_17/MiniExpress02.jpg "Mini Express"){:class="img_post"}
 
-Despite the Everdell expansion including a train it would be hard to call it a "train game", luckily the late comers table decided to bring a proper "train game" in [Mini Express][ME]. Similar in style to [Mini Rails][MR] (seen in sessions [28][28], [34][34], and [56][56]), players only have two possible actions: buy share or build track. Whereas [Mini Rails][MR] is cut down to the most simple and abstract version of this (relying on the turn order mechanic to add difficult decisions), [Mini Express][ME]' actions are more complicated -- still simple in one sense, but slightly less clear how they interact. There's still no money (which makes this unlike most train games), but influence which is gain by building track and used to buy shares. The "clever" bit of this game is that shares are worth different victory points for different players (depending on your infuence), so even if you have the same share portfolio as another player you will (likely) score differently. A game that becomes clearer after your first play.
-
+Despite the Everdell expansion including a train it would be hard to call it a "train game", luckily the late comers table decided to bring a proper "train game" in [Mini Express][ME]. Similar in style to [Mini Rails][MR] (seen in sessions [28][28], [34][34], and [56][56]), players only have two possible actions: buy shares or build track. Whereas [Mini Rails][MR] is cut down to the most simple and abstract version of this (relying on the turn order mechanic to add difficult decisions), [Mini Express][ME]' actions are more complicated -- still simple in one sense, but slightly less clear how they interact. There's still no money (which makes this unlike most train games), but influence which is gained by building track and used to buy shares. The "clever" bit of this game is that shares are worth different victory points for different players (depending on your influence), so even if you have the same share portfolio as another player you will (likely) score differently. A game that becomes clearer after your first play.
 
 ![Subastral](/images/posts/2024_04_17/Subastral01.jpg "Subastral"){:class="img_post"}
 
@@ -61,9 +63,11 @@ The next session is the 1st of May. Please join us and see what range of old and
 	 * [Subastral][SA]
 	 * [Ticket to Ride: Paris][TtRP]
 
-	
-[44]: /2022/11/30/fortyfourth-session.html
 
+[28]: /2022/04/20/twentyeighth-session.html
+[34]: /2022/07/13/thirtyfourth-session.html
+[44]: /2022/11/30/fortyfourth-session.html
+[56]: /2023/06/14/fiftysixth-session.html
 
 [AS]: {{site.data.BoardGameLinks.ArtSociety.Link}}
 [EvNL]: {{site.data.BoardGameLinks.EverdellNewleaf.Link}}
@@ -74,9 +78,5 @@ The next session is the 1st of May. Please join us and see what range of old and
 [Cv]: {{site.data.BoardGameLinks.Canvas.Link}}
 [ME]: {{site.data.BoardGameLinks.MiniExpress.Link}}
 [MR]: {{site.data.BoardGameLinks.MiniRails.Link}}
-
-[28]: /2022/04/20/twentyeighth-session.html
-[34]: /2022/07/13/thirtyfourth-session.html
-[56]: /2023/06/14/fiftysixth-session.html
 
 [Contact]: /Contact.html
