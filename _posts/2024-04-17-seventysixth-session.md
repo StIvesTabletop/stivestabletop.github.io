@@ -2,7 +2,7 @@
 title: Seventy sixth session - Paint your Wagon
 ---
 
-x gamers brought quite a variety of new games to try at this session. There was a bit of an art and train theme going on and more short and medium length games than usual. 
+15 gamers brought quite a variety of new games to try at this session. There was a bit of an art and train theme going on and more short and medium length games than usual. 
 
 ![Everdell: Newleaf](/images/posts/2024_04_17/Everdell01.jpg "Everdell: Newleaf"){:class="img_post"}
 
@@ -20,6 +20,7 @@ x gamers brought quite a variety of new games to try at this session. There was 
 ![Art Society](/images/posts/2024_04_17/ArtSociety01.jpg "Art Society"){:class="img_post"}
 
 Rich W. brought his shiny new game, [Art Society][AS], to the club for its first ever outing and soon enticed Steve L. to play. On closer inspection, the reason for the shininess became clear; it was so new that it was still in its shrink-wrap. Set up was interesting, consisting of punching out five counter sheets while Rich swiftly read the rules.  Fortunately, the game scales well for a higher player count and Jason joined in to share the load. By the time Jeremy J. sidled in to be the fourth player, there were piles of loose counters in the middle of the table, but not much else to do. Great timing Jeremy!
+
 Art Society is a tile placement game where players compete to buy works of art to fill their own player board, earning VPs for artistic placement and avoiding faux pas. Fortunately for Steve (who finds irregular shapes particularly challenging to place) the works of art are either square or rectangular, albeit ranging from the very small (size 3) to the huge (size 9). Landscape, portrait, still life and impressionist styles all feature and much of the beautiful artwork will look familiar, albeit with a twist (think La Giaconda in a funny hat as an example). There are also four different styles of frame and, while players lose points for committing faux pas, (two impressionist paintings next to each other? Zut alors!) adjacent artwork with the same frame style is helpful as it earns the player a small objet d’arte which can be used to fill in annoying gaps on their wall. Players take turns to be the auctioneer, choosing player count +1 paintings to bid on in each auction round, employing their own set of single use bid paddles numbered from 1-20. The twist is that the extra painting not bought by the players goes to a museum, where it increases the end game VP value of the relevant art style (still life, impressionist etc).
  
  ![Art Society](/images/posts/2024_04_17/ArtSociety02.jpg "Art Society"){:class="img_post"}
@@ -51,7 +52,7 @@ The aim is to get to at least 7 points from the set collection cards in your han
 
 The next session is the 1st of May. Please join us and see what range of old and new games are brought along to play. If you have any special requests do let us know in advance via [Discord][Contact], then we can try and arrange other players and let people brush up on the rules.
 
-* Total Session Attendance: x
+* Total Session Attendance: 15
 * Board Games:
 
 	 * [Art Society][AS]
