@@ -26,8 +26,7 @@ Finally a new short game on the tables but one that has been popular on our onli
 
 ![Vijayanagara](/images/posts/2024_05_01/Vijayanagara01.jpg "Vijayanagara"){:class="img_post"}
 
-[Vijayanagara][VJN] or more accurately Vijayanagara: The Deccan Empires of Medieval India, 1290-1398, the longest board game title ever played at club, depicts the rise and fall of medieval kingdoms in India.
-Simon to add more
+[Vijayanagara][VJN] -- or more accurately *Vijayanagara: The Deccan Empires of Medieval India, 1290-1398*, the longest board game title ever played at club -- depicts the rise and fall of medieval kingdoms in India. It's the first in a new line of games from GMT called the Irregular Conflict Series (ICS), the idea being that each player takes an asymmetric faction which are in conflict in some sense. The conflict in Vijayanagara is fighting, and there is a military/wargame feel but really it's closer to a euro area control style game. ICS is an offshot of GMT's very successful Counter Insurgency (COIN) series of games, which are all focused on some type of military conflict. However, Vijayanagara has streamlined things somewhat which meant the game was finished on a club night (not a 6-8 hour epic). Simon, Steve, and Iker worked through the game, slowly understanding how parts worked together. In the end Iker took the win by one point.
 
 ![Smartphone](/images/posts/2024_05_01/Smartphone01.jpg "Smartphone"){:class="img_post"}
 
