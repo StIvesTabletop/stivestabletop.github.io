@@ -68,6 +68,8 @@ Canopy:
     Link: "https://boardgamegeek.com/boardgame/295607/canopy"
 Canvas:
     Link: "https://boardgamegeek.com/boardgame/290236/canvas"
+CanvasReflections:
+    Link: "https://boardgamegeek.com/boardgame/335172/canvas-reflections"
 CaptainSonar:
     Link: "https://boardgamegeek.com/boardgame/171131/captain-sonar"
 Carcassonne:
@@ -222,6 +224,8 @@ Euphoria:
     Link: "https://www.boardgamegeek.com/boardgame/133848/euphoria-build-better-dystopia"
 Everdell:
     Link: "https://boardgamegeek.com/boardgame/199792/everdell"
+EverdellFarshore:
+    Link: "https://boardgamegeek.com/boardgame/394106/everdell-farshore"
 EverdellNewleaf:
     Link: "https://boardgamegeek.com/boardgame/332390/everdell-newleaf"
 EvolutionClimate:
@@ -391,6 +395,8 @@ Neom:
     Link: "/BoardGames/Development.html#neom"
 NeuroshimaHex:
     Link: "https://www.boardgamegeek.com/boardgame/21241/neuroshima-hex-30"
+NextStationLondon:
+    Link: "https://boardgamegeek.com/boardgame/353545/next-station-london"
 Niagara:
     Link: "https://boardgamegeek.com/boardgame/13308/niagara"
 Nicaea:
@@ -666,6 +672,8 @@ UnderwaterCities:
     ImageLink: "/images/boardgames/underwatercities"
     Link: "/BoardGames/Development.html#underwater-cities"
     ResourceLink: "https://www.boardgamegeek.com/filepage/202073/underwater-cities-resource-tracking-player-aid"
+UnderwaterCitiesNewDiscoveries:
+    Link: "https://boardgamegeek.com/boardgame/276104/underwater-cities-new-discoveries"
 Unfair:
     Link: "https://boardgamegeek.com/boardgame/179172/unfair"
 UnlockHeroicAdventures:
@@ -685,6 +693,8 @@ ViaNebula:
     Link: "https://boardgamegeek.com/boardgame/191231/nebula"
 Villagers:
     Link: "https://boardgamegeek.com/boardgame/241724/villagers"
+Vijayanagara:
+    Link: "https://boardgamegeek.com/boardgame/334363/vijayanagara-the-deccan-empires-of-medieval-india"
 Viticulture:
     Link: "https://www.boardgamegeek.com/boardgame/128621/viticulture"
 WanderingTowers:
