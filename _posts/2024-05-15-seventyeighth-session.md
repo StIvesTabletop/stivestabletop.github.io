@@ -34,7 +34,7 @@ Six players assembled, four new to the game, which meant this was a learning gam
 
 Although we didn't finish, everyone was getting into the rhythm of the game and starting to see how things work. A six player game with four new players was unlikely to finish on a club night, but a good time was had and the game had reached an interesting stage (showing off what makes  [Eclipse][Ecl] great).
 
-![Small selection of games](/images/posts/2024_05_15/Games01.jpg "Small selection of games"){:class="img_post"}
+![Games!](/images/posts/2024_05_15/Games01.jpg "Games!"){:class="img_post"}
 
 The next session is the 29th of May. Do join us and let us know in advance of any special requests via [Discord][Contact]. 
 
