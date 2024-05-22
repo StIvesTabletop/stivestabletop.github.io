@@ -12,11 +12,11 @@ We played with the expansion [Underwater Cities: New Discoveries][UCND] which ad
 
 Tom M. was not a fan of the end game goal he had randomly been given at the game start, his production manager with tunnel bonuses would have been a better match for Natasha's end game bonus condition, so he focused on building the point generating symbiotic cities (red domes) and managed to empty the supply of those. Teacher Kathy J. was doing well demonstrating the museum mechanic and generally getting the best bonuses there and focusing on her end game goal of sets of upgraded city structures. However she was pipped by one point by Hannah S. and her very productive farm city that provided a lot of in game points and end game resources to trade into points. But this was not quite a match for Natasha M. who managed to play a lot of biomatter generating cards into her tableau and those have the best end game point conversion rate. 
 
-![KingTokyo](/images/posts/2024_05_01/KingTokyo01.jpg "KingTokyo"){:class="img_post"}
+![King of Tokyo](/images/posts/2024_05_01/KingTokyo01.jpg "King of Tokyo"){:class="img_post"}
 
 The remaining tables played a few short games while we gave others time to turn up, favourites [Braggart][Brag] and [Incan Gold][IG] were back and for a second appearance [King of Tokyo][KT]. 
 
-![NextStationLondon](/images/posts/2024_05_01/NextStationLondon01.jpg "NextStationLondon"){:class="img_post"}
+![Next Station London](/images/posts/2024_05_01/NextStationLondon01.jpg "Next Station London"){:class="img_post"}
 
 Finally a new short game on the tables but one that has been popular on our online BoardGameArena sessions was [Next Station: London][NSL] a flip and write game. Each player is drawing a tube map of London.  The game is played over four rounds. In each round you draw one colour of tube line.  Cards show symbols determining which stations you can extend to.  Points are given for coverage of the map, density in one region, crossing the river, connecting to points of interest and connecting to other tube lines.  Colours rotate between rounds, so all players get a turn with each colour. It was a good, fun, short game - simple to learn. Graham ended a little ahead, with the other three very close, This was Graham W's first (and only) win of the night!
 
@@ -28,11 +28,11 @@ Finally a new short game on the tables but one that has been popular on our onli
 
 [Vijayanagara][VJN] -- or more accurately *Vijayanagara: The Deccan Empires of Medieval India, 1290-1398*, the longest board game title ever played at club -- depicts the rise and fall of medieval kingdoms in India. It's the first in a new line of games from GMT called the Irregular Conflict Series (ICS), the idea being that each player takes an asymmetric faction which are in conflict in some sense. The conflict in Vijayanagara is fighting, and there is a military/wargame feel but really it's closer to a euro area control style game. ICS is an offshoot of GMT's very successful Counter Insurgency (COIN) series of games, which are all focused on some type of military conflict. However, Vijayanagara has streamlined things somewhat which meant the game was finished on a club night (not a 6-8 hour epic). Simon, Steve, and Iker worked through the game, slowly understanding how parts worked together. In the end Iker took the win by one point.
 
-![Smartphone](/images/posts/2024_05_01/Smartphone01.jpg "Smartphone"){:class="img_post"}
+![Smartphone Inc](/images/posts/2024_05_01/Smartphone01.jpg "Smartphone Inc"){:class="img_post"}
 
 [Smartphone Inc][SP] was back from [session 63][63]. It is a game where players take on the role of rival tech companies trying to manufacture and sell different types of smartphones across the world. The game combines various different elements: a spatial puzzle where you balance your acquired tech, classic worker placement and the core of the game - economics and making money. Players have to juggle between manufacturing cheap phones and getting access to the market first and producing expensive phones and therefore making more of a profit, at the expense of getting to the market later than others. On this occasion, a 4 player game was set up with two new players. A variety of different strategies were employed and it was a close finish, with Jyo K beating Rich W by 9 points after they both played it safe in the final round.
 
-![DiceForge](/images/posts/2024_05_01/DiceForge01.jpg "DiceForge"){:class="img_post"}
+![Dice Forge](/images/posts/2024_05_01/DiceForge01.jpg "Dice Forge"){:class="img_post"}
 
 [Dice Forge][DF] was another returning game last seen in [session 32][32]. Jeremy J. introduced James T. Darren C. and Graham W. to the game about forging new faces on your dice which represent divine blessings! At the start of a players turn, everybody gets to roll both their dice and receive the blessing of money, fire or moon energy or victory points. The player whose turn it is, can choose to go to the gardens of the gods and buy and forge new dice faces, or spend fire and/or moon energy to go on a heroic quest to get victory points and other benefits (or bestow curses on others). If you have enough fire energy you can get another go! 
 
