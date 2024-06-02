@@ -41,7 +41,7 @@ This was our last session (of 3) in May, so are now heading into June with our n
      * [Canvas][Ca]
      * [Eclipse: Second Dawn for the Galaxy][Ecl]
      * [Clank: Catacombs][CC]
-	 * [Legendary Encounters: An Alien Deck Building Game][LEA]
+     * [Legendary Encounters: An Alien Deck Building Game][LEA]
      * [Big Dig][BD]
 
 [LEA]: {{site.data.BoardGameLinks.LegendaryEncountersAnAlienDeckBuildingGame.Link}}
