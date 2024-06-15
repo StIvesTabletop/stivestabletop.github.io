@@ -19,6 +19,8 @@ Please [contact us][Contact] or join the [Discord][Discord] server if you have a
 
 ## Next session
 
+**Charity Night - June 26th** to raise money for the [Corn Exchange][https://www.justgiving.com/crowdfunding/thecornexchange]. Please bring baked goods (bought or made) to be sold, and there will be a games raffle as usual, and all door money will be donated.
+
 {% include next_session.html %}
 {{ next_session_info }}
 {:class="highlight"} 
