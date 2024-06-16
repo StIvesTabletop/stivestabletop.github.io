@@ -24,9 +24,12 @@ Then the table finished the night with a bit of bluffing and assassination with 
 Another table started with club favourite [Ecosystem][E] before settling on the classic [Settlers of Catan][Catan].
 
 ![Great Western Trail](/images/posts/2024_06_12/GreatWesternTrail01.jpg "Great Western Trail"){:class="img_post"}
+
+[Great Western Trail][GWT] is a long game about cattle ranching in 19th Century America. In this strategy game players are cattle ranchers trying to transport their herd across the Midwest to Kansas City. The game includes elements of deck building, hand management and set collection. Ultimately, the aim is to amass the most victory points which can be done in a number of different ways - by transporting and selling high value cattle, building different structures or focusing on the transport track.
+
 ![Great Western Trail](/images/posts/2024_06_12/GreatWesternTrail02.jpg "Great Western Trail"){:class="img_post"}
 
-[Great Western Trail][GWT] was a long game about cattle ranching in 19th Century America. - Jyo to review
+On this occasion, 4 players tackled this game after pre-arranging it on Discord - Ryan H-G, Janek T, Alice W and Jyo K. 3 of them were experienced players and this clearly showed as they predictably crushed Jyo K. We expect this game to make a return to the club soon as it generated a lot of interest!
 
 ![Harmonies](/images/posts/2024_06_12/Harmonies01.jpg "Harmonies"){:class="img_post"}
 
@@ -54,7 +57,7 @@ While the fifth table chose [Papillon][Pp] a tile drafting area control game abo
 
 The next session is the 26th of June which will be a charity night to raise money for our hosts the St Ives Corn Exchange. Please join us for the usual night of varied gaming but with a bake sale and games raffle too. 
 
-* Total Session Attendance: x
+* Total Session Attendance: 22
 * Board Games:
 
 	 * [Catan][Catan]
