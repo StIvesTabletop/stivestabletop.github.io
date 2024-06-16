@@ -289,6 +289,8 @@ Graenaland:
     Link: "https://boardgamegeek.com/boardgame/24843/graenaland"
 GreatScott:
     Link: "https://boardgamegeek.com/boardgame/177099/great-scott"
+GreatWesternTrail:
+    Link: "https://boardgamegeek.com/boardgame/193738/great-western-trail"
 Gugong:
     Link: "https://boardgamegeek.com/boardgame/250458/gugng"
 GulfMobileAndOhio:
@@ -301,6 +303,8 @@ Hanabi:
     BGGLink: "https://boardgamegeek.com/boardgame/98778/hanabi"
     ImageLink: "/images/boardgames/hanabi"
     Link: "/BoardGames/FarEastern.html#hanabi"
+Harmonies:
+    Link: "https://boardgamegeek.com/boardgame/414317/harmonies"
 HeatPedalToTheMetal:
     Link: "https://boardgamegeek.com/boardgame/366013/heat-pedal-metal"
 Hegemony:
@@ -439,6 +443,8 @@ Pandemic:
     Link: "/BoardGames/Professions.html#pandemic"
 PandemicIberia:
     Link: "https://boardgamegeek.com/boardgame/198928/pandemic-iberia"    
+Papillon:
+    Link: "https://boardgamegeek.com/boardgame/241066/papillon"
 ParisConnection:
     Link: "https://boardgamegeek.com/boardgame/75358/paris-connection"
 Parks:
@@ -497,6 +503,10 @@ RelicRunners:
     Link: "/BoardGames/Explore.html#relic-runners"
 ResArcana:
     Link: "https://www.boardgamegeek.com/boardgame/262712/res-arcana"
+ResArcanaLux:
+    Link: "https://boardgamegeek.com/boardgameexpansion/288168/res-arcana-lux-et-tenebrae"
+ResArcanaPerlae:
+    Link: "https://boardgamegeek.com/boardgameexpansion/340375/res-arcana-perlae-imperii"
 RideTheRails:
     Link: "https://boardgamegeek.com/boardgame/297486/ride-rails"
 Risk:
