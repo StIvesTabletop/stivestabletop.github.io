@@ -1,6 +1,5 @@
 ---
 title: Eighty First session - Mars Attacks!
-
 ---
 
 Fifteen gamers turned out on a hot evening to support the clubs charity night. Between the donations, bake sale and games raffle we raised £250 on the night to [support the St Ives Corn Exchange][Fund] which has been our host since the start of the club back in September 2019. So thanks to everyone that supported the event. The club has matched every £2 so we have increased the donation to £375! 
