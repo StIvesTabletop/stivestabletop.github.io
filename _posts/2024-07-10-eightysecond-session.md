@@ -10,12 +10,17 @@ The session started by filling a table of six for [Welcome to the Moon][WTM]. Th
 
 The second table got out the ever popular starter game [Ecosystem][E] now on its 24th outing at club.
 
-
 Then the long games started with [Lost Ruins of Arnak][LRA] quickly gaining four explorers and the remaining six taking on co-op [Zombicide][Zom]. Then when Simon W. arrived two players handed over their characters and defected to try [Dokmus][Dk] an abstract strategy game.
+
+Always a popular game, a fresh team of intrepid archaeologist adventurers assembled to tackle the jungles of a not so newly discovered Pacific island in [yet another search for remnants of the lost civilization of Arnak][LRA]. The group comprised various Indianas - Phones (Iain D, who used his to keep us updated on the England game going on somewhere in the background), Drones (Ryan H-G, who found far more undiscovered sites than anyone else and so MUST have been relying on aerial surveillance to do so), Moans (Steve L, who ensured the other players knew every time Ryan had pinched the site he was just about to move to) and Alones (Sophie F-W, who was without I. F-W on the night and otherwise managed to avoid providing anything better for cheesy word play like this). With a first-time player on board and two others who hadn’t played for some time, the setup was the easier Bird Temple side of the base game with no expansions used.
 
 ![LostRuinsOfArnak](/images/posts/2024_07_10/Arnak01.jpg "LostRuinsOfArnak"){:class="img_post"}
 
-Text from Steve on [Lost Ruins of Arnak][LRA].
+The aim of the game is to explore and excavate assorted ruins lost in the island’s jungle interior for millennia and then use the resulting archaeological finds as clues to advance up the research track.  In this way, each adventurer hoped to be the first to reach the main temple and decipher its mysterious inscriptions, learning more about ~~Arnak's~~ ~~Arnakkian~~ the people who once lived there, and advancing our understanding of this once great civilization. At least that’s what they claimed, but possibly it had more to do with just gathering shed loads of VPs?
+
+The game got off to a brisk start, with everyone heeding teacher Steve’s urgings to prioritize the resources needed to make at least some progress up the research track during the first round. Soon, all magnifying glasses had reached the second level and (with one exception) notebooks were starting to follow. Although notebook progress doesn’t gain as many VPs as the magnifying glass, it does give access to some potentially very helpful assistants who can provide much needed resource boosts at just the right time.
+
+Now, as every club veteran knows, the curse of being the rules teacher is real and has struck down many who have thought they were on to a good thing up against newbies in one of their favourite games. However, Steve had one of those vanishingly rare nights when everything seemed to fall into place and he had just the resources needed at just the right time (despite Ryan’s best efforts to thwart him and thanks in part to a very helpful parrot) to reach the Bird Temple almost at a sprint. This left ample time to study the inscriptions and gain another 17 VPs in the process, while the others tried to make up ground. A late spurt saw Sophie come in ahead of the rest of the pack, while Ryan seemed to be held back by the vast menagerie of subdued guardians that were following him around everywhere. Of Iain there was no definite news, but he was rumoured to be lost somewhere in the jungle along with his sea turtle. Still, he did at least have his phone so should be all right with GPS, won’t he?
 
 ![Zombicide](/images/posts/2024_07_10/Zombicide01.jpg "Zombicide"){:class="img_post"}
 
