@@ -27,7 +27,7 @@ The next turns became a strategic test as some players made noise to distract so
 
 ![Dokmus](/images/posts/2024_07_10/Dokmus01.jpg "Dokmus"){:class="img_post"}
 
-Text from Simon on [Dokmus][Dk].
+Three players went to explore the wonders of the island of [Dokmus][Dk]. A brisk game of placing pieces to claim temples, whichget you victory points. Rather like [Kingdom Builder][KB] (which has never been played in-person at the club, but was common in our [interim online days][INTERIM]), all newly placed pieces must be adjacent to one of your pieces already on the board. Where [Dokmus][Dk] gets interesting, is that the board is made of eight tiles that the players can move and rotate; the island has an ever shifting landscape. The powers to alter the island are drafted at the start of each round, making for some hard choices about whether to cause a major shift in the board or go first to grab an important temple (for those all important points). After eight rounds of placing three pieces there is the final scoring.
 
 After Dokmus there was a quick game of set collecting [Subastral][SA] to finish the night.
 
@@ -49,6 +49,8 @@ The next session is the 24th of July, do [contact us on Discord][Contact] if you
 [SA]: {{site.data.BoardGameLinks.Subastral.Link}}
 [WTM]: {{site.data.BoardGameLinks.WelcomeToTheMoon.Link}}
 [Zom]: {{site.data.BoardGameLinks.Zombicide.Link}}
+[KB]: {{ site.data.BoardGameLinks.KingdomBuilder.Link }}
 
+[INTERIM]: /2021/07/17/interim-online-sessions.html
 
 [Contact]: /Contact.html
