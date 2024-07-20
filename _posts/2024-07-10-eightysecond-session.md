@@ -54,7 +54,7 @@ The next session is the 24th of July, do [contact us on Discord][Contact] if you
 [SA]: {{site.data.BoardGameLinks.Subastral.Link}}
 [WTM]: {{site.data.BoardGameLinks.WelcomeToTheMoon.Link}}
 [Zom]: {{site.data.BoardGameLinks.Zombicide.Link}}
-[KB]: {{ site.data.BoardGameLinks.KingdomBuilder.Link }}
+[KB]: {{site.data.BoardGameLinks.KingdomBuilder.Link}}
 
 [INTERIM]: /2021/07/17/interim-online-sessions.html
 
