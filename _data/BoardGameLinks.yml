@@ -158,6 +158,8 @@ CottageGarden:
     Link: "/BoardGames/Nature.html#cottage-garden"
 Coup:
     Link: "https://boardgamegeek.com/boardgame/131357/coup"
+CrownOfAsh:
+    Link: "https://boardgamegeek.com/boardgame/354307/crown-of-ash"
 Cryptid:
     Link: "https://boardgamegeek.com/boardgame/246784/cryptid"
 DaleOfMerchants:
@@ -387,6 +389,8 @@ MagicMaze:
     BGGLink: "https://boardgamegeek.com/boardgame/209778/magic-maze"
     ImageLink: "/images/boardgames/magicmaze"
     Link: "/BoardGames/Explore.html#magic-maze"
+MaglevMetro:
+    Link: "https://boardgamegeek.com/boardgame/301257/maglev-metro"
 MapmakerGerrymanderingGame:
     Link: "https://boardgamegeek.com/boardgame/252997/mapmaker-gerrymandering-game"
 Meadow:
@@ -429,6 +433,8 @@ Noah:
     Link: "https://boardgamegeek.com/boardgame/116858/noah"
 NorthernPacific:
     Link: "https://www.boardgamegeek.com/boardgame/138704/northern-pacific"
+Nucleum:
+    Link: "https://boardgamegeek.com/boardgame/396790/nucleum"
 OneNightUltimateWerewolf:
     Link: "https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf"
 Orleans:
@@ -545,6 +551,8 @@ ScotlandYard:
     Link: "https://boardgamegeek.com/boardgame/438/scotland-yard"
 Scout:
     Link: "https://boardgamegeek.com/boardgame/291453/scout"
+Scythe:
+    Link: "https://boardgamegeek.com/boardgame/169786/scythe"
 SeaSaltAndPaper:
     Link: "https://boardgamegeek.com/boardgame/367220/sea-salt-and-paper"
 SecretHitler:
@@ -745,6 +753,8 @@ Xanadu:
     Link: "https://boardgamegeek.com/boardgame/132817/xanadu"
 XCOM:
     Link: "https://boardgamegeek.com/boardgame/163602/xcom-board-game"
+Yahtzee:
+    Link: "https://boardgamegeek.com/boardgame/2243/yahtzee"
 YearOfTheDragon:
     Link: "https://boardgamegeek.com/boardgame/31594/year-dragon"
 ZeusOnTheLoose:
