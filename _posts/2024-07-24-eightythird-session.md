@@ -13,9 +13,18 @@ Three of the games had been pitched in advance on [Discord][Contact] and had mos
 Then the long games could start with people breaking away for [Nucleum][Nuc], [Scythe][Sy] and [Crown of Ash][CoA]. Leaving the remaining players surveying the offerings on the games table and selecting [Maglev Metro][MagM] and [Pandemic][P].
 
 ![Nucleum](/images/posts/2024_07_24/Nucleum01.jpg "Nucleum"){:class="img_post"}
+
+What do you get if you cross [Brass: Birmingham][BB] with [Barrage][Bra]?  No, the answer isn’t Bra Rage in the as yet little-known West Midlands alpine region, but [Nucleum][Nuc], a medium/heavyish economic game which postulates an alternative history where the use of uranium as a power source was pioneered in 19th Century Saxony. Still with me? 
+
+From Barrage we have a power generation theme involving transporting natural resources to generators (here coal and uranium rather than water), neutral infrastructure on the map at the start helps with the early turns, contract fulfilment with some very helpful rewards and end of round scoring to name but a few. Ideas perhaps inspired by Brass: Birmingham include constructing level I-IV buildings from the player’s own board, which earn VPs when flipped (“energised” in the game), transport networks and fluctuating raw material prices.  However, Nucleum also adds some neat twists of its own, such as the achievement stars earned when buildings are energised.  These must be traded in when a player passes to gain income (a “recharge action”) and work as a multiplier in end game scoring.  Player attributes are asymmetric, courtesy of the increasingly powerful technologies they may unlock on their player boards.
+
+After two off-piste plays at the recent Manorcon, three of the four protagonists decided to give Nucleum its official club debut, with only Rich W missing from the original cast. Jyo K was aiming to maintain a winning run, while Steve L hoped to build on a respectable 2nd place last time out and maybe challenge Jyo for the win. While the only way was up for Iain D, he had digested a number of key takeaways from the two convention games (where some found the food perhaps not quite so easily digestible) and was raring to go. In Rich’s absence, would anyone step up to take the role of disruptor-in-chief, or would the players each concentrate on their own area of the map until the middle game brought them into close contact?
+
 ![Nucleum](/images/posts/2024_07_24/Nucleum02.jpg "Nucleum"){:class="img_post"}
 
-[Nucleum][Nuc] Steve
+That question was answered soon enough as Jyo swiftly grabbed the second uranium mine space in a city Steve was already seeing as his patch and later followed up by placing an expensive government building in the last available spot in Praha, which had been Steve’s main focus. Elsewhere, Iain was rapidly urbanising NW Saxony and burning coal like it was going out of fashion to energise his fast- growing network, while Jyo also had time to consolidate her own set up in the NE by effectively sealing off access to other players. 
+
+In-game scoring ticked along nicely for two players, with Steve even briefly taking the lead from Jyo before she surged ahead.  Although his bright red empire soon expanded to cover at least a third of the map, Iain had somehow managed to stay off the in-game scoring radar and lagged some way behind. That began to change though as play neared the end-game conditions and soon Steve could see Iain looming large in his rear-view mirror.  While there was no catching Jyo for the win, final scoring (which plays out over multiple steps) was tense between these two, with Steve thinking he had done just enough to hold on to second place. However, it was not to be, and Iain eased past, having done more to capitalise on end-game bonuses while Steve was somewhat hamstrung by his early choices (and Jyo!) So, at least two of the players had something to be pleased about and (as Mr Loaf might have put it) two out of three ain’t bad. Unless you happen to be number three that is! All agreed it was a very enjoyable game with everyone achieving respectable scores and the prospect of more action to come, now that two copies of the Australia expansion have been purchased.  
 
 ![Scythe](/images/posts/2024_07_24/Scythe01.jpg "Scythe"){:class="img_post"}
 ![Scythe](/images/posts/2024_07_24/Scythe02.jpg "Scythe"){:class="img_post"}
@@ -75,5 +84,7 @@ The next session is the 7th of August, join us to see the many different games o
 [Sy]: {{site.data.BoardGameLinks.Scythe.Link}}
 [Ts]: {{site.data.BoardGameLinks.Tsuro.Link}}
 [Y]: {{site.data.BoardGameLinks.Yahtzee.Link}}
+[BB]: {{site.data.BoardGameLinks.BrassBirmingham.Link}}
+[Bra]: {{site.data.BoardGameLinks.Barrage.Link}}
 
 [Contact]: /Contact.html
