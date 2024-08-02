@@ -32,9 +32,10 @@ In-game scoring ticked along nicely for two players, with Steve even briefly tak
 [Scythe][Sy] Simon
 
 ![Crown Of Ash](/images/posts/2024_07_24/CrownOfAsh01.jpg "Crown Of Ash"){:class="img_post"}
-![Crown Of Ash](/images/posts/2024_07_24/CrownOfAsh02.jpg "Crown Of Ash"){:class="img_post"}
 
-[Crown of Ash][CoA] Graham
+[Crown of Ash][CoA] is a game about necromancers, building mighty structures, raising armies, and warring between themselves to control those powerful sites. This was a new game introduced by Ian and Sophie to Graham and Jason who were willing to step into the shoes of a necromancer for a couple of hours.
+
+Its a game played over 4 rounds and centres around these structures which earn you points of influence, so raising the best armies to both defend and take over these sites is the key to winning the Crown of Ash.
 
 ![Maglev Metro](/images/posts/2024_07_24/MaglevMetro01.jpg "Maglev Metro"){:class="img_post"}
 
