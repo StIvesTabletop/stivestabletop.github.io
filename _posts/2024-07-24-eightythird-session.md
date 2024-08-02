@@ -29,7 +29,7 @@ In-game scoring ticked along nicely for two players, with Steve even briefly tak
 ![Scythe](/images/posts/2024_07_24/Scythe01.jpg "Scythe"){:class="img_post"}
 ![Scythe](/images/posts/2024_07_24/Scythe02.jpg "Scythe"){:class="img_post"}
 
-[Scythe][Sy] Simon
+Four people sat down to play [Scythe][Sy] a strange mix of farming with mechs, wrapped inside a euro-style action selection game (with a little side dish of wargame/light combat). Each player takes a faction with a minor quirk, from which you build a path through various ways to score points, mostly from controlling areas on the board and getting stars. The stars are the end-game clock, achieving six of them triggers the final scoring (but that player doesn't necessarily win); there are many possible stars to achieve for different things. There's a sort of "king of the hill" mini-game happening on the board with a special space (the so-called factory) being a big prize to claim... but only if you can hold it. You can upgrade your actions, aiming to be as efficient as possible to get to the end when it is best for you. In play Scythe is not that complicated, each turn is small and easy to understand; chaining them together in the best way (while ignoring/annoying/avoiding the other players) is the problem you need to solve.
 
 ![Crown Of Ash](/images/posts/2024_07_24/CrownOfAsh01.jpg "Crown Of Ash"){:class="img_post"}
 
