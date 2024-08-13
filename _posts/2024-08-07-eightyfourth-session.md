@@ -28,8 +28,15 @@ When the game was nearing its end, Tom, Jeremy and Tasha just got up to level 5 
 
 ![Whistle Mountain](/images/posts/2024_08_07/WhistleMountain01.jpg "Whistle Mountain"){:class="img_post"}
 
-Richie W. had brought in one of his new acquisitions [Whistle Mountain][WM] an interesting worker placement game with a mining, flooding and airship theme. 
-..Iker..
+The board game club session took an unexpectedly aquatic turn on another table, courtesy of Richard, who brought along the latest marvel of cardboard engineering — [Whistle Mountain][WM]. Richard graciously offered to teach the ropes (or rather, the scaffolding), and everyone soon found themselves knee-deep in a battle of wits, resources, and rapidly rising water levels.
+
+Whistle Mountain, for the uninitiated, is a delightful concoction of worker placement, resource gathering, and technological upgrades, all set against the backdrop of a precarious mountain slowly being swallowed by water. As the snow melted and the water levels rose, the stakes soared, and so did the risk of the poor workers taking an unplanned swim.
+
+For two intense hours, Iker P, Rich W, Sophie FW and Darren C balanced the fine art of construction with the subtle sabotage of each other's plans. The mountain's scaffolding took on increasingly absurd shapes, as they all raced to gather resources and upgrade abilities before the impending deluge.
+
+But, as usual, the mountain was no match for Iker P. With the precision of a master architect and the ruthlessness of a pirate, he strategically placed machinery and scaffolding in all the right spots, not just to boost his own progress but to gleefully plunge other workers into the rising waters below. The rest of the players could only watch as their poor meeples floundered while Iker sailed smoothly to victory.
+
+In the end, it was a familiar tale — Iker triumphs, and the rest of the players learn a valuable lesson in humility and hydro-engineering. Here's to the next game, where everyone vows (yet again) to finally dethrone the reigning champion!
 
 ![Splendor](/images/posts/2024_08_07/Splendor01.jpg "Splendor"){:class="img_post"}
 
