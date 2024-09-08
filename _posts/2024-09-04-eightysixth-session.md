@@ -31,7 +31,7 @@ All agreed it was an excellent game and plans were swiftly laid to give it anoth
 
 ![Arcs](/images/posts/2024_09_04/Arcs01.jpg "Arcs"){:class="img_post"}
 
-[Arcs][Arc] = Simon
+The BGG/Leder Games hotness was back again (from [last session][85]), Simon, Richard and Craig sat down to play [Arcs][Arc]. Richard and Craig were playing for the first time, and the strangeness of the card/action mechanic was a source of some frustration. There were some very lucky/unlucky dice rolls (depending on your point of view), and the game was almost over in Chapter 4 but a twist of fate (that's a bad pun linking to the Campaign) combined with a destroyed city caused is to roll into a fifth chapter. Craig and Richard managed to take each other out (scoring ties are not friendly, you all get bumped to the lower score on the tile) leaving Simon to sneak a last minute victory. Having the fuel and material cartels out meant the Tycoon ambition fliped from player to player based on the latest raids (where you can steal court cards); while Richard and Craig sat on all the relic resources for most of the game hampering the Keeper ambition. There were lots of battles, lots of destroyed cities provoking outrage, many captives from taxing controlled cities, and many court cards swapping around from raids - it was, in a word, wild.
 
 ![Cleopatra](/images/posts/2024_09_04/Cleopatra01.jpg "Cleopatra"){:class="img_post"}
 
@@ -56,6 +56,7 @@ The next session is the 18th of September, do come along and see what interestin
 	 * [Kanban EV][Kb]
 
 [1]: /2019/09/11/first-session.html
+[85]: /2024/08/21/eightyfifth-session.html
 
 [Arc]: {{site.data.BoardGameLinks.Arcs.Link}}
 [CatSoA]: {{site.data.BoardGameLinks.CleopatraAndTheSocietyOfArchitects.Link}}
