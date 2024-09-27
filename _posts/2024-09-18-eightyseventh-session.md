@@ -8,8 +8,9 @@ Starter games for the session were [Tomb Trader][TTr] back for its eighth club p
 
 ![Kanban EV](/images/posts/2024_09_18/KanbanEV01.jpg "Kanban EV"){:class="img_post"}
 
-Steph, Jyo and Darren got straight into a Steveless rematch of [Kanban EV][Kb] following last sessions taster (see [blog 87][87]).
-Ask Jyo?
+A rematch of [Kanban EV][Kb] had been organised, because clearly, they hadn’t learned their lesson from the first time (see [blog 87][87]). This time, the line up included Steph H, Jyo K, and Darren C, all attempting to get back into Sandra's good graces. With Steve L getting his sick leave approved, Jyo K represented his trusted yellow meeple.
+
+The players stumbled through the early rounds, collectively losing points faster than you can say "oh no Sandra" as they spectacularly failed to meet her expectations. This time around, Steph H had a plan and seemed to know exactly why she was in logistics. She scored a convincing victory by being the player with the most up to date training in all departments and a select few cars in her garage with several upgraded parts. The curse of the yellow meeple continues.. until next time.
 
 The others split into two groups of five for [Flamecraft][FC] and [Forest Shuffle][FSh].
 
