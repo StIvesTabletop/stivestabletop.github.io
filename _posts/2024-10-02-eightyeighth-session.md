@@ -4,13 +4,52 @@ title: Eighty Eigth session - Stories, Planets, and Space Mushrooms
 
 Sixteen gamers convened to play various games from tavern tales, building utopian planets to battling in space, with of course some fruiting mushrooms thrown in for good measure.
 
-The night started with a couple of shorter games with 5 players - [Subastral][SA] about biome researching ([blog 44][44]) and the club favourite (28 plays) [Ecosystem][E].
+The night started with a couple of shorter games with 5 players - [Subastral][SA] about biome researching ([blog 44][44]) and the club favourite (28 plays) [Ecosystem][E]. Whilst these were getting under way a table started sprouting [Mycelia][M].
+
+Intrigued by Reynaldo’s invitation to try his just from Kickstarter not-yet-in-retail
+title, [Mycelia][M], Steve sensed a possible classical theme. Maybe a little-known
+Alexander the Great battle or perhaps something to do with Roman politics? Had he
+paid more attention in O Level Biology, Steve might have realised that the subject of
+the game was more likely to be fungi than ancient history and so it turned out when
+he joined Diego A at the table for an absorbing three player game of mushroom
+wars.
 
 ![Mycelia](/images/posts/2024_10_02/Mycelia01.jpg "Mycelia"){:class="img_post"}
 
-Whilst these were ongoing a table started sprouting [Mycelia][M]... (Steve)
+Mycelia is an action selection and area control game which sees players competing
+to score points by growing (“fruiting”) mushrooms from a wide variety of exotic fungi
+in the card deck. These vary in value from 2 – 8 points with the higher scoring types
+typically requiring more resources (“spores”) to fruit. The board is composed of
+triangular tiles of four colours representing different minerals and nutrients and the
+combination needed to fruit varies from mushroom to mushroom. Each turn a player
+takes two different actions from the six available. The first five options are to move
+the player’s single mother mushroom (initially the only means of producing spores),
+produce spores (needed to expand your network and obtain the building blocks to
+fruit), fruiting (paying the required number and combination of spores of different
+nutrient types to play a mushroom card from your hand and earn points), lay a new
+tile to expand the board (“explore”), and to add a mushroom card from the market to
+your hand (“discover”). The final action is decay, which completes a mushroom’s life
+cycle, removing it from the board and unlocking bonus abilities. Play ends when the
+first player has decayed 10 mushrooms.
 
 ![Mycelia](/images/posts/2024_10_02/Mycelia02.jpg "Mycelia"){:class="img_post"}
+
+Much of the game saw Diego (blue) and Steve (yellow) locked in a see-saw struggle
+for dominance on one side of the board, with their respective mother mushrooms
+going head-to-head to take over parts of the other’s spore network. Eventually, this
+contest settled down to a form of trench warfare with neither able to make
+meaningful progress. Meanwhile, Reynaldo was left relatively undisturbed to build a
+rapidly expanding (and rather menacing) network of red spores in peace. Elsewhere,
+the tide seemed to be turning in Diego’s favour as he unlocked a special ability to
+move Steve’s mother mushroom away from the front line and then turned his
+attention to Reynaldo. As this generational clash played out, Steve had breathing
+space to secure some high value cards from the deck and spore into new,
+uncontested areas thanks to favourable wind direction. Suddenly finding himself able
+to decay his tenth mushroom and end the game, Steve gambled that the new
+mushrooms would give the much- maligned yellow guys the points needed for an
+unlikely win. Although the gamble paid off, it must be admitted that Steve’s pieces
+looked more orange than yellow in a certain light.
+
 ![Mycelia](/images/posts/2024_10_02/Mycelia03.jpg "Mycelia"){:class="img_post"}
 
 Next up [Arcs][Arcs] was back, and this time Simon brought [Leaders and Lore][LaL]. This
@@ -39,9 +78,11 @@ shine, although I suspect some combinations will be very good against
 others and learning to "read" that at the start of the game will be
 hard.
 
+The shorter games finished, and tables mixed up a bit and started another couple of 5 player games [Ticket to Ride][TtR] and [Ginkgopolis][Gp].
+
 ![Ticket To Ride](/images/posts/2024_10_02/TicketToRide01.jpg "Ticket To Ride"){:class="img_post"}
 
-The shorter games finished, and tables mixed up a bit and started another couple of 5 player games [Ticket to Ride][TtR] and [Ginkgopolis][Gp].
+Jo, Jason, Jack, James and Graham played [Ticket to Ride][TtR] (original US version).  Each player has route cards dealt at the beginning, earning positive points for linking them or negative otherwise.  Points are awarded for the length of link between stations, with much more points for longer links.  Unusually, most players opted to look for extra route cards.  Graham had a total of 6 route cards and linked all 6 - but came a distant second - as the routes were in the middle, with no long links between stations.  Jason had 5 destinations, linked all 5, but had a similar issue.  Jack looked for an extra destination late on, kept one, and failed to link it by 1 turn, earning -22 instead of +22 points. James on his last turn opted for the longest link he could, forgetting that the single length link was needed to link a route, getting the minus points for the route.  Jo, who had not played for a long time, was the run-away winner: linking all his route cards, had some long links between stations, and the longest continuous path.
 
 ![Ginkgopolis](/images/posts/2024_10_02/Ginkgopolis01.jpg "Ginkgopolis"){:class="img_post"}
 
