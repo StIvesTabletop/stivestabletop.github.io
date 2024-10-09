@@ -27,7 +27,7 @@ It was simple to explain, scaled to let lots of people join in, and was a lightw
 [Subastral][SA] is about researching the biomes of planet Earth and creating a journal about them.
 It requires careful card management to balance cards in your hand against those committed to the journal so you can continue to pick up new cards from the display.
 The journal is scored based on diversity of biomes collected and the two biomes you are most knowledgeable about, with the catch being there is a multiplier based on their position in the journal.
-This means the biomes you place last will likely be worth the most points and o there is a strategy to acquiring and placing cards before end game is triggered.
+This means the biomes you place last will likely be worth the most points and so there is a strategy to acquiring and placing cards before end game is triggered.
 
 ![Mapmaker: Gerrymandering Game](/images/posts/2022_11_30/Gerrymandering01.jpg "Mapamker: Gerrymandering Game"){:class="img_post"}
 
