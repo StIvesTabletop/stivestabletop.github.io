@@ -1,5 +1,5 @@
 ---
-title: Eighty Eigth session - Stories, Planets, and Space Mushrooms
+title: Eighty Eighth session - Stories, Planets, and Space Mushrooms
 ---
 
 Sixteen gamers convened to play various games from tavern tales, building utopian planets to battling in space, with of course some fruiting mushrooms thrown in for good measure.
