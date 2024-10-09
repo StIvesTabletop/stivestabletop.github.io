@@ -1,5 +1,5 @@
 ---
-title: Eighty Sixth session - Organised Forests and Dragon Cities
+title: Eighty Seventh session - Organised Forests and Dragon Cities
 ---
 
 Thirteen gamers this week tackled a variety of games including a rematch from the previous week, with additional tasty cake treats on account of Richie's birthday. 
