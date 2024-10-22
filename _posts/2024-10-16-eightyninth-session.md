@@ -29,8 +29,9 @@ In the end it was a joint win for Tasha and Tom (there aren't any rules about po
 ![Antiquity](/images/posts/2024_10_16/Antiquity01.jpg "Antiquity"){:class="img_post"}
 ![Antiquity](/images/posts/2024_10_16/Antiquity02.jpg "Antiquity"){:class="img_post"}
 
-Simon W. had prebooked [Antiquity][AQ] on Discord for a full table of four.
-Simon to add text
+We don't like to boast, but does your game come with 900 small card board counters? Yes, then you're playing Antiquity by Splotter. Simon W. had prebooked [Antiquity][AQ] on Discord for a full table of four, little did these three players understand what was to come. Perhaps most fun, you cannot win at the start of the game; you must first build a cathedral and dedicate it to a saint (which unlocks a win condition for you). To build a cathedral is one stone, one tiny little stone. What could be hard about that? Well, this game quickly becomes a nightmare as your food supply runs low leading to famine and graves; your economy pollutes the land and further pollution leads to more graves.
+
+By the end of the game the beautiful and lush country side is turned into a wasteland; the lakes are full of poison; the cities are covered in graves; and for what? This is a game of squeezing everything you can from nothing, and still fighting against an ever rising tide of famine that will eventually drown every player.  With inexperienced players it is very possible for no player to win, but at the heart of this game is a puzzle that if you could crack would lead your civilisation to a utopia. Splotter games are rather famous for being unforgiving, with little to help players or prevent them from making cataclysmic mistakes. Antiquity is an optimisation puzzle; perhaps a bit more stressful than some might like, but there's fun to be had in the collective struggle. 
 
 ![Pulsar 2849](/images/posts/2024_10_16/Pulsar01.jpg "Pulsar 2849"){:class="img_post"}
 
