@@ -37,11 +37,18 @@ This did not seem a very glorious start to the game, but at the end of the round
 
 ![A War Of Whispers](/images/posts/2024_10_30/WarOfWhispers01.jpg "A War Of Whispers"){:class="img_post"}
 
-[A War of Whispers][AWW] Simon
+[A War of Whispers][AWW] is one of those "there are armies on the board, but as a player you're not one of them" type of games. You play as the "whispers", people who pull strings from the shadows to manipulate the five warring kingdoms - hoping to get the factions you want on top. The game flows by putting your agents into the factions to act as "advisors", directing how they recruit new troops, where they do battle, and gaining favours (cards) from the factions. The clever part of this dance is how each player has a secret ranking of the five factions, but once at the end of each round you can swap two of them... they must then be revealled to all the other players (and become fixed for the game). So if the initial faction you favour starts to look unlikely to stay on top, you can switch to backing a different faction... which is very in-keeping with the theme of the game. Lasting only four rounds, this game moves along at a quick pace; combat is entirely deterministic (and one-for-one annialation), trying to determine who is working with you and who is working against you is part of the fun. [The King Is Dead][TKD] is a similar style of game (which is been most recently been at the club back in [Session 63][63]), A War of Whispers has a few more moving parts, leans into the hidden faction ranking, and feels like a "fuller game" compared to The King Is Dead's bare bones scramble.
+
+The four players took the first two rounds to get the flow of the game, and then it started to become clear which factions some players were backing to do "well" and which they wanted to fail. Some pointless wars with lots of casualties were started to weaken factions, not to mention recruiting troops in the "wrong" place to be useful.
 
 ![Imperius](/images/posts/2024_10_30/Imperius01.jpg "Imperius"){:class="img_post"}
 
-Then the Whispers group played [Imperius][Im] a throne seizing Sci Fi card drafting game. Simon
+Then the Whispers group played [Imperius][Im] a throne seizing Sci Fi card drafting game. Imperius is a short little card game about claiming victory points by controlling planets. The twist, each player has a similar set of character cards (minor differences in stats, but essentially the same power), these are shuffled up and each round consists of a drafting the playing phase. This means in the drafting phase, you might end up with a handful of cards for the other players... which you then play. So you can try get your cards to play them in the best way, or your opponents cards to try play them in the worst way. Each of the cards has a "power", mainly score points or add control to a planet, or assassinate another card. There are a few event cards thrown into the deck as well to mix things up. This is a very quick game, mainly of bluff and double bluff, while taking a gamble that the cards will fall your way. This is driven by the playing phase, where each planet can have two cards played face down... adding a sense of unknown to what character powers are at work on each planet. Reaching 20VP through in-game scoring triggers the end game and then final scoring each planet rounds out a short (30 minute) game.
+
+Having spent A War Of Whispers working out how to manipulate unknown faction rankings, this game of bluffing and elbow barging was just what the table needed. The final scores were a wipe out, as one player stormed into a strong lead and everyone else feel over eachother rather than stop them winning (although, in this game it's actually quite hard to delberately stop/target another player).
+
+
+
 
 The next session is the 13th of November, do [let us know on Discord][Contact] if you have any game requests or watch out and sign up for games that have been suggested, or just join us and take your pick on the night. 
 
@@ -55,6 +62,7 @@ The next session is the 13th of November, do [let us know on Discord][Contact] i
 	 * [Imperius][Im]
 	 * [Incan Gold][IG]
 
+[63]: /2023/09/20/sixtythird-session.html
 [73]: /2024/03/06/seventythird-session.html
 [80]: /2024/06/12/eightieth-session.html
 
@@ -65,6 +73,7 @@ The next session is the 13th of November, do [let us know on Discord][Contact] i
 [Hm]: {{site.data.BoardGameLinks.Harmonies.Link}}
 [Im]: {{site.data.BoardGameLinks.Imperius.Link}}
 [IG]: {{site.data.BoardGameLinks.Diamant.Link}}
+[TKD]: {{site.data.BoardGameLinks.TheKingIsDead.Link}}
 
 [Contact]: /Contact.html
 
