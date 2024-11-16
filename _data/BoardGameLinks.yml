@@ -24,6 +24,10 @@ AmericanRails:
     Link: "https://boardgamegeek.com/boardgame/41749/american-rails"
 Antiquity:
     Link: "https://boardgamegeek.com/boardgame/13122/antiquity"
+Apiary:
+    Link: "https://boardgamegeek.com/boardgame/400314/apiary"
+Aquatica:
+    Link: "https://boardgamegeek.com/boardgame/283393/aquatica"
 Arboretum:
     Link: "https://boardgamegeek.com/boardgame/140934/arboretum"
 Arcs:
@@ -291,6 +295,8 @@ ForSale:
     BGGLink: "https://www.boardgamegeek.com/boardgame/172/sale"
     ImageLink: "/images/boardgames/forsale"
     Link: "/BoardGames/Development.html#for-sale"
+Fresco:
+    Link: "https://boardgamegeek.com/boardgame/66188/fresco"
 GaiaProject:
     Link: "https://boardgamegeek.com/boardgame/220308/gaia-project"
 GalaxyTrucker:
