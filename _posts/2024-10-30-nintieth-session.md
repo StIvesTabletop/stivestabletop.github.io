@@ -49,7 +49,7 @@ Having spent A War Of Whispers working out how to manipulate unknown faction ran
 
 The next session is the 13th of November, do [let us know on Discord][Contact] if you have any game requests or watch out and sign up for games that have been suggested, or just join us and take your pick on the night. 
 
-* Total Session Attendance: 13
+* Total Session Attendance: 14
 * Board Games:
 
 	 * [A War of Whispers][AWW]
