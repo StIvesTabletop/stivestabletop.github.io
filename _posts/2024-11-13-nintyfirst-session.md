@@ -1,5 +1,5 @@
 ---
-title: Nintyfirst session - Space Bees and Wet Wizards
+title: Ninty First session - Space Bees and Wet Wizards
 ---
 
 It was a four table night with 14 gamers trying out three games new to club and four old favourites.
