@@ -8,8 +8,7 @@ To explain the blog title, the first game of the night was [For Sale][FS] a simp
 
 ![Guild of Merchant Explorers](/images/posts/2024_11_27/GuildMerchant01.jpg "Guild of Merchant Explorers"){:class="img_post"}
 
-The other shorter game was [The Guild of Merchant Explorers][GME]
-?Graham
+The other shorter game [The Guild of Merchant Explorers][GME] is about exploring your map, establishing trade routes and searching for treasure. From your starting city you use the revealed terrain cards to place cubes on your map as long as they are connected to your city or other cubes you have placed. The aim is to complete areas of the map, travel to new lands to found new cities, or search for treasure on sunken ships on your travels. There are common objectives between players, the first to complete one will score more points than others. At the end of a round, all cubes are removed from your player map, so if you don't establish new cities you have to start again from your first city!
 
 Then we spread out over the tables and started playing some longer games.
 
@@ -51,7 +50,7 @@ Each of the six regions has its own influence track and players can advance on
 these by taking actions in a region. In game victory points are earned in several
 ways, mostly from visiting buildings or meeting public objectives (termed “masteries”
 in the game), but these don’t give a true picture of how well (or not) a player is doing
-as VPs rank up dramatically after the end game is triggered. This happens when the
+as VPs ramp up dramatically after the end game is triggered. This happens when the
 reserve stack of building tiles is emptied, inevitably sooner than most players want it
 to. The focus then turns to the players’ positions on the six influence tracks, how
 many customers orders they have fulfilled and any final scoring bonuses these have
