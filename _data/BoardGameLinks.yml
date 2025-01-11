@@ -297,6 +297,8 @@ ForSale:
     Link: "/BoardGames/Development.html#for-sale"
 Fresco:
     Link: "https://boardgamegeek.com/boardgame/66188/fresco"
+Fromage:
+    Link: "https://boardgamegeek.com/boardgame/384213/fromage"
 GaiaProject:
     Link: "https://boardgamegeek.com/boardgame/220308/gaia-project"
 GalaxyTrucker:
@@ -579,6 +581,8 @@ SantaMonica:
     Link: "https://www.boardgamegeek.com/boardgame/298065/santa-monica"
 Santiago:
     Link: "https://boardgamegeek.com/boardgame/8125/santiago"
+SavernakeForest:
+    Link: "https://boardgamegeek.com/boardgame/369142/savernake-forest"
 ScotlandYard:
     Link: "https://boardgamegeek.com/boardgame/438/scotland-yard"
 Scout:
@@ -619,10 +623,14 @@ SmartphoneInc:
     Link: "https://boardgamegeek.com/boardgame/246684/smartphone-inc"
 SolarSphere:
     Link: "https://boardgamegeek.com/boardgame/329228/solar-sphere"
+SouthernPacific:
+    Link: "https://boardgamegeek.com/boardgame/253319/southern-pacific"
 SpaceEmpires4X:
     Link: "https://boardgamegeek.com/boardgame/84419/space-empires-4x"
 SpeedCups:
     Link: "https://boardgamegeek.com/boardgame/146149/speed-cups"
+SpaceDragons:
+    Link: "https://boardgamegeek.com/boardgame/329084/space-dragons"
 SpiritIsland:
     BGGLink: "https://boardgamegeek.com/boardgame/162886/spirit-island"
     ImageLink: "/images/boardgames/spiritisland"
@@ -791,6 +799,8 @@ WingspanOceania:
     Link: "https://boardgamegeek.com/boardgame/300580/wingspan-oceania-expansion"
 WreckRaiders:
     Link: "https://boardgamegeek.com/boardgame/252877/wreck-raiders"
+Wyrmspan:
+    Link: "https://boardgamegeek.com/boardgame/410201/wyrmspan"
 Xanadu:
     Link: "https://boardgamegeek.com/boardgame/132817/xanadu"
 XCOM:
@@ -809,4 +819,3 @@ Zombicide:
     Link: "https://boardgamegeek.com/boardgame/113924/zombicide"
 ZombieTown:
     Link: "https://boardgamegeek.com/boardgame/22019/zombietown"
-    
