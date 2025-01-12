@@ -16,7 +16,12 @@ Resources are chosen by the players when activated rather than by using a food d
 
 In [Fromage][Fro] you are a cheesemaker making, aging, and selling artisanal cheeses. This is a simultaneous worker-placement game with a rotating cheese board. Players place workers in the quadrant nearest them to make cheese and gather resources from that quadrant. Then the board rotates and their cheese ages and players have a new quadrant to use and have to wait for three rotations to get their other workers back. Finally sell your mature cheese to different locations to score prestige points.
 
-[Southern Pacific][SP] Jeremy or Simon
+The only way to start 2025 was with a train game, and Simon's latest acquisition was ready to hit the table. [Southern Pacific][SP] is a Winsome game from 2018 that was _impossible_ to get hold of (for reasonable money), roll on 2024 and Rio Grande Games are reprinting lots of Winsome train games. These are generally games where you auction shares of train companies, build track on a map, generate income and collect cash from dividends - most money at the end of the game wins. There are Winsome train games that deviate from this style, but it's a big feature. The auctions, the shared incentives with other players when you own similar shares, and working to get good deals while stopping others getting good deals are the hallmarks of these games. The "feature" of [Southern Pacific][SP] is the _bull market auction_, which is a once-around auction starting with the player to the left of the person who selects the share; meaning that person gets the final say on whether to buy the share or not. This can be used to "attack" or "defend" share ownership in companies. The tack building also has a fun quirk (compared to most Winsomes) where you can buy track off other companies for any negotiated amount (including zero dollars), this is most fun when you are the president of two companies and agree to sell to/buy from yourself for your own benefit.
+
+We've played several Winsome train games at the club before: [Irish Gauge][IG], [Iberian Gauge][IbG], [Northern Pacific][N], [Ride The Rails][RtR], [Paris Connection][PC] (a.k.a. SNCF), [Continental Divide][CD]; as well as other similar train games: [Mini Rails][MR], [Mini Express][ME], [American Rails][AR]; and possibly [Age of Steam][AoS] (it's a train game, but something unlike the others on this list). [Southern Pacific][SP] joins that list proudly. (Note to self, partly wrote this paragraph to show how many train games, and Winsome games in particular, we've played at the club... choo choo!!!).
+
+We had a four player game and there was back-stabbing, under-cutting and wild bull market auctions from round one (the game only lasted four rounds). The rampant uncontrolled capitalism (as role playing) came to the fore and we all had a lot of fun. A feature of these games, there are no safety barriers and often the games are "brittle" (if the players do silly things the game state can break); there is also rarely any catch-up mechanisms. Once you fall behind it can be a struggle to stay in the game, let alone have any chance of winning (money makes more money). The way buying shares, how much to bid for auctions, and where to build track, all come together from two turns ago to make you realise you've messed up now is part of the enjoyment in exploring these types of game. When the dust settled and we counted our cash the totals were: $137, $104, $76, and $30. A minor reflection on how mistakes in round one (which as first time players would not know they were mistakes) led to a few companies dominating in rounds 2 and 3, which set up the battle for first and second but left third and fourth far behind. All told, with a short teach (typically these games have four pages of rules, one of those is usually how to setup the game), we were done in 90-ish minutes. 
+
 
 The Fromage table finished first and had time to try out another new game [Savernake Forest][SF]. The aim is to help the forest animals gather and store food for winter. Players build a section of the forest with paths on which animals and food will appear. Players will lay 16 forest cards during the game into a 4x4 grid and must never have two animals on the same path. Players can also choose animals from the central market who will help you meet the other animals requirements in different ways.
 
@@ -39,5 +44,16 @@ The next session is the 22nd January, let us know on [Discord][Contact] if there
 [SD]: {{site.data.BoardGameLinks.SpaceDragons.Link}}
 [SA]: {{site.data.BoardGameLinks.Subastral.Link}}
 [WS]: {{site.data.BoardGameLinks.Wyrmspan.Link}}
+
+[IG]: {{site.data.BoardGameLinks.IrishGauge.Link}}
+[IbG]: {{site.data.BoardGameLinks.IberianGauge.Link}}
+[NP]: {{site.data.BoardGameLinks.NorthernPacific.Link}}
+[MR]: {{site.data.BoardGameLinks.MiniRails.Link}}
+[ME]: {{site.data.BoardGameLinks.MiniExpress.Link}}
+[PC]: {{site.data.BoardGameLinks.ParisConnection.Link}}
+[RtR]: {{site.data.BoardGameLinks.RideTheRails.Link}}
+[AR]: {{site.data.BoardGameLinks.AmericanRails.Link}}
+[CD]: {{site.data.BoardGameLinks.ContinentalDivide.Link}}
+[AoS]: {{site.data.BoardGameLinks.AgeOfSteam.Link}}
 
 [Contact]: /Contact.html
