@@ -12,9 +12,11 @@ Three tables got stuck straight into some long games whilst the fourth table pla
 
 ![Shackleton Base](/images/posts/2025_01_22/ShackletonsBase01.jpg "Shackleton Base"){:class="img_post"}
 
-[Shackleton Base: A Journey to the Moon][SB] ?Graham
+[Shackleton Base: A Journey to the Moon][SB] is played in 3 rounds of 3 phases.  In the first phase of each round, you choose one of the shuttles – all with 6 astronauts, but with different resources.  There are 3 types of astronaut, and the shuttles have differing numbers of each type.  In the action phase, you deploy the astronauts – to build, to gather resources or fund projects (for corporations).  A game uses 3 of the 7 corporations - so the nature of the game changes with different corporations.  
 
 ![Shackleton Base](/images/posts/2025_01_22/ShackletonsBase02.jpg "Shackleton Base"){:class="img_post"}
+
+Points are gained in various ways, but mostly in end game scoring.  I (Graham) struggled to follow the rules in the initial explanation, and my gameplay was correspondingly limited - concentrating on resources and building, whilst others invested more in projects.  I enjoyed the game and was astounded when the final scoring showed that I had won (only by 2 points).  All our scores were in the range 60-80 – but the game tiles allow for scores over 200 – so I think we all have opportunity to learn more about this game!
 
 ![Gallerist](/images/posts/2025_01_22/Gallerist01.jpg "Gallerist"){:class="img_post"}
 
