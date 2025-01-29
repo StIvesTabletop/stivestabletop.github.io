@@ -18,11 +18,15 @@ Three tables got stuck straight into some long games whilst the fourth table pla
 
 Points are gained in various ways, but mostly in end game scoring.  I (Graham) struggled to follow the rules in the initial explanation, and my gameplay was correspondingly limited - concentrating on resources and building, whilst others invested more in projects.  I enjoyed the game and was astounded when the final scoring showed that I had won (only by 2 points).  All our scores were in the range 60-80 – but the game tiles allow for scores over 200 – so I think we all have opportunity to learn more about this game!
 
-![Gallerist](/images/posts/2025_01_22/Gallerist01.jpg "Gallerist"){:class="img_post"}
-
-[The Gallerist][TGa] was the final long game chosen, this was its second time at club having first been played fairly recently in [sesssion 85][85]. Jyo or Simon
+[The Gallerist][TGa] was the final long game chosen, this was its second time at club having first been played fairly recently in [sesssion 85][85]. This is a euro game where players take on the role of art gallery owners, seeking to promote and sell artwork to gain fame and money. Designed by [Vital Lacerda][VL], the game involves acquiring art pieces, managing artists and selling some art to make money. Players must carefully balance their investments in artists and artworks while expanding their influence in the art world. The game combines elements of resource management, economic strategy, and tactical decision-making, with the ultimate goal of becoming the most renowned gallery owner by the end of the game. 
 
 ![Gallerist](/images/posts/2025_01_22/Gallerist02.jpg "Gallerist"){:class="img_post"}
+
+In this game of The Gallerist, three players managed their own art galleries, each with their own unique style. Neil O was the bargain hunter, snapping up art left and right, hoping to flip it before the artists got too popular — because who doesn’t love a good art investment that everyone else eventually wants? Simon W was the influencer, going all in on making a couple of artists the next big thing - flooding social media with lots of hype. But then there was Jyo K, playing it like a seasoned art dealer — cool, calculated, and balanced, snagging just the right pieces and boosting the right artists.
+
+The key moment came at the end of the game during the auction for a masterpiece, which Jyo K won. This crucial acquisition boosted her earnings by allowing her to complete an additional set for her art dealer, allowing her to secure victory by edging out Simon W by a few points.
+
+![Gallerist](/images/posts/2025_01_22/Gallerist01.jpg "Gallerist"){:class="img_post"}
 
 [Mysterium Park][MP] is the slightly shorter version of [Mysterium][My] that has been played once before at club. One player is the ghost that has witnessed a murder at the creepy circus/amusement park and tries to give clues to the others via a series of abstract images. The other players have up to six rounds of visions in which to narrow down the line up of nine fairground workers and nine locations to just three pairs of possibilities. Then everyone can cooperate in viewing a final two images to narrow things down to the actual murderer and location. The four gamers had two attempts; ghost one just managed to get on the right wavelength and get to the final round and then found some excellent cards to convey the necessary visions and solve the murder. Ghost two struggled a little more and the final location was not eliminated and the murderer got away with it this time.
 
@@ -65,3 +69,4 @@ The next session is the 5th February, join us to see what games will be brought 
 [FFM]: {{site.data.BoardGameLinks.FantasticFactoriesManufactions.Link}}
 
 [Contact]: /Contact.html
+[VL]: https://boardgamegeek.com/boardgamedesigner/12396/vital-lacerda
