@@ -96,6 +96,8 @@ Cartographers:
     Link: "https://boardgamegeek.com/boardgame/263918/cartographers"
 Cascadia:
     Link: "https://boardgamegeek.com/boardgame/295947/cascadia"
+CastlesOfBurgundySpecialEdition:
+    Link: "https://boardgamegeek.com/boardgame/363622/the-castles-of-burgundy-special-edition"
 CastleRavenloft:
     BGGLink: "https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game"
     ImageLink: "/images/boardgames/castleravenloft"
@@ -262,6 +264,8 @@ EvolutionClimate:
     Link: "/BoardGames/Nature.html#evolution-climate"
 FantasticFactories:
     Link: "https://boardgamegeek.com/boardgame/216600/fantastic-factories"
+FantasticFactoriesManufactions:
+    Link: "https://boardgamegeek.com/boardgameexpansion/319035/fantastic-factories-manufactions"
 Firefly:
     Link: "https://boardgamegeek.com/boardgame/138161/firefly-game"
 FirstEmpires:
@@ -439,6 +443,8 @@ Mycelia:
     Link: "https://boardgamegeek.com/boardgame/378476/mycelia"
 Mysterium:
     Link: "https://boardgamegeek.com/boardgame/181304/mysterium"
+MysteriumPark:
+    Link: "https://boardgamegeek.com/boardgame/301767/mysterium-park"
 Namiji:
     Link: "https://boardgamegeek.com/boardgame/275215/namiji"
 Neom:
@@ -609,6 +615,8 @@ SevenWonders:
     BGGLink: "https://boardgamegeek.com/boardgame/68448/7-wonders"
     ImageLink: "/images/boardgames/7wonders"
     Link: "/BoardGames/Historical.html#7-wonders"
+ShackletonBaseAJourneyToTheMoon:
+    Link: "https://boardgamegeek.com/boardgame/408180/shackleton-base-a-journey-to-the-moon"
 SixNimmit:
     Link: "https://boardgamegeek.com/boardgame/432/6-nimmt"
 Skull:
@@ -819,3 +827,5 @@ Zombicide:
     Link: "https://boardgamegeek.com/boardgame/113924/zombicide"
 ZombieTown:
     Link: "https://boardgamegeek.com/boardgame/22019/zombietown"
+Zuuli:
+    Link: "https://boardgamegeek.com/boardgame/338467/zuuli"
