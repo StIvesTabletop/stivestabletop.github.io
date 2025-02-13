@@ -60,7 +60,7 @@ The next session is the 5th February, join us to see what games will be brought 
 
 [CoB]: {{site.data.BoardGameLinks.CastlesOfBurgundySpecialEdition.Link}}
 [FF]: {{site.data.BoardGameLinks.FantasticFactories.Link}}
-[MP]: {{site.data.BoardGameLinks.SouthernPacific.Link}}
+[MP]: {{site.data.BoardGameLinks.MysteriumPark.Link}}
 [Sc]: {{site.data.BoardGameLinks.Scout.Link}}
 [SB]: {{site.data.BoardGameLinks.ShackletonBaseAJourneyToTheMoon.Link}}
 [TGa]: {{site.data.BoardGameLinks.TheGallerist.Link}}
