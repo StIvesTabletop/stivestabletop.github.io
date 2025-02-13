@@ -7,9 +7,12 @@ Thirteen gamers joined us for a Sci-Fi and Movie themed evening of games.
 A few of the games had been suggested on [Discord][Contact] before the session so the hosts got straight on with setting those up on three tables.
 
 ![On Mars](/images/posts/2025_02_05/OnMars01.jpg "OnMars"){:class="img_post"}
+
+[On Mars][OM] is a heavy Euro-style board game designed by [Vital Lacerda][VL], where players take on the role of colonisers attempting to establish a human presence on Mars. The game combines a mix of resource management, action selection, and worker placement mechanics as players develop the Martian colony, completing projects that the colony really needs to score points. The game has a complex system of actions, with players needing to balance their efforts on Earth and Mars, ensuring that they manage to plan around the shuttle that travels between both locations at varied frequencies throughout the game.
+
 ![On Mars](/images/posts/2025_02_05/OnMars02.jpg "OnMars"){:class="img_post"}
 
-[On Mars][OM]  Jyo
+This was the first time On Mars was played at the club, although other Lacerda games like The [Gallerist][Gal] and [Kanban EV][KEV] have been popular at previous sessions. The host, Jyo K, who had trialled the game online once and had a bit of a head start on the two other players - Steph H and Iain D, who were new to the game but had done some homework. Despite some confusion with regard to placement rules, the group managed to move forward fairly swiftly for a game of this weight. As the game progressed, Jyo K used her prior knowledge of the importance of acquiring contract cards to score points, which ultimately helped her secure a victory.  The game’s complexity, combined with the unique mechanics, made for an engaging but challenging first play. Although given that this was a learning game for the two other players, all players agreed that a rematch is certainly warranted and we will definitely be seeing more of On Mars at future club sessions.
 
 ![Dune Imperium Uprising](/images/posts/2025_02_05/DuneImperium01.jpg "Dune Imperium Uprising"){:class="img_post"}
 
@@ -72,5 +75,9 @@ The next session is the 19th February, brave the wintry weather to join us for a
 [SWOR]: {{site.data.BoardGameLinks.StarWarsOuterRim.Link}}
 [TR]: {{site.data.BoardGameLinks.ThunderRoadVendetta.Link}}
 [Car]: {{site.data.BoardGameLinks.Carcassonne.Link}}
+[Gal]: {{site.data.BoardGameLinks.TheGallerist.Link}}
+[KEV]: {{site.data.BoardGameLinks.KanbanEV.Link}}
 
 [Contact]: /Contact.html
+
+[VL]: https://boardgamegeek.com/boardgamedesigner/12396/vital-lacerda
