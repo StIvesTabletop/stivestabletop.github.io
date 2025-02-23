@@ -26,9 +26,13 @@ Then the two tables rearranged into five trading trains in [West Riding Revisite
 
 ![West Riding Revisited](/images/posts/2025_02_19/WestRidingRevisited01.jpg "West Riding Revisited"){:class="img_post"}
 
-[West Riding Revisited][WRR]. Simon
+[West Riding Revisited][WRR] is another Winsome game that has been reprinted by Rio Grande Games (there's a theme of train games at the club, many of them listed in the blog for the [93rd session][93]; with the RGG reprints being a recent phase). West Riding Revisited from 2010 is a reworking of, as expected West Riding from 2008 (or earlier - this original game is lost to the world, only a few people own it), and WRR has long been unobtainable. Most Winsome games were made in limited numbers, typically mostly available in the US, and subsequently sold for _silly money_ on the second-hand market. So it is nice to see RGG getting these old games back in print, they are however not giving these new releases any pizzazz (very much a bare-bones approach). It must also be said that most Winsome train games are weird experiments in game mechanics, not all of them are "game of the year" material but often
+
+So West Riding Revisited is, unusually for train games, based in the UK (up North). There are two types of railway companies with shares: basic (six, with three per grouping) and grouping (two). The theme of the game is buying basic shares to improve the board position of the grouping companies - which claim towns/cities where two of their basic railways meet; there are some quirks about building track on the map, but it's essentially a set of auctions for the basic shares and trying to maximise the number of towns/cities claimed by the grouping company. The basic railways steadily become worse as the game progresses, but you can trade 2-for-1 basic into grouping (again with a quirk about some shares being non-tradable). The whole arc of the game is getting basic shares to trade for grouping shares, which then make lots of money.
 
 ![West Riding Revisited](/images/posts/2025_02_19/WestRidingRevisited02.jpg "West Riding Revisited"){:class="img_post"}
+
+Five of us sat down to play, all starting with a rather meagre £7, and after 35 auctions (one per player for seven rounds) and just over 2 and a half hours the winner ended up with £147. Understanding the route building - and blocking - is tricky until it starts to unfold in round 3 and 4. Starting _and winning_ the right auctions is the heart of the game (to get the trades for grouping shares); and once you've hit round 4 or 5 you can see where it has gone wrong. There were some high and low points in the game, as everyone felt their way through this strange set of auctions and the strange board. As with most auction games, a second play would be very different... but the final spread of scores was actually quite close: 147, 145, 144, 112, and 102.
 
 ![Sagrada](/images/posts/2025_02_19/Sagrada01.jpg "Sagrada"){:class="img_post"}
 
@@ -60,6 +64,7 @@ The next session is the 7th March, what games and diverse themes will be on offe
 
 [11]: /2020/02/26/eleventh-session.html
 [92]: /2024/11/27/nintysecond-session.html
+[93]: /2025/01/08/nintythird-session.html
 
 
 [E]: {{site.data.BoardGameLinks.Ecosystem.Link}}
