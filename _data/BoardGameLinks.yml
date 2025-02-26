@@ -519,6 +519,8 @@ Planet:
     BGGLink: "https://boardgamegeek.com/boardgame/252929/planet"
     ImageLink: "/images/boardgames/planet"
     Link: "/BoardGames/Nature.html#planet"
+PlanetUnknown:
+    Link: "https://boardgamegeek.com/boardgame/258779/planet-unknown"
 PointSalad:
     Link: "https://boardgamegeek.com/boardgame/274960/point-salad"
 PotionExplosion:
@@ -689,6 +691,8 @@ TheCity:
     Link: "/BoardGames/Development.html#the-city"
 TheCrewQuestForPlanetNine:
     Link: "https://boardgamegeek.com/boardgame/284083/crew-quest-planet-nine"
+TheCrewMissionDeepSea:
+    Link: "https://boardgamegeek.com/boardgame/324856/the-crew-mission-deep-sea"
 TheGallerist:
     Link: "https://boardgamegeek.com/boardgame/125153/the-gallerist"
 TheGreatZimbabwe:
@@ -801,6 +805,8 @@ WelcomeTo:
     Link: "https://boardgamegeek.com/boardgame/233867/welcome"
 WelcomeToTheMoon:
     Link: "https://boardgamegeek.com/boardgame/339789/welcome-moon"
+WestRidingRevisited:
+    Link: "https://boardgamegeek.com/boardgame/74678/west-riding-revisited"
 WhistleMountain:
     Link: "https://boardgamegeek.com/boardgame/301255/whistle-mountain"
 Wingspan:
