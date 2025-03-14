@@ -65,7 +65,7 @@ The next session is the 19th March, do keep an eye on [Discord][Contact] in the 
 	 * [Aliens: Another Glorious Day in the Corps!][AGC]
 	 * [Braggart][Brag]
 	 * [Elder Sign][ES]
-	 * [Kanban][Kb]
+	 * [Kanban EV][Kb]
 	 * [The Gallerist][TGa]
 
 [81]: /2024/06/26/eightyfirst-session.html
