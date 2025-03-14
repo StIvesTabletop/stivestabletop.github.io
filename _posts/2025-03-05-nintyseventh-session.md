@@ -8,7 +8,30 @@ Games by [Vital Lacerda][BGG_VL] have been popular at club recently and there we
 
 ![Kanban EV](/images/posts/2025_03_05/KanbanEV01.jpg "Kanban EV"){:class="img_post"}
 
-[Kanban][Kb] was back for its third play. Steve
+[Kanban][Kb] was back for its third play. Steph H won. Again (see [Blog 86][86] and [87][87] for how the game works and past plays).
+
+2 ½ hours earlier. Another day at Pink Chrysanthemum Motors as the early shift clocks on.
+With Steve L returning from his sick leave to join co-workers Steph and Darren C, the shift
+should have been complete but there was no sign of Sandra's pet (Jyo K). Rumours of an
+unauthorized day off to visit an art gallery somewhere were soon flying about, but
+management quickly stepped in and assigned apprentice Lee to fill the vacant slot. After
+that it was down to business.
+
+The first few rounds saw Steve stick close to factory boss Sandra, spending his time
+swotting up to improve his technical knowledge in whichever department (R&D, Assembly,
+Logistics, Design and Admin) she was likely to appraise next. It worked for a while, as this
+avoided the loss of Production Points the others were suffering, giving him an early lead.
+However, as corporate climber Steph pointed out, that was no way to win the game. This
+became apparent at the first weekly meeting when Steph and Darren talked endlessly about
+what they had been up to while Steve and Lee had nothing to say. Both had struggled to get
+cars into their garage with Lee in particular sitting on a lot of shiny red designs, which looked great on paper but had nothing you could actually attach wheels to.
+
+Things improved a bit for the back markers as the game went on, but by this time Steph had
+built a commanding lead and was virtually out of sight. Steve tried a late gambit, using four
+shifts to become an instant expert in Admin, but Sandra was unimpressed as Steph
+swooped in to claim the points there as well. So, a clear win for Steph with 136 Production
+Points, while the others were clustered around the 100 mark and thinking of heading off to
+the canteen for more doughnuts as a consolation prize.
 
 ![The Gallerist](/images/posts/2025_03_05/Gallerist01.jpg "The Gallerist"){:class="img_post"}
 
@@ -28,9 +51,11 @@ The troop were about halfway to the exit when the difficulty started to increase
 
 ![Elder Sign](/images/posts/2025_03_05/ElderSign01.jpg "Elder Sign"){:class="img_post"}
 
-For the final table Richie taught [Elder Sign][ES], new to the club, a lighter weight more dice based reimplementation of cooperative Lovecraftian themed Arkham Horror.
-Players investigate the Arkham museum and its surroundings to locate Elder Signs, which are eldritch symbols used to seal the Gates to the Beyond before a final battle with the Ancient One. 
-Graham
+[Elder Sign][ES] made its first appearance at the club, a modern classic released in 2011 set in the Arkham Horror universe. A dice based, cooperative game, each player takes charge of an investigator trying to stave off the emergence of an Ancient One. As the game progresses players move to different locations, rolling dice to defeat monsters, collect items and acquire the all-important Elder Signs to keep the Ancient One sealed away.
+
+After setup and a depressingly long teach while Rich tried to remember the rules, we got to work battling to keep Nyarlathotep at bay. Rich started strongly early in the game, but came unstuck thereafter.  The rest of the team suffered defeat in their first battles, but rallied. The team relied heavily on Graham and Joe's good dice rolling to keep them in the game. Sophie's character died near the end (not the end of the world in Elder Sign, you get a new character and keep on fighting) and Graham won the game by purchasing the final Elder Sign needed just in time.
+
+Since the game was out and everyone was familiar we decided to play again, this time facing the great Cthulhu. Thankfully the dice gods smiled upon us and we were able to win the game fairly easily, defeating the Great Old One without breaking a sweat. It's always great when a plan comes together.
 
 The next session is the 19th March, do keep an eye on [Discord][Contact] in the days before to see what games are being suggested and book your seat if they tickle your fancy. Or just turn up and see what is on the table to select from.
 
@@ -44,6 +69,8 @@ The next session is the 19th March, do keep an eye on [Discord][Contact] in the 
 	 * [The Gallerist][TGa]
 
 [81]: /2024/06/26/eightyfirst-session.html
+[86]: /2024/09/04/eightysixth-session.html
+[87]: /2024/09/18/eightyseventh-session.html
 
 [AGC]: {{site.data.BoardGameLinks.AliensAnotherGloriousDayInTheCorps.Link}}
 [Brag]: {{site.data.BoardGameLinks.Braggart.Link}}
