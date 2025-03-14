@@ -35,7 +35,9 @@ the canteen for more doughnuts as a consolation prize.
 
 ![The Gallerist](/images/posts/2025_03_05/Gallerist01.jpg "The Gallerist"){:class="img_post"}
 
-[The Gallerist][TGa] Jyo or Simon
+[The Gallerist][TGa] was back again, this time for a four player dance with seasoned player, teacher, and owner Jyo introducing more people to the weird and wonderful world of art - through the lense of Lacerda. At it's heart, The Gallerist is a worker placement game with a race to trigger the end-game conditions. The pace of this play felt a bit off, likely a small imbalance in actions somewhere in the early game led to a rather strange (in Jyo's experience) situation with the meeple supplies with respect to the tickets (which are used to move the meeples around the board). Despite the strange pacing, there was a lot of "oh, that's how that works" moments, which is the hallmark of Lacerda games where all the various mechanisms link up to gain you greater action efficiency, speeding up the game, gaining you more action bonuses, etc. etc.
+
+When the oil on the canvas was dry, it appeared that a long-shot "full gallery" play had snuck the win... it was very close. 
 
 ![Aliens: Another Glorious Day in the Corps!](/images/posts/2025_03_05/AlienCorps01.jpg "Aliens: Another Glorious Day in the Corps!"){:class="img_post"}
 
