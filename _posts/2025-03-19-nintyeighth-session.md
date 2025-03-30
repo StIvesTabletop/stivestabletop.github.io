@@ -29,7 +29,7 @@ The end of the game is triggered when someone reaches a certain point total, how
 ![Galactic Cruise](/images/posts/2025_03_19/GalacticCruise01.jpg "Galactic Cruise"){:class="img_post"}
 ![Galactic Cruise](/images/posts/2025_03_19/GalacticCruise02.jpg "Galactic Cruise"){:class="img_post"}
 
-[Galactic Cruise][GC]
+Four players sat down to an amazing [Galactic Cruise][GC]. The theme is a cross over of a luxury cruise liner offering innovative events and space travel! You need to build the ships, satisfy the guests, increase your network, invent new tech and have enough workers to keep all this going. Sounds like a blast, surely nothing could go wrong! This game was a hit for the players, so I am sure it will be back with a longer dive into the gameplay in future.
 
 ![Star Wars: Outer Rim](/images/posts/2025_03_19/OuterRim01.jpg "Star Wars: Outer Rim"){:class="img_post"}
 
