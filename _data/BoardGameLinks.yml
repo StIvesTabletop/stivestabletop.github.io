@@ -176,6 +176,8 @@ CottageGarden:
     Link: "/BoardGames/Nature.html#cottage-garden"
 Coup:
     Link: "https://boardgamegeek.com/boardgame/131357/coup"
+Courtisans:
+    Link: "https://boardgamegeek.com/boardgame/402283/courtisans"
 CrownOfAsh:
     Link: "https://boardgamegeek.com/boardgame/354307/crown-of-ash"
 Cryptid:
@@ -343,6 +345,8 @@ Hanabi:
     BGGLink: "https://boardgamegeek.com/boardgame/98778/hanabi"
     ImageLink: "/images/boardgames/hanabi"
     Link: "/BoardGames/FarEastern.html#hanabi"
+HansaTeutonicaBigBox:
+    Link: "https://boardgamegeek.com/boardgame/286749/hansa-teutonica-big-box"
 Harmonies:
     Link: "https://boardgamegeek.com/boardgame/414317/harmonies"
 HeatPedalToTheMetal:
@@ -593,6 +597,8 @@ RollThroughTheAges:
     Link: "/BoardGames/Historical.html#roll-through-the-ages"
 Root:
     Link: "https://boardgamegeek.com/boardgame/237182/root"
+Saboteur:
+    Link: "https://boardgamegeek.com/boardgame/9220/saboteur"
 Sagrada:
     Link: "https://boardgamegeek.com/boardgame/199561/sagrada"
 SantaMonica:
@@ -611,6 +617,8 @@ SeaSaltAndPaper:
     Link: "https://boardgamegeek.com/boardgame/367220/sea-salt-and-paper"
 SecretHitler:
     Link: "https://boardgamegeek.com/boardgame/188834/secret-hitler"
+SETISearchforExtraterrestrialIntelligence:
+    Link: "https://boardgamegeek.com/boardgame/418059/seti-search-for-extraterrestrial-intelligence"
 SettlersOfCatan:
     BGGLink: "https://www.boardgamegeek.com/boardgame/13/catan"
     ImageLink: "/images/boardgames/settlersofcatan"
