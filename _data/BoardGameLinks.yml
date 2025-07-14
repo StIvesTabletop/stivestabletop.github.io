@@ -68,6 +68,8 @@ BigDig:
     Link: "https://boardgamegeek.com/boardgame/262273/big-dig"
 BigShot:
     Link: "https://boardgamegeek.com/boardgame/1125/big-shot"
+Bites:
+    Link: "https://boardgamegeek.com/boardgame/277927/bites"
 BlockAndKey:
     Link: "https://boardgamegeek.com/boardgame/311930/block-and-key"
 Blokus:
@@ -104,6 +106,8 @@ Cartographers:
     Link: "https://boardgamegeek.com/boardgame/263918/cartographers"
 Cascadia:
     Link: "https://boardgamegeek.com/boardgame/295947/cascadia"
+CascadiaRollingRivers:
+    Link: "https://boardgamegeek.com/boardgame/407318/cascadia-rolling-rivers"
 CastlesOfBurgundySpecialEdition:
     Link: "https://boardgamegeek.com/boardgame/363622/the-castles-of-burgundy-special-edition"
 CastleRavenloft:
@@ -319,6 +323,8 @@ Fresco:
     Link: "https://boardgamegeek.com/boardgame/66188/fresco"
 Fromage:
     Link: "https://boardgamegeek.com/boardgame/384213/fromage"
+FUSE:
+    Link: "https://boardgamegeek.com/boardgame/171273/fuse"
 GaiaProject:
     Link: "https://boardgamegeek.com/boardgame/220308/gaia-project"
 GalacticCruise:
@@ -677,12 +683,14 @@ SolarSphere:
     Link: "https://boardgamegeek.com/boardgame/329228/solar-sphere"
 SouthernPacific:
     Link: "https://boardgamegeek.com/boardgame/253319/southern-pacific"
+SpaceBase:
+    Link: "https://boardgamegeek.com/boardgame/242302/space-base"
+SpaceDragons:
+    Link: "https://boardgamegeek.com/boardgame/329084/space-dragons"
 SpaceEmpires4X:
     Link: "https://boardgamegeek.com/boardgame/84419/space-empires-4x"
 SpeedCups:
     Link: "https://boardgamegeek.com/boardgame/146149/speed-cups"
-SpaceDragons:
-    Link: "https://boardgamegeek.com/boardgame/329084/space-dragons"
 SpiritIsland:
     BGGLink: "https://boardgamegeek.com/boardgame/162886/spirit-island"
     ImageLink: "/images/boardgames/spiritisland"
@@ -807,6 +815,8 @@ TwilightImperiumFourthEdition:
     Link: "https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition"
 TwoTwoOneBBakerStreetTheMasterDetectiveGame:
     Link: "https://boardgamegeek.com/boardgame/1275/221b-baker-street-the-master-detective-game"
+TycoonIndia1981:
+    Link: "https://boardgamegeek.com/boardgame/372571/tycoon-india-1981"
 Ukiyo:
     Link: "https://boardgamegeek.com/boardgame/316085/ukiyo"
 UnderwaterCities:
