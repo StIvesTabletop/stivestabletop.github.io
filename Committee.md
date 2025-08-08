@@ -2,6 +2,14 @@
 title: Committee
 ---
 
+# Darren C.
+
+![Darren C.](/images/committee/DarrenC.jpg){:class="img_committee"}
+
+Early gaming for Darren consisted of chess and the usual family board games until he discovered the world of role playing, back in the times where editions were unheard of. [Dungeons and Dragons (AD&D)](https://rpggeek.com/rpg/191/advanced-dungeons-and-dragons-1st-edition), [Traveller](https://rpggeek.com/rpg/491/traveller-classic), [TMNT](https://rpggeek.com/rpg/340/teenage-mutant-ninja-turtles), [Paranoia](https://rpggeek.com/rpg/374/paranoia-1st-edition), [GURPS](https://rpggeek.com/rpg/891/gurps-1st-and-2nd-editions), [Judge Dredd](https://rpggeek.com/rpg/663/judge-dredd-the-role-playing-game-games-workshop), all were welcome at his table – or rather, at the tables of his parents and parents of his friends.  This bled into wargaming (mainly fantasy and sci-fi) and the weird non-mainstream games of the 80s ([S.P.I.V.S](https://boardgamegeek.com/boardgame/2336/spiv-s) anyone?), plus a lot of [Triv](https://boardgamegeek.com/boardgame/2952/trivial-pursuit-genus-edition). 
+
+There then followed a long barren period before spelunking into the rabbit hole of board gaming a few years back. Happy to play almost anything from the chaotic and random to the crunchy and heavy (although [Diplomacy]({{ site.data.BoardGameLinks.Diplomacy.Link }}) is probably out). Wants to win, but is more likely to be found distracted and hungry half a score track away from the leader.
+
 # Graham W.
 
 ![Graham W.](/images/committee/GrahamW.jpg){:class="img_committee"}
