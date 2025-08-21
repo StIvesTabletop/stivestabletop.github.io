@@ -443,6 +443,8 @@ LostRuinsOfArnak:
     BGGLink: "https://boardgamegeek.com/boardgame/312484/lost-ruins-arnak"
     ImageLink: "/images/boardgames/lostruinsarnak"
     Link: "/BoardGames/Explore.html#lost-ruins-of-arnak"
+LostRuinsOfArnakAdventureChest:
+    Link: "https://boardgamegeek.com/boardgame/439816/lost-ruins-of-arnak-adventure-chest"
 LostRuinsOfArnakExpeditionLeaders:
     Link: "https://boardgamegeek.com/boardgame/341254/lost-ruins-of-arnak-expedition-leaders"
 LoveLetter:
@@ -729,6 +731,8 @@ Takenoko:
     BGGLink: "https://boardgamegeek.com/boardgame/70919/takenoko"
     ImageLink: "/images/boardgames/takenoko"
     Link: "/BoardGames/FarEastern.html#takenoko"
+TalesOfTheArthurianKnights:
+    Link: "https://boardgamegeek.com/boardgame/377704/tales-of-the-arthurian-knights"
 Taluva:
     Link: "https://boardgamegeek.com/boardgame/24508/taluva"
 Telestrations:
