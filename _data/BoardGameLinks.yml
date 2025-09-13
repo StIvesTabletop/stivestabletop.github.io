@@ -439,6 +439,8 @@ LordOfTheRings:
     BGGLink: "https://boardgamegeek.com/boardgame/823/lord-rings"
     ImageLink: "/images/boardgames/lordoftherings"
     Link: "/BoardGames/Fantasy.html#lord-of-the-rings"
+LordsOfVegas:
+    Link: "https://boardgamegeek.com/boardgame/375769/lords-of-vegas"
 LostRuinsOfArnak:
     BGGLink: "https://boardgamegeek.com/boardgame/312484/lost-ruins-arnak"
     ImageLink: "/images/boardgames/lostruinsarnak"
@@ -847,6 +849,8 @@ UnlockEpicAdventures:
 Unlock:
     ImageLink: "/images/boardgames/unlock"
     Link: "/BoardGames/Explore.html#unlock"
+UnmatchedAdventuresTalesToAmaze:
+    Link: "https://boardgamegeek.com/boardgame/381297/unmatched-adventures-tales-to-amaze"
 VegetableStock:
     Link: "https://boardgamegeek.com/boardgame/328211/vegetable-stock"
 Verdant:
