@@ -321,6 +321,10 @@ ForbiddenIsland:
     Link: "/BoardGames/Explore.html#forbidden-island"
 ForestShuffle:
     Link: "https://boardgamegeek.com/boardgame/391163/forest-shuffle"
+ForestShuffleExploration:
+    Link: "https://boardgamegeek.com/boardgame/438231/forest-shuffle-exploration"
+ForestShuffleWoodlandEdge:
+    Link: "https://boardgamegeek.com/boardgameexpansion/424129/forest-shuffle-woodland-edge"
 ForSale:
     BGGLink: "https://www.boardgamegeek.com/boardgame/172/sale"
     ImageLink: "/images/boardgames/forsale"
@@ -441,6 +445,10 @@ LordOfTheRings:
     Link: "/BoardGames/Fantasy.html#lord-of-the-rings"
 LordsOfVegas:
     Link: "https://boardgamegeek.com/boardgame/375769/lords-of-vegas"
+LordsOfWaterdeep:
+    Link: "https://boardgamegeek.com/boardgame/110327/lords-of-waterdeep"
+LordsOfWaterdeepScoundrelsOfSkullport:
+    Link: "https://boardgamegeek.com/boardgame/134342/lords-of-waterdeep-scoundrels-of-skullport"
 LostRuinsOfArnak:
     BGGLink: "https://boardgamegeek.com/boardgame/312484/lost-ruins-arnak"
     ImageLink: "/images/boardgames/lostruinsarnak"
@@ -681,6 +689,8 @@ ShackletonBaseAJourneyToTheMoon:
     Link: "https://boardgamegeek.com/boardgame/408180/shackleton-base-a-journey-to-the-moon"
 SixNimmit:
     Link: "https://boardgamegeek.com/boardgame/432/6-nimmt"
+SkaraBrae:
+    Link: "https://boardgamegeek.com/boardgame/408636/skara-brae"
 Skull:
     Link: "https://boardgamegeek.com/boardgame/92415/skull"
 SmallWorld:
@@ -757,6 +767,8 @@ TheCrewQuestForPlanetNine:
     Link: "https://boardgamegeek.com/boardgame/284083/crew-quest-planet-nine"
 TheCrewMissionDeepSea:
     Link: "https://boardgamegeek.com/boardgame/324856/the-crew-mission-deep-sea"
+TheFoxExperiment:
+    Link: "https://boardgamegeek.com/boardgame/368432/the-fox-experiment"
 TheGallerist:
     Link: "https://boardgamegeek.com/boardgame/125153/the-gallerist"
 TheGreatZimbabwe:
