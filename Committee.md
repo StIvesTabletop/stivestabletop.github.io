@@ -23,17 +23,6 @@ Graham likes a variety of games, including [“The Really Nasty Horse Racing Gam
 Favourites of all time include: [Pandemic]({{ site.data.BoardGameLinks.Pandemic.Link }}), [7 Wonders]({{ site.data.BoardGameLinks.SevenWonders.Link }}), [Race for the Galaxy]({{ site.data.BoardGameLinks.RaceForTheGalaxy.Link }}), [O Zoo le Mio]({{ site.data.BoardGameLinks.OZooLeMio.Link }}), and [Dungeons & Dragons](https://www.rpggeek.com/rpgfamily/192/dungeons-dragons).
 Some of his new favourites are about the environment: [Planet]({{ site.data.BoardGameLinks.Planet.Link }}), [Evolution: Climate]({{ site.data.BoardGameLinks.EvolutionClimate.Link }}).
 
-# Jyo K.
-
-![Jyo K.](/images/committee/JyoK.jpg){:class="img_committee"}
-
-Jyo loves strategy games.
-Complex mechanics, minimal luck, cut throat competition?
-Bring it on!
-Current favourites include [Concordia]({{ site.data.BoardGameLinks.Concordia.Link }}), [Terra Mystica]({{ site.data.BoardGameLinks.TerraMystica.Link }}), [Brass Birmingham]({{ site.data.BoardGameLinks.BrassBirmingham.Link }}), [Viticulture]({{ site.data.BoardGameLinks.Viticulture.Link }}), and [insert any random Euro game here]…
-
-She also enjoys some lighter touch games like [Sushi Go]({{ site.data.BoardGameLinks.SushiGo.Link }}), [Trek 12]({{ site.data.BoardGameLinks.TrekTwelve.Link }}), [Welcome To]({{ site.data.BoardGameLinks.WelcomeTo.Link }}), [King of Tokyo]({{ site.data.BoardGameLinks.KingOfTokyo.Link }}), and can always be easily convinced to play social deduction games or anything with a cute animal theme e.g. [Dungeon Petz]({{ site.data.BoardGameLinks.DungeonPetz.Link }}).
-
 # Kathy J.
 
 ![Kathy J.](/images/committee/KathyJ.jpg){:class="img_committee"}
