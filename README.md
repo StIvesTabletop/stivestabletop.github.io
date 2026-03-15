@@ -2,8 +2,12 @@
 
 St. Ives Tabletop’s websites.
 
-Live website: https://www.stivestabletop.uk
-Hosted at: https://github.com/StIvesTabletop/stivestabletop.github.io
+## Live website
 
-Test website: https://test.stivestabletop.uk
-Hosted at: https://github.com/StIvesTabletop-Test/stivestabletop-test.github.io
+* https://www.stivestabletop.uk
+* Hosted at: https://github.com/StIvesTabletop/stivestabletop.github.io
+
+## UNUSED Test website
+
+* https://test.stivestabletop.uk
+* *sted at: https://github.com/StIvesTabletop-Test/stivestabletop-test.github.io
