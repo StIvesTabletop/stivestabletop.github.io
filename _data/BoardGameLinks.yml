@@ -24,6 +24,8 @@ AliensAnotherGloriousDayInTheCorps:
     Link: "https://boardgamegeek.com/boardgame/256852/aliens-another-glorious-day-in-the-corps"
 AmericanRails:
     Link: "https://boardgamegeek.com/boardgame/41749/american-rails"
+AnimalRescueTeam:
+    Link: "https://boardgamegeek.com/boardgame/438214/animal-rescue-team"
 Antiquity:
     Link: "https://boardgamegeek.com/boardgame/13122/antiquity"
 APlaceForAllMyBooks:
@@ -138,6 +140,8 @@ ChocolateFactory:
     BGGLink: "https://boardgamegeek.com/boardgame/240567/chocolate-factory"
     ImageLink: "/images/boardgames/chocolatefactory"
     Link: "/BoardGames/Development.html#chocolate-factory"
+Chrononauts:
+    Link: "https://boardgamegeek.com/boardgame/815/chrononauts"
 CincoLinko:
     Link: "https://boardgamegeek.com/boardgame/208808/cinco-linko"
 Citadels:
@@ -925,6 +929,8 @@ Viticulture:
     Link: "https://www.boardgamegeek.com/boardgame/128621/viticulture"
 ViticultureTuscany:
     Link: "https://boardgamegeek.com/boardgame/147101/viticulture-tuscany"
+Vivarium:
+    Link: "https://boardgamegeek.com/boardgame/361240/vivarium"
 WanderingTowers:
     Link: "https://boardgamegeek.com/boardgame/355483/wandering-towers"
 WayfarersTaleTheJourneyBegins:
