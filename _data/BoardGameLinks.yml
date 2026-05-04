@@ -2,6 +2,10 @@
 #       Move this to .BGGLink when an internal entry is created and make .Link point to internal.
 #       ALWAYS use .Link in blogs, and use .BGGLink in board game write ups.
 
+AFeastForOdin:
+    Link: https://boardgamegeek.com/boardgame/177736/a-feast-for-odin
+AFeastForOdinTheNorwegians:
+    Link: https://boardgamegeek.com/boardgame/216788/a-feast-for-odin-the-norwegians
 AboveBelow:
     Link: "https://boardgamegeek.com/boardgame/172818/above-and-below"
 Acquire:
@@ -254,8 +258,6 @@ EastIndiaCompanies:
     Link: "https://boardgamegeek.com/boardgame/354132/east-india-companies"
 Ebbes:
     Link: "https://boardgamegeek.com/boardgameversion/211651/englishgerman-edition"
-EclipseSecondDawnForTheGalaxy:
-    Link: "https://boardgamegeek.com/boardgame/246900/eclipse-second-dawn-galaxy"
 EcoFluxx:
     ImageLink: "/images/boardgames/ecofluxx"
 Ecosystem:
