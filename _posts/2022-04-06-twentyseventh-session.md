@@ -50,7 +50,7 @@ There are a lot of options and factors to balance to decide the overall winner, 
 The game has a very interesting bid for turn order, where the bids are distributed among the players - so you can go first, but you give cows to your opponents.
 The most fascinating idea in TGZ is how you win.
 You need to reach a required number of victory points, but this can be different for each player as players gain benefits/advantages and these increase the total they need to reach.
-This is the cow game you need to play, except the other cow game you also must play that is entirely different ([6 Nimmit][SixNimmit]).
+This is the cow game you need to play, except the other cow game you also must play that is entirely different ([6 nimmt!][SixNimmt]).
 
 ![GreatZimbabwe](/images/posts/2022_04_06/GreatZimbabwe02.jpg "GreatZimbabwe"){:class="img_post"}
 
@@ -79,7 +79,7 @@ The Everdell table finished first and managed a game of returning favourite - [E
 [7D]: {{ site.data.BoardGameLinks.SevenDragons.Link }}
 [TGZ]: {{ site.data.BoardGameLinks.TheGreatZimbabwe.Link }}
 [Zom]: {{ site.data.BoardGameLinks.Zombicide.Link }}
-[SixNimmit]: {{ site.data.BoardGameLinks.SixNimmit.Link }}
+[SixNimmt]: {{ site.data.BoardGameLinks.SixNimmt.Link }}
 
 
 [Contact]: /Contact.html
