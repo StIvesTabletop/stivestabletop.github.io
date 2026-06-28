@@ -328,6 +328,8 @@ FlashPoint:
     Link: "/BoardGames/Professions.html#flash-point-fire-rescue"
 FlashPointTragicEvents:
     Link: "https://boardgamegeek.com/boardgame/232247/flash-point-fire-rescue-tragic-events"
+Fliptoons:
+    Link: "https://boardgamegeek.com/boardgame/449185/fliptoons"
 Fluxx:
     BGGLink: "https://boardgamegeek.com/boardgame/258/fluxx"
     Link: "/BoardGames/Nature.html#fluxx"
@@ -743,7 +745,7 @@ SevenWonders:
     Link: "/BoardGames/Historical.html#7-wonders"
 ShackletonBaseAJourneyToTheMoon:
     Link: "https://boardgamegeek.com/boardgame/408180/shackleton-base-a-journey-to-the-moon"
-SixNimmit:
+SixNimmt:
     Link: "https://boardgamegeek.com/boardgame/432/6-nimmt"
 SkaraBrae:
     Link: "https://boardgamegeek.com/boardgame/408636/skara-brae"
@@ -975,10 +977,14 @@ WingspanOceania:
     Link: "https://boardgamegeek.com/boardgame/300580/wingspan-oceania-expansion"
 WreckRaiders:
     Link: "https://boardgamegeek.com/boardgame/252877/wreck-raiders"
+WondrousCreatures:
+    Link: "https://boardgamegeek.com/boardgame/400366/wondrous-creatures"
 WorldOrder:
     Link: "https://boardgamegeek.com/boardgame/403150/world-order"
 Wyrmspan:
     Link: "https://boardgamegeek.com/boardgame/410201/wyrmspan"
+WyrmspanDragonAcademy:
+    Link: "https://boardgamegeek.com/boardgameexpansion/453406/wyrmspan-dragon-academy"
 Xanadu:
     Link: "https://boardgamegeek.com/boardgame/132817/xanadu"
 XCOM:
