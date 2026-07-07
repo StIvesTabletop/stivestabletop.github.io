@@ -38,7 +38,7 @@ Please drop in on a Wednesday night and join us or [suggest][Contact] a game you
 [LN]: {{ site.data.BoardGameLinks.LuckyNumbers.Link }}
 [SG]: {{ site.data.BoardGameLinks.SushiGo.Link }}
 [TTT]: {{ site.data.BoardGameLinks.TurnTheTide.Link }}
-[SN]: {{ site.data.BoardGameLinks.SixNimmit.Link }}
+[SN]: {{ site.data.BoardGameLinks.SixNimmt.Link }}
 [A]: {{ site.data.BoardGameLinks.Alhambra.Link }}
 [KB]: {{ site.data.BoardGameLinks.KingdomBuilder.Link }}
 [L]: {{ site.data.BoardGameLinks.Libertalia.Link }}
