@@ -126,6 +126,8 @@ CastleRavenloft:
     BGGLink: "https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game"
     ImageLink: "/images/boardgames/castleravenloft"
     Link: "/BoardGames/Fantasy.html#castle-ravenloft"
+Catan:
+    Link: "https://boardgamegeek.com/boardgame/13/catan"
 CatanSeafarers:
     Link: "https://boardgamegeek.com/boardgame/325/catan-seafarers"
 CatInTheBox:
@@ -304,6 +306,8 @@ EvolutionClimate:
     BGGLink: "https://boardgamegeek.com/boardgame/182134/evolution-climate"
     ImageLink: "/images/boardgames/evolutionclimate"
     Link: "/BoardGames/Nature.html#evolution-climate"
+ExplodingKittens:
+    Link: "https://boardgamegeek.com/boardgame/172225/exploding-kittens"
 FantasticFactories:
     Link: "https://boardgamegeek.com/boardgame/216600/fantastic-factories"
 FantasticFactoriesManufactions:
@@ -515,6 +519,8 @@ MagicMaze:
     Link: "/BoardGames/Explore.html#magic-maze"
 MaglevMetro:
     Link: "https://boardgamegeek.com/boardgame/301257/maglev-metro"
+Mantis:
+    Link: "https://boardgamegeek.com/boardgame/358690/mantis"
 MapmakerGerrymanderingGame:
     Link: "https://boardgamegeek.com/boardgame/252997/mapmaker-gerrymandering-game"
 MarchOfTheAntsEvolvedEdition:
