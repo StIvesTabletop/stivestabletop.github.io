@@ -66,7 +66,7 @@ The next session is the 17th of April. Join us and bring some more games to shar
 	 * [Scout][Sc]
 
 
-[53]: 2023-05-03-fiftythird-session.html
+[53]: /2023/05/03/fiftythird-session.html
 [1]: /2019/09/11/first-session.html
 [7]: /2019/12/04/seventh-session.html
 [72]: /2024/02/21/seventysecond-session.html
