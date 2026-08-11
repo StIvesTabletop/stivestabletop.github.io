@@ -42,7 +42,7 @@ def main() -> int:
         image_links.append(link)
 
     print("Image links:")
-    for link in image_links:
+    for link in sorted(image_links):
         print(link)
 
 if __name__ == '__main__':
