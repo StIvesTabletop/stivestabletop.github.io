@@ -4,11 +4,24 @@ import sys
 from pathlib import Path
 import argparse
 import logging
+import re
 
 logging.basicConfig()
 logger = logging.getLogger(__name__)
 
 LINK_STRING="![<GAME>](/images/posts/<DATE>/<FILE> \"<GAME>\"){:class=\"img_post\"}"
+
+BOARD_GAME_LINKS=Path("_data") / "BoardGameLinks.yml"
+
+def GetBoardGames(links_file: Path) -> list[str]:
+    games_list = []
+    with links_file.open("r") as fd:
+        lines = fd.readlines()
+    for line in lines:
+        match = re.match(r"^(\w+):", line)
+        if match:
+            games_list.append(match.group(1))
+    return games_list
 
 def main() -> int:
     parser = argparse.ArgumentParser(
@@ -21,6 +34,9 @@ def main() -> int:
     if not image_path.is_dir():
         logger.error(f"Image path invalid: {str(image_path)}")
         return 0
+
+    games_list = GetBoardGames(BOARD_GAME_LINKS)
+    # TODO: Create look up and replace function
 
     image_links = []
     date = image_path.name
