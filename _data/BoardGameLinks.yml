@@ -2,6 +2,8 @@
 #       Move this to .BGGLink when an internal entry is created and make .Link point to internal.
 #       ALWAYS use .Link in blogs, and use .BGGLink in board game write ups.
 
+AEterna:
+    Link: https://boardgamegeek.com/boardgame/421823/aeterna
 AFeastForOdin:
     Link: https://boardgamegeek.com/boardgame/177736/a-feast-for-odin
 AFeastForOdinTheNorwegians:
@@ -98,6 +100,8 @@ BrassBirmingham:
     Link: "https://boardgamegeek.com/boardgame/224517/brass-birmingham"
 BrassLancashire:
     Link: "https://boardgamegeek.com/boardgame/28720/brass-lancashire"
+Botswana:
+    Link: "https://boardgamegeek.com/boardgame/398/botswana"
 BurgleBros:
     Link: "https://boardgamegeek.com/boardgame/172081/burgle-bros"
 Bus:
