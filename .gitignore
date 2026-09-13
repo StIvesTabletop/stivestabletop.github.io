@@ -3,3 +3,10 @@ Gemfile.lock
 _site
 .DS_Store
 .vscode
+*.code-workspace
+*.bk
+/_posts/*-scratch.md
+# Ignore symlinks to the scripts in user_scripts
+/*.bash
+/*.cmd
+/*.py
