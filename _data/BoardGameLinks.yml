@@ -246,6 +246,8 @@ DiceHospital:
     Link: "/BoardGames/Professions.html#dice-hospital"
 DieMacher:
     Link: "https://www.boardgamegeek.com/boardgame/1/die-macher"
+DinoGarden:
+    Link: "https://boardgamegeek.com/boardgame/447999/dino-garden"
 Diplomacy:
     Link: "https://boardgamegeek.com/boardgame/483/diplomacy"
 Distilled:
@@ -349,6 +351,8 @@ Fliptoons:
 Fluxx:
     BGGLink: "https://boardgamegeek.com/boardgame/258/fluxx"
     Link: "/BoardGames/Nature.html#fluxx"
+FoodChainMagnate:
+    Link: "https://boardgamegeek.com/boardgame/175914/food-chain-magnate"
 ForbiddenIsland:
     BGGLink: "https://boardgamegeek.com/boardgame/65244/forbidden-island"
     ImageLink: "/images/boardgames/forbiddenisland"
@@ -429,6 +433,8 @@ HouseOfFado:
     Link: "https://boardgamegeek.com/boardgame/373667/house-of-fado"
 IberianGauge:
     Link: "https://www.boardgamegeek.com/boardgame/228372/iberian-gauge"
+ICE:
+    Link: "https://boardgamegeek.com/boardgame/306482/i-c-e"
 IceCool:
     Link: "https://www.boardgamegeek.com/boardgame/177524/icecool"
 Imperial2030:
